@@ -132,6 +132,13 @@ button.chip:hover{background:var(--blue);color:#fff}
 .rc{border-left:6px solid;padding-left:12px}
 .note{margin-top:26px;padding-top:14px;border-top:1px solid var(--line);color:var(--muted);font-size:12.5px}
 .empty{color:var(--muted)}
+.box.k{background:color-mix(in srgb,var(--green-l) 70%,var(--panel));border-left:3px solid var(--green)}
+.srcs{margin:6px 0 0;padding:0;list-style:none;font-size:12.5px}
+.srcs li{margin:3px 0}
+.srcs a{color:var(--blue);text-decoration:none;word-break:break-word}
+.srcs a:hover{text-decoration:underline}
+.vbadge{font-size:11px;padding:1px 8px;border-radius:999px;background:var(--green-l);color:var(--green);font-weight:600}
+.ubadge{font-size:11px;padding:1px 8px;border-radius:999px;background:var(--chip);color:var(--muted)}
 @media (max-width:860px){
   .app{height:auto;min-height:100dvh;grid-template-rows:auto auto auto}
   main{grid-template-columns:1fr;grid-template-rows:62vh auto}
@@ -444,6 +451,8 @@ function clearSel() { S.item = null; S.fish = null; S.pref = null; S.region = nu
 const panel = $("#panel");
 const chips = ids => `<div class="chips">${ids.map(id => `<button class="chip" data-pref="${id}">${esc(prefById[id].en)}</button>`).join("")}</div>`;
 const ladderHTML = names => `<div class="ladder">${names.map((n, i) => `${i ? '<span class="arrow">&rarr;</span>' : ""}<div class="step"><b>${esc(n.n)}</b><i>${esc(n.j)}${n.s ? " · " + esc(n.s) : ""}</i></div>`).join("")}</div>`;
+const srcList = src => src && src.length ? `<h3>Sources (Japanese)</h3><ul class="srcs">${src.map(([t, u]) => `<li><a href="${esc(u)}" target="_blank" rel="noopener noreferrer">${esc(t)}</a></li>`).join("")}</ul>` : `<div class="note" style="margin-top:14px">Not yet cross-checked against Japanese sources: treat as general knowledge.</div>`;
+const srcBadge = o => o.src && o.src.length ? `<span class="vbadge">sourced</span>` : "";
 const meter = (k, v) => `<span>${k}</span><span class="dots">${[1, 2, 3, 4, 5].map(i => `<i class="${i <= v ? "on" : ""}"></i>`).join("")}</span>`;
 
 function panelHome() {
@@ -455,9 +464,9 @@ function panelHome() {
   if (L === "fish") {
     const list = S.month ? [...FISH].sort((a, b) => inSeason(b) - inSeason(a)) : FISH;
     if (S.month) h = h.replace("<h3>Pick a fish</h3>", `<h3>In season: ${MONTH_NAMES[S.month - 1]}</h3>`);
-    h += list.map(f => { const act = activeSeasons(f); return `<button class="card ${S.month && !inSeason(f) ? "off" : ""}" data-fish="${f.id}"><div class="t"><b>${esc(f.en)}</b><span class="ja">${esc(f.ja)}</span>${badge(f)}</div><p>${esc(f.systems[0].names.map(n => n.n).join(" → "))}${f.systems.length > 1 ? "  (+" + (f.systems.length - 1) + " naming zones)" : ""}</p>${act.length ? `<p><b>${esc(act.map(a => a.n + " " + a.j).join(", "))}</b></p>` : ""}</button>`; }).join("");
+    h += list.map(f => { const act = activeSeasons(f); return `<button class="card ${S.month && !inSeason(f) ? "off" : ""}" data-fish="${f.id}"><div class="t"><b>${esc(f.en)}</b><span class="ja">${esc(f.ja)}</span>${badge(f)}${srcBadge(f)}</div><p>${esc(f.systems[0].names.map(n => n.n).join(" → "))}${f.systems.length > 1 ? "  (+" + (f.systems.length - 1) + " naming zones)" : ""}</p>${act.length ? `<p><b>${esc(act.map(a => a.n + " " + a.j).join(", "))}</b></p>` : ""}</button>`; }).join("");
   }
-  else h += ITEMS.filter(i => i.cat === L).map(i => `<button class="card" data-item="${i.id}"><div class="t"><b>${esc(i.name)}</b><span class="ja">${esc(i.ja)}</span></div><p>${esc(i.prefs.slice(0, 3).map(id => prefById[id].en).join(", "))}${i.prefs.length > 3 ? " +" + (i.prefs.length - 3) : ""}</p></button>`).join("");
+  else h += ITEMS.filter(i => i.cat === L).map(i => `<button class="card" data-item="${i.id}"><div class="t"><b>${esc(i.name)}</b><span class="ja">${esc(i.ja)}</span>${srcBadge(i)}</div><p>${esc(i.prefs.slice(0, 3).map(id => prefById[id].en).join(", "))}${i.prefs.length > 3 ? " +" + (i.prefs.length - 3) : ""}</p></button>`).join("");
   return h + note();
 }
 function panelItem(it) {
@@ -466,7 +475,8 @@ function panelItem(it) {
   <p>${esc(it.text)}</p>
   <div class="box g"><b>Flavour</b>${esc(it.flavor)}</div>
   <div class="box"><b>Use</b>${esc(it.use)}</div>
-  <h3>Where</h3>${chips(it.prefs)}` + note();
+  ${it.craft ? `<div class="box k"><b>Craft notes</b>${esc(it.craft)}</div>` : ""}
+  <h3>Where</h3>${chips(it.prefs)}${srcList(it.src)}` + note();
 }
 function panelFish(f) {
   const sel = S.hoverSys;
@@ -477,7 +487,8 @@ function panelFish(f) {
   if (S.month) { const act = activeSeasons(f); h += `<div class="box g"><b>${MONTH_NAMES[S.month - 1]}</b>${badge(f)} ${act.length ? act.map(a => esc(a.n + " (" + a.j + "): " + a.t)).join("<br>") : "No special seasonal name this month."}</div>`; }
   h += f.seasons.map(s => `<div class="season"><b>${esc(s.n)}</b> <span class="ja">${esc(s.j)}</span><br>${esc(s.t)}</div>`).join("");
   h += `<div class="box g"><b>Flavour</b>${esc(f.flavor)}</div><div class="box"><b>Use</b>${esc(f.use)}</div>`;
-  return h + note();
+  if (f.craft) h += `<div class="box k"><b>Craft notes</b>${esc(f.craft)}</div>`;
+  return h + srcList(f.src) + note();
 }
 function panelPref(p) {
   const r = regById[p.reg]; const fish = fishFor(p.id); const items = itemsFor(p.id);
@@ -503,7 +514,7 @@ function panelRegion(r) {
   <h3>Prefectures</h3>${chips(r.prefs)}` + note();
 }
 function note() {
-  return `<div class="note">Regional names are traditions, not borders: boundaries overlap, shift with markets, and local usage varies by port and by generation. Treat the map as a guide for exploring. Map shapes are simplified; Okinawa is shown in an inset.</div>`;
+  return `<div class="note">Entries marked 'sourced' were cross-checked against Japanese sources (ministries, trade associations, makers and local governments), which are linked on each page. Regional names are traditions, not borders: sizes and boundaries differ by source, port and generation, and where sources disagree the page says so. Map shapes are simplified; Okinawa is shown in an inset.</div>`;
 }
 const mb = $("#monthbar");
 function monthbar() {
@@ -543,7 +554,7 @@ for (const f of FISH) {
   index.push({ k: [f.en, f.ja, f.alt, f.latin].join(" ").toLowerCase(), label: f.en + " " + f.ja, sub: "Fish", go: () => selectFish(f.id) });
   for (const s of f.systems) for (const n of s.names) index.push({ k: (n.n + " " + n.j).toLowerCase(), label: n.n + " " + n.j, sub: `${f.en} name · ${s.label}`, go: () => { selectFish(f.id); } });
 }
-for (const i of ITEMS) index.push({ k: [i.name, i.ja, i.text].join(" ").toLowerCase(), label: i.name + " " + i.ja, sub: catById[i.cat].label, go: () => selectItem(i.id) });
+for (const i of ITEMS) index.push({ k: [i.name, i.ja, i.text, i.craft || ""].join(" ").toLowerCase(), label: i.name + " " + i.ja, sub: catById[i.cat].label, go: () => selectItem(i.id) });
 const q = $("#q"), res = $("#results");
 q.addEventListener("input", () => {
   const v = q.value.trim().toLowerCase(); if (v.length < 2) { res.style.display = "none"; return; }
