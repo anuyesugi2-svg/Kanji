@@ -76,6 +76,17 @@ svg#map.drag{cursor:grabbing}
 .ramp{height:8px;border-radius:4px;background:linear-gradient(90deg,#d6ece6,#2a8a6a);margin:2px 0 4px}
 .ramp.b{background:linear-gradient(90deg,#d7e9f3,#1f6f9f)}
 .ramp+div{display:flex;justify-content:space-between;color:var(--muted);font-size:12px}
+.monthbar{position:absolute;left:14px;right:70px;bottom:52px;display:none;align-items:center;gap:4px;background:color-mix(in srgb,var(--panel) 94%,transparent);border:1px solid var(--line);border-radius:14px;padding:6px 8px;box-shadow:var(--shadow);flex-wrap:wrap}
+.monthbar.on{display:flex}
+.monthbar b{font-size:11.5px;text-transform:uppercase;letter-spacing:.07em;color:var(--muted);margin:0 6px 0 4px}
+.monthbar button{border:0;background:var(--chip);border-radius:8px;min-width:34px;height:28px;font-size:12.5px}
+.monthbar button:hover{background:var(--blue-l)}
+.monthbar button[aria-pressed="true"]{background:linear-gradient(135deg,var(--blue),var(--green));color:#fff}
+.badge{font-size:11px;padding:1px 8px;border-radius:999px;background:var(--chip);color:var(--muted);font-weight:600}
+.badge.peak{background:var(--blue);color:#fff}
+.badge.in{background:var(--green-l);color:var(--green)}
+.card.off{opacity:.55}
+.cal div.cur{outline:2px solid var(--ink);outline-offset:1px}
 .regionbar{position:absolute;left:14px;bottom:14px;right:70px;display:flex;gap:6px;flex-wrap:wrap}
 .regionbar button{border:1px solid var(--line);background:color-mix(in srgb,var(--panel) 94%,transparent);padding:4px 10px;border-radius:999px;font-size:12.5px;box-shadow:var(--shadow)}
 .regionbar button:hover{border-color:var(--blue)}
@@ -131,6 +142,7 @@ button.chip:hover{background:var(--blue);color:#fff}
   .search{width:auto;flex:1}
   .legend{max-width:calc(100% - 80px)}
   .regionbar{right:14px;bottom:62px}
+  .monthbar{right:14px;bottom:108px}
 }
 </style>
 </head>
@@ -158,6 +170,7 @@ button.chip:hover{background:var(--blue);color:#fff}
         <button id="zout" aria-label="Zoom out">&minus;</button>
         <button id="zreset" aria-label="Reset view" title="Reset view">&#8962;</button>
       </div>
+      <div class="monthbar" id="monthbar"></div>
       <div class="regionbar" id="regionbar"></div>
     </div>
     <aside id="panel" aria-live="polite"></aside>
@@ -264,6 +277,10 @@ const CATS = [
   { id: "salt", label: "Salt & more", ja: "塩・酢・薬味" },
   { id: "ramen", label: "Ramen", ja: "ラーメン" },
   { id: "noodle", label: "Udon, soba & more", ja: "麺" },
+  { id: "meat", label: "Meat & poultry", ja: "肉" },
+  { id: "seaweed", label: "Seaweed", ja: "海藻" },
+  { id: "pickles", label: "Pickles & ferments", ja: "漬物・発酵" },
+  { id: "sweets", label: "Sweets", ja: "和菓子" },
   { id: "sake", label: "Sake", ja: "日本酒" },
   { id: "shochu", label: "Shochu & awamori", ja: "焼酎・泡盛" },
   { id: "whisky", label: "Whisky, beer & wine", ja: "ウイスキー他" }
@@ -277,6 +294,10 @@ const CAT_INTRO = {
   salt: "Salt, vinegar and condiments tell the geography of the coast and the mountains: hand-boiled salt on Noto, black vinegar fermented in pots in Kagoshima, wasabi from cold spring water in Izu.",
   ramen: "Ramen is a Chinese import that every region has rewritten. The map shows the best-known local styles; many towns have their own bowl as well.",
   noodle: "Wheat noodles (udon, somen) and buckwheat (soba) follow the climate: wheat for the mild south and west, buckwheat for cold mountains. Each region differs in thickness, firmness and the broth.",
+  meat: "Wagyu brands are named after places, and each region has its own bird, pig and grill. Beef is Kansai and Chubu territory, pork is the south, lamb belongs to Hokkaido.",
+  seaweed: "Seaweed is a coastline's signature. Nori grows in the calm Ariake Sea, wakame in the strong tides of Naruto and Sanriku, and mozuku and sea grapes in Okinawa's warm water.",
+  pickles: "Pickling and fermenting turned surplus harvests and catches into winter food. Rice bran, sake lees, salt, koji and time give each region its own sour, salty and funky notes.",
+  sweets: "Wagashi follow the seasons and the tea ceremony. Regional sweets show local grains, beans, chestnuts and sugar, from Kyoto's cinnamon yatsuhashi to Okinawa's lard shortbread.",
   sake: "Sake character comes from rice, water, yeast and the brewers' tradition. Soft water gives rounder sake (Fushimi, Saijo); hard water gives drier, firmer sake (Nada). Cold northern prefectures tend toward clean and crisp.",
   shochu: "Shochu is distilled, not brewed like sake. The base decides the style: sweet potato in the far south, barley in Oita and Iki, rice in Kumamoto, brown sugar in Amami, and awamori in Okinawa made with black koji and Thai rice.",
   whisky: "Japanese whisky dates from the 1920s. Distilleries sit in cool water-rich places, from Hokkaido's coast to Yamanashi's forest. Beer and wine have their own regional stories."
@@ -374,6 +395,66 @@ const ITEMS_RAW = [
   ["noodle", "Champon & sara udon", "ちゃんぽん・皿うどん", [42], "Nagasaki's Chinese-influenced noodle bowl of pork, seafood and vegetables in a milky broth, and crisp fried noodles with an ankake topping.", "Hearty, milky, savoury.", "Created for students."],
   ["noodle", "Okinawa soba", "沖縄そば", [47], "Contains no buckwheat: wheat noodles in a pork-and-bonito broth, topped with braised pork (soki) and eaten with kōrēgūsu chili awamori.", "Porky with a hint of bonito.", "Everyday meal."],
   ["noodle", "Fujinomiya & Yokote yakisoba", "焼きそば", [22, 5], "Fujinomiya's yakisoba uses rendered pork scraps and dried sardine powder; Yokote's (Akita) is topped with a fried egg.", "Savoury, umami-rich.", "B-gourmet street food."],
+
+  /* MEAT & POULTRY */
+  ["meat", "Kobe & Tajima beef", "神戸ビーフ・但馬牛", [28], "Kobe beef is Tajima cattle from Hyogo raised to strict standards. Tajima is the bloodline behind most of Japan's famous wagyu.", "Intensely marbled, buttery and sweet.", "Steak, sukiyaki, shabu-shabu."],
+  ["meat", "Matsusaka beef", "松阪牛", [24], "Female cattle from Mie, raised for a long time and famously cooked as sukiyaki in the Kansai style, with sugar and shoyu poured straight in.", "Rich, sweet and melting.", "Sukiyaki, steak, yakiniku."],
+  ["meat", "Omi beef", "近江牛", [25], "Among the oldest of the wagyu brands, from the Lake Biwa region of Shiga.", "Tender with clean fat.", "Sukiyaki, steak."],
+  ["meat", "Hida beef", "飛騨牛", [21], "Mountain wagyu from Gifu, often grilled over charcoal and paired with hoba miso.", "Fine marbling, balanced beef flavour.", "Hoba miso yaki, sushi, steak."],
+  ["meat", "Miyazaki & Kagoshima wagyu", "宮崎牛・鹿児島黒牛", [45, 46], "Kyushu's two giants. Miyazaki beef has won the national wagyu competition several times, and Kagoshima raises the most black cattle in Japan.", "Sweet fat and strong beef flavour.", "Yakiniku, shabu-shabu."],
+  ["meat", "Sendai gyutan", "仙台牛タン", [4], "Grilled beef tongue, a Sendai speciality since after the war, served thick-sliced with barley rice, tail soup and pickles.", "Springy, smoky and salty.", "Teishoku (set meal) with miso-pickled vegetables."],
+  ["meat", "Yonezawa & Saga beef", "米沢牛・佐賀牛", [6, 41], "Two of the northern and southern wagyu brands, from Yamagata and Saga.", "Soft and sweet.", "Sukiyaki, steak."],
+  ["meat", "Kurobuta & Okinawan Agu pork", "黒豚・あぐー豚", [46, 47], "Kagoshima black pork (Berkshire) and Okinawa's Agu pork. Pork is the meat of the south, in sharp contrast to the beef-eating Kansai.", "Sweet fat, rich and juicy.", "Shabu-shabu, tonkatsu, Okinawan simmered rafute."],
+  ["meat", "Jidori chicken", "地鶏", [5, 23, 46], "Hinai-jidori of Akita (kiritanpo nabe), Nagoya Cochin from Aichi (and its famous fried tebasaki wings) and Satsuma jidori from Kagoshima.", "Firm, deeply savoury.", "Nabe, grilled, oyakodon."],
+  ["meat", "Jingisukan", "ジンギスカン", [1], "Mutton or lamb grilled on a domed pan, with vegetables cooked in the dripping fat, a Hokkaido classic linked to the sheep farms of the early 20th century.", "Rich, earthy with a hint of game.", "With beer, outdoors."],
+  ["meat", "Basashi", "馬刺し", [43, 20], "Raw horse meat, a speciality of Kumamoto and also eaten in Nagano, served with garlic, ginger and sweet soy.", "Clean, lean and a little sweet.", "Thin slices with Kyushu sweet shoyu."],
+  ["meat", "Botan-nabe (boar)", "ぼたん鍋", [28], "Wild boar stew from the Tamba mountains near Sasayama, simmered in miso with vegetables, with meat slices arranged like peony petals.", "Rich, sweet fat in a miso broth.", "A winter hot pot."],
+  ["meat", "Yakitori regional styles", "ご当地焼き鳥", [38, 1, 40], "Imabari (Ehime) grills chicken on an iron plate for a crispy skin; Muroran (Hokkaido) skewers pork and onion with mustard; Fukuoka adds pork belly and cabbage.", "Smoky, crisp and savoury.", "Izakaya fare."],
+  ["meat", "Nakatsu karaage", "中津からあげ", [44], "Oita's marinated fried chicken has a whole shop culture around it.", "Garlicky and juicy.", "Takeaway lunches."],
+  ["meat", "Chicken nanban", "チキン南蛮", [45], "Miyazaki's fried chicken, dipped in sweet vinegar and covered with tartar sauce.", "Sweet, tangy and creamy.", "Teishoku and lunch."],
+  ["meat", "Gyoza towns", "餃子", [9, 22], "Utsunomiya (Tochigi) and Hamamatsu (Shizuoka) compete for the title of biggest gyoza-eating city.", "Crisp, garlicky and juicy.", "Pan-fried with cabbage."],
+
+  /* SEAWEED */
+  ["seaweed", "Ariake nori", "有明海苔", [41, 40, 43], "The Ariake Sea has huge tides and nutrient-rich silt. Saga is Japan's top nori producer.", "Sweet, savoury and crisp.", "Onigiri, sushi, ochazuke."],
+  ["seaweed", "Asakusa nori", "浅草海苔", [13], "The sheet nori technique was developed in Edo's coastal fishing villages, and Asakusa nori became a household word.", "Fragrant and toasty.", "Sushi, rice."],
+  ["seaweed", "Sanriku & Naruto wakame", "三陸・鳴門わかめ", [3, 4, 36], "Strong cold tides on the Sanriku coast and in the Naruto Strait yield thick, springy wakame.", "Crunchy, sweet and fresh.", "Miso soup, salads, sunomono."],
+  ["seaweed", "Okinawa mozuku", "もずく", [47], "Okinawa produces nearly all of Japan's mozuku, a slippery, slender seaweed eaten with vinegar or fried as tempura.", "Slimy, tangy and fresh.", "Vinegar dishes and tempura."],
+  ["seaweed", "Umibudo (sea grapes)", "海ぶどう", [47], "Clusters of tiny green bubbles that pop in the mouth, grown in Okinawan farms.", "Briny, with a pop texture.", "Salads with ponzu."],
+  ["seaweed", "Gibasa & igisu", "ぎばさ・いぎす", [5, 15], "Gibasa (akamoku) is a slimy seaweed of Akita, eaten chopped. Igisu, from Sado in Niigata, is boiled into a firm jelly.", "Sticky, mild and slightly sea-flavoured.", "Gibasa on rice; igisu as a firm jelly with mustard."],
+  ["seaweed", "Ise & Boso hijiki", "ひじき", [24, 12, 42], "Hijiki is gathered along the Pacific coast of Mie and Chiba and in Nagasaki, then boiled and dried.", "Earthy and savoury.", "Simmered with soy, carrot and fried tofu."],
+  ["seaweed", "Aonori of the Shimanto & Yoshino", "あおのり", [39, 36], "Suji-aonori is harvested in winter from the Shimanto River (Kochi) and Yoshino River (Tokushima), where fresh and sea water mix.", "Vibrant and aromatic.", "Okonomiyaki, yakisoba, tempura."],
+  ["seaweed", "Izu tengusa", "天草", [22], "Izu's tengusa seaweed is boiled and set into tokoroten, a clear jelly noodle.", "Clean, cool and slippery.", "Served with vinegar or sweet black syrup."],
+  ["seaweed", "Gagome kombu", "がごめ昆布", [1], "A sticky Hakodate kelp, shredded and mixed into soups and rice.", "Mild with a mucilaginous texture.", "Over natto and rice."],
+
+  /* PICKLES & FERMENTS */
+  ["pickles", "Narazuke", "奈良漬", [29], "Gourds and melons pickled in repeatedly renewed sake lees for a rich, boozy flavour.", "Sweet, boozy and savoury.", "With rice and tea."],
+  ["pickles", "Kyoto tsukemono", "京漬物", [26], "Shibazuke (red shiso and eggplant), senmaizuke (thin sliced turnip with kombu) and suguki (a sour turnip).", "Fragrant, delicate and tart.", "With rice and tea; part of kaiseki."],
+  ["pickles", "Iburigakko", "いぶりがっこ", [5], "Daikon smoked above fire, then pickled in rice bran, an Akita winter food.", "Smoky, crunchy and sweet-salty.", "With cream cheese or sake."],
+  ["pickles", "Nozawana-zuke", "野沢菜漬け", [20], "Leaves of the nozawana turnip are salted and fermented, a Nagano winter staple.", "Sour, crisp and fresh.", "With rice or as a filling for oyaki."],
+  ["pickles", "Natto", "納豆", [8, 7], "Fermented soybeans with a sticky, stringy texture. Mito (Ibaraki) is the famous capital, and Tohoku and Kanto eat the most while Kansai has historically been wary.", "Funky, nutty and earthy.", "On rice with mustard and soy."],
+  ["pickles", "Umeboshi", "梅干し", [30], "Salt-cured, sun-dried ume plums. Wakayama's Minabe and Tanabe areas grow the famous Nanko ume.", "Very salty, sour and fruity.", "Onigiri, ochazuke."],
+  ["pickles", "Funa-zushi", "鮒ずし", [25], "The ancestor of sushi: nigorobuna fish from Lake Biwa, salted and fermented in rice for a year or more.", "Funky, sour, cheese-like.", "A delicacy with sake."],
+  ["pickles", "Heshiko & fugu ovary in bran", "へしこ・ふぐの卵巣糠漬け", [18, 17], "Fukui's heshiko is mackerel preserved in rice bran. Ishikawa uniquely detoxifies pufferfish ovaries over two or more years in bran.", "Salty, intense and umami-rich.", "Grilled or with rice and tea."],
+  ["pickles", "Kusaya", "くさや", [13], "Dried fish on the Izu Islands (Tokyo), soaked in a centuries-old brine, famous for its smell.", "Pungent, salty and savoury.", "Grilled, with shochu."],
+  ["pickles", "Takana-zuke", "高菜漬け", [43, 40], "Pickled mustard greens, central to Kyushu's takana-meshi and Hakata ramen toppings.", "Tangy, salty and slightly spicy.", "Fried rice, ramen topping."],
+  ["pickles", "Yamagata dashi", "山形のだし", [6], "A summer relish of chopped cucumber, eggplant, myoga and okra, mixed with soy and its own mucilage.", "Fresh, cool and slippery.", "Over rice, tofu or noodles."],
+  ["pickles", "Awa-bancha & Goishi-cha", "阿波晩茶・碁石茶", [36, 39], "Two rare post-fermented teas of Shikoku, made through lactic-acid fermentation.", "Sour, mellow and earthy.", "Hot tea with meals."],
+
+  /* SWEETS */
+  ["sweets", "Yatsuhashi", "八ッ橋", [26], "Cinnamon-scented rice cookies of Kyoto, either baked and crisp or soft (nama) and folded around sweet bean paste.", "Spicy cinnamon and sweet bean.", "Tea."],
+  ["sweets", "Kibi dango", "吉備団子", [33], "Soft, chewy millet or rice dumplings tied to the Momotaro legend of Okayama.", "Mild, soft and sweet.", "Souvenir treats."],
+  ["sweets", "Shingen mochi", "信玄餅", [19], "Mochi with kinako (roasted soy flour) and black sugar syrup, a Yamanashi favourite.", "Nutty, caramelised.", "Eaten with syrup."],
+  ["sweets", "Zunda mochi", "ずんだ餅", [4], "Mochi coated in a sweet paste of mashed edamame, a Sendai speciality.", "Fresh, green and lightly sweet.", "Summer treat."],
+  ["sweets", "Yoshino kuzu", "吉野葛", [29], "Kudzu starch from the Yoshino and Uda mountains of Nara, made into silky kuzumochi and kuzukiri.", "Cool, delicate and slightly sweet.", "With black syrup."],
+  ["sweets", "Castella", "カステラ", [42], "A Portuguese-derived sponge cake from Nagasaki's port era, moist and honeyed with coarse sugar at the base.", "Eggy, honeyed and moist.", "Tea, souvenir."],
+  ["sweets", "Momiji manju", "もみじ饅頭", [34], "Maple-leaf-shaped cakes filled with sweet bean paste, a Miyajima speciality.", "Sweet and soft.", "Fresh from the shop."],
+  ["sweets", "Wasanbon sugar", "和三盆", [36, 37], "A fine, delicate sugar from Tokushima and Kagawa, refined by hand through repeated kneading.", "Delicate, rounded sweetness.", "Used in high-end wagashi (higashi)."],
+  ["sweets", "Chinsuko & sata andagi", "ちんすこう・サーターアンダギー", [47], "Chinsuko is a shortbread made with lard from Ryukyu court cuisine; sata andagi is a doughnut.", "Crumbly and sweet; fried dough.", "Souvenir and snack."],
+  ["sweets", "Nikko himuro kakigori", "日光天然氷", [9], "Shaved ice made from natural ice frozen in winter ponds in Nikko.", "Soft, fine and cold.", "Served with syrup."],
+  ["sweets", "Chestnut sweets", "栗菓子", [20, 21], "Obuse (Nagano) and Nakatsugawa (Gifu) are famous for chestnut sweets, including kuri-kinton, mashed chestnut paste.", "Sweet, rich and nutty.", "Autumn treats."],
+  ["sweets", "Kanazawa higashi", "金沢の菓子", [17], "Kaga's tea-ceremony culture made Kanazawa a wagashi capital, from dry higashi to seasonal sweets.", "Delicate and seasonal.", "With matcha."],
+  ["sweets", "Fukui mizu-yokan", "水ようかん", [18], "Fukui eats soft, chilled yokan in winter, indoors at the kotatsu table.", "Light, cool and sweet.", "Winter tradition."],
+  ["sweets", "Hokkaido dairy sweets", "北海道の乳菓子", [1], "Soft-serve, cheesecakes, butter cookies and white chocolate, powered by Hokkaido's milk.", "Creamy and rich.", "Souvenirs and soft cream."],
 
   /* SAKE */
   ["sake", "Niigata: tanrei-karakuchi", "新潟の淡麗辛口", [15], "The prefecture with the most breweries in Japan. Soft snowmelt water and rice give a clean, light, dry sake.", "Clean, crisp and dry.", "Chilled, with sashimi and salted fish."],
@@ -552,7 +633,7 @@ const SYS_COLORS = ["#1f6f9f", "#2e9e86", "#6aaa4e", "#26457a", "#79c3c7", "#a3c
 const MONTHS = "JFMAMJJASOND".split("");
 
 /* ---------- state ---------- */
-const S = { layer: "regions", item: null, fish: null, pref: null, region: null, hoverSys: null };
+const S = { month: null, layer: "regions", item: null, fish: null, pref: null, region: null, hoverSys: null };
 
 /* ---------- map ---------- */
 const svg = $("#map");
@@ -702,7 +783,7 @@ svg.addEventListener("pointermove", e => { if (tip.style.display === "block") { 
 svg.addEventListener("pointerout", e => { if (e.target.closest(".pref")) tip.style.display = "none"; });
 function showTip(id, e) {
   const p = prefById[id]; let extra = "";
-  if (S.layer === "fish") { const n = fishFor(id).length; extra = n ? `<br>${n} fish with local names` : ""; }
+  if (S.layer === "fish") { const n = S.month ? fishFor(id).filter(x => inSeason(x.f)).length : fishFor(id).length; extra = n ? `<br>${n} fish ${S.month ? "in season in " + MON3[S.month - 1] : "with local names"}` : ""; }
   else if (S.layer !== "regions") { const n = ITEMS.filter(i => i.cat === S.layer && i.prefs.includes(id)).length; extra = n ? `<br>${n} ${catById[S.layer].label.toLowerCase()} ${n > 1 ? "entries" : "entry"}` : ""; }
   tip.innerHTML = `<b>${esc(p.en)}</b> ${esc(p.ja)}${extra}`;
   tip.style.display = "block"; tip.style.left = e.clientX + 14 + "px"; tip.style.top = e.clientY + 14 + "px";
@@ -716,7 +797,14 @@ const GREEN = ["#d6ece6", "#2a8a6a"], BLUE = ["#d7e9f3", "#1f6f9f"];
 /* ---------- data helpers ---------- */
 const fishFor = id => FISH.flatMap(f => { const s = f.systems.findIndex(s => s.prefs.includes(id)); return s >= 0 ? [{ f, s: f.systems[s], i: s }] : []; });
 const itemsFor = id => ITEMS.filter(i => i.prefs.includes(id));
-const countFor = (layer, id) => layer === "fish" ? fishFor(id).length : ITEMS.filter(i => i.cat === layer && i.prefs.includes(id)).length;
+const MONTH_NAMES = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+const MON3 = MONTH_NAMES.map(m => m.slice(0, 3));
+const seasonActive = (s, m) => s.m[0] <= s.m[1] ? m >= s.m[0] && m <= s.m[1] : m >= s.m[0] || m <= s.m[1];
+const inSeason = f => S.month ? f.months[S.month - 1] : 0;
+const activeSeasons = f => S.month ? f.seasons.filter(x => seasonActive(x, S.month)) : [];
+const badge = f => { const v = inSeason(f); return S.month ? `<span class="badge ${v === 2 ? "peak" : v === 1 ? "in" : ""}">${v === 2 ? "Peak" : v === 1 ? "In season" : "Off season"}</span>` : ""; };
+const seasonWeight = id => fishFor(id).reduce((a, { f }) => a + inSeason(f), 0);
+const countFor = (layer, id) => layer === "fish" ? (S.month ? seasonWeight(id) : fishFor(id).length) : ITEMS.filter(i => i.cat === layer && i.prefs.includes(id)).length;
 
 /* ---------- paint ---------- */
 function paint() {
@@ -729,7 +817,7 @@ function paint() {
     } else if (L === "fish") {
       if (S.fish) {
         const f = fishById[S.fish]; const si = f.systems.findIndex(s => s.prefs.includes(p.id));
-        if (si >= 0) { fill = SYS_COLORS[si % SYS_COLORS.length]; dim = S.hoverSys !== null && S.hoverSys !== si; if (dim) fill = mix(fill, "#ffffff", .7); }
+        if (si >= 0) { fill = SYS_COLORS[si % SYS_COLORS.length]; dim = (S.hoverSys !== null && S.hoverSys !== si) || (S.month && !inSeason(f)); if (dim) fill = mix(fill, "#ffffff", .7); }
         else fill = "";
       } else { const c = countFor(L, p.id); fill = c ? mix(BLUE[0], BLUE[1], max > 1 ? .35 + .65 * (c - 1) / (max - 1) : .7) : ""; }
     } else {
@@ -752,7 +840,7 @@ function legend() {
     const f = fishById[S.fish];
     h = `<h4>${esc(f.en)}: naming zones</h4>` + f.systems.map((s, i) => `<button class="row" data-sys="${i}"><i class="sw" style="background:${SYS_COLORS[i % SYS_COLORS.length]}"></i>${esc(s.label)}</button>`).join("");
   } else if (L === "fish") {
-    h = `<h4>Fish with local names</h4><div class="ramp b"></div><div><span>fewer</span><span>more</span></div>`;
+    h = `<h4>${S.month ? "Fish in season: " + MONTH_NAMES[S.month - 1] : "Fish with local names"}</h4><div class="ramp b"></div><div><span>fewer</span><span>more</span></div>`;
   } else if (S.item) {
     const it = itemById[S.item]; h = `<h4>${esc(catById[L].label)}</h4><div class="row"><i class="sw" style="background:#2a8a6a"></i>${esc(it.name)}</div>`;
   } else {
@@ -798,7 +886,11 @@ function panelHome() {
     REGIONS.map(r => `<button class="card rc" style="border-left-color:${r.color}" data-region="${r.id}"><div class="t"><b>${esc(r.en)}</b><span class="ja">${esc(r.ja)}</span></div><p>${esc(r.tag)}</p></button>`).join("") + note();
   const c = catById[L];
   let h = `<h2>${esc(c.label)}</h2><div class="ja">${esc(c.ja)}</div><p>${esc(CAT_INTRO[L])}</p><h3>${L === "fish" ? "Pick a fish" : "Browse"}</h3>`;
-  if (L === "fish") h += FISH.map(f => `<button class="card" data-fish="${f.id}"><div class="t"><b>${esc(f.en)}</b><span class="ja">${esc(f.ja)}</span></div><p>${esc(f.systems[0].names.map(n => n.n).join(" → "))}${f.systems.length > 1 ? "  (+" + (f.systems.length - 1) + " naming zones)" : ""}</p></button>`).join("");
+  if (L === "fish") {
+    const list = S.month ? [...FISH].sort((a, b) => inSeason(b) - inSeason(a)) : FISH;
+    if (S.month) h = h.replace("<h3>Pick a fish</h3>", `<h3>In season: ${MONTH_NAMES[S.month - 1]}</h3>`);
+    h += list.map(f => { const act = activeSeasons(f); return `<button class="card ${S.month && !inSeason(f) ? "off" : ""}" data-fish="${f.id}"><div class="t"><b>${esc(f.en)}</b><span class="ja">${esc(f.ja)}</span>${badge(f)}</div><p>${esc(f.systems[0].names.map(n => n.n).join(" → "))}${f.systems.length > 1 ? "  (+" + (f.systems.length - 1) + " naming zones)" : ""}</p>${act.length ? `<p><b>${esc(act.map(a => a.n + " " + a.j).join(", "))}</b></p>` : ""}</button>`; }).join("");
+  }
   else h += ITEMS.filter(i => i.cat === L).map(i => `<button class="card" data-item="${i.id}"><div class="t"><b>${esc(i.name)}</b><span class="ja">${esc(i.ja)}</span></div><p>${esc(i.prefs.slice(0, 3).map(id => prefById[id].en).join(", "))}${i.prefs.length > 3 ? " +" + (i.prefs.length - 3) : ""}</p></button>`).join("");
   return h + note();
 }
@@ -815,7 +907,8 @@ function panelFish(f) {
   let h = `<button class="back" data-clear>&larr; All fish</button><h2>${esc(f.en)}</h2><div class="ja">${esc(f.ja)} · <i>${esc(f.latin)}</i></div><p>${esc(f.intro)}</p>
   <h3>Names by region</h3><div class="muted" style="font-size:12.5px;color:var(--muted);margin:-4px 0 8px">Tap a zone to focus it on the map.</div>`;
   h += f.systems.map((s, i) => `<div class="sys ${sel === i ? "on" : ""}" data-sys="${i}"><div class="h"><i class="sw" style="background:${SYS_COLORS[i % SYS_COLORS.length]}"></i>${esc(s.label)}</div>${ladderHTML(s.names)}<div style="margin-top:8px;font-size:13px;color:var(--muted)">${esc(s.names.filter(n => n.t).map(n => n.n + ": " + n.t).slice(0, 2).join(" "))}</div></div>`).join("");
-  h += `<h3>Season</h3><div class="cal">${f.months.map(m => `<div class="m${m}"></div>`).join("")}</div><div class="calm">${MONTHS.map(m => `<span>${m}</span>`).join("")}</div>`;
+  h += `<h3>Season</h3><div class="cal">${f.months.map((m, i) => `<div class="m${m}${S.month === i + 1 ? " cur" : ""}"></div>`).join("")}</div><div class="calm">${MONTHS.map(m => `<span>${m}</span>`).join("")}</div>`;
+  if (S.month) { const act = activeSeasons(f); h += `<div class="box g"><b>${MONTH_NAMES[S.month - 1]}</b>${badge(f)} ${act.length ? act.map(a => esc(a.n + " (" + a.j + "): " + a.t)).join("<br>") : "No special seasonal name this month."}</div>`; }
   h += f.seasons.map(s => `<div class="season"><b>${esc(s.n)}</b> <span class="ja">${esc(s.j)}</span><br>${esc(s.t)}</div>`).join("");
   h += `<div class="box g"><b>Flavour</b>${esc(f.flavor)}</div><div class="box"><b>Use</b>${esc(f.use)}</div>`;
   return h + note();
@@ -827,7 +920,7 @@ function panelPref(p) {
   for (const cid of order) {
     if (cid === "fish") {
       if (!fish.length) continue;
-      h += `<h3>Fish names here</h3>` + fish.map(({ f, s, i }) => `<button class="card" data-fish="${f.id}"><div class="t"><b>${esc(f.en)}</b><span class="ja">${esc(s.label)}</span></div><p>${esc(s.names.map(n => n.n).join(" → "))}</p></button>`).join("");
+      h += `<h3>Fish names here</h3>` + fish.map(({ f, s, i }) => `<button class="card" data-fish="${f.id}"><div class="t"><b>${esc(f.en)}</b><span class="ja">${esc(s.label)}</span>${badge(f)}</div><p>${esc(s.names.map(n => n.n).join(" → "))}</p></button>`).join("");
     } else {
       const list = items.filter(i => i.cat === cid); if (!list.length) continue;
       h += `<h3>${esc(catById[cid].label)}</h3>` + list.map(i => `<button class="card" data-item="${i.id}"><div class="t"><b>${esc(i.name)}</b><span class="ja">${esc(i.ja)}</span></div><p>${esc(i.flavor)}</p></button>`).join("");
@@ -846,6 +939,12 @@ function panelRegion(r) {
 function note() {
   return `<div class="note">Regional names are traditions, not borders: boundaries overlap, shift with markets, and local usage varies by port and by generation. Treat the map as a guide for exploring. Map shapes are simplified; Okinawa is shown in an inset.</div>`;
 }
+const mb = $("#monthbar");
+function monthbar() {
+  mb.classList.toggle("on", S.layer === "fish");
+  mb.innerHTML = `<b>Month</b><button data-m="0" aria-pressed="${!S.month}">All</button>` + MON3.map((m, i) => `<button data-m="${i + 1}" aria-pressed="${S.month === i + 1}">${m}</button>`).join("");
+}
+mb.addEventListener("click", e => { const b = e.target.closest("button"); if (!b) return; S.month = +b.dataset.m || null; render(true); });
 function render(keepScroll) {
   const top = panel.scrollTop;
   let h;
@@ -855,7 +954,7 @@ function render(keepScroll) {
   else if (S.region) h = panelRegion(regById[S.region]);
   else h = panelHome();
   panel.innerHTML = h; panel.scrollTop = keepScroll ? top : 0;
-  paint(); legend(); applyVB(); writeHash();
+  paint(); legend(); monthbar(); applyVB(); writeHash();
 }
 panel.addEventListener("click", e => {
   const t = e.target.closest("[data-item],[data-fish],[data-pref],[data-region],[data-clear],[data-closepref],[data-sys]"); if (!t) return;
@@ -899,12 +998,13 @@ $("#theme").onclick = () => {
 /* ---------- url state ---------- */
 function writeHash() {
   const p = new URLSearchParams(); if (S.layer !== "regions") p.set("l", S.layer);
-  if (S.item) p.set("item", S.item); if (S.fish) p.set("fish", S.fish); if (S.pref) p.set("pref", S.pref); if (S.region) p.set("region", S.region);
+  if (S.month) p.set("m", S.month); if (S.item) p.set("item", S.item); if (S.fish) p.set("fish", S.fish); if (S.pref) p.set("pref", S.pref); if (S.region) p.set("region", S.region);
   const s = p.toString(); try { history.replaceState(null, "", s ? "#" + s : location.pathname + location.search); } catch (e) {}
 }
 function readHash() {
   const p = new URLSearchParams(location.hash.slice(1));
   const l = p.get("l"); if (l && (l === "regions" || catById[l])) S.layer = l;
+  if (+p.get("m") >= 1 && +p.get("m") <= 12) S.month = +p.get("m");
   if (p.get("item") && itemById[p.get("item")]) { S.item = p.get("item"); S.layer = itemById[S.item].cat; }
   if (p.get("fish") && fishById[p.get("fish")]) { S.fish = p.get("fish"); S.layer = "fish"; }
   if (p.get("region") && regById[p.get("region")]) S.region = p.get("region");
