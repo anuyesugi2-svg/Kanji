@@ -132,6 +132,9 @@ button.chip:hover{background:var(--blue);color:#fff}
 .rc{border-left:6px solid;padding-left:12px}
 .note{margin-top:26px;padding-top:14px;border-top:1px solid var(--line);color:var(--muted);font-size:12.5px}
 .empty{color:var(--muted)}
+.pin{fill:var(--blue-d);stroke:var(--panel);stroke-width:2;vector-effect:non-scaling-stroke;cursor:pointer;transition:fill .15s}
+.pin:hover,.pin.sel{fill:var(--green);stroke:var(--sel)}
+.tlbl{pointer-events:none;fill:var(--ink);paint-order:stroke;stroke:var(--land);stroke-opacity:.9;font-weight:650;transition:opacity .15s}
 .box.k{background:color-mix(in srgb,var(--green-l) 70%,var(--panel));border-left:3px solid var(--green)}
 .srcs{margin:6px 0 0;padding:0;list-style:none;font-size:12.5px}
 .srcs li{margin:3px 0}
@@ -206,7 +209,7 @@ const SYS_COLORS = ["#1f6f9f", "#2e9e86", "#6aaa4e", "#26457a", "#79c3c7", "#a3c
 const MONTHS = "JFMAMJJASOND".split("");
 
 /* ---------- state ---------- */
-const S = { month: null, layer: "regions", item: null, fish: null, pref: null, region: null, hoverSys: null };
+const S = { town: null, month: null, layer: "regions", item: null, fish: null, pref: null, region: null, hoverSys: null };
 
 /* ---------- map ---------- */
 const svg = $("#map");
@@ -216,7 +219,8 @@ const base = { x: bx0 - PAD, y: by0 - PAD, w: bx1 - bx0 + PAD * 2, h: by1 - by0 
 let vb = { ...base };
 const gSea = mk("rect", { x: base.x - 4000, y: base.y - 4000, width: base.w + 8000, height: base.h + 8000, fill: "var(--sea)" });
 const gMap = mk("g"), gRoute = mk("g"), gLbl = mk("g"), gReg = mk("g");
-svg.append(gSea, gMap, gRoute, gReg, gLbl);
+const gTowns = mk("g");
+svg.append(gSea, gMap, gRoute, gReg, gTowns, gLbl);
 const pathEl = {}, bbox = {};
 for (const p of PREFS) {
   const d = MAPDATA.paths[p.id];
@@ -258,6 +262,14 @@ for (const [n, ll] of PORTS) {
   gRoute.append(t); portLbls.push(t);
 }
 
+const pinEl = {}, pinLbl = {};
+for (const t of TOWNS) {
+  let [lon, lat] = t.ll; if (t.pref === 47) { lon -= 2.6; lat += 5.6; }
+  const [x, y] = proj([lon, lat]); t.xy = [x, y];
+  const c = mk("circle", { class: "pin", cx: x, cy: y, r: 7, "data-town": t.id, tabindex: 0, role: "button", "aria-label": t.en + " " + t.ja });
+  const l = mk("text", { class: "tlbl", x: x + 10, y: y + 4, style: "text-anchor:start" }); l.textContent = t.en;
+  gTowns.append(c, l); pinEl[t.id] = c; pinLbl[t.id] = l;
+}
 function mk(tag, attrs = {}) { const e = document.createElementNS(NS, tag); for (const k in attrs) e.setAttribute(k, attrs[k]); return e; }
 
 /* ---------- view / zoom ---------- */
@@ -274,6 +286,13 @@ function applyVB() {
   gLbl.style.display = "block";
   for (const p of PREFS) p.lbl.style.opacity = showPref ? 1 : 0;
   for (const r2 of REGIONS) { r2.lbl.style.fontSize = (15 / scalePx) + "px"; r2.lbl.style.strokeWidth = (3 / scalePx) + "px"; r2.lbl.style.opacity = showPref ? 0 : (S.layer === "regions" ? .9 : .5); }
+  const showT = S.layer === "towns";
+  for (const t of TOWNS) {
+    pinEl[t.id].setAttribute("r", 5 / scalePx);
+    const L2 = pinLbl[t.id]; L2.style.fontSize = (12 / scalePx) + "px"; L2.style.strokeWidth = (3 / scalePx) + "px";
+    L2.setAttribute("x", t.xy[0] + 10 / scalePx); L2.setAttribute("y", t.xy[1] + 4 / scalePx);
+    L2.style.opacity = showT && (zoom > 2.4 || S.town === t.id) ? 1 : 0;
+  }
   portLbls.forEach(t => { t.style.fontSize = fs + "px"; t.style.strokeWidth = (3 / scalePx) + "px"; });
   for (const el of gRoute.querySelectorAll(".port")) el.setAttribute("r", 6 / Math.max(.6, Math.min(scalePx, 1.5)) * .8);
 }
@@ -341,9 +360,10 @@ svg.addEventListener("pointerup", endPtr); svg.addEventListener("pointercancel",
 svg.addEventListener("wheel", e => { e.preventDefault(); cancelAnimationFrame(raf); zoomAt(e.clientX, e.clientY, Math.exp(e.deltaY * (e.ctrlKey ? .01 : .0017))); }, { passive: false });
 svg.addEventListener("click", e => {
   if (moved) { moved = false; return; }
+  const pin = e.target.closest(".pin"); if (pin) { selectTown(pin.dataset.town); return; }
   const el = e.target.closest(".pref"); if (el) selectPref(+el.dataset.id); else if (S.pref) { S.pref = null; render(); }
 });
-svg.addEventListener("keydown", e => { if ((e.key === "Enter" || e.key === " ") && e.target.classList.contains("pref")) { e.preventDefault(); selectPref(+e.target.dataset.id); } });
+svg.addEventListener("keydown", e => { if ((e.key === "Enter" || e.key === " ") && e.target.classList.contains("pref")) { e.preventDefault(); selectPref(+e.target.dataset.id); } if ((e.key === "Enter" || e.key === " ") && e.target.classList.contains("pin")) { e.preventDefault(); selectTown(e.target.dataset.town); } });
 $("#zin").onclick = () => { const r = svg.getBoundingClientRect(); zoomAt(r.left + r.width / 2, r.top + r.height / 2, .6); };
 $("#zout").onclick = () => { const r = svg.getBoundingClientRect(); zoomAt(r.left + r.width / 2, r.top + r.height / 2, 1.6); };
 $("#zreset").onclick = viewAll;
@@ -351,12 +371,17 @@ window.addEventListener("resize", () => { clampVB(); applyVB(); });
 
 // tooltip
 const tip = $("#tip");
-svg.addEventListener("pointerover", e => { const el = e.target.closest(".pref"); if (el && e.pointerType === "mouse") showTip(+el.dataset.id, e); });
+svg.addEventListener("pointerover", e => {
+  const pin = e.target.closest(".pin");
+  if (pin && e.pointerType === "mouse") { const t = TOWNS.find(x => x.id === pin.dataset.town); tip.innerHTML = `<b>${esc(t.en)}</b> ${esc(t.ja)}<br>${esc(t.line)}`; tip.style.display = "block"; tip.style.left = e.clientX + 14 + "px"; tip.style.top = e.clientY + 14 + "px"; return; }
+  const el = e.target.closest(".pref"); if (el && e.pointerType === "mouse") showTip(+el.dataset.id, e);
+});
 svg.addEventListener("pointermove", e => { if (tip.style.display === "block") { tip.style.left = e.clientX + 14 + "px"; tip.style.top = e.clientY + 14 + "px"; } });
-svg.addEventListener("pointerout", e => { if (e.target.closest(".pref")) tip.style.display = "none"; });
+svg.addEventListener("pointerout", e => { if (e.target.closest(".pref") || e.target.closest(".pin")) tip.style.display = "none"; });
 function showTip(id, e) {
   const p = prefById[id]; let extra = "";
   if (S.layer === "fish") { const n = S.month ? fishFor(id).filter(x => inSeason(x.f)).length : fishFor(id).length; extra = n ? `<br>${n} fish ${S.month ? "in season in " + MON3[S.month - 1] : "with local names"}` : ""; }
+  else if (S.layer === "towns") { const n = TOWNS.filter(t => t.pref === id).length; extra = n ? `<br>${n} ${n > 1 ? "towns" : "town"}` : ""; }
   else if (S.layer !== "regions") { const n = ITEMS.filter(i => i.cat === S.layer && i.prefs.includes(id)).length; extra = n ? `<br>${n} ${catById[S.layer].label.toLowerCase()} ${n > 1 ? "entries" : "entry"}` : ""; }
   tip.innerHTML = `<b>${esc(p.en)}</b> ${esc(p.ja)}${extra}`;
   tip.style.display = "block"; tip.style.left = e.clientX + 14 + "px"; tip.style.top = e.clientY + 14 + "px";
@@ -382,11 +407,11 @@ const countFor = (layer, id) => layer === "fish" ? (S.month ? seasonWeight(id) :
 /* ---------- paint ---------- */
 function paint() {
   const L = S.layer; let max = 1;
-  if (L !== "regions") for (const p of PREFS) max = Math.max(max, countFor(L, p.id));
+  if (L !== "regions" && L !== "towns") for (const p of PREFS) max = Math.max(max, countFor(L, p.id));
   for (const p of PREFS) {
     const el = pathEl[p.id]; let fill = "", dim = false;
-    if (L === "regions") {
-      fill = regById[p.reg].color; fill = mix(fill, "#ffffff", S.region && S.region !== p.reg ? .75 : .45);
+    if (L === "regions" || L === "towns") {
+      fill = regById[p.reg].color; fill = mix(fill, "#ffffff", L === "towns" ? .72 : (S.region && S.region !== p.reg ? .75 : .45));
     } else if (L === "fish") {
       if (S.fish) {
         const f = fishById[S.fish]; const si = f.systems.findIndex(s => s.prefs.includes(p.id));
@@ -402,12 +427,16 @@ function paint() {
   }
   if (S.pref) gMap.append(pathEl[S.pref]);
   gRoute.style.display = S.layer === "dashi" ? "block" : "none";
+  gTowns.style.display = S.layer === "towns" ? "block" : "none";
+  for (const t of TOWNS) pinEl[t.id].classList.toggle("sel", S.town === t.id);
 }
 
 /* ---------- legend ---------- */
 function legend() {
   const el = $("#legend"); const L = S.layer; let h = "";
-  if (L === "regions") {
+  if (L === "towns") {
+    h = `<h4>Towns</h4><div class="row"><i class="sw" style="background:var(--blue-d);border-radius:50%"></i>${TOWNS.length} places</div><div style="color:var(--muted);font-size:12px;margin-top:4px">Zoom in to read labels.</div>`;
+  } else if (L === "regions") {
     h = "<h4>Regions</h4>" + REGIONS.map(r => `<button class="row" data-region="${r.id}"><i class="sw" style="background:${r.color}"></i>${esc(r.en)}</button>`).join("");
   } else if (L === "fish" && S.fish) {
     const f = fishById[S.fish];
@@ -430,22 +459,23 @@ $("#legend").addEventListener("click", e => {
 /* ---------- layers ---------- */
 function buildLayers() {
   const nav = $("#layers");
-  const all = [{ id: "regions", label: "Regions" }, ...CATS];
+  const all = [{ id: "regions", label: "Regions" }, { id: "towns", label: "Towns", ja: "町" }, ...CATS];
   nav.innerHTML = all.map(c => `<button class="pill" data-l="${c.id}" aria-pressed="${S.layer === c.id}">${esc(c.label)}${c.ja ? `<small>${esc(c.ja)}</small>` : ""}</button>`).join("");
 }
 $("#layers").addEventListener("click", e => { const b = e.target.closest(".pill"); if (b) setLayer(b.dataset.l); });
 function setLayer(l, keep) {
-  S.layer = l; if (!keep) { S.item = null; S.fish = null; S.pref = null; S.region = null; S.hoverSys = null; }
+  S.layer = l; if (!keep) { S.item = null; S.fish = null; S.pref = null; S.region = null; S.hoverSys = null; S.town = null; }
   buildLayers(); render(); viewAll();
 }
 
 /* ---------- selections ---------- */
 function selectPref(id) { S.pref = id; render(); fitTo(bbox[id]); }
-function selectRegion(id) { S.region = id; S.pref = null; if (S.layer !== "regions") { S.layer = "regions"; S.item = null; S.fish = null; buildLayers(); } render(); fitTo(unionBox(regById[id].prefs)); }
-function selectItem(id) { const it = itemById[id]; S.layer = it.cat; S.item = id; S.fish = null; S.pref = null; buildLayers(); render(); fitTo(unionBox(it.prefs)); }
-function selectFish(id) { S.layer = "fish"; S.fish = id; S.item = null; S.pref = null; S.hoverSys = null; buildLayers(); render(); fitTo(unionBox([...new Set(fishById[id].systems.flatMap(s => s.prefs))])); }
+function selectRegion(id) { S.region = id; S.pref = null; S.town = null; if (S.layer !== "regions") { S.layer = "regions"; S.item = null; S.fish = null; buildLayers(); } render(); fitTo(unionBox(regById[id].prefs)); }
+function selectTown(id) { const t = TOWNS.find(x => x.id === id); S.layer = "towns"; S.town = id; S.item = null; S.fish = null; S.pref = null; S.region = null; buildLayers(); render(); const [x, y] = t.xy; fitTo({ x: x - 45, y: y - 45, w: 90, h: 90 }); }
+function selectItem(id) { const it = itemById[id]; S.layer = it.cat; S.item = id; S.fish = null; S.pref = null; S.town = null; buildLayers(); render(); fitTo(unionBox(it.prefs)); }
+function selectFish(id) { S.layer = "fish"; S.fish = id; S.item = null; S.pref = null; S.hoverSys = null; S.town = null; buildLayers(); render(); fitTo(unionBox([...new Set(fishById[id].systems.flatMap(s => s.prefs))])); }
 function zoomSys(i) { const f = fishById[S.fish]; S.hoverSys = S.hoverSys === i ? null : i; paint(); render(true); if (S.hoverSys !== null) fitTo(unionBox(f.systems[i].prefs)); }
-function clearSel() { S.item = null; S.fish = null; S.pref = null; S.region = null; S.hoverSys = null; render(); viewAll(); }
+function clearSel() { S.town = null; S.item = null; S.fish = null; S.pref = null; S.region = null; S.hoverSys = null; render(); viewAll(); }
 
 /* ---------- panel ---------- */
 const panel = $("#panel");
@@ -455,8 +485,20 @@ const srcList = src => src && src.length ? `<h3>Sources (Japanese)</h3><ul class
 const srcBadge = o => o.src && o.src.length ? `<span class="vbadge">sourced</span>` : "";
 const meter = (k, v) => `<span>${k}</span><span class="dots">${[1, 2, 3, 4, 5].map(i => `<i class="${i <= v ? "on" : ""}"></i>`).join("")}</span>`;
 
+const townChips = ids => ids.length ? `<h3>Towns</h3><div class="chips">${ids.map(id => { const t = TOWNS.find(x => x.id === id); return `<button class="chip" data-town="${t.id}">${esc(t.en)}</button>`; }).join("")}</div>` : "";
+function panelTown(t) {
+  const p = prefById[t.pref], r = regById[p.reg];
+  let h = `<button class="back" data-clear>&larr; All towns</button><h2>${esc(t.en)}</h2><div class="ja">${esc(t.ja)} · <button class="chip" data-pref="${p.id}">${esc(p.en)}</button> <button class="chip" data-region="${r.id}">${esc(r.en)}</button></div><p>${esc(t.line)}</p>`;
+  if (t.items.length || t.fish.length) h += `<h3>Known for</h3>`;
+  h += t.items.map(id => { const i = itemById[id]; return `<button class="card" data-item="${i.id}"><div class="t"><b>${esc(i.name)}</b><span class="ja">${esc(i.ja)}</span>${srcBadge(i)}</div><p>${esc(i.flavor)}</p></button>`; }).join("");
+  h += t.fish.map(id => { const f = fishById[id]; return `<button class="card" data-fish="${f.id}"><div class="t"><b>${esc(f.en)}</b><span class="ja">${esc(f.ja)}</span></div><p>${esc(f.systems[0].names.map(n => n.n).join(" → "))}</p></button>`; }).join("");
+  const others = TOWNS.filter(x => x.pref === t.pref && x.id !== t.id).map(x => x.id);
+  return h + townChips(others).replace("<h3>Towns</h3>", `<h3>More towns in ${esc(p.en)}</h3>`) + `<div class="note">Each town's facts come from the linked entries and their Japanese sources.</div>`;
+}
 function panelHome() {
   const L = S.layer;
+  if (L === "towns") return `<h2>Towns</h2><div class="ja">町</div><p>Many Japanese traditions belong to a town or a port rather than a prefecture: the kombu of Hakodate, the shoyu of Yuasa, the crab of Mikuni. Pick a pin or a town below.</p>` +
+    REGIONS.map(r => { const ts = TOWNS.filter(t => prefById[t.pref].reg === r.id); return `<h3>${esc(r.en)}</h3>` + ts.map(t => `<button class="card" data-town="${t.id}"><div class="t"><b>${esc(t.en)}</b><span class="ja">${esc(t.ja)} · ${esc(prefById[t.pref].en)}</span></div><p>${esc(t.line)}</p></button>`).join(""); }).join("") + note();
   if (L === "regions") return `<h2>Eight regions, one archipelago</h2><p class="sub">Tap a region or any prefecture. Switch layers above to see how a single ingredient changes across the map.</p>` +
     REGIONS.map(r => `<button class="card rc" style="border-left-color:${r.color}" data-region="${r.id}"><div class="t"><b>${esc(r.en)}</b><span class="ja">${esc(r.ja)}</span></div><p>${esc(r.tag)}</p></button>`).join("") + note();
   const c = catById[L];
@@ -476,7 +518,7 @@ function panelItem(it) {
   <div class="box g"><b>Flavour</b>${esc(it.flavor)}</div>
   <div class="box"><b>Use</b>${esc(it.use)}</div>
   ${it.craft ? `<div class="box k"><b>Craft notes</b>${esc(it.craft)}</div>` : ""}
-  <h3>Where</h3>${chips(it.prefs)}${srcList(it.src)}` + note();
+  <h3>Where</h3>${chips(it.prefs)}${townChips(TOWNS.filter(t => t.items.includes(it.id)).map(t => t.id))}${srcList(it.src)}` + note();
 }
 function panelFish(f) {
   const sel = S.hoverSys;
@@ -488,7 +530,7 @@ function panelFish(f) {
   h += f.seasons.map(s => `<div class="season"><b>${esc(s.n)}</b> <span class="ja">${esc(s.j)}</span><br>${esc(s.t)}</div>`).join("");
   h += `<div class="box g"><b>Flavour</b>${esc(f.flavor)}</div><div class="box"><b>Use</b>${esc(f.use)}</div>`;
   if (f.craft) h += `<div class="box k"><b>Craft notes</b>${esc(f.craft)}</div>`;
-  return h + srcList(f.src) + note();
+  return h + townChips(TOWNS.filter(t => t.fish.includes(f.id)).map(t => t.id)) + srcList(f.src) + note();
 }
 function panelPref(p) {
   const r = regById[p.reg]; const fish = fishFor(p.id); const items = itemsFor(p.id);
@@ -503,6 +545,7 @@ function panelPref(p) {
       h += `<h3>${esc(catById[cid].label)}</h3>` + list.map(i => `<button class="card" data-item="${i.id}"><div class="t"><b>${esc(i.name)}</b><span class="ja">${esc(i.ja)}</span></div><p>${esc(i.flavor)}</p></button>`).join("");
     }
   }
+  h += townChips(TOWNS.filter(t => t.pref === p.id).map(t => t.id));
   if (!fish.length && !items.length) h += `<p class="empty">No entries yet for this prefecture in the current layers.</p>`;
   return h + note();
 }
@@ -526,6 +569,7 @@ function render(keepScroll) {
   const top = panel.scrollTop;
   let h;
   if (S.pref) h = panelPref(prefById[S.pref]);
+  else if (S.town) h = panelTown(TOWNS.find(x => x.id === S.town));
   else if (S.fish) h = panelFish(fishById[S.fish]);
   else if (S.item) h = panelItem(itemById[S.item]);
   else if (S.region) h = panelRegion(regById[S.region]);
@@ -534,15 +578,16 @@ function render(keepScroll) {
   paint(); legend(); monthbar(); applyVB(); writeHash();
 }
 panel.addEventListener("click", e => {
-  const t = e.target.closest("[data-item],[data-fish],[data-pref],[data-region],[data-clear],[data-closepref],[data-sys]"); if (!t) return;
+  const t = e.target.closest("[data-item],[data-fish],[data-pref],[data-region],[data-clear],[data-closepref],[data-sys],[data-town]"); if (!t) return;
   const d = t.dataset;
-  if (d.item) selectItem(d.item);
+  if (d.town) selectTown(d.town);
+  else if (d.item) selectItem(d.item);
   else if (d.fish) selectFish(d.fish);
   else if (d.pref) selectPref(+d.pref);
   else if (d.region) selectRegion(d.region);
   else if (d.sys !== undefined) zoomSys(+d.sys);
   else if (d.clear !== undefined) clearSel();
-  else if (d.closepref !== undefined) { S.pref = null; render(); (S.item || S.fish || S.region) ? null : viewAll(); }
+  else if (d.closepref !== undefined) { S.pref = null; render(); (S.item || S.fish || S.region || S.town) ? null : viewAll(); }
 });
 $("#regionbar").innerHTML = REGIONS.map(r => `<button data-r="${r.id}">${esc(r.en.split(" ")[0])}</button>`).join("");
 $("#regionbar").addEventListener("click", e => { const b = e.target.closest("button"); if (b) fitTo(unionBox(regById[b.dataset.r].prefs)); });
@@ -554,6 +599,7 @@ for (const f of FISH) {
   index.push({ k: [f.en, f.ja, f.alt, f.latin].join(" ").toLowerCase(), label: f.en + " " + f.ja, sub: "Fish", go: () => selectFish(f.id) });
   for (const s of f.systems) for (const n of s.names) index.push({ k: (n.n + " " + n.j).toLowerCase(), label: n.n + " " + n.j, sub: `${f.en} name · ${s.label}`, go: () => { selectFish(f.id); } });
 }
+for (const t of TOWNS) index.push({ k: [t.en, t.ja, t.line].join(" ").toLowerCase(), label: t.en + " " + t.ja, sub: "Town · " + prefById[t.pref].en, go: () => selectTown(t.id) });
 for (const i of ITEMS) index.push({ k: [i.name, i.ja, i.text, i.craft || ""].join(" ").toLowerCase(), label: i.name + " " + i.ja, sub: catById[i.cat].label, go: () => selectItem(i.id) });
 const q = $("#q"), res = $("#results");
 q.addEventListener("input", () => {
@@ -575,15 +621,16 @@ $("#theme").onclick = () => {
 /* ---------- url state ---------- */
 function writeHash() {
   const p = new URLSearchParams(); if (S.layer !== "regions") p.set("l", S.layer);
-  if (S.month) p.set("m", S.month); if (S.item) p.set("item", S.item); if (S.fish) p.set("fish", S.fish); if (S.pref) p.set("pref", S.pref); if (S.region) p.set("region", S.region);
+  if (S.month) p.set("m", S.month); if (S.item) p.set("item", S.item); if (S.fish) p.set("fish", S.fish); if (S.pref) p.set("pref", S.pref); if (S.town) p.set("town", S.town); if (S.region) p.set("region", S.region);
   const s = p.toString(); try { history.replaceState(null, "", s ? "#" + s : location.pathname + location.search); } catch (e) {}
 }
 function readHash() {
   const p = new URLSearchParams(location.hash.slice(1));
-  const l = p.get("l"); if (l && (l === "regions" || catById[l])) S.layer = l;
+  const l = p.get("l"); if (l && (l === "regions" || l === "towns" || catById[l])) S.layer = l;
   if (+p.get("m") >= 1 && +p.get("m") <= 12) S.month = +p.get("m");
   if (p.get("item") && itemById[p.get("item")]) { S.item = p.get("item"); S.layer = itemById[S.item].cat; }
   if (p.get("fish") && fishById[p.get("fish")]) { S.fish = p.get("fish"); S.layer = "fish"; }
+  if (p.get("town") && TOWNS.find(t => t.id === p.get("town"))) { S.town = p.get("town"); S.layer = "towns"; }
   if (p.get("region") && regById[p.get("region")]) S.region = p.get("region");
   if (p.get("pref") && prefById[+p.get("pref")]) S.pref = +p.get("pref");
 }
@@ -592,7 +639,7 @@ function readHash() {
 readHash(); buildLayers();
 const ar0 = () => svg.clientHeight / svg.clientWidth || 1;
 requestAnimationFrame(() => { vb = { ...base }; clampVB(); viewAll(); render();
-  if (S.pref) fitTo(bbox[S.pref], false); else if (S.item) fitTo(unionBox(itemById[S.item].prefs), false); else if (S.fish) fitTo(unionBox([...new Set(fishById[S.fish].systems.flatMap(s => s.prefs))]), false);
+  if (S.town) { const [x, y] = TOWNS.find(t => t.id === S.town).xy; fitTo({ x: x - 45, y: y - 45, w: 90, h: 90 }, false); } else if (S.pref) fitTo(bbox[S.pref], false); else if (S.item) fitTo(unionBox(itemById[S.item].prefs), false); else if (S.fish) fitTo(unionBox([...new Set(fishById[S.fish].systems.flatMap(s => s.prefs))]), false);
 });
 })();
 </script>
