@@ -1,1 +1,14 @@
-# Kanji
+# Regional Japan
+
+An interactive, zoomable map of Japan's regional food and drink: fish names that change with size, season and place (shusse-uo), shoyu, miso, kombu and dashi, ramen, noodles, sake, shochu, whisky, beer and wine.
+
+Open `index.html` in a browser. It is a single static file with no dependencies.
+
+## Editing
+- `src/data.js`: all content (regions, prefectures, items, fish)
+- `src/template.html`: layout, styling and map logic
+- `src/map.json`: simplified prefecture outlines (Okinawa inset)
+- `tools/build_map.py`: regenerates `src/map.json` from the dataofjapan/land GeoJSON
+- `python3 tools/build_site.py`: rebuilds `index.html`
+
+Regional names are traditions, not strict borders; entries are an editorial guide and worth double-checking before publishing.
