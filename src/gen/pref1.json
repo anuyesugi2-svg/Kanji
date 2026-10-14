@@ -1,0 +1,225 @@
+[
+{"pref":1,
+"history":"Hokkaido's food culture grew from Ainu preservation practice (frozen salmon, ruibe) and from the Edo to Meiji kitamaebune trade, which linked Hokkaido and Osaka and carried herring, kombu and salmon south in exchange for rice, salt, sugar and sake. Herring was dried into migaki-nishin and shipped by sea. Sheep farming was promoted as national policy in the Taisho era when WWI disrupted wool imports, which spread mutton eating (MAFF); a MAFF children's page instead says jingisukan was devised in early Showa Hokkaido.",
+"character":"Cooking is built on cold-water fish and sea products preserved for transport and winter: salted and dried salmon and herring, kombu used to wrap salmon or herring, and salmon simmered in a miso broth (Ishikari nabe, said to descend from fishermen's salmon miso soup). Grilled lamb or mutton at the table (jingisukan) and Ainu-derived frozen salmon eaten half-thawed (ruibe) mark the meat and raw sides. Hokkaido also holds an over-80% national share, and first place in output, for scallop, salmon and trout, walleye pollock, hokke, saury and kombu (per one seafood guide).",
+"staples":[
+{"name":"Ishikari nabe","ja":"石狩鍋","note":"Salmon hot pot in miso broth; claimed origin is the restaurant Kindaitei at the Ishikari river mouth (founded 1880), though accounts also describe Edo-era fishermen simmering salmon in miso soup."},
+{"name":"Jingisukan","ja":"ジンギスカン","note":"Grilled mutton or lamb; origin disputed between Taisho-era state sheep promotion and invention in early Showa Hokkaido. April 29 is the Jingisukan Day pun on yo-n-niku (羊肉)."},
+{"name":"Chanchan-yaki","ja":"ちゃんちゃん焼き","note":"Chosen with Ishikari nabe and jingisukan to represent Hokkaido in the 2007 MAFF 100 regional dishes selection (per Ishikari city)."},
+{"name":"Ruibe","ja":"ルイベ","note":"Salmon frozen and eaten while still partly frozen; described as an Ainu dish and preservation method."},
+{"name":"Nishin soba","ja":"ニシン蕎麦","note":"Soba topped with simmered dried herring; MAFF lists it as a dish passed down across the whole of Hokkaido."},
+{"name":"Migaki-nishin","ja":"身欠きニシン","note":"Edo-period herring, dried and sent to Honshu by kitamaebune and other sea routes; base of herring dishes in many regions."},
+{"name":"Kombu-maki","ja":"昆布巻き","note":"Salmon or herring rolled in kombu; tied to Hokkaido's top-ranking kombu output."},
+{"name":"Sake: tokishirazu and akiaji","ja":"時鮭・秋味","note":"Early-summer salmon (tokishirazu, around June-July) and autumn run salmon (akiaji, September-October); Pacific coast peak October-November."},
+{"name":"Hokkaido scallop","ja":"ホタテ","note":"Cited as having two seasons, summer (peak June-August) and winter."},
+{"name":"Hidaka kombu (Erimo)","ja":"日高昆布","note":"Erimo town's calendar gives July-September as the season, while another site gives January-May, so harvest timing varies by source."}
+],
+"calendar":[
+{"season":"Spring","text":"Sea urchin season depends on coast: the Pacific side is roughly December to May, the Japan Sea side roughly May to August (a seafood calendar). The sources reviewed give no other dated spring items."},
+{"season":"Summer","text":"Tokishirazu salmon in June-July, scallop at its summer peak (June-August), and Japan Sea sea urchin. Erimo's calendar puts Hidaka kombu at July-September."},
+{"season":"Autumn","text":"Akiaji salmon from September to October, peaking on the Pacific side in October-November; this is the salmon that goes to ruibe, Ishikari nabe, shiobiki (salted) salmon and kombu-maki."},
+{"season":"Winter","text":"Scallop's second season is winter, and kegani is listed among February seasonal items though one source says it is available all year. In Matsumae, salted salmon (shiobiki-zake) and nishin-zuke are New Year dishes."}
+],
+"markets":[
+{"name":"Ishikari river mouth","ja":"石狩","note":"Birthplace claim for Ishikari nabe (Kindaitei, 1880); city site names Ishikari nabe, jingisukan and chanchan-yaki as the three local dishes."},
+{"name":"Otaru","ja":"小樽","note":"Port tied to the kitamaebune trade that moved herring, kombu and salmon to Osaka; a Japan Heritage route traces this."},
+{"name":"Matsumae","ja":"松前","note":"Documented for New Year foods: shiobiki salmon, nishin-zuke, and a custom of eating whale at New Year linked to herring runs."}
+],
+"notes":"Origins are contested: MAFF pages give two different accounts of jingisukan (Taisho-era state sheep promotion vs early Showa invention), and Ishikari nabe is traced both to Kindaitei (1880) and to older fishermen's salmon soup. Seasons for kombu and sea urchin differ by coast and source, so confirm against the local fishery cooperative. This page did not verify any specific market, GI registration or potato/dairy products in its sources.",
+"src":[["MAFF: Jingisukan, Hokkaido","https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/jingisukan_hokkaido.html"],["Ishikari City: Hokkaido's three local dishes","https://www.city.ishikari.hokkaido.jp/kanko/taberu/1002987.html"],["Kitamaebune overview","https://www.kitamae-bune.com/about/main/"],["PREZO: Hokkaido seafood seasonal calendar","https://prezo.jp/column/2222"]]},
+
+{"pref":2,
+"history":"Aomori's Nanbu district in the southeast is hit by the yamase cold wind, so rice farming was unreliable and a flour and millet culture (wheat, awa, hie) took hold, with some households eating it as the staple into the mid-Showa period (MAFF). Senbei-jiru, in which Nanbu senbei is simmered in soup, has been eaten at home across northern Iwate and Pacific-side Aomori for about 200 years, and Hachinohe made it a named local dish.",
+"character":"The Nanbu side is built on wheat and millet preparations that keep: Nanbu senbei made from wheat flour, salt and water baked in an iron mold, torn into soup with vegetables and itokonnyaku (shirataki-type konnyaku) in a chicken stock or miso base. The Tsugaru and sea side is built on whole-animal use and shellfish: cod offal in miso soup, and scallop shell used as the cooking pot for dashi, miso and egg.",
+"staples":[
+{"name":"Senbei-jiru","ja":"せんべい汁","note":"Nanbu senbei broken into a chicken-stock or miso soup with vegetables and itokonnyaku; Hachinohe has about 200 serving shops (MAFF)."},
+{"name":"Nanbu senbei","ja":"南部せんべい","note":"Wheat flour, salt and water baked round in an iron mold; positioned as a preserved food of cold-damage areas."},
+{"name":"Kaiyaki-miso","ja":"貝焼き味噌","note":"Large scallop shell as pot: dashi, miso and egg. Called kaiyaki-miso in Tsugaru and miso-kaiyaki in Shimokita; once a nourishing dish for postpartum or illness because eggs were precious."},
+{"name":"Jappa-jiru","ja":"じゃっぱ汁","note":"Winter cod soup using the offal and bones; jappa is a Tsugaru dialect word for discards. Flavour comes from the bone-and-offal richness plus miso."},
+{"name":"Mutsu Bay scallop","ja":"陸奥湾ホタテ","note":"Two seasons: large adductor May-August, and December-March for roe, milt and baby scallop. Hiranai is the leading landing area."},
+{"name":"Oma tuna","ja":"大間まぐろ","note":"Pole-and-line wild bluefin; in season autumn to winter, fattiest from about October to December."},
+{"name":"Jusanko yamato shijimi","ja":"十三湖のヤマトシジミ","note":"Lake Jusan clams; summer season, one source gives June-July."},
+{"name":"Apples","ja":"りんご","note":"About 60% of the national share; harvest runs from about August to November by cultivar, with Fuji available through winter."},
+{"name":"Hitsumi","ja":"ひっつみ","note":"Hand-torn wheat-dough soup eaten in southeast Aomori and north-central Iwate as a rice substitute."}
+],
+"calendar":[
+{"season":"Spring","text":"The sources reviewed gave no dated spring items. The Mutsu Bay scallop season for large adductor muscle opens in May (May-August), which is the first marker of the new season."},
+{"season":"Summer","text":"Mutsu Bay scallop at its adductor peak (May-August), Jusanko shijimi (about June-July), and Takkimi sweet corn are the summer items in Aomori's seasonal guide."},
+{"season":"Autumn","text":"Apples are harvested from about August to November depending on cultivar; Hachinohe mackerel and squid are autumn catches; Oma tuna begins its fatty season, with October to December the peak."},
+{"season":"Winter","text":"Oma tuna, the winter scallop season (December-March, roe and baby scallop) and cod for jappa-jiru. Kaiyaki-miso and senbei-jiru are the home winter dishes; Fuji apples keep through the season."}
+],
+"markets":[
+{"name":"Hachinohe senbei-jiru shops","ja":"八戸","note":"About 200 shops serve senbei-jiru in Hachinohe, per MAFF's children's guide."},
+{"name":"Oma","ja":"大間","note":"Fishing port for pole-and-line wild bluefin tuna."},
+{"name":"Hiranai and Mutsu Bay","ja":"平内町・陸奥湾","note":"Largest scallop landing area in Mutsu Bay."},
+{"name":"Lake Jusan","ja":"十三湖","note":"Source of yamato shijimi clams."}
+],
+"notes":"Names differ by locality: kaiyaki-miso in Tsugaru, miso-kaiyaki in Shimokita. Seasonal dates for scallop, tuna and shijimi differ across commercial guides, so a chef should confirm with the local cooperative. The sources reviewed did not confirm a specific GI registration, market names such as the Hachinohe or Furukawa markets, or garlic and nagaimo details, so those are left out.",
+"src":[["Aomori Prefecture: local cuisine","https://www.pref.aomori.lg.jp/k-kensei/culture_ryouri.html"],["MAFF Area Stories: Aomori","https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/area_stories/aomori.html"],["MAFF: Senbei-jiru","https://www.maff.go.jp/j/syokuiku/kodomo_navi/cuisine/cuisine1_2.html"],["Tabiiro: Aomori specialties","https://tabiiro.jp/gourmet/article/aomori-meibutsu-gotouchi/"]]},
+
+{"pref":3,
+"history":"Cold-damage from the yamase wind in northern Iwate made rice unreliable, so people grew millets (awa, hie, kibi), wheat, soybeans and buckwheat as insurance against crop failure (MAFF). This produced a flour-and-grain cuisine: hitsumi, in which kneaded wheat dough is stretched thin, torn by hand and simmered with vegetables and chicken, and mamejishitogi. Senbei-jiru is eaten from northern Iwate to Pacific-side Aomori. Morioka's reimen and jajamen are separate noodle dishes in the city.",
+"character":"Iwate food is flour and grain cuisine: wheat dough torn into soup (hitsumi), buckwheat served by the bowlful (wanko soba), wheat-and-bean dumplings, and millet preparations. Along the Sanriku coast, sea urchin that feeds on seaweed beds and oysters supply the seafood side. Morioka's three noodles diverge widely: the starch-chewy reimen, the meat-miso jajamen mixed by the diner, and wanko soba.",
+"staples":[
+{"name":"Wanko soba","ja":"わんこそば","note":"Soba in small bowl-sized portions; the server keeps adding until the guest closes the lid. Attributed to Nanbu hospitality, with Hanamaki claimed as the origin."},
+{"name":"Hitsumi","ja":"ひっつみ","note":"Wheat dough kneaded with water, stretched thin and torn by hand into a soup of vegetables and chicken; name from the dialect word hittsumu (to tear)."},
+{"name":"Mamebu-jiru","ja":"まめぶ汁","note":"Kuji-area soup with dumplings reported to contain brown sugar and walnut; the source was not well attributed, so treat as indicative."},
+{"name":"Mamejishitogi","ja":"豆しとぎ","note":"Northern-Iwate dish named by MAFF as a product of yamase-driven reliance on grains and beans."},
+{"name":"Senbei-jiru","ja":"せんべい汁","note":"Nanbu senbei in soup; shared with Aomori's Pacific side, about 200 years in home cooking."},
+{"name":"Morioka reimen","ja":"盛岡冷麺","note":"Said to descend from a cold noodle served in Morioka by people from northern Korea; potato starch gives a strong chew."},
+{"name":"Morioka jajamen","ja":"盛岡じゃじゃ麺","note":"Flat noodles topped with meat miso and cucumber, with seasonings added and mixed by the diner. The shop Pairon is cited as the originator."},
+{"name":"Sanriku sea urchin","ja":"三陸のウニ","note":"Described as feeding on seaweed beds; June-July season in a tourism guide."},
+{"name":"Maesawa beef","ja":"前沢牛","note":"Wagyu from Maesawa in Oshu, noted for fine marbling."},
+{"name":"Iwate Tankaku beef","ja":"いわて短角牛","note":"Listed as an Iwate brand beef; no further detail was confirmed."}
+],
+"calendar":[
+{"season":"Spring","text":"The sources reviewed gave no firm spring dates. The structural pattern they record is reliance on millets, wheat, soy and buckwheat as insurance against failed rice harvests."},
+{"season":"Summer","text":"Sanriku sea urchin is in season in June-July, feeding on seaweed beds. The sources reviewed do not date other summer items."},
+{"season":"Autumn","text":"No autumn dates were given in the sources reviewed. Wheat, soybeans and buckwheat are the insurance crops MAFF names, but harvest months are not stated."},
+{"season":"Winter","text":"Hitsumi is described as a winter hot pot eaten around the hearth in the north. Sanriku oysters are named as a coastal specialty, though the search results gave no season for them."}
+],
+"markets":[
+{"name":"Hanamaki wanko soba shops","ja":"花巻","note":"Hanamaki is claimed as the origin; several wanko soba shops and experience courses there are listed in tourism sources."},
+{"name":"Morioka three noodles","ja":"盛岡三大麺","note":"Wanko soba, reimen and jajamen, promoted together at Morioka station building."},
+{"name":"Morioka Pairon","ja":"白龍","note":"Cited as the shop where jajamen began."},
+{"name":"Kuji","ja":"久慈","note":"Area where mamebu-jiru is centred."}
+],
+"notes":"Wanko soba etiquette: the server refills until the guest puts the lid on the bowl. Morioka's three noodles (wanko soba, reimen, jajamen) are promoted together. This page's sources did not confirm GI status, the Zaimokucho morning market, or Sanriku abalone and wakame seasons, so those are omitted; a chef should verify them locally.",
+"src":[["MAFF Area Stories: Iwate","https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/area_stories/iwate.html"],["Tabiiro: Iwate specialties","https://tabiiro.jp/gourmet/article/iwate-meibutsu-gotouchi/"],["Fesan: Morioka three noodles","https://fesan-jp.com/iwatemonotrip/ca11.php"],["Hanamaki: wanko soba experience","https://www.kanko-hanamaki.ne.jp/modelcourse/wankosoba/"]]},
+
+{"pref":4,
+"history":"Date Masamune of the Sendai domain had a large miso storehouse built (Goensokura); Sendai's high-salt miso resisted spoilage on campaigns and was prized by warriors of other domains (MAFF). Masamune is also linked to zunda mochi, and hoya soup appears in documents as a New Year dish of his. Sasakamaboko dates to early Meiji flounder landings in Sendai Bay, and gyutan grilling is credited to the shop Aji Tasuke, which opened in 1948.",
+"character":"Miyagi cooking combines a warrior-domain preservation tradition (Sendai miso) with Pacific seafood: salmon and ikura in harako-meshi, hoya, oysters, and flounder-based fish paste. Beef tongue is cut thick and aged before grilling, and the grain side includes zunda, a sweetened edamame paste on mochi.",
+"staples":[
+{"name":"Sendai miso","ja":"仙台味噌","note":"High-salt miso developed as a campaign preservation food in the Date domain, produced at the Goensokura storehouse."},
+{"name":"Gyutan","ja":"牛たん焼き","note":"Credited to founder of Aji Tasuke (opened 1948), who used tongue left uneaten by US troops stationed there; cut thick and aged before grilling."},
+{"name":"Zunda mochi","ja":"ずんだ餅","note":"Boiled, mashed edamame sweetened with sugar and coated on mochi; origin stories include Masamune crushing beans with a sword."},
+{"name":"Sasakamaboko","ja":"笹かまぼこ","note":"Early-Meiji flounder surimi on skewers grilled over fire; naming credited to Abe Kamaboko, now made mainly with white-fish surimi."},
+{"name":"Harako-meshi","ja":"はらこ飯","note":"Salmon and ikura (harako) dipped in cooking liquid and served over rice cooked with it; from Watari, in season September-November."},
+{"name":"Seri-nabe","ja":"せり鍋","note":"Chicken-bone and soy broth with chicken and seri used with the root; a winter dish said to be devised at a Sendai small restaurant."},
+{"name":"Hoya (sea squirt)","ja":"ホヤ","note":"Miyagi produces about 80% of Japan's hoya; culture started in Meiji; season May-August."},
+{"name":"Matsushima oyster","ja":"松島牡蠣","note":"Matsushima Bay season October-March."},
+{"name":"Hoya no sunomono","ja":"ホヤの酢の物","note":"Vinegared hoya, listed in MAFF's Uchi no Kyodo Ryori for Miyagi."}
+],
+"calendar":[
+{"season":"Spring","text":"Hoya begins its season in May (May-August), which in Miyagi is also when frozen storage has made year-round supply possible, though the fresh season stays prized."},
+{"season":"Summer","text":"Hoya continues through August; it is the headline Sanriku summer product, served in sunomono and also in a prefectural tempura and karaage promotion."},
+{"season":"Autumn","text":"Salmon run September to November is the harako-meshi season at Watari; Matsushima oyster season starts in October."},
+{"season":"Winter","text":"Matsushima oysters run to March; seri-nabe is a winter dish; and hoya clear soup is documented as a New Year dish of Date Masamune."}
+],
+"markets":[
+{"name":"Sendai Asaichi","ja":"仙台朝市","note":"Morning market in Sendai highlighted in a nippon.com guide to the city's gyutan, zunda and sasakamaboko."},
+{"name":"Watari","ja":"亘理町","note":"Birthplace of harako-meshi."},
+{"name":"Matsushima Bay","ja":"松島湾","note":"Oyster-growing bay with an October-March season."},
+{"name":"Kesennuma","ja":"気仙沼","note":"Kesennuma horumon appears in the prefecture's list of local favourites."}
+],
+"notes":"Origins differ by source: zunda (Masamune's sword story is one of several theories), sasakamaboko naming, and the Aji Tasuke gyutan story. Miyagi's prefectural food portal also lists Aoba gyoza, Kesennuma horumon and imoni among local favourites. The sources reviewed did not confirm Sendai beef grading, Sasanishiki or Hitomebore details, Kesennuma shark fin, or the Shiogama market, so those are omitted.",
+"src":[["MAFF Area Stories: Miyagi","https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/area_stories/miyagi.html"],["Miyagi Shunsen Tanbo: local dishes","https://shunsentanbou.pref.miyagi.jp/feature/detail_57.html"],["nippon.com: Miyagi gourmet and Sendai morning market","https://www.nippon.com/ja/guide-to-japan/gu900010/"],["Miyagi Tourism: hoya","https://www.miyagi-kankou.or.jp/theme/detail.php?id=19040"]]},
+
+{"pref":5,
+"history":"Akita's food culture rests on rice, preserved fish and fermentation. Kiritanpo is traced to Odate and Kazuno, where charcoal burners and loggers living in the mountains mashed leftover rice, put it on sticks and grilled it, later adding it to chicken pot. Iburigakko came from drying daikon over the hearth because cold weather would not dry it in the sun. The port district Tsuchizaki was an important kitamaebune stop, and Hokkaido skate (kasube) was used there.",
+"character":"Akita flavour logic is salt and smoke against winter: shottsuru fish sauce from hatahata aged one to two years, daikon smoked over the hearth (iburigakko), and grilled rice sticks (kiritanpo) simmered in a chicken-based broth with Hinai jidori. Shottsuru is one of Japan's three major fish sauces, with Ishikawa's ishiru and Kagawa's ikanago-shoyu.",
+"staples":[
+{"name":"Kiritanpo-nabe","ja":"きりたんぽ鍋","note":"Grilled mashed-rice sticks simmered in chicken broth; Hinai jidori is called essential; eaten around new rice harvest."},
+{"name":"Iburigakko","ja":"いぶりがっこ","note":"Daikon dried over the hearth smoke then pickled; name from iburi (smoking) and gakko (pickles, Akita dialect)."},
+{"name":"Shottsuru","ja":"しょっつる","note":"Fish sauce of hatahata (jalan adds aji and iwashi as raw materials); fermented one to two years (MAFF) or over one year (zengakuei)."},
+{"name":"Shottsuru-nabe","ja":"しょっつる鍋","note":"Hatahata hot pot seasoned with shottsuru; hatahata is valued as the fish that announces winter."},
+{"name":"Kayaki","ja":"かやき","note":"Shell used as pot, seasoned with shottsuru for seasonal fish and vegetables."},
+{"name":"Hatahata-zushi","ja":"ハタハタ寿司","note":"A fermented rice-fish sushi (iizushi) listed in Akita's fermented foods."},
+{"name":"Sasamaki","ja":"笹巻き","note":"Rice-based food wrapped in bamboo leaf, listed in prefectural material."},
+{"name":"Udon-wan","ja":"うどん椀","note":"Udon bowl served on ceremonial trays; culture tied to kitamaebune ports such as Tsuchizaki."},
+{"name":"Hinai jidori","ja":"比内地鶏","note":"Chicken named as a key ingredient for kiritanpo-nabe; no further specifications confirmed."}
+],
+"calendar":[
+{"season":"Spring","text":"The sources reviewed give no dated spring items for Akita; this page therefore records none rather than guessing."},
+{"season":"Summer","text":"No dated summer items were found in the sources reviewed; this page therefore records none rather than guessing."},
+{"season":"Autumn","text":"Kiritanpo is typically made when new rice is harvested, as a way of marking the harvest."},
+{"season":"Winter","text":"Hatahata signals the arrival of winter and is eaten in shottsuru-nabe; iburigakko is made over the hearth because the cold prevents sun-drying. Kiritanpo-nabe is the main hot dish of the season."}
+],
+"markets":[
+{"name":"Odate and Kazuno","ja":"大館・鹿角","note":"Region credited as the origin of kiritanpo."},
+{"name":"Tsuchizaki, Akita City","ja":"土崎","note":"Kitamaebune port district, source of the udon-wan ceremonial bowl culture and Hokkaido kasube use."}
+],
+"notes":"Shottsuru fermentation time is given as 1-2 years by MAFF and as over one year elsewhere, so do not quote a single figure without checking the maker. The Kiritanpo name is explained by one theory as the grilled rice resembling a cattail (kamo no ho). The sources reviewed did not confirm Hinai jidori grade rules, the hatahata fishing season dates, or Akita market names, so those are omitted.",
+"src":[["MAFF Area Stories: Akita","https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/area_stories/akita.html"],["MAFF: Kiritanpo-nabe","https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/29_6_akita.html"],["MAFF: Iburigakko","https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/29_1_akita.html"],["Zengakuei: Shottsuru-nabe","https://www.zengakuei.or.jp/kyodosyoku/pref/akita_02.html"]]},
+
+{"pref":6,
+"history":"The Mogami River ran from the inland Murayama basin to Sakata on the Japan Sea, and kitamaebune connected Sakata to Kyoto and Osaka. Up-river boats carried salt, sugar, sea products, cotton and tea; down-river boats carried rice, safflower, aoso and soybeans. Imoni is dated to the mid-1600s at Nagasaki in Nakayama, where river-boat workers simmered taro with dried cod from the cargo. Safflower beni-mochi was collected on the river and shipped to Kyoto.",
+"character":"Yamagata flavour is built on river-borne goods: dried cod, salt and sea products arriving inland, and taro grown inland. Imoni splits into three regional styles: beef and soy in Murayama and Mogami, Okitama beef with soy sauce in Okitama, and pork and miso in the Shonai coast.",
+"staples":[
+{"name":"Imoni (Murayama and Mogami style)","ja":"芋煮","note":"Beef and soy-sauce version with taro, konnyaku and negi; mushrooms or burdock shavings added in places."},
+{"name":"Imoni (Okitama style)","ja":"置賜の芋煮","note":"Okitama beef with soy-sauce flavouring."},
+{"name":"Imoni (Shonai style)","ja":"庄内の芋煮","note":"Pork with miso flavouring."},
+{"name":"Taro (satoimo)","ja":"里芋","note":"Core of imoni; imoni is eaten from the taro harvest through autumn and winter."},
+{"name":"Bodara (dried cod)","ja":"棒鱈","note":"Dried cod in the imoni origin story, hauled on the river."},
+{"name":"Muki soba","ja":"むきそば","note":"Sakata dish said to come from Kamigata shojin cooking via kitamaebune, served in leading restaurants in early Meiji."},
+{"name":"Beni-mochi (safflower)","ja":"紅餅","note":"Processed safflower dye cake produced about 450 years, shipped via Mogami River and kitamaebune to Kyoto; a Japan agricultural heritage."},
+{"name":"Konnyaku","ja":"こんにゃく","note":"Listed as a standard imoni ingredient."}
+],
+"calendar":[
+{"season":"Spring","text":"The sources reviewed gave no dated spring items for Yamagata; this page records none rather than guessing. Up-river boats from Sakata carried salt, sea products and other goods inland."},
+{"season":"Summer","text":"No summer items were dated in the sources reviewed. Murayama safflower, processed into beni-mochi over about 450 years, is the region's best-documented product but its season was not stated."},
+{"season":"Autumn","text":"Imoni is eaten from the taro harvest, and the riverbank imoni-kai gathering is the defining autumn custom; it has also been certified under the Agency for Cultural Affairs 100-Year Food program."},
+{"season":"Winter","text":"Imoni continues into winter, as MAFF describes it as eaten in autumn to winter. The Omi-merchant record of herring and taro for a safflower-trade gathering shows it was already a festive dish."}
+],
+"markets":[
+{"name":"Nakayama-machi Nagasaki","ja":"中山町長崎","note":"Cited as the place where imoni began, at the head of Mogami River boat transport."},
+{"name":"Sakata","ja":"酒田","note":"River mouth port and kitamaebune hub; muki soba."},
+{"name":"Murayama safflower district","ja":"村山","note":"Source of Mogami safflower."}
+],
+"notes":"Imoni origin is disputed: MAFF gives mid-1600s Nakayama, other sources say the Genroku period, and a Kyoto dish imobo is also proposed. An Omi-merchant record exists of herring and taro for a safflower trade gathering in the late Edo period. The sources did not support claims about Yonezawa beef, cherries, tama-konnyaku or hiyashi ramen, so those are omitted here.",
+"src":[["MAFF: Imoni, Yamagata","https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/imoni_yamagata.html"],["MAFF: Mogami River basin safflower (agricultural heritage)","https://www.maff.go.jp/j/nousin/kantai/giahs_3_171.html"],["Agency for Cultural Affairs: 100-Year Food, Yamagata","https://www.bunka.go.jp/seisaku/shokubunka/foodculture/hyakunenfood/jirei/list_yamagata.html"],["Yamagata tourism: Nakayama, birthplace of imoni-kai","https://yamagatakanko.com/attractions/detail_13024.html"]]},
+
+{"pref":7,
+"history":"The Abukuma highlands and the Ou mountains divide Fukushima into three zones, with Hamadori on the Pacific, while Nakadori and Aizu absorbed food habits from six neighbouring prefectures (MAFF). Aizu's signature kozuyu is generally said to have arisen as samurai cuisine in the late Edo Aizu domain, with some sources putting its current form at the end of Meiji. An inland-substitute theory holds that dried scallop adductor stood in for fresh seafood.",
+"character":"Inland Aizu cooking works with dried and preserved ingredients: dried scallop adductor dashi, wood-ear, dried shiitake, taro, itokonnyaku, shiratama-fu and warabi in kozuyu. Nakadori uses cold from the Abukuma uplands for freeze-dried tofu (shimi-tofu) and ika-ninjin, and Hamadori leans on Pacific seafood.",
+"staples":[
+{"name":"Kozuyu","ja":"こづゆ","note":"Aizu ceremonial soup of dried scallop adductor dashi; ingredients include wood-ear, taro, itokonnyaku, dried shiitake, shiratama-fu, carrot and warabi."},
+{"name":"Kozuyu serving rule","ja":"こづゆの作法","note":"Served in small Aizu-nuri lacquer bowls; seven or nine items are favoured as auspicious, and seconds are never rude."},
+{"name":"Bodara kanroni","ja":"棒鱈の甘露煮","note":"Sweet-simmered dried cod listed among Aizu dishes by a commercial guide."},
+{"name":"Wappa-meshi","ja":"わっぱ飯","note":"Aizu dish listed by a commercial guide; no further detail was confirmed."},
+{"name":"Ika-ninjin","ja":"いかにんじん","note":"Nakadori dish given as a representative example by a commercial guide."},
+{"name":"Shimi-tofu","ja":"凍み豆腐","note":"Freeze-dried tofu tied to Abukuma highland cold; used in Nakadori zoni."},
+{"name":"Dried scallop adductor","ja":"干し貝柱","note":"Dashi base of kozuyu and, on one theory, an inland substitute for seafood."},
+{"name":"Aizu-nuri bowls","ja":"会津塗","note":"Red lacquer bowls the kozuyu is served in."}
+],
+"calendar":[
+{"season":"Spring","text":"No dated spring items were found in the sources. The Aizu pattern recorded is use of preserved foods and wild vegetables, and warabi appears among kozuyu ingredients."},
+{"season":"Summer","text":"No dated summer items were found in the sources. Hamadori on the Pacific coast is described as rich in seafood dishes, but the sources gave no months."},
+{"season":"Autumn","text":"No autumn dates were given in the sources reviewed. The sources describe Aizu cooking as relying on preserved foods and wild vegetables, without naming months."},
+{"season":"Winter","text":"Kozuyu is served on New Year, festivals and ceremonies; Nakadori's cold highland winter powers the shimi (freezing) culture, and zoni with shimi-tofu is a representative Nakadori dish."}
+],
+"markets":[
+{"name":"Aizu","ja":"会津地方","note":"Home of kozuyu, bodara kanroni and wappa-meshi; preserved and wild-vegetable cooking."},
+{"name":"Nakadori","ja":"中通り","note":"Ika-ninjin and shimi-tofu zoni; freeze-drying culture of the Abukuma highland."},
+{"name":"Hamadori","ja":"浜通り","note":"Pacific coast zone with strong seafood cooking."}
+],
+"notes":"Kozuyu names are explained by several theories (from the soup of a small tiered box, 小重, or from a changed form of 小吸物, a small clear soup), so do not quote a single etymology. This page's sources did not confirm Kitakata ramen, herring in sansho, basashi or peach details, and no specific market was verified, so the markets section lists regional zones instead of shotengai.",
+"src":[["MAFF: Kozuyu, Fukushima","https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/30_2_fukushima.html"],["MAFF Area Stories: Fukushima","https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/area_stories/fukushima.html"],["Mizu no Bunka: Kozuyu in Aizu","https://www.mizu.gr.jp/kikanshi/no61/14.html"],["Ninben: Fukushima local dishes","https://shop.ninben.co.jp/blog/shoku/5344/"]]},
+
+{"pref":8,
+"history":"Mito, the seat of the Tokugawa Mito domain, grew small-bean early-ripening soybeans that could be harvested before typhoons in the Edo period, and natto-making flourished as a way to eat them. Another source says the Mito natto name spread after Meiji. Hitachi aki-soba is a leading autumn buckwheat variety, and Kasumigaura, second in area only to Lake Biwa among Japan's lakes, lies in the southeast and its hobiki-bune sailing boats are tied to local food culture (MAFF).",
+"character":"Ibaraki's food centres on soybean and root-vegetable preservation, with winter dishes such as natto mixed with dried daikon strips (soboro-natto), sumitsukare of beans, daikon and sake lees, and anko (monkfish) hot pot. Hitachi aki-soba and sun-dried sweet potato (hoshi-imo) from Hitachinaka complete the farm side.",
+"staples":[
+{"name":"Anko-nabe","ja":"あんこう鍋","note":"Monkfish hot pot, the prefecture's emblem winter dish; shops serve it from about early October or November to end of March."},
+{"name":"Mito natto","ja":"水戸納豆","note":"Small-bean soy fermentation tied to Mito domain's early soybean cultivation; the name spread after Meiji by one account."},
+{"name":"Soboro-natto","ja":"そぼろ納豆","note":"Natto mixed with dried daikon strips (warikiri-boshi) and soy; winter preserve, selected in the 2007 MAFF 100 regional dishes."},
+{"name":"Hitachi aki-soba","ja":"常陸秋そば","note":"Buckwheat variety called the pinnacle of raw soba; sown mid-August, flowering September, harvested late October (MAFF)."},
+{"name":"Sumitsukare","ja":"すみつかれ","note":"Western Ibaraki dish eaten at the Hatsuuma festival in February, with setsubun beans, daikon and sake lees."},
+{"name":"Maruboshi (whole dried sweet potato)","ja":"丸干し芋","note":"Whole-sweet-potato hoshi-imo from Hitachinaka, a winter product known as 'marupo'."},
+{"name":"Hitachi beef","ja":"常陸牛","note":"Local brand beef named alongside anko-nabe in prefectural guides; no further specifications confirmed."}
+],
+"calendar":[
+{"season":"Spring","text":"No dated spring items were found in the sources. February's Hatsuuma sumitsukare in western Ibaraki is the closest dated event to the end of winter."},
+{"season":"Summer","text":"Mid-August is the sowing time for Hitachi aki-soba (MAFF), which sets up the autumn harvest; no other dated summer items were found in the sources."},
+{"season":"Autumn","text":"Hitachi aki-soba flowers in September and is harvested in late October. Some anko-nabe shops start serving in early October, others from November."},
+{"season":"Winter","text":"Anko-nabe runs through March, soboro-natto is a winter preserve, and Hitachinaka's maruboshi hoshi-imo is a winter product. Sumitsukare is made around the February Hatsuuma."}
+],
+"markets":[
+{"name":"Mito","ja":"水戸","note":"Natto capital; The restaurant 山翠 is cited as a long-established anko-nabe house."},
+{"name":"Hitachinaka","ja":"ひたちなか","note":"Home of whole dried sweet potatoes known as marupo."},
+{"name":"Kasumigaura","ja":"霞ヶ浦","note":"Large lake in the southeast; the hobiki-bune sailing boats are part of the local food culture."}
+],
+"notes":"Natto history differs by source: the early-ripening soybean story belongs to the Edo period, while another source says the Mito natto name became widespread after Meiji. Anko-nabe serving periods vary by shop (from early October or from November to end of March). The sources reviewed did not confirm hoshi-imo history, protected-name status, or market details, so those are omitted.",
+"src":[["MAFF: Hitachi aki-soba","https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/hitati_akisoba.html"],["MAFF Area Stories: Ibaraki","https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/area_stories/ibaraki.html"],["Ibaraki food culture survey","https://comp.life.isct.ac.jp/gnavi/food_culture_survey/results/ibaraki/"],["Ibaraki Guide: anko dishes","https://www.ibarakiguide.jp/gourmet/ibaraki_restaurant/anko.html"]]}
+]

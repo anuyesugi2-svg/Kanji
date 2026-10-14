@@ -1,0 +1,709 @@
+[
+ {
+  "pref": 41,
+  "history": "Saga lies between the Ariake Sea and the Genkai Sea, and sources credit this position, plus rice farming, for its distinctive food culture. Ariake's tidal flats yield mutsugoro, esso and warasubo, delicacies hard to find elsewhere, while Yobuko in Karatsu faces the Genkai Sea and is known for squid. Suko-zushi from Shiroishi is traced to over 500 years ago, with a legend that a feudal lord served it to troops at departure for war.",
+  "character": "Two coastlines give a split palate: Ariake tidal-flat fish, simmered sweet-salty (mutsugoro in suko-zushi), and Genkai squid served live and sashimi-cut at Yobuko. Inland cooking leans on kudzu or starch-set soy milk (kure-dofu) with sesame-shoyu. The newest icon, Sicilian rice (c.1975), is a Saga city make-nai dish of rice, vegetables, meat and a sauce built around the colours green, white and red.",
+  "staples": [
+   {
+    "name": "Sicilian rice",
+    "ja": "シシリアンライス",
+    "note": "Began around 1975 as a staff meal in Saga city; origin of the name is disputed (Italian-flag colours vs the Godfather's Sicily); certified as a 100-year food in the 'future' category."
+   },
+   {
+    "name": "Suko-zushi",
+    "ja": "須古寿司",
+    "note": "Pressed box sushi from Suko, Shiroishi, made in a wooden box (morobuta); mutsugoro simmered sweet-salty is the classic filling; 500+ years of history claimed."
+   },
+   {
+    "name": "Kure-dofu",
+    "ja": "呉豆腐",
+    "note": "Centred on Arita; soy milk set with kudzu or starch rather than nigari, soft and chewy, normally eaten with sesame-shoyu."
+   },
+   {
+    "name": "Yobuko ika ikizukuri",
+    "ja": "呼子のイカ活き造り",
+    "note": "Yari-ika, kensaki-ika or aori-ika cut live; Yobuko in Karatsu faces the Genkai Sea."
+   },
+   {
+    "name": "Saga-gyu",
+    "ja": "佐賀牛",
+    "note": "The name is used only for the top grades of beef meeting the brand's high standard."
+   },
+   {
+    "name": "Mutsugoro",
+    "ja": "ムツゴロウ",
+    "note": "Ariake tidal-flat mudskipper; simmered sweet-salty for suko-zushi."
+   },
+   {
+    "name": "Esso",
+    "ja": "エソ",
+    "note": "Ariake Sea catch listed among the tidal-flat delicacies."
+   },
+   {
+    "name": "Warasubo",
+    "ja": "ワラスボ",
+    "note": "Ariake Sea tidal-flat fish listed with mutsugoro as a regional delicacy."
+   }
+  ],
+  "calendar": [
+   {
+    "season": "Spring",
+    "text": "The search results gave no month-by-month data for Saga. Yobuko's morning market, counted among Japan's three great morning markets, runs through the year, and squid is its signature."
+   },
+   {
+    "season": "Summer",
+    "text": "No season-specific information was found for summer in the sources consulted. Ariake tidal-flat fish (mutsugoro, esso, warasubo) are described as regional delicacies without a stated month."
+   },
+   {
+    "season": "Autumn",
+    "text": "Autumn data were not found in the results. Rice, noted as part of Saga's food base, is the staple behind box sushi such as suko-zushi, which is typically a celebration dish."
+   },
+   {
+    "season": "Winter",
+    "text": "No winter-specific information was found. Kure-dofu and the Genkai and Ariake seafood listed above are described without seasonal limits, so check local producers for timing."
+   }
+  ],
+  "markets": [
+   {
+    "name": "Yobuko Morning Market",
+    "ja": "呼子朝市",
+    "note": "Counted as one of Japan's three great morning markets; Yobuko is the squid town of Karatsu."
+   },
+   {
+    "name": "Saga city Sicilian rice cafes",
+    "ja": "佐賀市中心街のシシリアンライス店",
+    "note": "The dish began in central Saga city; each shop's version differs and some areas serve it in school lunches."
+   }
+  ],
+  "notes": "Saga-gyu is reserved for the top-grade beef. Suko-zushi and Sicilian rice are on the Agency for Cultural Affairs' 100-year food lists (Sicilian rice in the 'future' category). The name of Sicilian rice has no settled origin. Sources here are tourism and recipe sites, so check ariake-sea and Karatsu details with local cooperatives.",
+  "src": [
+   [
+    "Saga dishes overview (Ninben)",
+    "https://shop.ninben.co.jp/blog/shoku/9510/"
+   ],
+   [
+    "Sicilian rice (Kirishima Kyushu food)",
+    "https://www.kyushufood.kirishima.co.jp/kyuaji/385/"
+   ],
+   [
+    "Suko-zushi (Kirishima Kyushu food)",
+    "https://www.kyushufood.kirishima.co.jp/kyuaji/469/"
+   ],
+   [
+    "MAFF: Kure-dofu with sesame-shoyu",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/45_14_saga.html"
+   ]
+  ]
+ },
+ {
+  "pref": 42,
+  "history": "Nagasaki's table was shaped by its role as Japan's window to the world in the Edo period. Sources describe shippoku cuisine as born of cultural exchange in this trading port, with dishes shared from large platters, and call the result 'wakaran' (Japanese, Chinese, Dutch) cooking. Castella arrived with missionaries in the 16th century, and the Dutch brought the pie-like pasty, here adapted with soy sauce.",
+  "character": "Foreign techniques are absorbed into soy-sweet Japanese seasoning: eggs, sugar and flour for castella, pastry for pasty, Chinese noodles for champon (devised in 1899 by Chin Heijun of Shikairo). Island and coastal food runs separately: Goto udon is eaten as jigokudaki with ago (flying fish) dashi, and Omura-zushi is a pressed sushi for special occasions.",
+  "staples": [
+   {
+    "name": "Shippoku ryori",
+    "ja": "卓袱料理",
+    "note": "Edo-period fusion cuisine from the trading port; diners take from shared platters."
+   },
+   {
+    "name": "Nagasaki champon",
+    "ja": "長崎ちゃんぽん",
+    "note": "Said to have been devised in 1899 by Chin Heijun at Shikairo; the name's origin is debated between Chinese and Portuguese."
+   },
+   {
+    "name": "Sara udon",
+    "ja": "皿うどん",
+    "note": "Noodle dish listed on MAFF's Nagasaki page as a nationally known Nagasaki specialty."
+   },
+   {
+    "name": "Castella",
+    "ja": "カステラ",
+    "note": "Brought by missionaries in the 16th century; Portuguese-derived name; eggs and sugar whipped, flour added, then baked."
+   },
+   {
+    "name": "Pasty",
+    "ja": "パスティ",
+    "note": "Pie-like dish introduced by the Dutch during the closed-country era, seasoned with soy sauce, still served within shippoku."
+   },
+   {
+    "name": "Omura-zushi",
+    "ja": "大村寿司",
+    "note": "Pressed sushi eaten at celebrations, festivals and memorial rites; origin tied to Omura Sumiie's reconquest of his territory in the Muromachi period."
+   },
+   {
+    "name": "Jigokudaki (Goto udon / Shimabara somen)",
+    "ja": "地獄炊き(五島うどん・島原そうめん)",
+    "note": "Noodles lifted from the pot and dipped; the standard dip is ago dashi from flying fish caught off Goto."
+   },
+   {
+    "name": "Goto udon",
+    "ja": "五島うどん",
+    "note": "Island noodle; recent research points to Zhejiang somen as a likely root."
+   },
+   {
+    "name": "Hatoshi",
+    "ja": "ハトシ",
+    "note": "Named among Nagasaki local dishes; no detail in the results."
+   },
+   {
+    "name": "Kakuni manju",
+    "ja": "角煮まんじゅう",
+    "note": "Pork belly in a steamed bun, listed as a Nagasaki local dish; no further detail was found."
+   }
+  ],
+  "calendar": [
+   {
+    "season": "Spring",
+    "text": "The sources I found for Nagasaki gave no month-by-month data. Omura-zushi is documented as a celebration and festival dish rather than for a particular month."
+   },
+   {
+    "season": "Summer",
+    "text": "No summer-specific data were found. Jigokudaki with Goto udon or Shimabara somen is listed on MAFF's page as a regional dish without a stated season."
+   },
+   {
+    "season": "Autumn",
+    "text": "No autumn-specific data were found. Shippoku is described as a formal shared-platter meal, served by restaurants such as Ryotei Kagetsu using local seasonal ingredients."
+   },
+   {
+    "season": "Winter",
+    "text": "No winter-specific data were found in the results. Check local fishing cooperatives for seasonal fish; the sources here covered dishes and history, not harvest calendars."
+   }
+  ],
+  "markets": [
+   {
+    "name": "Shikairo (champon's birthplace)",
+    "ja": "四海樓",
+    "note": "Restaurant of Chin Heijun, credited in sources with devising champon in 1899; the results gave restaurants, not markets."
+   },
+   {
+    "name": "Ryotei Kagetsu",
+    "ja": "料亭 花月",
+    "note": "Nagasaki restaurant that serves shippoku in a traditional setting, adapting local seasonal ingredients."
+   },
+   {
+    "name": "Nagasaki station-front Goto udon shops",
+    "ja": "長崎駅前の五島うどん店",
+    "note": "Examples serve jigokudaki with ago-dashi ponzu; individual shops are the point of access in the sources."
+   }
+  ],
+  "notes": "Terms to know: wakaran (Japanese-Chinese-Dutch) for fusion cooking. Both Goto udon and Shimabara somen are served as jigokudaki. Omura-zushi has an official prefectural and city write-up. The origins of 'champon' and shippoku details vary by source, so avoid stating either as settled fact.",
+  "src": [
+   [
+    "Nagasaki Adventure: Wa-ka-ran dishes",
+    "http://boken.nagasaki.jp/spot/boken497.html"
+   ],
+   [
+    "Shokuiku Encyclopedia: Nagasaki champon",
+    "https://shokuiku-daijiten.com/lc-024/"
+   ],
+   [
+    "MAFF: Omura-zushi",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/46_5_nagasaki.html"
+   ],
+   [
+    "MAFF: Jigokudaki",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/46_12_nagasaki.html"
+   ]
+  ]
+ },
+ {
+  "pref": 43,
+  "history": "Kumamoto's food stories are tied to its feudal lords. Karashi renkon is said to have been devised for the sickly first lord Hosokawa Tadatoshi by the monk Genta of Suizenji, around Kan'ei 9 (some say 350-360 years ago), and kept secret because a lotus cross-section resembles the Hosokawa kuyo crest; commoners ate it only after the Meiji Restoration. Basashi is tied by legend to Kato Kiyomasa eating army horses in Korea.",
+  "character": "The cuisine runs on flour-dumpling soups, mustard-stuffed lotus root and raw horse meat. Dago-jiru uses flat flour dumplings in a miso or shoyu vegetable soup. In Aso, chopped takana pickle is stir-fried into rice. Taipien is a Fujian-derived noodle soup made with fried egg and harusame in place of bird's nest; ikinari dango wraps raw sweet potato and bean paste in dough and steams it.",
+  "staples": [
+   {
+    "name": "Karashi renkon",
+    "ja": "辛子蓮根",
+    "note": "Lotus root stuffed with mustard-miso and fried; Hosokawa-associated, secret recipe until the Meiji era per sources."
+   },
+   {
+    "name": "Basashi",
+    "ja": "馬刺し",
+    "note": "Raw horse meat; sources trace it to Kato Kiyomasa's Korean campaigns, though origins are disputed."
+   },
+   {
+    "name": "Taipien",
+    "ja": "太平燕",
+    "note": "Fujian dish brought by Chinese residents in the Meiji era via Nagasaki; fried boiled egg and harusame replace bird's nest."
+   },
+   {
+    "name": "Dago-jiru",
+    "ja": "だご汁",
+    "note": "Flat flour dumplings simmered with napa cabbage, daikon, carrot and sometimes meat; seasoned with miso or shoyu."
+   },
+   {
+    "name": "Ikinari dango",
+    "ja": "いきなり団子",
+    "note": "Kikuchi-area sweet; sweet potato and sweet bean paste in a dough, steamed; made at home in sweet-potato season, per MAFF."
+   },
+   {
+    "name": "Takana-meshi",
+    "ja": "高菜めし",
+    "note": "Aso speciality: chopped Aso takana pickle stir-fried and mixed into rice."
+   },
+   {
+    "name": "Aso takana-zuke",
+    "ja": "阿蘇高菜漬け",
+    "note": "Pickled takana from Aso; one shop grows and pickles its own."
+   },
+   {
+    "name": "Kumamoto three great specialties",
+    "ja": "熊本三大名物",
+    "note": "Commonly listed as basashi, karashi renkon and ikinari dango."
+   }
+  ],
+  "calendar": [
+   {
+    "season": "Spring",
+    "text": "The sources consulted gave no month-by-month data for Kumamoto. Karashi renkon and basashi are sold throughout the year as gift items, without a stated season."
+   },
+   {
+    "season": "Summer",
+    "text": "No summer-specific information was found in the results. Taipien and dago-jiru are described as everyday dishes with no stated season."
+   },
+   {
+    "season": "Autumn",
+    "text": "Ikinari dango is made at home in the sweet-potato season, which MAFF's description places in the harvest period. The Aso takana pickling cycle was not detailed in the results."
+   },
+   {
+    "season": "Winter",
+    "text": "No winter-specific information was found. Dago-jiru, a hot dumpling and vegetable soup, is a typical home dish, but sources do not give dates or a harvest calendar."
+   }
+  ],
+  "markets": [
+   {
+    "name": "Karashi renkon makers",
+    "ja": "辛子蓮根の製造元",
+    "note": "Makers such as Higo Shokuhin sell the product; one article describes a hands-on making experience."
+   },
+   {
+    "name": "Aso takana-zuke shops",
+    "ja": "阿蘇の高菜漬け店",
+    "note": "Aso shops grow takana in their own fields and pickle it themselves, per a travel article."
+   }
+  ],
+  "notes": "Karashi renkon's origin dates are inconsistent in sources (Kan'ei 9 versus 350-360 years ago). Basashi's origin is told differently in different texts and is linked to the Kato rather than the Hosokawa family. Ikinari dango and takana-meshi appear in official Kumamoto and MAFF materials, but the sources here do not give protected-name rules.",
+  "src": [
+   [
+    "Mizota: karashi renkon and basashi history",
+    "https://mizota-ks.com/blog/blog-1059/"
+   ],
+   [
+    "Kumamoto's local dishes (Akamatsu)",
+    "https://akamatsu.com/blog/3246/"
+   ],
+   [
+    "MAFF: Ikinari dango",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/ikinari_dango_kumamoto.html"
+   ],
+   [
+    "Kumamoto Guide: dago-jiru and takana-meshi",
+    "https://kumamoto.guide/brand/foods/foods_05.html"
+   ]
+  ]
+ },
+ {
+  "pref": 44,
+  "history": "Oita's best-documented foods are fish from the Hayasui Seto and chicken. Saganoseki at the eastern tip of Oita city faces Cape Sada in Ehime across the Bungo Channel; fishermen of the Saganoseki branch of the Oita Fisheries Cooperative line-catch aji and saba there, and the names Seki-aji and Seki-saba were trademarked after imitations appeared following the late-1980s boom. Oita city also tops national household chicken consumption (2019 survey).",
+  "character": "The flavour logic is fish eaten fresh and meat fried, finished with citrus. Seki-aji and Seki-saba are single-line-caught in strong currents. Toriten is chicken tempura served with ponzu or kabosu and mustard, and dango-jiru is a miso soup with hand-kneaded flour dumplings. Oita produces roughly 96 percent of Japan's kabosu, used as a seasonal acid.",
+  "staples": [
+   {
+    "name": "Toriten",
+    "ja": "とり天",
+    "note": "Chicken tempura; ponzu or kabosu and mustard are common; MAFF cites Oita city's 2019 number-one ranking in household chicken consumption."
+   },
+   {
+    "name": "Dango-jiru",
+    "ja": "だんご汁",
+    "note": "Miso soup full of vegetables with hand-kneaded flour dumplings; on MAFF's Oita list."
+   },
+   {
+    "name": "Tori-jiru",
+    "ja": "鶏汁",
+    "note": "Chicken soup, listed with dango-jiru and toriten on MAFF's Oita page."
+   },
+   {
+    "name": "Seki-aji",
+    "ja": "関あじ",
+    "note": "Maaji line-caught by Saganoseki co-op fishermen off Saganoseki in the Hayasui Seto; name is restricted to fish landed there."
+   },
+   {
+    "name": "Seki-saba",
+    "ja": "関さば",
+    "note": "Masaba from the same grounds and rules; combined Seki-aji and Seki-saba catch was about 300 t in FY2009."
+   },
+   {
+    "name": "Kabosu",
+    "ja": "かぼす",
+    "note": "Oita holds about 96 percent of national output; main areas Usuki, Taketa, Bungo-ono."
+   },
+   {
+    "name": "Ryukyu-don",
+    "ja": "琉球丼",
+    "note": "Raw fish rice-bowl sold at a local diner alongside Seki-aji; no authoritative description in the results."
+   },
+   {
+    "name": "Tori-meshi",
+    "ja": "鶏めし",
+    "note": "Chicken rice listed on a local restaurant's menu; origin and recipe not detailed."
+   }
+  ],
+  "calendar": [
+   {
+    "season": "Spring",
+    "text": "Greenhouse (house) kabosu circulate from March; the sources did not give catch calendars for Seki-aji and Seki-saba, so check the Saganoseki co-op for seasons."
+   },
+   {
+    "season": "Summer",
+    "text": "House kabosu run to August, then the first outdoor (rojii) kabosu appear from the end of August. Dango-jiru and toriten are eaten year-round, no season is stated."
+   },
+   {
+    "season": "Autumn",
+    "text": "Outdoor kabosu are at their best from late August to late September, with the prefecture's own page citing August to September. From October, stored kabosu take over."
+   },
+   {
+    "season": "Winter",
+    "text": "Stored kabosu are on sale from October through about February. Toriten with ponzu and kabosu and hot dango-jiru are the winter table; sources give no more precise dates."
+   }
+  ],
+  "markets": [
+   {
+    "name": "Saganoseki Fishing Port",
+    "ja": "佐賀関漁港",
+    "note": "Landing port of Seki-aji and Seki-saba; fish must be caught off and landed at Saganoseki to bear the name."
+   },
+   {
+    "name": "Oita Fisheries Cooperative, Saganoseki branch",
+    "ja": "大分県漁業協同組合 佐賀関支店",
+    "note": "Holds the Seki-aji and Seki-saba brand and trademark; runs a brand page."
+   }
+  ],
+  "notes": "Seki-aji and Seki-saba may only name fish caught off Saganoseki by branch fishermen and landed there; the co-op applied for the trademark after imitations. Kabosu is sold in three stages (outdoor, stored, greenhouse). The sources did not confirm GI status for any Oita product. Some Oita dishes (ryukyu, toriten) have several local variations.",
+  "src": [
+   [
+    "MAFF: Toriten",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/toriten_oita.html"
+   ],
+   [
+    "MAFF: Oita dishes",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/oita.html"
+   ],
+   [
+    "Oita Prefecture: Seki-aji and Seki-saba",
+    "https://www.pref.oita.jp/soshiki/10400/tokusanhin-sekiajisekisaba.html"
+   ],
+   [
+    "Oita Kabosu: about",
+    "https://oitakabosu.com/about/"
+   ]
+  ]
+ },
+ {
+  "pref": 45,
+  "history": "The sources emphasise summer cooling and chicken. Hiyajiru is said to descend from a Kamakura-era record, spread nationally by monks but survived only where climate suited it; MAFF names Miyazaki's plains as its centre. Chicken nanban is reported to originate in Nobeoka, from a yoshoku restaurant's staff meal in mid-Showa. Miyazaki also developed a method for tree-ripened mango.",
+  "character": "The flavour logic is toasted miso, dried fish and cooling cold dishes for summer: hiyajiru has toasted mugi miso blended with ground iriko, diluted with dashi and poured over cold barley rice with tofu, cucumber and shiso. Chicken is the second pillar: nanban (fried in egg batter, dipped in sweet vinegar, topped with tartar) and charcoal-grilled jidori.",
+  "staples": [
+   {
+    "name": "Hiyajiru",
+    "ja": "冷や汁",
+    "note": "Chilled miso soup poured over barley rice; MAFF calls it an instant poured soup centred on Miyazaki's plains."
+   },
+   {
+    "name": "Yaki-miso",
+    "ja": "焼き味噌",
+    "note": "Base of hiyajiru: ground iriko mixed into mugi miso and baked at low heat, which removes miso odour and adds aroma."
+   },
+   {
+    "name": "Cold mugi-meshi",
+    "ja": "麦飯",
+    "note": "Chilled barley rice is the usual carrier for hiyajiru."
+   },
+   {
+    "name": "Hiyajiru fish variants",
+    "ja": "冷や汁の魚",
+    "note": "Grilled aji or saba flakes are used in some homes; a luxury version uses fresh sea bream."
+   },
+   {
+    "name": "Chicken nanban",
+    "ja": "チキン南蛮",
+    "note": "Fried chicken in egg batter, sweet-sour dip, tartar sauce; reported to come from Nobeoka, mid-Showa."
+   },
+   {
+    "name": "Tartar-sweet vinegar finish",
+    "ja": "南蛮酢とタルタル",
+    "note": "The defining flavour pair of Miyazaki-style chicken nanban."
+   },
+   {
+    "name": "Jidori sumibi-yaki",
+    "ja": "地鶏の炭火焼き",
+    "note": "Charcoal-grilled local chicken; chosen in the Rural Food 100 selections, but the results gave no detail."
+   },
+   {
+    "name": "Miyazaki mango",
+    "ja": "宮崎マンゴー",
+    "note": "Tree-ripened fruit caught in nets as it falls, said to have originated in Miyazaki; one seller gives late April to late June."
+   }
+  ],
+  "calendar": [
+   {
+    "season": "Spring",
+    "text": "Mango season begins in late April according to one seller; the results gave no further spring data. Hiyajiru is generally not stated as a spring dish."
+   },
+   {
+    "season": "Summer",
+    "text": "Hiyajiru is the summer dish of Miyazaki, valued for cooling, and mango stays in season to late June per one seller; chicken nanban is eaten year-round."
+   },
+   {
+    "season": "Autumn",
+    "text": "No autumn-specific information was found in the results; chicken nanban and charcoal-grilled jidori are year-round dishes with no stated seasonal limit."
+   },
+   {
+    "season": "Winter",
+    "text": "No winter-specific information was found. The summaries confirm only that yaki-miso can be made in batches and kept chilled as miso balls for hiyajiru."
+   }
+  ],
+  "markets": [
+   {
+    "name": "Nobeoka chicken nanban restaurants",
+    "ja": "延岡のチキン南蛮店",
+    "note": "Nobeoka is cited as the birthplace; Ogura Asahigaoka is one restaurant whose recipe MAFF-related material uses."
+   },
+   {
+    "name": "Miyazaki mango growers",
+    "ja": "宮崎のマンゴー産地",
+    "note": "Where tree-ripened mango is netted; sold as gift fruit."
+   }
+  ],
+  "notes": "Hiyajiru and chicken nanban are both in MAFF's database, and jidori sumibi-yaki is among the Rural Food 100. Recipes vary: hiyajiru bases differ by home, and mango season varies by grower. The results contained no figures for Miyazaki beef, Hyuganatsu timing or protected names, so those are deliberately omitted.",
+  "src": [
+   [
+    "MAFF: Miyazaki dishes",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/miyazaki.html"
+   ],
+   [
+    "Hiyajiru (Zipang Club)",
+    "https://www.toretabi.jp/zipangclub/page/localcuisine004.html"
+   ],
+   [
+    "Chicken nanban recipe (Location Research)",
+    "https://www.location-research.co.jp/kyoudoryouri100/recipe/recipe/450236"
+   ],
+   [
+    "Miyazaki mango (Funasho)",
+    "https://www.funasho-group.co.jp/salute/fruit_vegetable/3157/"
+   ]
+  ]
+ },
+ {
+  "pref": 46,
+  "history": "Kagoshima's prefectural food-culture page and MAFF list satsuma-jiru, keihan and kibinago as core dishes. Satsuma-jiru is explained in popular sources as a result of cockfighting in Edo-period Satsuma, where the losing bird was made into soup. Keihan is said to come from Amami people entertaining Satsuma officials in the Edo period. Kurobuta is credited to Shimazu Iehisa, who is said to have brought pigs from Ryukyu about 400 years ago (sources differ).",
+  "character": "The cooking is built on chicken, pork and kibinago in miso, soy and sweet-salty preparations. Satsuma-jiru is a miso soup with chicken, dried shiitake, konnyaku, burdock, carrot, daikon, taro and leek; keihan is chicken rice-soup of Amami. Pork was improved in the Meiji era by crossing with Berkshire. The prefecture named 18 mainland and 10 Amami items as the 'Kagoshima flavours' in 2015.",
+  "staples": [
+   {
+    "name": "Satsuma-jiru",
+    "ja": "さつま汁",
+    "note": "Miso soup with chicken, dried shiitake, konnyaku, burdock, carrot, daikon, taro and leek; MAFF lists it as prefecture-wide."
+   },
+   {
+    "name": "Keihan",
+    "ja": "鶏飯",
+    "note": "Amami chicken-and-rice dish, said to date from hospitality for Satsuma officials; in the Rural Food 100."
+   },
+   {
+    "name": "Kibinago",
+    "ja": "きびなご",
+    "note": "About 10 cm fish, seasons spring to early summer and winter; Koshikijima is the main source; sashimi, tempura or salt-grilled."
+   },
+   {
+    "name": "Tsukeage",
+    "ja": "つけあげ",
+    "note": "Local fried fish cake, the Satsuma-age; in the Rural Food 100."
+   },
+   {
+    "name": "Kurobuta",
+    "ja": "黒豚",
+    "note": "Black pig; introduced from Ryukyu about 400 years ago per some sources; improved with Berkshire in the Meiji era."
+   },
+   {
+    "name": "Kagoshima kuro-ushi",
+    "ja": "鹿児島黒牛",
+    "note": "Wagyu brand promoted as a national-contest winner."
+   },
+   {
+    "name": "Kurozu",
+    "ja": "黒酢",
+    "note": "Black vinegar from Fukuyama, Kirishima, brewed in a mild climate with good water and long ageing."
+   },
+   {
+    "name": "Imo-jochu",
+    "ja": "芋焼酎",
+    "note": "Sweet-potato spirit, the prefecture's representative speciality drink."
+   },
+   {
+    "name": "Satsuma-ebi zoni",
+    "ja": "さつまえび雑煮",
+    "note": "New-year soup listed on MAFF's Kagoshima page."
+   },
+   {
+    "name": "Gane",
+    "ja": "がね",
+    "note": "Sweet-potato dish listed on MAFF's Kagoshima page."
+   }
+  ],
+  "calendar": [
+   {
+    "season": "Spring",
+    "text": "Kibinago has a spring to early-summer season, one of two annual peaks, and is eaten as sashimi, tempura and salt-grilled."
+   },
+   {
+    "season": "Summer",
+    "text": "Kibinago season runs into early summer. The sources gave no other summer-specific data for Kagoshima."
+   },
+   {
+    "season": "Autumn",
+    "text": "No autumn data were found in the results. Satsuma-jiru is a year-round miso soup made with chicken and root vegetables; the sources state no month."
+   },
+   {
+    "season": "Winter",
+    "text": "Kibinago has a second season in winter. Satsuma-ebi zoni is a New Year dish on MAFF's list, though the results gave no further details."
+   }
+  ],
+  "markets": [
+   {
+    "name": "Koshikijima",
+    "ja": "甑島",
+    "note": "Main source of kibinago."
+   },
+   {
+    "name": "Fukuyama, Kirishima",
+    "ja": "霧島市福山町",
+    "note": "District where kurozu is brewed, on the inner Kinko Bay."
+   },
+   {
+    "name": "Kagoshima Prefecture Specialty Products Association",
+    "ja": "鹿児島県特産品協会",
+    "note": "Trade body that lists prefectural food products."
+   }
+  ],
+  "notes": "The 2015 prefectural vote produced the 'Kagoshima flavours' (18 mainland, 10 Amami). Keihan is among the Rural Food 100 with kibinago dishes and tsukeage. Sources disagree on when the black pig arrived and the stories of satsuma-jiru and keihan come from popular sources, not documents; do not present them as proven.",
+  "src": [
+   [
+    "MAFF: Satsuma-jiru",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/satsumajiru_kagoshima.html"
+   ],
+   [
+    "Kagoshima Prefecture: food culture",
+    "http://www.pref.kagoshima.jp/kids/bunka/shokubunka.html"
+   ],
+   [
+    "E-Recipe: kibinago and keihan",
+    "https://erecipe.woman.excite.co.jp/article/E1747267708471/"
+   ],
+   [
+    "Kagoshima black foods (Gururi)",
+    "https://gururi-japan.com/apps/note/food/meat/kuro-kagoshima/"
+   ]
+  ]
+ },
+ {
+  "pref": 47,
+  "history": "Okinawa's prefecture describes Ryukyu cuisine as arising in the kingdom period from banquets for Chinese investiture envoys (sappo-shi) and Satsuma officials, then spreading to ordinary homes after the Meiji era; modern food rests on both court and folk cooking. Pork, a luxury for commoners, appeared in court food, including trotter dishes (tibichi). Konbu is eaten heavily but comes entirely from Hokkaido, linked in some accounts to trade with China.",
+  "character": "The logic is pork, konbu and long simmering. Rafute is skin-on pork belly simmered in awamori, kokuto and shoyu, tied to Chinese tong po rou. Kubu-irichi stir-fries and simmers konbu with pork. Okinawa soba is made without buckwheat, with a soup of pork bone, katsuobushi and konbu. Goya champuru is the everyday stir-fry.",
+  "staples": [
+   {
+    "name": "Kubu-irichi",
+    "ja": "クーブイリチー",
+    "note": "Konbu stir-simmered with pork; 'irichi' is stir then simmer; festive dish, with konbu's 'yorokobu' pun for celebrations."
+   },
+   {
+    "name": "Rafute",
+    "ja": "ラフテー",
+    "note": "Skin-on pork belly simmered in awamori, kokuto and shoyu; roots in court dish tong po rou."
+   },
+   {
+    "name": "Tibichi",
+    "ja": "ティビチ",
+    "note": "Simmered pig trotter; served at court banquets for Chinese envoys per the prefecture."
+   },
+   {
+    "name": "Okinawa soba",
+    "ja": "沖縄そば",
+    "note": "Wheat noodle soup, no buckwheat; soup of pork bone, katsuobushi and konbu."
+   },
+   {
+    "name": "Goya champuru",
+    "ja": "ゴーヤーチャンプルー",
+    "note": "Stir-fry of goya, tofu, vegetables and pork; classic home dish; goya is grown in home gardens."
+   },
+   {
+    "name": "Nakami-jiru",
+    "ja": "中味汁",
+    "note": "Pork-offal soup served in the market's second-floor food halls, handed down from the kingdom period per a tourism source."
+   },
+   {
+    "name": "Awamori",
+    "ja": "泡盛",
+    "note": "Distilled spirit; also used in cooking rafute."
+   },
+   {
+    "name": "Kusu (aged awamori)",
+    "ja": "古酒",
+    "note": "Awamori aged three years or more is called kusu."
+   },
+   {
+    "name": "Shima-yasai",
+    "ja": "島野菜",
+    "note": "Okinawa selected 28 'traditional agricultural products' as island vegetables."
+   }
+  ],
+  "calendar": [
+   {
+    "season": "Spring",
+    "text": "Goya is listed as in season April to July in one ingredient guide, which would put its first harvest in spring; another source gives June to August."
+   },
+   {
+    "season": "Summer",
+    "text": "Goya is mainly a summer vegetable, harvested in home gardens, and the cultivar 'Shiokaze' tolerates cold and can be grown through the year. Summer also appears in the 28-item shima-yasai list."
+   },
+   {
+    "season": "Autumn",
+    "text": "No autumn data in the results beyond the year-round items. Konbu dishes such as kubu-irichi are cooked for celebrations rather than a season."
+   },
+   {
+    "season": "Winter",
+    "text": "A winter shima-yasai feature exists (Orion Beer story), but its details were not in the results. Goya is still available through the winter by cultivar choice."
+   }
+  ],
+  "markets": [
+   {
+    "name": "Daiichi Makishi Public Market",
+    "ja": "第一牧志公設市場",
+    "note": "Opened by Naha City in 1950 from postwar black markets; rebuilt and reopened March 2023."
+   },
+   {
+    "name": "Makishi 'mochiage' system and food hall",
+    "ja": "持ち上げ・2階食堂",
+    "note": "Buy at a first-floor stall and have it cooked on the second floor; sales are face to face."
+   }
+  ],
+  "notes": "Ryukyu cuisine (kingdom-era) is distinguished from Okinawa cuisine (postwar influences) by some sources. All konbu in Okinawa comes from Hokkaido. Kusu is awamori of three years or more. Shima-yasai refers to a 28-item prefectural selection. I did not find legal definitions for 'Okinawa soba' or awamori GI in these results.",
+  "src": [
+   [
+    "Okinawa Prefecture: traditional food culture",
+    "https://www.pref.okinawa.lg.jp/bunkakoryu/bunkageijutsu/1022485/1009626.html"
+   ],
+   [
+    "MAFF: Kubu-irichi",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/47_2_okinawa.html"
+   ],
+   [
+    "Cabinet Office: public markets",
+    "https://www8.cao.go.jp/okinawa/8/2023/okinawahukki50/content/eat01.html"
+   ],
+   [
+    "Okinawa ingredient guide",
+    "https://www.okinawastory.jp/feature/shokuzaizukan/"
+   ]
+  ]
+ }
+]

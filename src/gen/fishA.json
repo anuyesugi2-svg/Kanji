@@ -1,0 +1,1661 @@
+[
+ {
+  "id": "maaji",
+  "en": "Horse mackerel",
+  "ja": "マアジ",
+  "latin": "Trachurus japonicus",
+  "alt": "アジ, ゼンゴ, ゼイゴ, ジンダ, アズ, ヒラアジ",
+  "intro": "In the market, a bare 'aji' means maaji. Its names split along two axes: small-fish names (mame-aji) and local names, and brand names for line-caught fish from named fishing grounds (seki-aji, misaki-aji and others). The results I found did not give a growth-stage ladder for aji, and I do not invent one.",
+  "months": [
+   0,
+   0,
+   0,
+   0,
+   1,
+   2,
+   2,
+   1,
+   1,
+   1,
+   0,
+   0
+  ],
+  "seasons": [
+   {
+    "m": [
+     5,
+     8
+    ],
+    "n": "Aji no shun",
+    "j": "アジの旬",
+    "t": "The usual guide is May to August, with the fattiest fish around June to July. Kyushu and western Japan peak earlier; Tohoku and Hokkaido later."
+   },
+   {
+    "m": [
+     9,
+     10
+    ],
+    "n": "Aki-aji",
+    "j": "秋アジ",
+    "t": "One source describes a second season in September to October, the recovery after spawning."
+   }
+  ],
+  "systems": [
+   {
+    "label": "Oita: Saga-no-seki",
+    "prefs": [
+     44
+    ],
+    "names": [
+     {
+      "n": "Seki-aji",
+      "j": "関あじ",
+      "s": "Line-caught maaji",
+      "t": "Maaji caught by single-line fishing by fishers of Saganoseki is known as seki-aji."
+     }
+    ]
+   },
+   {
+    "label": "Ehime",
+    "prefs": [
+     38
+    ],
+    "names": [
+     {
+      "n": "Misaki-aji (hana-aji)",
+      "j": "岬あじ(はなあじ)",
+      "s": "Ikata, Nishiuwa district",
+      "t": "Brand maaji of Ikata town."
+     },
+     {
+      "n": "Okuji-aji",
+      "j": "奥地あじ",
+      "s": "Sanbai",
+      "t": "Brand maaji of the former Sanbai town."
+     }
+    ]
+   },
+   {
+    "label": "Wakayama & Hiroshima",
+    "prefs": [
+     30,
+     34
+    ],
+    "names": [
+     {
+      "n": "Aka-aji",
+      "j": "アカアジ",
+      "s": "",
+      "t": "Local name."
+     }
+    ]
+   },
+   {
+    "label": "Kansai",
+    "prefs": [
+     26,
+     27,
+     28
+    ],
+    "names": [
+     {
+      "n": "Hira",
+      "j": "ヒラ",
+      "s": "",
+      "t": "Short for hira-aji, listed as a Kansai name."
+     }
+    ]
+   },
+   {
+    "label": "Tohoku & Toyama",
+    "prefs": [
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     16
+    ],
+    "names": [
+     {
+      "n": "Azu",
+      "j": "アズ",
+      "s": "",
+      "t": "Local name in Tohoku and Toyama."
+     },
+     {
+      "n": "Hyokko",
+      "j": "ヒョッコ",
+      "s": "",
+      "t": "Listed as a Tohoku name."
+     }
+    ]
+   },
+   {
+    "label": "Izu",
+    "prefs": [
+     22
+    ],
+    "names": [
+     {
+      "n": "Zengo",
+      "j": "ゼンゴ",
+      "s": "",
+      "t": "Zengo/zeigo are also names for the keeled scutes (see craft)."
+     }
+    ]
+   },
+   {
+    "label": "Kochi",
+    "prefs": [
+     39
+    ],
+    "names": [
+     {
+      "n": "Toppa",
+      "j": "トッパ",
+      "s": "",
+      "t": ""
+     }
+    ]
+   },
+   {
+    "label": "Kagoshima",
+    "prefs": [
+     46
+    ],
+    "names": [
+     {
+      "n": "Kinpe-aji",
+      "j": "キンペアジ",
+      "s": "",
+      "t": ""
+     }
+    ]
+   }
+  ],
+  "flavor": "A balanced white-fleshed blue fish: sweet, moderately fatty, with a clean finish when the fat peaks in early summer.",
+  "use": "Sashimi, tataki and namero, salt-grilled whole, fried (small fish: karaage, nanban-zuke), and hiraki.",
+  "craft": "Small fish of about 5 to 8 cm are sold as mame-aji or ko-aji and are fried whole. The zeigo (keeled scutes, 稜鱗) are edible but have a poor texture and are normally removed; one retail source treats long zeigo and a straight, well-formed body as signs of a good fish. Sources agree on May to August as the usual season but note regional shifts and a possible autumn season, so judge by the fish, not the calendar. The brand list (Seki-aji, Misaki-aji, Okuji-aji, Nada-aji, Setsuki-aji) is given by one retail source; I found no grading rules in the results.",
+  "src": [
+   [
+    "Maruichi Sanshou: aji zukan",
+    "https://www.maruichi.com/osakana/zukan/aji/post.php"
+   ],
+   [
+    "Susi-maru: aji and brand aji",
+    "https://susi-maru.co.jp/blog/osakana-zukan/aji/"
+   ],
+   [
+    "Maruk-skn: Aji",
+    "https://maruk-skn.jugem.jp/?eid=2"
+   ],
+   [
+    "Suisan Navi: aji season guide",
+    "https://suisan-navi.jp/uncategorized/aji-shun-guide/"
+   ]
+  ]
+ },
+ {
+  "id": "saba",
+  "en": "Chub mackerel and spotted mackerel",
+  "ja": "マサバ・ゴマサバ",
+  "latin": "Scomber japonicus / Scomber australasicus",
+  "alt": "サバ, 真鯖, 胡麻鯖, 関サバ",
+  "intro": "Two species share the market name saba. Masaba (silver belly) is the autumn-winter fish; gomasaba carries dark spots on the belly and is the summer fish, which gives the trade year-round supply. Seki-saba, from the Hoyo Strait, is the brand that opened the way for named mackerel.",
+  "months": [
+   2,
+   2,
+   1,
+   1,
+   0,
+   1,
+   1,
+   1,
+   1,
+   2,
+   2,
+   2
+  ],
+  "seasons": [
+   {
+    "m": [
+     10,
+     2
+    ],
+    "n": "Masaba no shun",
+    "j": "マサバの旬",
+    "t": "Autumn to winter (October to February) for masaba."
+   },
+   {
+    "m": [
+     6,
+     9
+    ],
+    "n": "Gomasaba no shun",
+    "j": "ゴマサバの旬",
+    "t": "Summer for gomasaba, when masaba is thin before spawning."
+   }
+  ],
+  "systems": [
+   {
+    "label": "Oita: Hoyo Strait",
+    "prefs": [
+     44
+    ],
+    "names": [
+     {
+      "n": "Seki-saba",
+      "j": "関サバ",
+      "s": "Masaba caught in the Hoyo Strait and landed at Saganoseki, Oita",
+      "t": "Said to owe its firm flesh to rich feed and fast currents; the pioneer of brand mackerel."
+     }
+    ]
+   }
+  ],
+  "flavor": "Masaba in season is fatty and sweet with strong umami. Gomasaba is described as leaner by some sources, though others say it can also be fatty.",
+  "use": "Shime-saba, salt-grilled, simmered in miso, sashimi of very fresh fish; gomasaba for grilling and dried fish.",
+  "craft": "Identification: the belly of gomasaba is scattered with dark spots, while masaba has a silver-white belly and a wavy pattern on the back; gomasaba is rounder, masaba somewhat flatter. When spots are hard to see, the dorsal spines can be counted, but sources disagree: one gives 9 to 11 for masaba and 10 to 12 for gomasaba, another 9 to 10 for masaba and 11 or more for gomasaba. Do not rely on the count alone. Sources also disagree on gomasaba fat. The results gave no regional growth-stage names for saba.",
+  "src": [
+   [
+    "Fishing Japan: masaba, gomasaba, Norwegian saba",
+    "https://fishingjapan.jp/fishing/3086"
+   ],
+   [
+    "Foodslink: masaba",
+    "https://foodslink.jp/syokuzaihyakka/syun/fish/saba-ma.htm"
+   ],
+   [
+    "Suisan Navi: saba season",
+    "https://suisan-navi.jp/fish-knowledge/saba-shun-guide/"
+   ],
+   [
+    "Sakashun: masaba and gomasaba",
+    "https://sakana-shun.com/masaba-gomasaba-chigai/"
+   ]
+  ]
+ },
+ {
+  "id": "maiwashi",
+  "en": "Japanese sardine",
+  "ja": "マイワシ",
+  "latin": "Sardinops melanostictus",
+  "alt": "イワシ, 七つ星(ナナツボシ), 大羽, 中羽, 小羽",
+  "intro": "The market grades sardines by size, with names that move from shirasu (larvae) and kaeri through ko-ba, chu-ba and o-ba. Size limits differ by source, so a buyer should confirm the cut-off with the supplier. Of the three sardines, maiwashi is the one with a documented size ladder in my results; urume and katakuchi are only noted in passing.",
+  "months": [
+   0,
+   0,
+   0,
+   1,
+   2,
+   2,
+   2,
+   2,
+   1,
+   1,
+   1,
+   0
+  ],
+  "seasons": [
+   {
+    "m": [
+     6,
+     6
+    ],
+    "n": "Nyubai-iwashi",
+    "j": "入梅イワシ",
+    "t": "Fattest around the June rainy season."
+   },
+   {
+    "m": [
+     5,
+     6
+    ],
+    "n": "Kanto offshore",
+    "j": "関東沖",
+    "t": "One source puts the season at May to June off the Kanto coast, and August to September off Kushiro."
+   }
+  ],
+  "systems": [
+   {
+    "label": "Wakayama: Arita (Yuasa)",
+    "prefs": [
+     30
+    ],
+    "names": [
+     {
+      "n": "Shirasu",
+      "j": "シラス",
+      "s": "Transparent juveniles",
+      "t": "The Yuasa kamaage shirasu source describes transparent fish."
+     },
+     {
+      "n": "Kaeri",
+      "j": "カエリ",
+      "s": "About 3 to 4 cm",
+      "t": "Silver begins to show around 3 cm; another source gives 4 cm."
+     }
+    ]
+   },
+   {
+    "label": "Nagasaki market grades",
+    "prefs": [
+     42
+    ],
+    "names": [
+     {
+      "n": "Ko-ba (sho-ba)",
+      "j": "小羽",
+      "s": "1-year fish; under 10 cm in one source",
+      "t": ""
+     },
+     {
+      "n": "Chu-ba",
+      "j": "中羽",
+      "s": "2-year fish; about 13 to 15 cm",
+      "t": ""
+     },
+     {
+      "n": "O-ba",
+      "j": "大羽",
+      "s": "3 years or more; 18 cm and over",
+      "t": ""
+     }
+    ]
+   },
+   {
+    "label": "Tohoku",
+    "prefs": [
+     2,
+     3,
+     4,
+     5,
+     6,
+     7
+    ],
+    "names": [
+     {
+      "n": "Nanatsuboshi",
+      "j": "ナナツボシ",
+      "s": "",
+      "t": "Named for the black spots along the side."
+     }
+    ]
+   }
+  ],
+  "flavor": "Rich in fat in season, soft-fleshed, strongly flavoured, and prone to quick deterioration.",
+  "use": "Tataki, namero, sashimi, tempura, simmered; boiled juveniles as kamaage shirasu. Katakuchi is the main source of dried shirasu and niboshi.",
+  "craft": "Sizes: the Tokyo Islands Fisheries Center gives about 15 cm at 1 year, 18 cm at 2, and around 20 cm at 3 years. Market sources vary: chu-ba as 13 cm or 15 cm, o-ba as 18 cm. Season also depends on the fishing ground, as shown above. Urume-iwashi is named for its moist-looking eyes, and most dried shirasu and niboshi are katakuchi-iwashi. The results gave no brand details.",
+  "src": [
+   [
+    "Tokyo Islands Agriculture and Fisheries Center: maiwashi",
+    "https://www.ifarc.metro.tokyo.lg.jp/archive/27,1089,55,227.html"
+   ],
+   [
+    "Nagasaki school lunch assoc.: iwashi",
+    "https://www.nagasaki-kenkyu.or.jp/tisantishou/H25/web/sozai/iwashi.html"
+   ],
+   [
+    "Yuasa Shokokai: shirasu",
+    "https://www2.w-shokokai.or.jp/yuasa/bussan/sirasu/sirasu.htm"
+   ],
+   [
+    "Shinyei: iwashi",
+    "https://www.shinyei-shokuhin.jp/dic/seafood/dic_iwashi.html"
+   ]
+  ]
+ },
+ {
+  "id": "sanma",
+  "en": "Pacific saury",
+  "ja": "サンマ",
+  "latin": "Cololabis saira",
+  "alt": "秋刀魚, サイラ, セイラ, カド, バンジョ",
+  "intro": "Sanma carries the scientific name 'saira', taken from the Kansai word sairā / saera. Regional names survive, although some sources say they are heard less often now. Fat falls as the fish moves south, so the northern catch is considered the best.",
+  "months": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1,
+   2,
+   2,
+   1,
+   0
+  ],
+  "seasons": [
+   {
+    "m": [
+     9,
+     11
+    ],
+    "n": "Aki no sanma",
+    "j": "秋のさんま",
+    "t": "The season is autumn, roughly September to November; fat is highest when the fish reach the seas off Choshi and declines as they move south."
+   }
+  ],
+  "systems": [
+   {
+    "label": "Kansai",
+    "prefs": [
+     26,
+     27,
+     28,
+     30
+    ],
+    "names": [
+     {
+      "n": "Saira (saera)",
+      "j": "サイラ",
+      "s": "",
+      "t": "Still used on the Kii peninsula."
+     }
+    ]
+   },
+   {
+    "label": "Mie: Ise Bay",
+    "prefs": [
+     24
+    ],
+    "names": [
+     {
+      "n": "Kado",
+      "j": "カド",
+      "s": "",
+      "t": ""
+     }
+    ]
+   },
+   {
+    "label": "Nagasaki: Iki",
+    "prefs": [
+     42
+    ],
+    "names": [
+     {
+      "n": "Seira",
+      "j": "セイラ",
+      "s": "",
+      "t": ""
+     }
+    ]
+   },
+   {
+    "label": "Niigata: Sado",
+    "prefs": [
+     15
+    ],
+    "names": [
+     {
+      "n": "Banjo",
+      "j": "バンジョ",
+      "s": "",
+      "t": ""
+     }
+    ]
+   }
+  ],
+  "flavor": "Fat is high in fish caught in the north and falls as they migrate south.",
+  "use": "The sources I saw do not specify preparations.",
+  "craft": "Methods are boat-lift (bouke) net, gillnet, and set net; main landing areas are Kushiro, Akkeshi and Nemuro in Hokkaido. The sources I saw do not give size grades, and I found no stage names for saury.",
+  "src": [
+   [
+    "Foodslink: sanma",
+    "https://foodslink.jp/syokuzaihyakka/syun/fish/sanma.htm"
+   ],
+   [
+    "Pet Shokuiku Kyokai: sanma names",
+    "https://apna.jp/pacific-saury/"
+   ],
+   [
+    "Kawasaki City: sanma",
+    "https://www.city.kawasaki.jp/280/page/0000023820.html"
+   ],
+   [
+    "Hachimenroppi: sanma",
+    "https://hachimenroppi.com/wiki/details/sanma/"
+   ]
+  ]
+ },
+ {
+  "id": "kohada",
+  "en": "Gizzard shad",
+  "ja": "コノシロ(コハダ)",
+  "latin": "Konosirus punctatus",
+  "alt": "コハダ, シンコ, ナカズミ, コノシロ",
+  "intro": "The shad that is a staple of Edomae sushi has a four-step name ladder: shinko, kohada, nakazumi, konoshiro. It is unusual among shusse-uo in that price falls as the fish grows. Cut-off sizes differ between sources.",
+  "months": [
+   0,
+   1,
+   0,
+   0,
+   0,
+   2,
+   2,
+   2,
+   2,
+   0,
+   1,
+   1
+  ],
+  "seasons": [
+   {
+    "m": [
+     6,
+     8
+    ],
+    "n": "Shinko",
+    "j": "新子",
+    "t": "Early summer to summer; sources give June to July or July to August."
+   },
+   {
+    "m": [
+     8,
+     9
+    ],
+    "n": "Kohada",
+    "j": "コハダ",
+    "t": "August to September."
+   },
+   {
+    "m": [
+     11,
+     2
+    ],
+    "n": "Konoshiro",
+    "j": "コノシロ",
+    "t": "Adult fish, fat in autumn and winter."
+   }
+  ],
+  "systems": [
+   {
+    "label": "Kanto",
+    "prefs": [
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14
+    ],
+    "names": [
+     {
+      "n": "Shinko",
+      "j": "新子",
+      "s": "Up to 4 to 5 cm",
+      "t": ""
+     },
+     {
+      "n": "Kohada",
+      "j": "コハダ",
+      "s": "7 to 10 cm",
+      "t": ""
+     },
+     {
+      "n": "Nakazumi",
+      "j": "ナカズミ",
+      "s": "About 13 cm (another source: 11 to 15 cm)",
+      "t": ""
+     },
+     {
+      "n": "Konoshiro",
+      "j": "コノシロ",
+      "s": "15 cm and over (another source: 16 cm)",
+      "t": ""
+     }
+    ]
+   },
+   {
+    "label": "Ariake and Yatsushiro Sea",
+    "prefs": [
+     40,
+     41,
+     42,
+     43
+    ],
+    "names": [
+     {
+      "n": "Konoshiro (sugata-zushi)",
+      "j": "コノシロ",
+      "s": "",
+      "t": "Konoshiro is used as a sushi neta; the back-opened fish is stuffed with sushi rice."
+     }
+    ]
+   }
+  ],
+  "flavor": "Silver-skinned and high in water, with many small bones; the character comes from the vinegar and salt cure.",
+  "use": "Shio-and-vinegar cured nigiri, awa-zuke (nakazumi to konoshiro, for osechi), sugata-zushi.",
+  "craft": "Raw kohada is watery and the bones are felt, so it is salted to draw out water and then vinegar-cured. Salt level and vinegar timing are said to show the shokunin's skill. Shinko is the prized item of early summer sushi. Cut-offs between stages vary by source (see above); I did not find a size standard in any official source.",
+  "src": [
+   [
+    "Kanagawa Gyoren: konoshiro",
+    "https://www.kngyoren.com/pages/239/"
+   ],
+   [
+    "Hachimenroppi: kohada",
+    "https://hachimenroppi.com/wiki/details/kohada/"
+   ],
+   [
+    "Sushitake Uehara: kohada",
+    "https://sushitake-uehara.com/fish/kohada/"
+   ],
+   [
+    "Fish Lovers Japan: kohada su-jime",
+    "https://fishloversjapan.com/entry/170829kohada/"
+   ]
+  ]
+ },
+ {
+  "id": "sayori",
+  "en": "Halfbeak",
+  "ja": "サヨリ",
+  "latin": "Hyporhamphus sajori",
+  "alt": "針魚, 細魚, カンヌキ, エンピツ",
+  "intro": "Sayori is named by size as well as by region: small fish are enpitsu and large ones kannuki, and the local names vary widely. The spring season is the usual reference, but the sources do not agree on the exact months.",
+  "months": [
+   1,
+   2,
+   2,
+   2,
+   2,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1,
+   1
+  ],
+  "seasons": [
+   {
+    "m": [
+     2,
+     5
+    ],
+    "n": "Haru no sayori",
+    "j": "春のサヨリ",
+    "t": "Late winter to spring; pre-spawning is said to be the best. One source gives March to May, others February to May or November to May."
+   }
+  ],
+  "systems": [
+   {
+    "label": "Tokyo",
+    "prefs": [
+     13
+    ],
+    "names": [
+     {
+      "n": "Enpitsu",
+      "j": "エンピツ",
+      "s": "15 cm or less",
+      "t": ""
+     },
+     {
+      "n": "Kannuki",
+      "j": "カンヌキ",
+      "s": "Large fish, up to about 40 cm",
+      "t": "Named for the wooden gate bar."
+     }
+    ]
+   },
+   {
+    "label": "Chiba",
+    "prefs": [
+     12
+    ],
+    "names": [
+     {
+      "n": "Sero",
+      "j": "セロ",
+      "s": "",
+      "t": ""
+     }
+    ]
+   },
+   {
+    "label": "Iwate",
+    "prefs": [
+     3
+    ],
+    "names": [
+     {
+      "n": "Kuchinaga",
+      "j": "クチナガ",
+      "s": "",
+      "t": ""
+     }
+    ]
+   },
+   {
+    "label": "Hokuriku",
+    "prefs": [
+     15,
+     16,
+     18
+    ],
+    "names": [
+     {
+      "n": "Saiyori",
+      "j": "さいより",
+      "s": "",
+      "t": ""
+     }
+    ]
+   },
+   {
+    "label": "Noto, Awaji, Tokushima",
+    "prefs": [
+     17,
+     28,
+     36
+    ],
+    "names": [
+     {
+      "n": "Suzu",
+      "j": "スズ",
+      "s": "",
+      "t": ""
+     }
+    ]
+   },
+   {
+    "label": "Kansai",
+    "prefs": [
+     26,
+     27,
+     29,
+     30
+    ],
+    "names": [
+     {
+      "n": "Saero",
+      "j": "さえろ",
+      "s": "",
+      "t": ""
+     }
+    ]
+   },
+   {
+    "label": "San'in",
+    "prefs": [
+     31,
+     32
+    ],
+    "names": [
+     {
+      "n": "Sukubi",
+      "j": "すくび",
+      "s": "",
+      "t": ""
+     }
+    ]
+   }
+  ],
+  "flavor": "Spring pre-spawning fish are regarded as the best.",
+  "use": "The sources I saw do not specify preparations.",
+  "craft": "The sources I saw do not describe handling beyond season and names. Seasonal ranges differ between sources, so confirm with the supplier.",
+  "src": [
+   [
+    "Maruha Nichiro: Sayori",
+    "https://www.maruha-shinko.co.jp/uodas/syun/37-sayori.html"
+   ],
+   [
+    "Hyponex: Sayori",
+    "https://www.hyponex.co.jp/yasai_daijiten/column/column-10823"
+   ],
+   [
+    "Hokuriku seafood: Sayori",
+    "https://shizenjin.net/hokuriku_food/fishes/file172.html"
+   ],
+   [
+    "Totomon: Sayori",
+    "https://totomon.fish/info/sayori/"
+   ]
+  ]
+ },
+ {
+  "id": "tachiuo",
+  "en": "Largehead hairtail (cutlassfish)",
+  "ja": "タチウオ",
+  "latin": "Trichiurus japonicus",
+  "alt": "太刀魚, 銀太, ハクナギ, サーベル",
+  "intro": "The tachiuo is named for its sword-like silver body, and has dozens of local names. In the market, the fish is mainly distinguished by the brand of the port that lands it. Brands are the clearest regional naming system for this fish.",
+  "months": [
+   0,
+   0,
+   0,
+   1,
+   1,
+   1,
+   2,
+   2,
+   2,
+   2,
+   1,
+   0
+  ],
+  "seasons": [
+   {
+    "m": [
+     7,
+     10
+    ],
+    "n": "Oita season",
+    "j": "大分の旬",
+    "t": "The Pride Fish listing for Kunisaki and Usuki gives July to October."
+   },
+   {
+    "m": [
+     4,
+     6
+    ],
+    "n": "Tsushima season",
+    "j": "対馬の旬",
+    "t": "The Tsushima fisheries co-op gives April to June for its Ginta."
+   }
+  ],
+  "systems": [
+   {
+    "label": "Oita",
+    "prefs": [
+     44
+    ],
+    "names": [
+     {
+      "n": "Kunisaki gintachi",
+      "j": "くにさき銀たち",
+      "s": "",
+      "t": "Brand for Kunisaki."
+     },
+     {
+      "n": "Usuki tachiuo",
+      "j": "臼杵たちうお",
+      "s": "",
+      "t": "Brand for Usuki."
+     }
+    ]
+   },
+   {
+    "label": "Ehime",
+    "prefs": [
+     38
+    ],
+    "names": [
+     {
+      "n": "Tsuri tachiuo",
+      "j": "釣りタチウオ",
+      "s": "Line-caught",
+      "t": "Pride Fish listing for Ehime."
+     }
+    ]
+   },
+   {
+    "label": "Wakayama",
+    "prefs": [
+     30
+    ],
+    "names": [
+     {
+      "n": "Kishu Kinotachi",
+      "j": "紀州紀ノ太刀",
+      "s": "",
+      "t": ""
+     }
+    ]
+   },
+   {
+    "label": "Kumamoto",
+    "prefs": [
+     43
+    ],
+    "names": [
+     {
+      "n": "Taura gintachi",
+      "j": "田浦銀太刀",
+      "s": "",
+      "t": ""
+     }
+    ]
+   },
+   {
+    "label": "Nagasaki: Tsushima",
+    "prefs": [
+     42
+    ],
+    "names": [
+     {
+      "n": "Ginta",
+      "j": "銀太",
+      "s": "",
+      "t": "Brand of Kamitsushima fisheries co-op."
+     }
+    ]
+   }
+  ],
+  "flavor": "Silver-skinned white fish; the sources I saw give no flavour description.",
+  "use": "Grilled and sashimi are the usual uses; the sources I saw give no specific preparations.",
+  "craft": "Handling details were not in the results. Local names listed by a trade source include tachinouo, hakunagi, hakuuo, saberu, shiraga, ginndachi, and many others. Seasons clearly differ by ground (above), so use the brand's own calendar.",
+  "src": [
+   [
+    "Pride Fish: Kunisaki Gintachi / Usuki",
+    "https://www.pride-fish.jp/JPF/pref/detail.php?pk=1400325399"
+   ],
+   [
+    "Pride Fish: Ehime tsuri tachiuo",
+    "https://www.pride-fish.jp/JPF/pref/detail.php?pk=1412842149"
+   ],
+   [
+    "Kamitsushima fisheries co-op: Ginta",
+    "https://jf-kamitsushima.or.jp/fishing_industry/brands/ginta/"
+   ],
+   [
+    "Hachimenroppi: tachiuo",
+    "https://hachimenroppi.com/wiki/details/tachiuo/"
+   ]
+  ]
+ },
+ {
+  "id": "nishin",
+  "en": "Pacific herring",
+  "ja": "ニシン",
+  "latin": "Clupea pallasii",
+  "alt": "鰊, 春告魚, カド",
+  "intro": "Nishin is called harutsuge-uo (the fish that announces spring) because it approaches the Hokkaido coast in spring to spawn. In Akita and Aomori it is kado, and the roe, kado no ko, is said to be the source of the word kazunoko; the etymology is a theory, not settled.",
+  "months": [
+   0,
+   1,
+   2,
+   2,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1,
+   1,
+   1
+  ],
+  "seasons": [
+   {
+    "m": [
+     3,
+     5
+    ],
+    "n": "Haru-tsuge-uo",
+    "j": "春告魚",
+    "t": "Spring spawning run; March to May is the common season. One source says February to March before spawning, and another adds October to December."
+   }
+  ],
+  "systems": [
+   {
+    "label": "Hokkaido",
+    "prefs": [
+     1
+    ],
+    "names": [
+     {
+      "n": "Haru-tsuge-uo",
+      "j": "春告魚",
+      "s": "",
+      "t": "Name for the spring run to the coast."
+     }
+    ]
+   },
+   {
+    "label": "Aomori & Akita",
+    "prefs": [
+     2,
+     5
+    ],
+    "names": [
+     {
+      "n": "Kado",
+      "j": "カド",
+      "s": "",
+      "t": "Local name; the roe is kado no ko, said to have become kazunoko. Another source says kado is Ainu."
+     }
+    ]
+   }
+  ],
+  "flavor": "The roe (kazunoko) is the processed product best known from this fish.",
+  "use": "Kazunoko (roe) is the well-known product; other uses were not in the results.",
+  "craft": "Sources differ on season (3 to 5 months, 2 to 3, or two seasons). The results did not give grades or handling for kazunoko.",
+  "src": [
+   [
+    "Hyponex: Nishin",
+    "https://www.hyponex.co.jp/yasai_daijiten/column/column-10888"
+   ],
+   [
+    "Macaroni: kazunoko",
+    "https://macaro-ni.jp/75479"
+   ],
+   [
+    "Kotobank: nishin",
+    "https://kotobank.jp/word/%E3%81%AB%E3%81%97%E3%82%93-3162288"
+   ],
+   [
+    "Totomon: nishin",
+    "https://totomon.fish/info/nishin/"
+   ]
+  ]
+ },
+ {
+  "id": "hatahata",
+  "en": "Sailfin sandfish",
+  "ja": "ハタハタ",
+  "latin": "Arctoscopus japonicus",
+  "alt": "鰰, 鱩, 雷魚",
+  "intro": "Hatahata is the winter fish of Akita, whose spawning roe is called burico. The name is linked to the thunder of the winter storms that coincide with the catch. Akita gives both a 'shun' and a fishery period, and they differ.",
+  "months": [
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1,
+   2,
+   2
+  ],
+  "seasons": [
+   {
+    "m": [
+     10,
+     12
+    ],
+    "n": "Akita shun",
+    "j": "秋田の旬",
+    "t": "The Akita prefecture gives October to December as the season, and the fishing period as October to June of the following year."
+   },
+   {
+    "m": [
+     11,
+     1
+    ],
+    "n": "Seasonal fishery",
+    "j": "季節ハタハタ漁",
+    "t": "Another source puts the seasonal fishery at late November to January; burico is best around December."
+   }
+  ],
+  "systems": [
+   {
+    "label": "Akita",
+    "prefs": [
+     5
+    ],
+    "names": [
+     {
+      "n": "Burico",
+      "j": "ブリコ",
+      "s": "Spawning roe",
+      "t": "Prized in Akita; the female carries it before spawning."
+     },
+     {
+      "n": "Akita hatahata",
+      "j": "秋田ハタハタ",
+      "s": "Pride Fish listing",
+      "t": ""
+     }
+    ]
+   }
+  ],
+  "flavor": "Burico, the roe, is the prized part in Akita; no other flavour detail in the results.",
+  "use": "Eaten as roe-bearing fish; the results warn about parasites when eating raw.",
+  "craft": "Raw eating of roe-bearing fish needs care about parasites, noted in one article. Month ranges differ by source: the prefecture's October to December shun, the roe peak around December, and a December to January view.",
+  "src": [
+   [
+    "Akita Prefecture: hatahata",
+    "https://www.pref.akita.lg.jp/pages/archive/48298"
+   ],
+   [
+    "Pride Fish: Akita hatahata",
+    "https://www.pride-fish.jp/JPF/pref/detail.php?pk=1447298990"
+   ],
+   [
+    "Foodslink: hatahata",
+    "https://www.foodslink.jp/syokuzaihyakka/syun/fish/hatahata.htm"
+   ],
+   [
+    "Tsuri News: komochi hatahata",
+    "https://tsurinews.jp/143956/"
+   ]
+  ]
+ },
+ {
+  "id": "ayu",
+  "en": "Sweetfish (ayu)",
+  "ja": "アユ",
+  "latin": "Plecoglossus altivelis",
+  "alt": "鮎, 年魚, 香魚",
+  "intro": "Ayu has stage names rather than regional ones. One source says the species has very few local names, as it is nationally uniform. The names follow its one-year life: hio, chi-ayu, waka-ayu, ochi-ayu.",
+  "months": [
+   0,
+   0,
+   0,
+   1,
+   1,
+   2,
+   2,
+   2,
+   2,
+   2,
+   0,
+   0
+  ],
+  "seasons": [
+   {
+    "m": [
+     4,
+     5
+    ],
+    "n": "Chi-ayu",
+    "j": "稚鮎",
+    "t": "Juveniles of about 6 cm, seen in April to May."
+   },
+   {
+    "m": [
+     6,
+     7
+    ],
+    "n": "Waka-ayu",
+    "j": "若鮎",
+    "t": "June to July, up to about 15 cm."
+   },
+   {
+    "m": [
+     9,
+     10
+    ],
+    "n": "Komochi / ochi-ayu",
+    "j": "子持ち鮎・落ち鮎",
+    "t": "Autumn spawning fish going downstream; they develop rusty marks (sabi-ayu)."
+   }
+  ],
+  "systems": [
+   {
+    "label": "Shiga: Lake Biwa",
+    "prefs": [
+     25
+    ],
+    "names": [
+     {
+      "n": "Hio (shirasu-ayu)",
+      "j": "氷魚",
+      "s": "Newly born larvae",
+      "t": "Some regions call fish up to about 15 cm hio."
+     },
+     {
+      "n": "Chi-ayu",
+      "j": "稚鮎",
+      "s": "About 6 cm",
+      "t": "Market chi-ayu are generally Lake Biwa fish or farmed, per one source."
+     },
+     {
+      "n": "Waka-ayu",
+      "j": "若鮎",
+      "s": "Up to 15 cm",
+      "t": ""
+     },
+     {
+      "n": "Ochi-ayu / sabi-ayu",
+      "j": "落ち鮎・錆鮎",
+      "s": "Autumn",
+      "t": "Sabi-ayu refers to the rusty marks."
+     }
+    ]
+   }
+  ],
+  "flavor": "Fragrant, which is the origin of the name kogyo (fragrant fish).",
+  "use": "The sources I saw give no specific preparations; small chi-ayu are common in the market.",
+  "craft": "Wild ayu is closed to fishing from November to the end of May in most areas, so summer fish are in season by the fishing opening. Details of the opening dates by river were not in the results. Season calls: June to August for fatty fish, and September to October for roe-bearing fish.",
+  "src": [
+   [
+    "Maruha Nichiro: Ayu",
+    "https://www.maruha-shinko.co.jp/uodas/syun/39-ayu.html"
+   ],
+   [
+    "Furunavi: ayu season",
+    "https://furunavi.jp/discovery/knowledge_food/202307-sweetfish/"
+   ],
+   [
+    "Pepeeto: ayu names",
+    "https://pepeeto.com/blog/ayu-name/"
+   ],
+   [
+    "Hachimenroppi: ayu",
+    "https://hachimenroppi.com/wiki/details/ayu/"
+   ]
+  ]
+ },
+ {
+  "id": "hokke",
+  "en": "Atka mackerel",
+  "ja": "ホッケ",
+  "latin": "Pleurogrammus azonus",
+  "alt": "𩸽, 根ボッケ, 春ボッケ",
+  "intro": "Hokke is a stage-named fish whose price rises with age, from aobokke through rousokubokke and harubokke to neboke, the resident reef fish. Hokkaido ports each have their own peak season.",
+  "months": [
+   0,
+   0,
+   0,
+   2,
+   2,
+   1,
+   1,
+   1,
+   1,
+   2,
+   2,
+   1
+  ],
+  "seasons": [
+   {
+    "m": [
+     4,
+     5
+    ],
+    "n": "Shakotan",
+    "j": "積丹",
+    "t": "April to May is the season in Shakotan."
+   },
+   {
+    "m": [
+     7,
+     8
+    ],
+    "n": "Rebun",
+    "j": "礼文",
+    "t": "July to August."
+   },
+   {
+    "m": [
+     10,
+     11
+    ],
+    "n": "Rausu",
+    "j": "羅臼",
+    "t": "October to November."
+   },
+   {
+    "m": [
+     11,
+     12
+    ],
+    "n": "Hidaka",
+    "j": "日高",
+    "t": "November to December."
+   }
+  ],
+  "systems": [
+   {
+    "label": "Hokkaido",
+    "prefs": [
+     1
+    ],
+    "names": [
+     {
+      "n": "Ao-bokke",
+      "j": "アオボッケ",
+      "s": "5 to 15 cm",
+      "t": ""
+     },
+     {
+      "n": "Rousoku-bokke",
+      "j": "ロウソクボッケ",
+      "s": "About 20 cm",
+      "t": ""
+     },
+     {
+      "n": "Haru-bokke",
+      "j": "ハルボッケ",
+      "s": "1-year fish coming inshore in spring",
+      "t": "In one source the fourth stage is ma-bokke at 20 to 25 cm."
+     },
+     {
+      "n": "Ne-bokke",
+      "j": "根ボッケ",
+      "s": "Large resident fish",
+      "t": "Reef-resident and fat; the top grade of hiraki."
+     }
+    ]
+   }
+  ],
+  "flavor": "Neboke is described as fat from rich feed.",
+  "use": "Dried hiraki (opened and dried) is the high-value form for neboke.",
+  "craft": "Sources place stages differently: one gives ao-bokke 5 to 15 cm, rousoku-bokke about 20 cm, ma-bokke 20 to 25 cm, then neboke; another describes haru-bokke as a 1-year fish that comes in spring. The Hokkaido fishing peaks are May to July and November. Neboke hiraki is described as very expensive, see Zukan Bouz.",
+  "src": [
+   [
+    "Zukan Bouz: hokke",
+    "https://www.zukan-bouz.com/syu/%E3%83%9B%E3%83%83%E3%82%B1"
+   ],
+   [
+    "Zukan Bouz: neboke hiraki",
+    "https://www.zukan-bouz.com/article/629"
+   ],
+   [
+    "Totomon: hokke",
+    "https://totomon.fish/info/hokke/"
+   ],
+   [
+    "Susukino.tv: seasonal food",
+    "https://www.susukino.tv/w_encyclopedia2411.php"
+   ]
+  ]
+ },
+ {
+  "id": "akamutsu",
+  "en": "Rosy seabass (blackthroat seaperch)",
+  "ja": "アカムツ(ノドグロ)",
+  "latin": "Doederleinia berycoides",
+  "alt": "ノドグロ, ノドクロ, メッキン, ダンジュウロ, アカモツ",
+  "intro": "The standard name is akamutsu but the Sea of Japan coast sells it as nodoguro. In Kochi, a different fish name kinme is used for it, a point of confusion with kinmedai. The Latin species name means 'resembling Beryx', the genus of kinmedai.",
+  "months": [
+   1,
+   1,
+   1,
+   1,
+   0,
+   0,
+   1,
+   1,
+   1,
+   2,
+   2,
+   2
+  ],
+  "seasons": [
+   {
+    "m": [
+     9,
+     12
+    ],
+    "n": "Ishikawa, Shimane, Nagasaki",
+    "j": "石川・島根・長崎の旬",
+    "t": "Season September to December in these prefectures."
+   },
+   {
+    "m": [
+     7,
+     9
+    ],
+    "n": "Niigata",
+    "j": "新潟の旬",
+    "t": "July to September."
+   },
+   {
+    "m": [
+     11,
+     4
+    ],
+    "n": "After spawning",
+    "j": "産卵後",
+    "t": "One source says November through spring. Another says the fat stays high all year."
+   }
+  ],
+  "systems": [
+   {
+    "label": "Sea of Japan: nodoguro",
+    "prefs": [
+     15,
+     17,
+     31
+    ],
+    "names": [
+     {
+      "n": "Nodoguro",
+      "j": "ノドグロ",
+      "s": "",
+      "t": "Used widely on the Sea of Japan side, per one source."
+     }
+    ]
+   },
+   {
+    "label": "Shimane",
+    "prefs": [
+     32
+    ],
+    "names": [
+     {
+      "n": "Nodoguro",
+      "j": "ノドグロ",
+      "s": "Hamada",
+      "t": "Hamada city adopted nodoguro as the city fish."
+     },
+     {
+      "n": "Mekin / Mekkin",
+      "j": "メキン・メッキン",
+      "s": "",
+      "t": ""
+     },
+     {
+      "n": "Donchitchi nodoguro",
+      "j": "どんちっちノドグロ",
+      "s": "80 g and over",
+      "t": "Brand for fresh fish over 80 g."
+     }
+    ]
+   },
+   {
+    "label": "Toyama",
+    "prefs": [
+     16
+    ],
+    "names": [
+     {
+      "n": "Danjuro",
+      "j": "ダンジュウロ",
+      "s": "",
+      "t": ""
+     }
+    ]
+   },
+   {
+    "label": "Kochi & Tokushima",
+    "prefs": [
+     36,
+     39
+    ],
+    "names": [
+     {
+      "n": "Akamotsu",
+      "j": "アカモツ",
+      "s": "",
+      "t": "Tokushima and Kochi."
+     },
+     {
+      "n": "Kinme",
+      "j": "キンメ",
+      "s": "",
+      "t": "Kochi; not kinmedai."
+     },
+     {
+      "n": "Kingyo / Akauo",
+      "j": "キンギョ・アカウオ",
+      "s": "",
+      "t": "Kochi."
+     }
+    ]
+   },
+   {
+    "label": "Kanto",
+    "prefs": [
+     13,
+     14
+    ],
+    "names": [
+     {
+      "n": "Akamutsu",
+      "j": "アカムツ",
+      "s": "",
+      "t": "Standard name; nodoguro is increasingly used."
+     }
+    ]
+   }
+  ],
+  "flavor": "Fat is said to stay in the flesh through the year, per one source.",
+  "use": "The sources I saw do not specify preparations.",
+  "craft": "Fish reach about 40 cm. Season statements conflict (above). Size was not graded in the sources apart from the Shimane 80 g brand. I did not find auction prices.",
+  "src": [
+   [
+    "Foodslink: akamutsu",
+    "https://foodslink.jp/syokuzaihyakka/syun/fish/akamutu.htm"
+   ],
+   [
+    "Hyponex: akamutsu",
+    "https://www.hyponex.co.jp/yasai_daijiten/column/column-11300"
+   ],
+   [
+    "Pride Fish: Niigata nodoguro",
+    "https://www.pride-fish.jp/JPF/pref/detail.php?pk=1416269007"
+   ],
+   [
+    "Olive Hitomawashi: names",
+    "https://www.olive-hitomawashi.com/column/2022/05/post-16870.html"
+   ]
+  ]
+ },
+ {
+  "id": "akakamasu",
+  "en": "Barracuda (red and yamato kamasu)",
+  "ja": "カマス",
+  "latin": "Sphyraena pinguis / Sphyraena japonica",
+  "alt": "アカカマス, ヤマトカマス, アオカマス, 梭子魚",
+  "intro": "Akakamasu and yamato-kamasu (ao-kamasu) are sold as kamasu with different peaks. Local names include arahada, shakuhachi and neira. Akakamasu is the better-regarded fish.",
+  "months": [
+   0,
+   0,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   2,
+   2,
+   2
+  ],
+  "seasons": [
+   {
+    "m": [
+     11,
+     12
+    ],
+    "n": "Akakamasu",
+    "j": "アカカマス",
+    "t": "Autumn to early winter, per one source; another says two peaks, autumn to early winter and spring."
+   },
+   {
+    "m": [
+     6,
+     8
+    ],
+    "n": "Yamato-kamasu",
+    "j": "ヤマトカマス",
+    "t": "June to August."
+   }
+  ],
+  "systems": [
+   {
+    "label": "Mie",
+    "prefs": [
+     24
+    ],
+    "names": [
+     {
+      "n": "Arahada",
+      "j": "アラハダ",
+      "s": "",
+      "t": ""
+     }
+    ]
+   },
+   {
+    "label": "Tokushima",
+    "prefs": [
+     36
+    ],
+    "names": [
+     {
+      "n": "Shakuhachi",
+      "j": "シャクハチ",
+      "s": "",
+      "t": ""
+     }
+    ]
+   },
+   {
+    "label": "Shizuoka",
+    "prefs": [
+     22
+    ],
+    "names": [
+     {
+      "n": "Neira",
+      "j": "ネイラ",
+      "s": "",
+      "t": ""
+     }
+    ]
+   },
+   {
+    "label": "Kanagawa",
+    "prefs": [
+     14
+    ],
+    "names": [
+     {
+      "n": "Enoshima kamasu",
+      "j": "江の島カマス",
+      "s": "Akakamasu",
+      "t": "Pride Fish brand."
+     }
+    ]
+   },
+   {
+    "label": "Toyama & Nagasaki",
+    "prefs": [
+     16,
+     42
+    ],
+    "names": [
+     {
+      "n": "Kamasu",
+      "j": "カマス",
+      "s": "",
+      "t": "Named as the main producing prefectures; shipments peak in autumn to early winter."
+     }
+    ]
+   }
+  ],
+  "flavor": "The sources I saw give no flavour description.",
+  "use": "Himono (dried fish) is mentioned in one source; other uses were not specified.",
+  "craft": "Dried kamasu is mentioned by one retail source. The results did not give cutting or ageing details.",
+  "src": [
+   [
+    "Macaroni: kamasu",
+    "https://macaro-ni.jp/88084"
+   ],
+   [
+    "Pride Fish: Enoshima kamasu",
+    "https://www.pride-fish.jp/JPF/pref/detail.php?pk=1479089918"
+   ],
+   [
+    "Hachimenroppi: akakamasu",
+    "https://hachimenroppi.com/wiki/details/akakamasu/"
+   ],
+   [
+    "Totomon: akakamasu",
+    "https://totomon.fish/info/akakamasu/"
+   ]
+  ]
+ }
+]

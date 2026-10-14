@@ -1,0 +1,604 @@
+[
+ {
+  "cat": "glossary",
+  "name": "The five JAS types of shoyu (goshurui)",
+  "ja": "しょうゆ五種類（濃口・淡口・溜・再仕込み・白）",
+  "prefs": [],
+  "text": "Japanese Agricultural Standard classification divides shoyu into five types: koikuchi, usukuchi, tamari, saishikomi and shiro. Koikuchi is the standard type and is described as roughly 80% of Japanese output; usukuchi is a little over 10% and favoured in Kansai. Tamari is brewed with little brine and little or no wheat, mainly in the Chubu region (Aichi, Gifu, Mie). Saishikomi uses raw shoyu instead of brine, so it needs about twice the raw material and time. Shiro is the palest, wheat-dominant, amber type. Salt-level figures differ between sources.",
+  "flavor": "Five distinct profiles: balanced (koikuchi), salty and pale (usukuchi), thick and umami-heavy (tamari), intense and sweet-rounded (saishikomi), light and sweet-wheaty (shiro).",
+  "use": "Choose by role: koikuchi as the all-round seasoning, usukuchi where colour must be kept, tamari for sashimi, grilled senbei and glazes, saishikomi as a finishing or dipping shoyu, shiro for pale sauces and clear dishes.",
+  "craft": "Do not trust quoted salt percentages blindly: sources give about 16% for koikuchi and 18-19% for usukuchi, but they vary. Usukuchi is paler yet saltier than koikuchi, so substituting it 1:1 for colour changes seasoning. Taste before use, and note that the same word may cover very different regional styles within one type.",
+  "src": [
+   [
+    "Mi-Journey: five types of shoyu",
+    "https://mi-journey.jp/foodie/11153/"
+   ],
+   [
+    "Higashimaru: various shoyu",
+    "https://www.higashimaru.co.jp/enjoy/oshiete/etc.html"
+   ],
+   [
+    "Japan Shoyu Association: JAS",
+    "https://www.soysauce.or.jp/knowledge/jas"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Seikiku (shoyu koji making)",
+  "ja": "製麹（醤油麹づくり）",
+  "prefs": [],
+  "text": "Seikiku is the first brewing stage. Soybeans are steamed and wheat is roasted, then seed koji (tanekoji) is mixed in and the mass is held in a koji room under controlled temperature and humidity for about three days, with periodic turning (teire). The product is shoyu koji, which supplies the enzymes that later break down protein and starch in the moromi. Kikkoman's description gives steamed soy and roasted wheat as the standard koikuchi inputs.",
+  "flavor": "Koji itself is mild and dry; quality shows later in the moromi as clean umami and aroma.",
+  "use": "Understood as the quality-determining step for enzyme activity, which governs how much of the soy protein ends up as flavour in the finished shoyu.",
+  "craft": "Koji temperature, humidity and the timing of turning (teire) are the control points; exact room temperatures were not in the sources seen and should be taken from the maker.",
+  "src": [
+   [
+    "Kikkoman Soy Sauce Museum: how shoyu is made",
+    "https://www.kikkoman.co.jp/enjoys/soysaucemuseum/making.html"
+   ],
+   [
+    "Honjozo shoyu production process",
+    "https://www.eonet.ne.jp/~shoyu/mametisiki/mame04-a.html"
+   ],
+   [
+    "Hakko Blend: shoyu basics",
+    "https://www.hakko-blend.com/study/hakkofood/01.html"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Moromi (shoyu mash fermentation and ageing)",
+  "ja": "諸味（もろみ）",
+  "prefs": [],
+  "text": "Moromi is made by mixing shoyu koji with brine (salt water). Fermentation and ageing in tank or barrel run roughly six months to a year according to the manufacturer pages seen; kioke Shodoshima shoyu is stated at about one year for koikuchi, against 4 to 8 months in stainless tanks. Yeast and lactic bacteria work together with koji enzymes in the mash. Tamari and saishikomi change the recipe: tamari uses less brine, saishikomi uses raw shoyu in place of brine.",
+  "flavor": "Fresh moromi is thick, salty and savoury with strong aroma; the character is set here.",
+  "use": "The mash is the stage where producers adjust style by brine ratio, vessel and time before pressing.",
+  "craft": "Brine ratio is the main lever: one source puts koikuchi brine at 50 to 100% of the koji volume and tamari lower. Ageing time varies by maker (about 6 months to 2.5 years in the sources seen). No stirring schedule or temperatures were found in the sources.",
+  "src": [
+   [
+    "Japan Shoyu Association: process",
+    "https://www.soysauce.or.jp/knowledge/process"
+   ],
+   [
+    "Marue Shoyu: shoyu making",
+    "https://www.marue-shoyu.co.jp/quality/shoyu/"
+   ],
+   [
+    "Shodoshima Town: oke-jikomi shoyu",
+    "https://www.town.shodoshima.lg.jp/gyousei/kakuka/shokokanko/4/891.html"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Assaku and kiage (pressing, raw shoyu)",
+  "ja": "圧搾・生揚げ",
+  "prefs": [],
+  "text": "After ageing the moromi is pressed to separate liquid from solids. The liquid is called kiage (生揚げ), raw shoyu, and the cake that remains is shoyu-kasu. Kikkoman's description describes pressing the moromi to obtain raw shoyu, which then goes to settling, filtration and heating. First-pressed (ichiban shibori) shoyu is sometimes marketed separately, for example by Ishimago Honten in Akita.",
+  "flavor": "Raw kiage is fragrant, lively and slightly raw-tasting compared with fired shoyu.",
+  "use": "Kiage is the base for nama-shoyu and for fired shoyu; it is also the liquid used in place of brine for saishikomi.",
+  "craft": "Settle and remove the oil that rises from raw shoyu before bottling; keep kiage cold if held, as it is still microbially active. 'Ichiban shibori' claims are marketing language, not a JAS grade. Pressing equipment and cycle times are not given in the sources I saw.",
+  "src": [
+   [
+    "Kikkoman Soy Sauce Museum: how shoyu is made",
+    "https://www.kikkoman.co.jp/enjoys/soysaucemuseum/making.html"
+   ],
+   [
+    "Honjozo shoyu process",
+    "http://www.eonet.ne.jp/~shoyu/mametisiki/sm-shoyu04.html"
+   ],
+   [
+    "Biglobe: Akita shoyu",
+    "https://food.biglobe.ne.jp/rankings/22072/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Hiire (heat treatment of shoyu)",
+  "ja": "火入れ",
+  "prefs": [],
+  "text": "Hiire is the heat treatment applied to raw shoyu (kiage) after pressing. It sterilises the product, stops enzymes and microbes, and develops the final colour and aroma. After heating the shoyu is clarified and filtered before bottling. Sources describe it as heating to sterilise and to adjust fragrance and colour. Shoyu sold without hiire but with equivalent microbial removal may be called nama-shoyu.",
+  "flavor": "Heat gives the familiar roasted, caramel-like fragrance and deeper colour.",
+  "use": "Defines the difference between standard bottled shoyu and unfired nama (ki) shoyu.",
+  "craft": "Heating temperature and time are tuned by maker to balance aroma against colour; sediment (ori) forms during firing and is removed by settling and filtering. I do not have specific temperatures from the sources seen.",
+  "src": [
+   [
+    "Kikkoman Soy Sauce Museum: how shoyu is made",
+    "https://www.kikkoman.co.jp/enjoys/soysaucemuseum/making.html"
+   ],
+   [
+    "Honjozo shoyu process",
+    "https://www.eonet.ne.jp/~shoyu/mametisiki/mame04-a.html"
+   ],
+   [
+    "Kikkoman: various shoyu",
+    "https://www.kikkoman.co.jp/enjoys/soysaucemuseum/various.html"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Nama-shoyu (unpasteurised shoyu)",
+  "ja": "生しょうゆ（なましょうゆ）",
+  "prefs": [],
+  "text": "Kikkoman explains that shoyu drawn straight from pressed moromi is kiage-shoyu, and that 'nama shoyu' is a name allowed for shoyu not heat-treated but given an equivalent microbial removal. Makers such as Kikkoman (Shiboritate Nama Shoyu) and Nihon Shoyu Kogyo sell it. The maker lists 18 months from manufacture for a 1 L bottle, and it must be refrigerated after opening. Description: fresh colour, soft saltiness, gentle aroma.",
+  "flavor": "Pale, bright colour, soft salt, gentle aroma, less roasted than fired shoyu.",
+  "use": "Dressings, sashimi, tofu and other dishes where aroma should stay light; add late rather than cooking it.",
+  "craft": "Refrigerate once open, because aroma and colour decline faster than in fired shoyu; one Q&A says koji organisms remain alive but that is anonymous and unreliable. Avoid prolonged high heat, which would erase the point of buying it.",
+  "src": [
+   [
+    "Kikkoman: various shoyu",
+    "https://www.kikkoman.co.jp/enjoys/soysaucemuseum/various.html"
+   ],
+   [
+    "Kikkoman Shiboritate Nama Shoyu",
+    "https://www.kikkoman.co.jp/products/K05/detail/K050300.html"
+   ],
+   [
+    "Nihon Shoyu Kogyo: nama shoyu 1 L",
+    "https://www.kikkonihon.co.jp/products/fresh-soy-sauce-1l"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Honjozo, konkō-jozo and konkō labelling",
+  "ja": "本醸造・混合醸造・混合",
+  "prefs": [],
+  "text": "Under JAS, shoyu is made by one of three methods and the label shows it: honjozo (本醸造), konkō-jozo (混合醸造) and konkō (混合). Honjozo shoyu has no amino acid liquid added; one explanation says amino acid liquid in the mix puts it in the other groups. 'Tokkyu' (special grade) is allowed only on honjozo shoyu, with an exception for konkō-jozo saishikomi. Tennen jozo, a non-JAS claim, additionally means no enzyme added to speed fermentation and no food additives.",
+  "flavor": "Honjozo: fuller, more rounded umami; konkō types vary with maker.",
+  "use": "Read the label when sourcing: for a kitchen needing authentic fermentation flavour, honjozo is the baseline; konkō products are often cheaper and sweeter.",
+  "craft": "The grade (tokkyu, jokyu, hyojun) and the method are independent labels. Check the ingredient list for amino acid liquid, sweeteners and alcohol. 'Tennen jozo' is advertised, not a JAS category, so ask the maker. Sources disagree on some nitrogen values; consult the JAS text.",
+  "src": [
+   [
+    "Japan Shoyu Association: JAS",
+    "https://www.soysauce.or.jp/knowledge/jas"
+   ],
+   [
+    "Shoyu labels and quality indications",
+    "http://www.eonet.ne.jp/~shoyu/mametisiki/mame14-a.html"
+   ],
+   [
+    "Fujijin: shoyu quality labelling",
+    "https://www.fujijin.co.jp/qa/470/"
+   ],
+   [
+    "Ono Murasaki: classification by method",
+    "https://www.oonomurasaki.jp/pages/34/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Shoyu grades (tokkyu, jokyu, hyojun)",
+  "ja": "しょうゆの等級（特級・上級・標準）",
+  "prefs": [],
+  "text": "JAS-marked shoyu must show a grade: tokkyu (special), jokyu (superior) or hyojun (standard). Grading depends mainly on total nitrogen, the umami indicator, along with colour and salt-free soluble solids. For koikuchi, one source gives total nitrogen of at least 1.50% for tokkyu, 1.35% for jokyu and 1.20% for hyojun. 'Tokusen' above tokkyu is a higher claimed nitrogen level. Sources differ on tamari and saishikomi values, so check the JAS text.",
+  "flavor": "Higher grade means more total nitrogen, so rounder umami and body, but not necessarily a better fit.",
+  "use": "A buying guide for consistent umami level; choose by dish rather than by grade alone.",
+  "craft": "Grade measures nitrogen and not flavour quality or freshness; a tokkyu shoyu that is oxidised or old will lose to a hyojun fresh bottle. The 2014 MAFF revision document is old, so confirm the current JAS wording before quoting figures.",
+  "src": [
+   [
+    "Kotowari: shoyu grades",
+    "https://www.kotowari-cooking.com/note/ingredients/seasonings/soy-sauce/japanese/grade"
+   ],
+   [
+    "Fujijin: quality labelling",
+    "https://www.fujijin.co.jp/qa/470/"
+   ],
+   [
+    "MAFF: JAS revision for shoyu (2014)",
+    "https://www.maff.go.jp/j/jas/kaigi/pdf/140529_sokai_c.pdf"
+   ]
+  ]
+ },
+ {
+  "cat": "shoyu",
+  "name": "Kioke-jikomi shoyu (wooden-barrel brewing)",
+  "ja": "木桶仕込み醤油",
+  "prefs": [
+   37
+  ],
+  "text": "Shoyu fermented in cedar barrels. Shodoshima Town describes its oke-jikomi shoyu as long-brewed: about one year for koikuchi and two for saishikomi, against 4 to 8 months in stainless tanks. A barrel is about 2.2 m across the top, 1.7 m deep, about 5,800 L, and old ones are over 100 years old. Raw materials are Kyushu whole soybeans and wheat from Kagawa and Hokkaido, according to the town page. Microbes living in the barrel and kura (shoyu yeast, lactic bacteria) are said to give each brewery its taste.",
+  "flavor": "Deeper, more complex and rounded aroma than tank-brewed shoyu, with a lingering finish.",
+  "use": "Finishing shoyu for sashimi, tofu, rice and dishes that show the shoyu itself.",
+  "craft": "Barrels and kura carry resident microbes, so replacing or cleaning them changes the flavour; barrels ferment at different speeds, so makers judge each one. Barrel-making skill is a limiting factor for the craft. Ageing periods vary between sources (1 to 3 years quoted), so ask the maker.",
+  "src": [
+   [
+    "Shodoshima Town: oke-jikomi shoyu",
+    "https://www.town.shodoshima.lg.jp/gyousei/kakuka/shokokanko/4/891.html"
+   ],
+   [
+    "Kotowari: kioke shoyu",
+    "https://www.kotowari-cooking.com/note/ingredients/seasonings/soy-sauce/japanese/kioke-shoyu"
+   ],
+   [
+    "Shima Shoyu: Shodoshima features",
+    "https://shima-shoyu.com/point/"
+   ]
+  ]
+ },
+ {
+  "cat": "producer",
+  "name": "Yamaroku Shoyu (Shodoshima kioke brewery)",
+  "ja": "ヤマロク醤油",
+  "prefs": [
+   37
+  ],
+  "text": "A Shodoshima brewery profiled by Ryori Tsushin for keeping kioke brewing alive; the fifth-generation owner apprenticed with a barrel maker. He judges each barrel's fermentation speed and ripeness and presses the moromi on a 2 to 2.5 year cycle, according to the piece. Its saishikomi-style 'Tsuru-bishio' is reported to make up about 80% of its output, though accounts of its ageing differ (2 to 2.5 years in one, 4 years in another).",
+  "flavor": "Deep, round, sweet-savoury; Tsuru-bishio is dense and mellow.",
+  "use": "Used as finishing shoyu at the table and in simple dishes that benefit from a barrel-aged profile.",
+  "craft": "Barrel-by-barrel judgement of ripeness, not a fixed calendar, drives pressing. Source accounts of Tsuru-bishio ageing disagree, so confirm with the maker.",
+  "src": [
+   [
+    "Ryori Tsushin: Yamaroku Shoyu",
+    "https://r-tsushin.com/journal/japan/hakko_33_yamaroku_shoyu/"
+   ],
+   [
+    "Hanako: Shodoshima barrel shoyu",
+    "https://hanako.tokyo/food/132552/"
+   ]
+  ]
+ },
+ {
+  "cat": "shoyu",
+  "name": "Kura-zuki microbes of Shodoshima shoyu",
+  "ja": "蔵付き酵母・乳酸菌",
+  "prefs": [
+   37
+  ],
+  "text": "Shodoshima shoyu is described as shaped by shoyu yeast and lactic acid bacteria that have lived in barrels and kura for generations, which gives each kura its own flavour. Another explanation is that the wood fibre lets kura-specific microbes settle. Shima Shoyu and the town page both raise it as the reason barrel shoyu differs from tank shoyu.",
+  "flavor": "Complex, layered aroma and rounded acidity that differ from kura to kura.",
+  "use": "Compare kura side by side when selecting a house shoyu.",
+  "craft": "Do not scrub barrels in a way that removes resident microbes; replacement of barrels can reset flavour. Claims about specific microbial composition should be treated as maker statements unless supported by lab data.",
+  "src": [
+   [
+    "Shodoshima Town: oke-jikomi shoyu",
+    "https://www.town.shodoshima.lg.jp/gyousei/kakuka/shokokanko/4/891.html"
+   ],
+   [
+    "Kotowari: kioke shoyu",
+    "https://www.kotowari-cooking.com/note/ingredients/seasonings/soy-sauce/japanese/kioke-shoyu"
+   ]
+  ]
+ },
+ {
+  "cat": "shoyu",
+  "name": "Yuasa 1535 Osaka shipment and Kishu protection",
+  "ja": "湯浅醤油の大坂出荷（1535年）",
+  "prefs": [
+   30
+  ],
+  "text": "Yuasa (Wakayama) is billed as the birthplace of shoyu brewing. Tourism material relates that tamari liquid pooling in kinzanji miso was found to taste good, and the Yuasa-kanko page says brewer Akagiri Saburogoro shipped about 100 koku of shoyu by fishing boat to Osaka in Tenbun 4 (1535). The Yuasa shoyu trade is also said to have prospered under special protection of the Kishu domain. The founding story is told mainly by local tourism and company sources.",
+  "flavor": "Tamari-leaning, deeply savoury old-style shoyu.",
+  "use": "Cultural and historical reference when discussing the origin of Japanese shoyu.",
+  "craft": "Treat origin claims as tradition: the 1535 date is from local sources and Kakushin's return date from China varies (1249 or 1254).",
+  "src": [
+   [
+    "Yuasa Tourism Association: first drop",
+    "https://www.yuasa-kankokyokai.com/article/1161/"
+   ],
+   [
+    "Japan Heritage: Yuasa",
+    "https://japan-heritage.bunka.go.jp/ja/stories/story047/"
+   ],
+   [
+    "Wakayama Tourism: roots of shoyu",
+    "https://www.wakayama-kanko.or.jp/features/detail_492.html"
+   ]
+  ]
+ },
+ {
+  "cat": "shoyu",
+  "name": "Kinzanji miso and Kakushin (origin legend of Yuasa tamari)",
+  "ja": "金山寺味噌と覚心",
+  "prefs": [
+   30
+  ],
+  "text": "The MAFF page says Kakushin (Hotto Kokushi) of Yura learned the kinzanji miso method in Song China and brought it to Japan in 1249; the Japan Heritage page gives his return as Kenchō 6 (1254). The method spread from Kokoku-ji to the Yuasa area, whose water suited miso and shoyu. The liquid pooling from the vegetables, 'tamari', tasted good as a seasoning, and later shoyu was brewed on purpose.",
+  "flavor": "Salty-sweet miso with vegetable pieces; liquid on top is savoury and mellow.",
+  "use": "Cultural reference. Kinzanji miso is eaten as a topping or with rice.",
+  "craft": "The two dates conflict (1249 vs 1254); present as tradition. Do not claim this is the only origin theory.",
+  "src": [
+   [
+    "MAFF: Kinzanji miso (Wakayama)",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/kinzanji_miso_wakayama.html"
+   ],
+   [
+    "Japan Heritage: Yuasa",
+    "https://japan-heritage.bunka.go.jp/ja/stories/story047/"
+   ]
+  ]
+ },
+ {
+  "cat": "shoyu",
+  "name": "Noda shoyu (Chiba)",
+  "ja": "野田醤油",
+  "prefs": [
+   12
+  ],
+  "text": "Noda shoyu began, per Chiba Prefecture and kotobank, with Iida Ichirobei making clarified 'tamari' in the Eiroku era (1558-70). Full-scale production started in Kanbun (1661-73) centred on the Mogi and Takanashi families, shipping to Edo along the Edo River. Proximity to Edo and river transport are credited. Noda output overtook Choshi towards the end of the Edo period, in one account.",
+  "flavor": "Clean, balanced koikuchi with sweet-savoury roundness.",
+  "use": "General cooking and table use; the style that defined Edo-period taste.",
+  "craft": "Distinguish between local legend and later company history; Kikkoman's page is a better source for corporate chronology.",
+  "src": [
+   [
+    "Chiba Prefecture: Tone River transport and shoyu",
+    "https://www.pref.chiba.lg.jp/kyouiku/bunkazai/sonohoka/kyoudo/tonegawa/shouyu.html"
+   ],
+   [
+    "Kotobank: Noda shoyu",
+    "https://kotobank.jp/word/%E9%87%8E%E7%94%B0%E9%86%A4%E6%B2%B9-1576043"
+   ],
+   [
+    "Kikkoman: history of shoyu",
+    "https://www.kikkoman.co.jp/enjoys/soysaucemuseum/history.html"
+   ]
+  ]
+ },
+ {
+  "cat": "shoyu",
+  "name": "Choshi shoyu (Chiba)",
+  "ja": "銚子醤油",
+  "prefs": [
+   12
+  ],
+  "text": "Choshi brewing is said to have started earlier than Noda. A tradition gives 1616 (Genna 2) as the year Tanaka Genba began brewing on the advice of Manabe Kuemon of Nishinomiya. By the end of the Edo period Noda's output exceeded Choshi's, per one account. In 1914 Higeta, the Tanaka family and others merged as Choshi Shoyu; Yamasa took its company name from the Hamaguchi Gihei shop, incorporated 1928, according to Wikipedia.",
+  "flavor": "Koikuchi, rounded and savoury.",
+  "use": "Reference for the Kanto koikuchi style; look at Yamasa and Higeta for modern examples.",
+  "craft": "The 1616 date is tradition; Wikipedia is a secondary source, so check maker histories. Choshi's position on the Tone River estuary served shipping to Edo.",
+  "src": [
+   [
+    "Wikipedia: Choshi shoyu brewing",
+    "https://ja.wikipedia.org/wiki/%E9%8A%9A%E5%AD%90%E3%81%AE%E9%86%A4%E6%B2%B9%E9%86%B8%E9%80%A0"
+   ],
+   [
+    "Chiba Prefecture: shoyu and mirin",
+    "https://www.pref.chiba.lg.jp/kyouiku/bunkazai/sonohoka/kyoudo/tonegawa/shouyu.html"
+   ]
+  ]
+ },
+ {
+  "cat": "shoyu",
+  "name": "Edo jimawari koikuchi (Kanto shoyu)",
+  "ja": "地廻り醤油・関東濃口",
+  "prefs": [
+   12,
+   13
+  ],
+  "text": "Until early Edo, Kansai towns such as Tatsuno, Yuasa and Shodoshima led production. Edo people preferred a sweeter, stronger shoyu, and Kanto brewers rose. In 1821 (Bunsei 4), of 1.25 million barrels of shoyu in Edo, 1.23 million were Kanto shoyu and only 20,000 Kansai. This 'jimawari' (local) koikuchi shaped Edo cooking.",
+  "flavor": "Sweet-salty, aromatic, assertive, built for strong tare.",
+  "use": "Basis for tare, simmering and grilling in Kanto-style cooking.",
+  "craft": "The barrel figures come from a single source; verify before citing publicly.",
+  "src": [
+   [
+    "Jimawari shoyu and Edo food culture",
+    "http://www.eonet.ne.jp/~shoyu/mametisiki/reference-17.html"
+   ],
+   [
+    "Kikkoman: history",
+    "https://www.kikkoman.co.jp/enjoys/soysaucemuseum/history.html"
+   ]
+  ]
+ },
+ {
+  "cat": "shoyu",
+  "name": "Tatsuno usukuchi shoyu (Hyogo)",
+  "ja": "龍野の淡口醤油",
+  "prefs": [
+   28
+  ],
+  "text": "Tatsuno (now Tatsuno city) is the home of usukuchi shoyu. The Food Culture No.28 piece says Enoo-ya Magoemon developed the usukuchi method in 1666. One theory holds that moromi was added to amazake because raw sake spoiled, giving good flavour. In 1672 the Tatsuno lord Wakisaka Yasumasa encouraged the industry. Tatsuno's soft, low-iron water suited it. Usukuchi production was briefly banned as a luxury during wartime control.",
+  "flavor": "Pale amber, high in salt, light aroma, gentle sweetness from amazake.",
+  "use": "For clear soups, simmered vegetables and dishes where colour matters in Kansai cuisine.",
+  "craft": "Salt is higher than koikuchi, so season by salinity; iron-poor water is key to its pale colour. The amazake explanation is a tradition, not proven history.",
+  "src": [
+   [
+    "Higashimaru: history of usukuchi",
+    "https://www.higashimaru.co.jp/enjoy/oshiete/history.html"
+   ],
+   [
+    "Kikkoman Food Culture No.28 (PDF)",
+    "https://www.kikkoman.com/jp/kiifc/publication/foodculture/pdf/no28_j_006_010.pdf"
+   ],
+   [
+    "Tatsuno Tourism: usukuchi",
+    "https://www.tatsuno.or.jp/%E5%9C%B0%E5%A0%B4%E7%94%A3%E6%A5%AD/%E6%B7%A1%E5%8F%A3%E9%86%A4%E6%B2%B9/"
+   ],
+   [
+    "Hyogo Pref: shoyu",
+    "https://web.pref.hyogo.lg.jp/sr09/jibasan/05.html"
+   ]
+  ]
+ },
+ {
+  "cat": "shoyu",
+  "name": "Tokai tamari brewing (miso-dama koji, kumikake)",
+  "ja": "東海のたまり醤油の製法",
+  "prefs": [
+   23,
+   21,
+   24
+  ],
+  "text": "Tamari is produced mainly in the Chubu region (Aichi, Gifu, Mie) from nearly all soybeans. According to the Japan Shoyu Association, steamed material is formed into miso-dama balls for koji, brined and brewed, with liquid pooled at the bottom ladled over the top (kumikake) for about a year. Tamari is made with little brine, giving viscosity and richness. Another site says 2 to 3 years, and one gives umami as about twice koikuchi by nitrogen; these are single-source claims.",
+  "flavor": "Thick, dark, concentrated umami with little sharpness.",
+  "use": "Sashimi dip, teriyaki and senbei glaze, hearty simmering.",
+  "craft": "Brine is minimal, so control of temperature and salt matters to avoid spoilage. Check whether a 'tamari' has wheat: many contain some. Ageing period varies by maker.",
+  "src": [
+   [
+    "Japan Shoyu Association: process",
+    "https://www.soysauce.or.jp/knowledge/process"
+   ],
+   [
+    "Shoyu Knowledge: tamari making",
+    "https://s-shoyu.com/knowledge/1101/"
+   ],
+   [
+    "Jozo Navi: tamari shoyu",
+    "https://jozo-navi.jp/soy-sauce/tamari-shoyu-towa/"
+   ],
+   [
+    "Tamariya: tamari shoyu",
+    "https://tamariya.com/?mode=f3"
+   ]
+  ]
+ },
+ {
+  "cat": "shoyu",
+  "name": "Hekinan shiro-tamari (white shoyu, Aichi)",
+  "ja": "碧南の白醤油",
+  "prefs": [
+   23
+  ],
+  "text": "White shoyu originated in Hekinan, Aichi, per the Japan Shoyu Association. Its main material is wheat. Yamashin Jozo is described as using a ratio of 9 wheat to 1 soy, producing a pale, sugar-rich liquor. The association says it is kept cool for about three months and turns amber. It is a distinct product from darker tamari.",
+  "flavor": "Pale amber, sweet, light-bodied with wheat aroma.",
+  "use": "Suited to clear soups, chawanmushi, pale sauces and dishes where colour must be kept.",
+  "craft": "Colour darkens with age and light, so store cool and dark. Soy proportion is low, so umami is lighter than koikuchi; season with salt carefully.",
+  "src": [
+   [
+    "Japan Shoyu Association: process",
+    "https://www.soysauce.or.jp/knowledge/process"
+   ],
+   [
+    "Shoyu Knowledge: Yamashin Jozo",
+    "https://s-shoyu.com/kura/yamashin/"
+   ],
+   [
+    "Waraku Web: Hekinan shiro-tamari",
+    "https://intojapanwaraku.com/rock/gourmet-rock/54421/"
+   ]
+  ]
+ },
+ {
+  "cat": "shoyu",
+  "name": "Yanai kanro shoyu (Yamaguchi saishikomi)",
+  "ja": "柳井の甘露醤油",
+  "prefs": [
+   35
+  ],
+  "text": "Yamaguchi's kanro shoyu, associated with the Yanai area, is made as saishikomi: raw shoyu is used in place of brine in the mash, with no sweetener added. The ALIC report says long ageing rounds off the saltiness and gives a mellow sweetness. Production is limited by the doubling of materials and time of saishikomi.",
+  "flavor": "Thick, mellow, naturally sweet, intense aroma.",
+  "use": "Dipping shoyu for sashimi and tofu, finishing on grilled fish.",
+  "craft": "Sweet taste comes from fermentation and ageing, not added sugar, if made as described. Check labels for sweeteners, as many Kyushu products add them.",
+  "src": [
+   [
+    "ALIC: sweet shoyu of Yamaguchi and Kyushu",
+    "https://www.alic.go.jp/joho-s/joho07_002775.html"
+   ],
+   [
+    "Jozo Navi: saishikomi shoyu",
+    "https://jozo-navi.jp/soy-sauce/saishikomi-shoyu-towa/"
+   ]
+  ]
+ },
+ {
+  "cat": "shoyu",
+  "name": "Sugar Road theory of Kyushu sweet shoyu",
+  "ja": "シュガーロードと九州の甘い醤油",
+  "prefs": [
+   42,
+   41,
+   40
+  ],
+  "text": "One explanation for Kyushu's sweet shoyu is sugar landed at Dejima, Nagasaki, and moving along the Sugar Road (Nagasaki, Saga, Kokura), making sugar easy to obtain. Another idea ties it to sugar cultivation close at hand, and a third to coal miners and steelworkers in northern Kyushu preferring sweet, strong tastes. Kyushu shoyu is often brewed by konkō methods, unlike Kanto koikuchi. The crossroadfukuoka and walkerplus pages present these as theories.",
+  "flavor": "Sweet, thick, mellow with low sharpness.",
+  "use": "Sashimi, simmered dishes and grilled fish in Kyushu cooking.",
+  "craft": "These are cultural hypotheses, not documented history; when matching to dishes, treat Kyushu shoyu as seasoned and sweet, so reduce sugar or mirin.",
+  "src": [
+   [
+    "Walker Plus: why Kyushu shoyu is sweet",
+    "https://www.walkerplus.com/article/1079167/"
+   ],
+   [
+    "Crossroad Fukuoka: sweet shoyu",
+    "https://www.crossroadfukuoka.jp/feature/soysauce"
+   ],
+   [
+    "ALIC: sweet shoyu",
+    "https://www.alic.go.jp/joho-s/joho07_002775.html"
+   ],
+   [
+    "Wikipedia: Kyushu shoyu",
+    "https://ja.wikipedia.org/wiki/%E4%B9%9D%E5%B7%9E%E9%86%A4%E6%B2%B9"
+   ]
+  ]
+ },
+ {
+  "cat": "shoyu",
+  "name": "Ono shoyu of Kanazawa (Ishikawa)",
+  "ja": "金沢大野の醤油",
+  "prefs": [
+   17
+  ],
+  "text": "Ono-machi in Kanazawa is a shoyu district with about 22 makers, led by Yamato Shoyu and Naogen Shoyu per one page. Local taste favours relatively pale, sweet shoyu essential to Kaga cuisine. Around Wajima on the Noto peninsula even sweeter shoyu is used. Sweet mixed shoyu is typical of Hokuriku, as of Kyushu.",
+  "flavor": "Light colour, sweet, gentle.",
+  "use": "Kaga cuisine, simmered dishes, sashimi.",
+  "craft": "Check for added sweeteners and konkō method; the numbers of makers are a single-source statement.",
+  "src": [
+   [
+    "Shoyu Knowledge: Ishikawa",
+    "https://s-shoyu.com/knowledge/0403/"
+   ],
+   [
+    "Kikkoman: regional characteristics",
+    "https://www.kikkoman.co.jp/enjoys/soysaucemuseum/area.html"
+   ],
+   [
+    "Shoyu Knowledge: why sweet shoyu is liked",
+    "https://s-shoyu.com/knowledge/0401/"
+   ]
+  ]
+ },
+ {
+  "cat": "shoyu",
+  "name": "Tohoku sweet shoyu and dashi-shoyu",
+  "ja": "東北の甘い醤油とだし醤油",
+  "prefs": [
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "text": "Kikkoman's regional description says Tohoku makes mainly konkō shoyu, with slightly sweet shoyu favoured along the coast, and dashi-shoyu and concentrated tsuyu spread from the 1970s onwards (Showa 50s). In Akita a sweet type is said to be the most popular. Akita also makes shottsuru, a fish sauce from hatahata or sardines, which is not soy-based.",
+  "flavor": "Mild, sweet and savoury.",
+  "use": "Everyday seasoning, simmered dishes and noodle tsuyu.",
+  "craft": "Aomori, Niigata and San'in details were not found in my searches, so I make no claims about them.",
+  "src": [
+   [
+    "Kikkoman: regional characteristics",
+    "https://www.kikkoman.co.jp/enjoys/soysaucemuseum/area.html"
+   ],
+   [
+    "Biglobe: Akita shoyu",
+    "https://food.biglobe.ne.jp/rankings/22072/"
+   ],
+   [
+    "Kikkoman Food Culture No.26 (PDF)",
+    "https://www.kikkoman.com/jp/kiifc/publication/foodculture/pdf/no26_j_008_025.pdf"
+   ]
+  ]
+ },
+ {
+  "cat": "shoyu",
+  "name": "Ishimago Honten Hyakuju (Akita kioke koikuchi)",
+  "ja": "石孫本店「百寿」",
+  "prefs": [
+   5
+  ],
+  "text": "A koikuchi shoyu from Ishimago Honten, Akita, presented as first-press shoyu aged one year in wooden barrels. The sources seen give only that short description.",
+  "flavor": "Not described in the sources seen.",
+  "use": "Table and cooking shoyu for Akita dishes.",
+  "craft": "Details of materials and ratios were not in the search results; consult the maker.",
+  "src": [
+   [
+    "Biglobe: Akita shoyu ranking",
+    "https://food.biglobe.ne.jp/rankings/22072/"
+   ]
+  ]
+ }
+]

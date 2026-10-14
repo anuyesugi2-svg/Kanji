@@ -1,0 +1,674 @@
+[
+ {
+  "pref": 17,
+  "history": "Kanazawa developed as the castle town of the Kaga domain, and MAFF's regional account ties the city's warrior-class cuisine to dishes such as jibuni. Jibuni is described as a samurai dish eaten since at least the Edo period, with no settled origin. Kaburazushi uses yellowtail that was a prized fish presented to the domain lord, and in the Edo period it was a hospitality dish among both Kaga warrior and commoner households, exchanged as a gift at the turn of the year.",
+  "character": "Jibuni: duck (or other meat) dusted with flour and simmered with sudare-fu (a Kaga speciality wheat-gluten product) and seasonal vegetables; the meat and fu go into a bowl over boiled greens, the simmering liquid is poured over and wasabi is added. Kaburazushi is a narezushi-type ferment that uses no rice: salted turnip sandwiches salted yellowtail, fermented with koji. Daikonzushi is the companion ferment: migaki-nishin (dried herring) with daikon, rice and koji.",
+  "staples": [
+   {
+    "name": "Jibuni",
+    "ja": "治部煮",
+    "note": "Flour-dusted duck simmered with sudare-fu and seasonal vegetables, served with wasabi; name origin disputed (a person said to have brought it to Kaga, or the simmering sound)."
+   },
+   {
+    "name": "Kaburazushi",
+    "ja": "かぶら寿し",
+    "note": "Salted turnip sandwiching salted yellowtail, koji-fermented without rice; a New Year and gift dish; built on Kanazawa blue turnip and wild yellowtail in winter."
+   },
+   {
+    "name": "Daikonzushi",
+    "ja": "大根ずし",
+    "note": "Migaki-nishin and daikon pickled with rice and koji; paired with kaburazushi as the two principal Kaga fermented foods."
+   },
+   {
+    "name": "Kano-gani (male snow crab)",
+    "ja": "加能ガニ",
+    "note": "Male snow crab of Ishikawa; season opens 6 November and runs to 20 March in the 2026-27 season per guides."
+   },
+   {
+    "name": "Kobako-gani (female snow crab)",
+    "ja": "香箱ガニ",
+    "note": "Female snow crab with a much shorter season (to 29 December in the 2026 season per local guides), shortened for resource protection."
+   },
+   {
+    "name": "Sudare-fu",
+    "ja": "すだれ麩",
+    "note": "Kaga speciality wheat-gluten sheet used in jibuni."
+   },
+   {
+    "name": "Kanazawa oden",
+    "ja": "金沢おでん",
+    "note": "Listed among Ishikawa's popular dishes in a Tabelog roundup; no technical detail was retrieved."
+   }
+  ],
+  "calendar": [
+   {
+    "season": "Spring",
+    "text": "Male kano-gani remain in season until 20 March (2026-27 season). No spring-specific produce was retrieved in the sources reviewed; jibuni, once a winter dish, is now eaten year-round."
+   },
+   {
+    "season": "Summer",
+    "text": "No summer-specific data were found in the sources reviewed. Jibuni is described as made year-round today by combining ingredients of the moment, rather than being a winter-only dish."
+   },
+   {
+    "season": "Autumn",
+    "text": "Crab season opens 6 November (2026): kano-gani (male) and kobako-gani (female) go on sale. Omicho Market holds a crab-nabe event on 14 November 2026 at the Omicho Ichiba-kan plaza."
+   },
+   {
+    "season": "Winter",
+    "text": "Peak of crab: kobako-gani until 29 December, kano-gani to 20 March. Kaburazushi, made from winter turnip and yellowtail, is a New Year dish and gift; jibuni was originally a winter dish."
+   }
+  ],
+  "markets": [
+   {
+    "name": "Omicho Market",
+    "ja": "近江町市場",
+    "note": "Kanazawa's central market; holds crab-season opening sales and crab soup or crab-nabe events each November."
+   },
+   {
+    "name": "Kanaishi-machi, Kanazawa",
+    "ja": "金石町",
+    "note": "Fishing district where one theory says local fishermen first ate kaburazushi as a New Year dish."
+   }
+  ],
+  "notes": "Jibuni and kaburazushi were chosen for MAFF's list of 100 rural local dishes (announced December 2007). Origin stories are theories, not fact: jibuni is linked to a provisions magistrate or to the 'jibu-jibu' simmering sound; kaburazushi to Kanaishi fishermen or to a hot-spring inn serving a Maeda lord. Crab season dates are fixed annually (opening 6 November), and the female season ends well before the male season, so check the year's announced dates.",
+  "src": [
+   [
+    "MAFF: Ishikawa regional foods",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/area_stories/ishikawa.html"
+   ],
+   [
+    "MAFF: Jibuni (Ishikawa)",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/jibuni_ishikawa.html"
+   ],
+   [
+    "MAFF: Kaburazushi (Ishikawa)",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/kaburazushi_ishikawa.html"
+   ],
+   [
+    "Kanazawa tourism: Omicho crab-nabe event 2026",
+    "https://www.kanazawa-kankoukyoukai.or.jp/event/detail_50471.html"
+   ]
+  ]
+ },
+ {
+  "pref": 18,
+  "history": "The Reinan (Wakasa) side of Fukui was once given the title Miketsukuni, a land permitted to present food to the emperor and court, which underlies Wakasa's fish-processing culture. Wakasa heshiko is said to have been made since around the mid-Edo period, and kodai no sasazuke is said to have begun as a way to deal with an overabundance of small sea bream. In the north (Reihoku), tradition says a senior retainer of the Fukui domain encouraged farmers to grow buckwheat in the Edo period.",
+  "character": "Two halves. Wakasa: preserved fish, namely gutted mackerel salted and then packed in rice bran (heshiko) and small sea bream cured in salt and vinegar, layered with bamboo-grass leaves in a cedar barrel (sasazuke). Reihoku and Echizen: oroshi soba, where grated daikon is built into the dashi-based tsuyu rather than served only as a condiment, with noodles using strong (bread) flour as binder, topped with katsuobushi and negi. Winter is dominated by snow crab.",
+  "staples": [
+   {
+    "name": "Echizen-gani",
+    "ja": "越前がに",
+    "note": "Male snow crab landed at Fukui ports; season 6 November to 20 March; identified by a yellow origin tag."
+   },
+   {
+    "name": "Seiko-gani",
+    "ja": "せいこがに",
+    "note": "Female snow crab; season 6 November to 31 December."
+   },
+   {
+    "name": "Mizu-gani",
+    "ja": "水がに",
+    "note": "Newly moulted male snow crab, fished 19 February to 20 March."
+   },
+   {
+    "name": "Echizen oroshi soba",
+    "ja": "越前おろしそば",
+    "note": "Soba with a daikon-oroshi dashi tsuyu, katsuobushi and negi; eaten across the prefecture, mainly in Reihoku."
+   },
+   {
+    "name": "Saba no heshiko",
+    "ja": "さばのへしこ",
+    "note": "Gutted mackerel salted then rice-bran cured for long keeping; made in Wakasa since roughly the mid-Edo period."
+   },
+   {
+    "name": "Kodai no sasazuke",
+    "ja": "小鯛のささ漬け",
+    "note": "Small Wakasa sea bream cured in salt and vinegar, bamboo-grass leaf on top, in a cedar barrel; a gift and souvenir item."
+   },
+   {
+    "name": "Wakasa beef",
+    "ja": "若狭牛",
+    "note": "Local beef named among Fukui city-guide gourmet items; no technical detail retrieved."
+   },
+   {
+    "name": "Sauce katsudon",
+    "ja": "ソースカツ丼",
+    "note": "Local katsudon dressed in sauce, named among Fukui's street-style dishes in city guides."
+   }
+  ],
+  "calendar": [
+   {
+    "season": "Spring",
+    "text": "Mizu-gani (freshly moulted male crab) is fished 19 February to 20 March, and the male Echizen-gani season closes on 20 March."
+   },
+   {
+    "season": "Summer",
+    "text": "No summer-specific harvest was found in the sources reviewed. Heshiko, sasazuke and oroshi soba are described without seasonal limits, so they are not tied to a stated season here."
+   },
+   {
+    "season": "Autumn",
+    "text": "Crab season opens 6 November at 00:00: boats leave the evening of the 5th, nets go in at midnight, first landing about noon, first auction in the afternoon; general retail sales begin 7 November."
+   },
+   {
+    "season": "Winter",
+    "text": "Male Echizen-gani are in season through 20 March and seiko-gani until 31 December. Oroshi soba is eaten as New Year's Eve soba and at the close of weddings and Buddhist memorial meals."
+   }
+  ],
+  "markets": [
+   {
+    "name": "Echizen-cho and its fishing port",
+    "ja": "越前町(越前漁港)",
+    "note": "Presented as the home of Echizen-gani; site of the first landing and first auction on opening day."
+   },
+   {
+    "name": "Echizen Crab Museum",
+    "ja": "越前がにミュージアム",
+    "note": "Crab museum named in guides to the Echizen-gani area alongside port-direct inns; no further detail retrieved."
+   }
+  ],
+  "notes": "Echizen-gani is described as the first crab registered under Japan's GI (geographical indication) system. The yellow tag marks Fukui origin; sources say it was first attached in Echizen-cho in 1997 and extended to seiko-gani in 2007, but these dates come from commercial sites. Oroshi soba was among the 100 rural dishes selected in 2007; the story that it spread after the Showa Emperor ate two bowls in 1947 is an anecdote. Season dates are announced yearly.",
+  "src": [
+   [
+    "MAFF: Oroshi soba (Fukui)",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/oroshi_soba_fukui.html"
+   ],
+   [
+    "MAFF: Heshiko (Fukui)",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/heshiko_fukui.html"
+   ],
+   [
+    "Fukui tourism: Echizen-gani opening 6 November",
+    "https://www.fuku-e.com/topics/detail_3496.html"
+   ],
+   [
+    "MAFF: Fukui regional foods",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/area_stories/fukui.html"
+   ]
+  ]
+ },
+ {
+  "pref": 19,
+  "history": "Mountainous Yamanashi has little rice land and developed a flour-eating (funshoku) culture. The origin of hoto is disputed: one theory derives it from Chinese 'hakutaku' noodles, another holds that Takeda Shingen used it as field rations; one commentary site gives 1815 for its first appearance in writing, and the prefecture says it appears mostly from the Edo period on. Yoshida udon's origin is also given two ways: early Meiji for silk-weaving buyers (one site), or early Showa when men took over cooking so women silk-reelers could keep working (MAFF).",
+  "character": "Hoto: wide flat wheat noodles cut and dropped straight into the pot with no salt added or resting, simmered in miso broth with kabocha, taro and carrot; unlike udon, which is salted and rested for chew. Yoshida udon is notable for an exceptionally firm chew and strong texture. In orchards, Katsunuma's grape season runs from late July (Delaware) to November (Koshu).",
+  "staples": [
+   {
+    "name": "Hoto",
+    "ja": "ほうとう",
+    "note": "Flat unsalted wheat noodles simmered with vegetables in miso soup; kabocha version is the classic; eaten across the prefecture."
+   },
+   {
+    "name": "Yoshida no udon",
+    "ja": "吉田のうどん",
+    "note": "Hand-cut udon of Fujiyoshida with exceptional firmness and chew."
+   },
+   {
+    "name": "Tori-motsu-ni",
+    "ja": "鳥もつ煮",
+    "note": "Chicken offal simmered dish created around 1950 by a Kofu soba shop that thought discarded offal a waste."
+   },
+   {
+    "name": "Nigai (simmered shellfish)",
+    "ja": "煮貝",
+    "note": "Named with hoto and tori-motsu-ni as a distinctive Kofu food; the sources give no detail on ingredients or method."
+   },
+   {
+    "name": "Koshu grape",
+    "ja": "甲州ぶどう",
+    "note": "Late variety at Katsunuma, harvested into October-November; the source of Koshu wine."
+   },
+   {
+    "name": "Delaware",
+    "ja": "デラウェア",
+    "note": "Described by Koshu city as Japan's most-produced grape; Katsunuma picking starts in late July."
+   },
+   {
+    "name": "Kyoho",
+    "ja": "巨峰",
+    "note": "Harvested from mid-August to mid-September per Koshu city."
+   },
+   {
+    "name": "Katsunuma wine",
+    "ja": "勝沼ワイン",
+    "note": "Wine from Koshu grapes in Katsunuma; Maruki Winery is presented by the prefecture as Japan's oldest existing winery."
+   }
+  ],
+  "calendar": [
+   {
+    "season": "Spring",
+    "text": "No spring-specific data were found in the sources reviewed. Hoto and Yoshida udon are not tied to a particular season in the sources used here."
+   },
+   {
+    "season": "Summer",
+    "text": "Katsunuma grape harvest starts in late July with Delaware; Kyoho follows from mid-August to mid-September, so summer is the start of the orchard and grape-picking season."
+   },
+   {
+    "season": "Autumn",
+    "text": "Koshu, the last grape, is picked up to mid-October at one farm and into November at others; one farm finishes all harvest by early November."
+   },
+   {
+    "season": "Winter",
+    "text": "Fresh-grape harvest is finished by early November, so winter-specific produce was not retrieved; hoto, a miso-based noodle stew, is recorded without a stated season."
+   }
+  ],
+  "markets": [
+   {
+    "name": "Katsunuma grape district",
+    "ja": "勝沼ぶどう郷",
+    "note": "Orchards in Koshu city with direct sales, grape picking and wineries."
+   },
+   {
+    "name": "Fujiyoshida udon shops",
+    "ja": "富士吉田",
+    "note": "Home area of Yoshida udon."
+   }
+  ],
+  "notes": "Hoto was chosen for MAFF's 100 rural dishes in 2007. Sources disagree on Yoshida udon's origin (early Meiji vs early Showa) and the Shingen story is legend, so avoid stating either as fact. Hoto is not a type of udon: the skipped salt and rest are the defining difference. Katsunuma picking dates vary by farm and year.",
+  "src": [
+   [
+    "MAFF: Hoto (Yamanashi)",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/houtou_yama_nashi.html"
+   ],
+   [
+    "MAFF: Yoshida udon",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/yosidano_udon.html"
+   ],
+   [
+    "Agency for Cultural Affairs: 100-Year Food, Yamanashi",
+    "https://www.bunka.go.jp/seisaku/shokubunka/foodculture/hyakunenfood/jirei/list_yamanashi.html"
+   ],
+   [
+    "Koshu city: grapes",
+    "https://www.city.koshu.yamanashi.jp/iju/54things/articles/no-113.html"
+   ]
+  ]
+ },
+ {
+  "pref": 20,
+  "history": "Nagano has many upland areas unsuited to rice, so soba and wheat flour foods grew up. Oyaki is said to have originated in the Nishiyama area of Kamiminochi, and Jomon-era traces of baked millet flour have been found at a site in Ogawa village. Nozawana-zuke is traced to 1756, when the priest of Kenmeiji in Nozawa Onsen brought back a Tennoji turnip from Kyoto. Gohei-mochi from the Kiso and Ina area was already eaten in the mid-Edo period.",
+  "character": "Flour and grain cooking for cold uplands. Oyaki: dough of wheat or buckwheat flour with water or hot water, rolled thin around seasonal vegetables or sweet bean paste and baked, traditionally at the hearth. Gohei-mochi: half-pounded rice on a skewer, grilled with a sauce. Nozawana-zuke: a winter preserve; the pickle can be desalted and seasoned with Shinshu miso as a cooked dish, or tempura. Togakushi (training food) and Zenkoji gate-town soba are the best-known soba traditions.",
+  "staples": [
+   {
+    "name": "Shinshu soba",
+    "ja": "信州そば",
+    "note": "Buckwheat noodles; Nagano city's tradition includes Togakushi training-food and Zenkoji gate-town soba."
+   },
+   {
+    "name": "Oyaki",
+    "ja": "おやき",
+    "note": "Dough of wheat or buckwheat flour wrapped around vegetables, wild greens, kabocha, mushrooms, walnuts or sweet beans, then baked."
+   },
+   {
+    "name": "Gohei-mochi",
+    "ja": "五平餅",
+    "note": "Half-pounded uruchi rice on a skewer, grilled with sauce; Kiso and Ina area; similar dishes exist in Gifu, Toyama, Aichi and Shizuoka hills."
+   },
+   {
+    "name": "Nozawana-zuke",
+    "ja": "野沢菜漬け",
+    "note": "Pickled nozawana leaf-vegetable, a winter preserve from Nozawa Onsen village."
+   },
+   {
+    "name": "Nozawana cooked with Shinshu miso",
+    "ja": "野沢菜の味噌炒め",
+    "note": "Desalted pickle seasoned with Shinshu miso as a cooked dish."
+   },
+   {
+    "name": "Nozawana tempura",
+    "ja": "野沢菜天ぷら",
+    "note": "Nozawana used as a tempura material."
+   },
+   {
+    "name": "Togakushi soba",
+    "ja": "戸隠そば",
+    "note": "Hand-cut soba linked to the area's training-food tradition (Agency for Cultural Affairs 100-Year Food)."
+   },
+   {
+    "name": "Zenkoji gate-town soba",
+    "ja": "善光寺門前そば",
+    "note": "Soba culture of the area around Zenkoji in Nagano city."
+   }
+  ],
+  "calendar": [
+   {
+    "season": "Spring",
+    "text": "Oyaki fillings follow the seasonal produce; spring fillings include wild mountain vegetables (sansai), as listed in sources among the possible fillings."
+   },
+   {
+    "season": "Summer",
+    "text": "Oyaki fillings in summer can include eggplant and other garden vegetables; MAFF notes that the fillings are whatever is in season."
+   },
+   {
+    "season": "Autumn",
+    "text": "Autumn oyaki fillings include mushrooms and walnuts; the sources do not give soba harvest dates."
+   },
+   {
+    "season": "Winter",
+    "text": "Cold winters and vegetable shortage are the reason nozawana-zuke was made as a preserve; the pickle is made in the cold season."
+   }
+  ],
+  "markets": [
+   {
+    "name": "Zenkoji gate town, Nagano city",
+    "ja": "善光寺門前",
+    "note": "Soba shops around Zenkoji Temple."
+   },
+   {
+    "name": "Togakushi",
+    "ja": "戸隠",
+    "note": "Soba area linked to the shrine's training-food tradition."
+   },
+   {
+    "name": "Nozawa Onsen village",
+    "ja": "野沢温泉村",
+    "note": "Origin of nozawana and Kenmeiji temple."
+   }
+  ],
+  "notes": "Nagano is divided into four regions (Hokushin, Toshin, Chushin, Nanshin) with distinct food cultures, so a single 'Shinshu' style should not be assumed. Gohei-mochi shape and sauce vary by area, and its etymology is unsettled. Most of the detail here comes from MAFF and the Agency for Cultural Affairs; tourism and gourmet sites were used only for general context.",
+  "src": [
+   [
+    "MAFF: Oyaki (Nagano)",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/oyaki_nagano.html"
+   ],
+   [
+    "MAFF: Gohei-mochi (Nagano)",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/gohei_mochi_nagano.html"
+   ],
+   [
+    "MAFF: Nozawana-zuke",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/nozawana_zuke.html"
+   ],
+   [
+    "Agency for Cultural Affairs: 100-Year Food, Nagano",
+    "https://www.bunka.go.jp/seisaku/shokubunka/foodculture/hyakunenfood/jirei/list_nagano.html"
+   ]
+  ]
+ },
+ {
+  "pref": 21,
+  "history": "In Hida, where forestry was a major industry, hoba miso is said to have begun with mountain workers using a hoba (magnolia) leaf as a plate to grill miso. Hoba-zushi in southern Hida and Chuno was a portable food for mountain and field work, as hoba leaf has antibacterial properties; in Higashi-shirakawa village it was served at rice-planting lunches in cooperative (yui) work, and is mentioned by Yanagita Kunio, so it predates 1909. Keichan dates to about 1950, said to imitate Jingisukan.",
+  "character": "The magnolia leaf is both vessel and seasoning: hoba miso is homemade koji miso set on a leaf and grilled; hoba-zushi is vinegared rice wrapped in the leaf. Keichan is a chicken dish of Gujo, Gero and southern Takayama, with its name explained either from 'tonchan' (pork offal grilling) or from 'keijan' (chicken sauce). Pickles and vegetables are sold at Takayama's morning markets.",
+  "staples": [
+   {
+    "name": "Hoba miso",
+    "ja": "朴葉味噌",
+    "note": "Homemade koji miso grilled on a hoba leaf; Hida-Takayama; sold as a souvenir since the 1960s-70s."
+   },
+   {
+    "name": "Hoba-zushi",
+    "ja": "朴葉ずし",
+    "note": "Sushi wrapped in hoba leaf; southern Hida to the Chuno area; field and forest portable food."
+   },
+   {
+    "name": "Keichan",
+    "ja": "鶏ちゃん",
+    "note": "Chicken dish of Gujo, Gero and southern Takayama dated to about 1950; name theories disputed."
+   },
+   {
+    "name": "Gohei-mochi (Gifu style)",
+    "ja": "五平餅",
+    "note": "Skewered half-pounded rice grilled with sauce, eaten in Gifu's mountain areas and at Takayama's morning market."
+   },
+   {
+    "name": "Hida beef",
+    "ja": "飛騨牛",
+    "note": "Local beef sold as skewers and nigiri sushi at Takayama's morning market."
+   },
+   {
+    "name": "Kuri kinton",
+    "ja": "栗きんとん",
+    "note": "Chestnut confection handled by confectioners in Ena."
+   },
+   {
+    "name": "Hida negi",
+    "ja": "飛騨ねぎ",
+    "note": "Autumn Takayama market produce."
+   },
+   {
+    "name": "Tsukemono (pickles)",
+    "ja": "漬物",
+    "note": "Sold with tasting at Takayama morning markets."
+   }
+  ],
+  "calendar": [
+   {
+    "season": "Spring",
+    "text": "Spring at the Miyagawa morning market brings wild mountain vegetables such as taranome, koshiabura and udo."
+   },
+   {
+    "season": "Summer",
+    "text": "Summer at the Miyagawa morning market is dominated by summer vegetables from local farms."
+   },
+   {
+    "season": "Autumn",
+    "text": "Autumn offers new rice, apples, Hida negi and Chinese cabbage at Takayama's morning markets, per travel sites."
+   },
+   {
+    "season": "Winter",
+    "text": "Winter markets are quiet and snowy; the Miyagawa market opens 8:00-12:00 from January to March, versus 7:00-12:00 from April to December."
+   }
+  ],
+  "markets": [
+   {
+    "name": "Miyagawa Morning Market",
+    "ja": "宮川朝市",
+    "note": "Held daily along the east bank of the Miyagawa river, between Kajibashi and Yayoibashi, in Takayama."
+   },
+   {
+    "name": "Ena confectioners",
+    "ja": "恵那",
+    "note": "Shops handling chestnut kinton."
+   }
+  ],
+  "notes": "MAFF stresses that recipes vary by region and household. Hoba-zushi was recorded in writing by Yanagita Kunio before 1909. Ayu (sweetfish) and chestnut kinton were searched but origins were not documented. The Takayama morning market is described as one of Japan's three great morning markets by travel media; hours differ by season.",
+  "src": [
+   [
+    "MAFF: Hoba miso (Gifu)",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/38_10_gifu.html"
+   ],
+   [
+    "MAFF: Hoba-zushi (Gifu)",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/38_1_gifu.html"
+   ],
+   [
+    "MAFF: Keichan (Gifu)",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/38_2_gifu.html"
+   ],
+   [
+    "Gifu tourism: Miyagawa morning market",
+    "https://www.kankou-gifu.jp/spot/detail_1241.html"
+   ]
+  ]
+ },
+ {
+  "pref": 22,
+  "history": "Sakura-ebi fishing began in the 27th year of Meiji (1894) when shrimp entered an aji tow-net by chance. Shizuoka tea is said to have begun in 1244 when Shoichi Kokushi planted seed from Song China at Ashikubo; Hamana Lake area is said to be the birthplace of Japanese eel farming; wasabi cultivation is dated to the Keicho era. Shizuoka oden developed in central Shizuoka from the Taisho era around the local fish-paste (black hanpen) industry.",
+  "character": "Suruga Bay seafood eaten raw or lightly processed. Okiagari is fresh sakura-ebi simmered sukiyaki-style with tofu and negi, a fishermen's pot. Nama-shirasu don: rice, shredded nori, wakegi and raw shirasu, with wasabi and soy sauce. Shizuoka oden uses black hanpen and dark broth, spread after the war using beef sinew and pork offal, finished with aonori, dashi powder and karashi. Wasabi-zuke is chopped wasabi leaf, stem and root in sake lees.",
+  "staples": [
+   {
+    "name": "Sakura-ebi",
+    "ja": "桜えび",
+    "note": "Caught in Japan only in Suruga Bay; landed only at Yui and Oigawa; two seasons yearly."
+   },
+   {
+    "name": "Okiagari",
+    "ja": "沖あがり",
+    "note": "Raw sakura-ebi simmered with tofu and negi sukiyaki-style; a fishermen's reflection pot."
+   },
+   {
+    "name": "Nama-shirasu don",
+    "ja": "生しらす丼",
+    "note": "Raw shirasu over rice with nori, wakegi and wasabi, dressed with soy sauce."
+   },
+   {
+    "name": "Shirasu (kamaage, dried)",
+    "ja": "しらす",
+    "note": "Mainly anchovy fry taken by boat seine from late March to mid-January."
+   },
+   {
+    "name": "Shizuoka oden",
+    "ja": "静岡おでん",
+    "note": "Black hanpen, beef sinew and offal; aonori, dashi powder and karashi."
+   },
+   {
+    "name": "Wasabi-zuke",
+    "ja": "わさび漬け",
+    "note": "Wasabi leaf, stem and root in sake lees."
+   },
+   {
+    "name": "Chakurae-ebi",
+    "ja": "茶くらえび",
+    "note": "Fried new-tea leaf and sakura-ebi; trademarked."
+   },
+   {
+    "name": "Hamanako eel",
+    "ja": "浜名湖うなぎ",
+    "note": "Farmed eel from the Hamana Lake area to the Oigawa mouth."
+   },
+   {
+    "name": "Suruga Bay deep-sea fish",
+    "ja": "駿河湾の深海魚",
+    "note": "Trawled akakasago, megisu and ginmedai served in seafood restaurants."
+   }
+  ],
+  "calendar": [
+   {
+    "season": "Spring",
+    "text": "Sakura-ebi spring season runs mid-March to early June; boat-seine shirasu fishing begins in late March."
+   },
+   {
+    "season": "Summer",
+    "text": "Sakura-ebi fishing is closed between the two seasons, as only two seasons a year are fished for protection; shirasu fishing continues."
+   },
+   {
+    "season": "Autumn",
+    "text": "Autumn sakura-ebi season opens late October; return bonito (modori-gatsuo) at Omaezaki and Yaizu is promoted for its autumn fat."
+   },
+   {
+    "season": "Winter",
+    "text": "Sakura-ebi fishing runs to late December and shirasu fishing until mid-January. First-flush tea timing was not found in the sources."
+   }
+  ],
+  "markets": [
+   {
+    "name": "Shimizu fish market",
+    "ja": "清水魚市場",
+    "note": "Shimizu Port; a tourism listing says half the tuna consumed in Japan is landed there."
+   },
+   {
+    "name": "Yaizu Port",
+    "ja": "焼津港",
+    "note": "Described as number one in Japan for bonito landings; honkarebushi factories."
+   },
+   {
+    "name": "Yui and Oigawa ports",
+    "ja": "由比港・大井川港",
+    "note": "The only two ports permitted to land sakura-ebi."
+   }
+  ],
+  "notes": "Traditional tea and wasabi cultivation methods are recognised as a World Agricultural Heritage (GIAHS) system. Sakura-ebi are landed only at Yui and Oigawa, with fishing in two seasons for resource protection. Chakurae-ebi is a registered trademark. Shirasu is eaten raw only when very fresh; freshness is the quality criterion.",
+  "src": [
+   [
+    "MAFF: Okiagari (Shizuoka)",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/36_13_shizuoka.html"
+   ],
+   [
+    "Shizuoka pref.: Shirasu",
+    "https://www.pref.shizuoka.jp/sangyoshigoto/nogyo/gakkotaiiku/1027666.html"
+   ],
+   [
+    "MAFF: Shizuoka oden",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/36_16_shizuoka.html"
+   ],
+   [
+    "MAFF: Nama-shirasu don",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/36_23_shizuoka.html"
+   ]
+  ]
+ },
+ {
+  "pref": 23,
+  "history": "Aichi is the home of mame-miso (soybean miso). MAFF says Hatcho miso originates in Hatcho village, eight cho (about 870 m) from Okazaki Castle, in what is now Hatcho-cho of Okazaki. Miso-nikomi udon was a home dish and began to be sold in restaurants in Ichinomiya in the early Meiji period; theories include that Takeda Shingen's hoto passed to the Tokugawa and became a miso-based udon, and an Ichinomiya origin, with nothing settled.",
+  "character": "Mame-miso is the core flavour. Hatcho miso as registered: miso balls the size of a fist, wooden barrels, cone-shaped stacked stones, natural fermentation; the Hatcho Miso Cooperative states it ages 2+ years (two summers, two winters), while the register's minimum is shorter, so check the register. Miso-nikomi udon simmers udon directly in a strong miso broth. Hitsumabushi is chopped grilled eel over rice, finished with dashi.",
+  "staples": [
+   {
+    "name": "Hatcho miso",
+    "ja": "八丁味噌",
+    "note": "GI-registered mame-miso (No. 49, 15 December 2017); wooden-barrel, stone-weighted, natural fermentation."
+   },
+   {
+    "name": "Miso-nikomi udon",
+    "ja": "味噌煮込みうどん",
+    "note": "Udon simmered in a miso broth; first sold in restaurants in Ichinomiya in early Meiji."
+   },
+   {
+    "name": "Hitsumabushi",
+    "ja": "ひつまぶし",
+    "note": "Chopped grilled eel on rice, finished with dashi."
+   },
+   {
+    "name": "Nimiso",
+    "ja": "煮味噌",
+    "note": "Listed in MAFF's Aichi dishes; no detail retrieved."
+   },
+   {
+    "name": "Miso-oden",
+    "ja": "味噌おでん",
+    "note": "Listed in MAFF's Aichi dishes; no detail retrieved."
+   },
+   {
+    "name": "Ogura toast",
+    "ja": "小倉トースト",
+    "note": "Promoted by Aichi tourism as an example of combining foods into new tastes."
+   }
+  ],
+  "calendar": [
+   {
+    "season": "Spring",
+    "text": "No spring-specific data were found for Aichi in the sources reviewed, which covered miso-based dishes and Hatcho miso."
+   },
+   {
+    "season": "Summer",
+    "text": "No summer-specific data were found. Hatcho miso is not a seasonal product; its ageing is counted in summers and winters."
+   },
+   {
+    "season": "Autumn",
+    "text": "No autumn-specific data were found in the sources reviewed; the sources do not say when miso-nikomi udon or miso-oden are eaten."
+   },
+   {
+    "season": "Winter",
+    "text": "No winter-specific data were retrieved; the sources do not assign miso-nikomi udon, nimiso or miso-oden to a season."
+   }
+  ],
+  "markets": [
+   {
+    "name": "Hatcho-cho, Okazaki",
+    "ja": "岡崎市八丁町",
+    "note": "Origin district of Hatcho miso."
+   },
+   {
+    "name": "Ichinomiya",
+    "ja": "一宮",
+    "note": "City where miso-nikomi udon is said to have first been sold in restaurants."
+   }
+  ],
+  "notes": "Hatcho miso became GI No. 49 on 15 December 2017, registered to the Aichi Prefecture Miso-Tamari Shoyu Industry Cooperative; two long-established Hatcho-cho firms outside that cooperative were not included, which led to dispute, a third-party committee report (March 2021) and, on 24 January 2025, the addition of the Hatcho Miso Cooperative as a second producer group. Check which group a producer belongs to before using the name.",
+  "src": [
+   [
+    "MAFF: GI Hatcho miso (No. 49)",
+    "https://www.maff.go.jp/j/shokusan/gi_act/register/0049/index.html"
+   ],
+   [
+    "MAFF: Hatcho miso added group (2025)",
+    "https://www.maff.go.jp/j/press/yusyutu_kokusai/chizai/250124.html"
+   ],
+   [
+    "MAFF: Miso-nikomi udon (Aichi)",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/misonikomiudon_aichi.html"
+   ],
+   [
+    "Aichi Now: gourmet",
+    "https://aichinow.pref.aichi.jp/educations/gourmet/"
+   ]
+  ]
+ }
+]

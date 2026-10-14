@@ -1,0 +1,825 @@
+[
+ {
+  "pref": 9,
+  "history": "Tochigi's best-documented food culture rests on two things: a year-round ritual dish, shimotsukare, built from leftovers of the New Year and Setsubun (salmon head, soybeans), and kanpyo, which is credited to the Mibu domain lord Torii Tadateru's encouragement after he was transferred from Mizuguchi in Omi to Shimotsuke-Mibu. Utsunomiya gyoza is traced to soldiers of the 14th Division stationed in the city bringing back the taste of Manchurian gyoza.",
+  "character": "Cooking here is preservation- and ritual-driven rather than seafood-driven. Shimotsukare is made by coarse-grating daikon and carrot on an oni-oroshi, then simmering with salted salmon head, soybeans, aburaage and sake lees in a big pot; each household has its own version. Kanpyo is made by peeling the flesh of the yugao gourd into long ribbons and drying it in midsummer sun for two days. Utsunomiya gyoza is vegetable-heavy and mainly pan-fried.",
+  "staples": [
+   {
+    "name": "Shimotsukare",
+    "ja": "しもつかれ",
+    "note": "Hatsuuma ritual dish: oni-oroshi daikon and carrot, salted salmon head, soybeans, aburaage and sake lees, simmered slowly; recipe varies by household."
+   },
+   {
+    "name": "Kanpyo",
+    "ja": "干瓢",
+    "note": "Dried ribbons of yugao gourd; Tochigi supplies about 99% of national output (164 t in FY2022, 99.4% per the MAFF vegetable survey), mainly Shimotsuke, Oyama and Mibu."
+   },
+   {
+    "name": "Kanpyo no tamagotoji",
+    "ja": "干瓢の卵とじ",
+    "note": "Kanpyo simmered and bound with egg; listed by MAFF as a Tochigi local dish."
+   },
+   {
+    "name": "Kanpyo no goma-zu ae",
+    "ja": "干瓢のごま酢あえ",
+    "note": "Kanpyo dressed with sesame and vinegar; listed by MAFF as a Tochigi local dish."
+   },
+   {
+    "name": "Utsunomiya gyoza",
+    "ja": "宇都宮餃子",
+    "note": "Vegetable-forward gyoza, pan-fried as the base style with fried and boiled versions also served; origin credited to 14th Division soldiers returning from Manchuria."
+   },
+   {
+    "name": "Sekihan for Hatsuuma",
+    "ja": "赤飯（初午）",
+    "note": "Offered with shimotsukare in a straw wrapper (warazuto) at Inari shrines on Hatsuuma."
+   },
+   {
+    "name": "Mimi-udon",
+    "ja": "耳うどん",
+    "note": "Named among Tochigi local dishes in a consumer guide; no technical detail was found in the sources consulted."
+   },
+   {
+    "name": "Chitake soba",
+    "ja": "ちたけそば",
+    "note": "Named among Tochigi local foods in a travel account; no technical detail was found in the sources consulted."
+   }
+  ],
+  "calendar": [
+   {
+    "season": "Spring",
+    "text": "Hatsuuma, the first Horse day early in the year, is when shimotsukare is cooked in a large pot and offered with sekihan at Inari shrines; one source ties the dish to the Setsubun period."
+   },
+   {
+    "season": "Summer",
+    "text": "Kanpyo is harvested in July and August: gourds are peeled into ribbons and dried in strong midsummer sun for about two days, so the whole annual crop is made in these weeks."
+   },
+   {
+    "season": "Autumn",
+    "text": "The sources consulted give no autumn-specific data for Tochigi. Because kanpyo is a dried product, kanpyo dishes such as tamagotoji and goma-zu ae are not tied to the harvest months."
+   },
+   {
+    "season": "Winter",
+    "text": "Salted salmon heads left from the New Year and soybeans left from the Setsubun bean-throwing are the stock for shimotsukare; the dish is prepared in winter ahead of Hatsuuma."
+   }
+  ],
+  "markets": [
+   {
+    "name": "Kanpyo growing district (Shimotsuke, Oyama, Mibu)",
+    "ja": "干瓢産地（下野市・小山市・壬生町）",
+    "note": "Where nearly all domestic kanpyo is produced; the place to see and buy ribbons dried in July to August."
+   },
+   {
+    "name": "Utsunomiya gyoza restaurants",
+    "ja": "宇都宮の餃子店",
+    "note": "Utsunomiya city is the centre of the gyoza culture; the sources consulted name no specific market or street."
+   }
+  ],
+  "notes": "Shimotsukare is listed in the Agency for Cultural Affairs '100-year food' scheme together with Utsunomiya gyoza. A folk saying holds that eating shimotsukare at seven houses wards off illness; treat it as custom, not a claim. No GI or brand rule for Tochigi products was confirmed in the sources consulted, and Nikko yuba and strawberries did not appear in the results, so they are omitted here.",
+  "src": [
+   [
+    "MAFF Uchi no kyodo ryori: Tochigi",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/tochigi.html"
+   ],
+   [
+    "Tochigi Prefecture: shimotsukare",
+    "https://www.pref.tochigi.lg.jp/c05/intro/tochigiken/miryoku/kakuchi/006.html"
+   ],
+   [
+    "Shimotsuke Shimbun: kanpyo, 98% of national output",
+    "https://www.shimotsuke.co.jp/articles/-/12011"
+   ],
+   [
+    "Agency for Cultural Affairs: 100-year food, Tochigi",
+    "https://www.bunka.go.jp/seisaku/shokubunka/foodculture/hyakunenfood/jirei/list_tochigi.html"
+   ]
+  ]
+ },
+ {
+  "pref": 10,
+  "history": "MAFF describes Gunma as a flour-eating prefecture where wheat is widely grown and wheat-based local dishes such as okkirikomi, suiton and tansan manju are common. A regional explanation attributes this to well-drained soil, the dry winter karakkaze wind and long winter sunshine, which suit wheat. Yaki-manju is traced to the end of the Edo period, when Harashima Ruizo of Maebashi made miso-glazed manju.",
+  "character": "The logic is wheat plus miso and soy. Okkirikomi is thick noodles simmered with vegetables; yaki-manju is a skewered steamed manju brushed with sweet miso sauce and grilled. Konnyaku, from a prefecture growing nearly all of Japan's konnyaku-imo, appears in dishes such as shira-ae. The prefecture promotes all okkirikomi variants under that single name.",
+  "staples": [
+   {
+    "name": "Okkirikomi",
+    "ja": "おっきりこみ",
+    "note": "Thick noodles simmered with vegetables; the prefecture uses the name as an umbrella for its simmered flour dishes."
+   },
+   {
+    "name": "Yaki-manju",
+    "ja": "焼きまんじゅう",
+    "note": "Skewered manju brushed with sweet miso sauce and grilled; MAFF traces it to the 'miso-zuke manju' of Harashima Ruizo of Maebashi, late Edo."
+   },
+   {
+    "name": "Suiton",
+    "ja": "すいとん",
+    "note": "Wheat dumplings in soup, listed by MAFF among Gunma's flour dishes."
+   },
+   {
+    "name": "Tansan manju",
+    "ja": "炭酸まんじゅう",
+    "note": "Leavened wheat manju, listed by MAFF among Gunma's flour dishes."
+   },
+   {
+    "name": "Konnyaku-imo",
+    "ja": "こんにゃくいも",
+    "note": "Gunma harvested 48,500 t in the 2024 report, 95.3% of national output, on 2,990 ha (92.6%); varieties are named after the three Joumo mountains."
+   },
+   {
+    "name": "Konnyaku no shira-ae",
+    "ja": "こんにゃくの白和え",
+    "note": "Konnyaku in a tofu dressing, the konnyaku dish MAFF lists for Gunma."
+   },
+   {
+    "name": "Shimonita negi",
+    "ja": "下仁田ねぎ",
+    "note": "Thick local leek used in dishes such as a pork-and-negi croquette in the results; no cultivation or GI detail was found."
+   },
+   {
+    "name": "Mizusawa udon",
+    "ja": "水沢うどん",
+    "note": "Listed as a Gunma local udon in the results; no technical detail was found in the sources consulted."
+   }
+  ],
+  "calendar": [
+   {
+    "season": "Spring",
+    "text": "The sources consulted give no month-level data for Gunma. Wheat, the base of its flour dishes, is the main crop behind okkirikomi, suiton and yaki-manju."
+   },
+   {
+    "season": "Summer",
+    "text": "No summer-specific food data appeared in the sources consulted; konnyaku-imo is grown in the hilly north (Hokumo) area on a large, mechanised scale."
+   },
+   {
+    "season": "Autumn",
+    "text": "The sources give no autumn-specific data; konnyaku-imo, which is processed into konnyaku and eaten in dishes such as shira-ae, is the crop that dominates Gunma output."
+   },
+   {
+    "season": "Winter",
+    "text": "The dry karakkaze wind and long winter sunshine are the climate features cited for wheat growing, and okkirikomi is the dish promoted by the prefecture as the flour-based household soup."
+   }
+  ],
+  "markets": [
+   {
+    "name": "Konnyaku Park",
+    "ja": "こんにゃくパーク",
+    "note": "Visitor attraction in Gunma devoted to konnyaku, the prefecture's leading crop."
+   },
+   {
+    "name": "Hokumo konnyaku-imo growing area (including Numata)",
+    "ja": "北毛のこんにゃく産地（沼田市ほか）",
+    "note": "Upland growing district; Numata city publishes a konnyaku-imo guide."
+   }
+  ],
+  "notes": "Gunma's konnyaku-imo share is quoted differently by year and source (about 90% in MAFF framing, 95.3% in the 2024 regional report, 97% in the 2025 MAFF overview), so always cite the year. Shimonita negi GI status and Mizusawa udon details were not found in the sources consulted and should be checked before being printed as fact.",
+  "src": [
+   [
+    "MAFF Uchi no kyodo ryori: Gunma",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/gunma.html"
+   ],
+   [
+    "MAFF: Yaki-manju, Gunma",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/32_26_gunma.html"
+   ],
+   [
+    "Gunma Economic Research Institute: konnyaku (May 2024)",
+    "https://www.gunma-eri.or.jp/monthly/pdf/gd202405.pdf"
+   ],
+   [
+    "Educe Shokuiku: okkirikomi",
+    "https://www.educe-shokuiku.jp/news/food/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%83%B7%E5%9C%9F%E6%96%99%E7%90%86%E3%80%80%EF%BD%9E%E7%BE%A4%E9%A6%AC%E7%9C%8C%E3%80%80%E3%81%8A%E3%81%A3%E3%81%8D%E3%82%8A%E3%81%93%E3%81%BF%EF%BD%9E/"
+   ]
+  ]
+ },
+ {
+  "pref": 11,
+  "history": "Saitama's food culture is a udon culture. MAFF says the cold suttate soup of Kawajima belongs to an area where wheat was widely grown as a second crop after rice. The Musashino plateau farmhouse udon survives in western Saitama and the Tama area of Tokyo. Soka senbei grew from a speciality of Soka-juku, a post station on the Nikko Kaido highway.",
+  "character": "Wheat noodles carry the cuisine, served in several local forms: Fukaya's nibotou, wide fresh noodles simmered raw into a thickened soy-based soup with local vegetables including Fukaya negi, and suttate, a cold dipping soup of vegetables ground in a suribachi. Fukaya negi is the regional signature vegetable. In the north-east granary zone, iga manju is a tansan manju coated with sekihan.",
+  "staples": [
+   {
+    "name": "Fukaya negi",
+    "ja": "深谷ねぎ",
+    "note": "Leek of Fukaya city, used in nibotou, miso udon and negi dishes."
+   },
+   {
+    "name": "Nibotou",
+    "ja": "煮ぼうとう",
+    "note": "Fukaya dish: wide fresh udon boiled raw in a thickened soy-seasoned soup packed with local vegetables."
+   },
+   {
+    "name": "Musashino udon",
+    "ja": "武蔵野うどん",
+    "note": "Farmhouse home-cooking udon of the Musashino plateau, eaten across western Saitama and Tokyo's Tama area."
+   },
+   {
+    "name": "Kawahaba udon",
+    "ja": "川幅うどん",
+    "note": "Broad udon named among Saitama's regional types."
+   },
+   {
+    "name": "Kazo and Kumagaya udon",
+    "ja": "加須うどん・熊谷うどん",
+    "note": "Named alongside Kawahaba as local udon styles of the 'udon republic'; no technical detail was found."
+   },
+   {
+    "name": "Suttate",
+    "ja": "すったて",
+    "note": "Kawajima cold soup of mortar-ground vegetables used as a dipping sauce for udon; MAFF lists it as hiyajiru/suttate."
+   },
+   {
+    "name": "Iga manju",
+    "ja": "いがまんじゅう",
+    "note": "Tansan manju coated with sekihan; said to originate in Konosu (former Kawasato), eaten in the north-east grain area."
+   },
+   {
+    "name": "Soka senbei",
+    "ja": "草加せんべい",
+    "note": "Rice cracker named for Soka-juku on the Nikko Kaido; part of the '100-year food' scheme."
+   },
+   {
+    "name": "Fukaya negi and pork miso udon",
+    "ja": "深谷ねぎと豚肉の味噌うどん",
+    "note": "A modern Fukaya udon presentation featuring the local leek; described in a blog, not an official source."
+   }
+  ],
+  "calendar": [
+   {
+    "season": "Spring",
+    "text": "The sources consulted give no month-level data for Saitama; what is documented is the wheat second crop grown after rice, which underlies the prefecture's udon dishes."
+   },
+   {
+    "season": "Summer",
+    "text": "Suttate, a cold soup of mortar-ground vegetables for dipping udon, is Kawajima's signature dish; MAFF lists it with hiyajiru, but gives no month, so the season is not asserted."
+   },
+   {
+    "season": "Autumn",
+    "text": "No autumn-specific data appeared in the sources consulted. Soka senbei and iga manju are everyday products not tied to a stated season in the results."
+   },
+   {
+    "season": "Winter",
+    "text": "Fukaya's nibotou, wide fresh noodles cooked raw in a thick soy-seasoned vegetable soup including Fukaya negi, is a hot dish; the sources consulted do not state its season."
+   }
+  ],
+  "markets": [
+   {
+    "name": "Fukaya city food area",
+    "ja": "深谷市",
+    "note": "Centre of Fukaya negi and nibotou; a Premium Outlets column covers local dishes and sake there. No named market was found."
+   },
+   {
+    "name": "Soka-juku, Soka city",
+    "ja": "草加宿（草加市）",
+    "note": "Former post station on the Nikko Kaido and the origin town of Soka senbei."
+   },
+   {
+    "name": "Kawajima town",
+    "ja": "川島町",
+    "note": "Home of suttate according to MAFF."
+   }
+  ],
+  "notes": "Saitama styles itself the 'udon republic' (Kazo, Kumagaya and Kawahaba are among the named types). Soka senbei is covered by the Agency for Cultural Affairs '100-year food' scheme. Sayama tea, nuka-zuke and any protected-name rules for Fukaya negi did not appear with usable detail in the sources consulted, so no claims are made for them.",
+  "src": [
+   [
+    "MAFF Uchi no kyodo ryori: Saitama",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/saitama.html"
+   ],
+   [
+    "MAFF: hiyajiru / suttate, Saitama",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/33_3_saitama.html"
+   ],
+   [
+    "Premium Outlets: Fukaya local food",
+    "https://www.premiumoutlets.co.jp/column/fukayahanazono/462"
+   ],
+   [
+    "Choco-tabi Saitama: udon republic",
+    "https://chocotabi-saitama.jp/special/saitamaudon/"
+   ]
+  ]
+ },
+ {
+  "pref": 12,
+  "history": "Chiba's best-documented dishes come from two worlds: the fishing coast of the Boso peninsula (namerou, sangayaki) and farm-household festival food (futomaki matsuri-zushi, peanut miso). Peanuts reached Yachimata around Meiji 29 and became its speciality by early Taisho; by 1949 they covered about 80% of Yachimata's cultivated land, according to the city.",
+  "character": "The coastal logic is raw fish minced with miso and aromatics, as in namerou, and then baked or steamed as sangayaki. One account gives miso rather than soy sauce because soy spills on a boat. Inland, preserved and festival food dominates: peanuts, peanut miso, and futomaki sushi whose cross-section forms a picture. Segro iwashi (sesame-pickled sardine) and kujira no tare are listed with it by MAFF.",
+  "staples": [
+   {
+    "name": "Namerou",
+    "ja": "なめろう",
+    "note": "Fresh fish chopped with miso and aromatics; said to originate with Boso fishermen on boats."
+   },
+   {
+    "name": "Sangayaki",
+    "ja": "さんが焼き",
+    "note": "Namerou shaped and baked or steamed, said to come from taking namerou to mountain work; the name is explained as 'mountain house' in one theory."
+   },
+   {
+    "name": "Futomaki matsuri-zushi",
+    "ja": "太巻き祭りずし",
+    "note": "Thick sushi roll with a pictorial cut face; origin accounts conflict (zuiki core c.1800, or late Edo); MAFF cites Sanmu, Isumi and Kisarazu areas."
+   },
+   {
+    "name": "Segro iwashi no goma-zuke",
+    "ja": "せぐろいわしのごま漬け",
+    "note": "Sesame-pickled sardine; selected with futomaki in the MAFF 100 rural dishes list."
+   },
+   {
+    "name": "Kujira no tare",
+    "ja": "くじらのたれ",
+    "note": "Whale dish listed on MAFF's Chiba page; no process detail was found in the sources consulted."
+   },
+   {
+    "name": "Rakkasei (peanut)",
+    "ja": "落花生",
+    "note": "Chiba is the top producer; Yachimata adopted peanuts around Meiji 29."
+   },
+   {
+    "name": "Chiba Handachi",
+    "ja": "千葉半立",
+    "note": "The most widely grown peanut cultivar in Chiba, a late-maturing type."
+   },
+   {
+    "name": "Rakkasei miso",
+    "ja": "落花生味噌",
+    "note": "Peanut miso, a preserved food regularly kept in peanut-growing households."
+   }
+  ],
+  "calendar": [
+   {
+    "season": "Spring",
+    "text": "The sources consulted give no month-level data for Chiba; futomaki matsuri-zushi is festival and household-occasion food rather than tied to a stated month."
+   },
+   {
+    "season": "Summer",
+    "text": "No summer data were found. Namerou is a fresh-fish dish whose seasonality follows the catch, and the sources consulted do not give a species calendar."
+   },
+   {
+    "season": "Autumn",
+    "text": "No autumn data were found in the sources consulted, and peanut harvest months were not stated in the results; peanut miso is the preserved product made from the crop."
+   },
+   {
+    "season": "Winter",
+    "text": "The consulted sources give no winter-specific data. Peanut miso is described as a preservation food, so it serves as the household standby when other food is scarce."
+   }
+  ],
+  "markets": [
+   {
+    "name": "Yachimata city",
+    "ja": "八街市",
+    "note": "Peanut-growing city; the city runs a peanut history page."
+   },
+   {
+    "name": "Sanmu, Isumi and Kisarazu",
+    "ja": "山武市・いすみ市・木更津市",
+    "note": "Areas MAFF names as home to the futomaki matsuri-zushi tradition."
+   },
+   {
+    "name": "Boso coastal fishing ports",
+    "ja": "房総の漁港",
+    "note": "Source of the fish used for namerou and sangayaki; no named market appeared in results."
+   }
+  ],
+  "notes": "Futomaki matsuri-zushi and segro iwashi no goma-zuke were both chosen in MAFF's 2007 '100 rural and fishing village dishes'. Origin dates for futomaki conflict between sources, so cite the date range rather than one year. Soy sauce (Noda, Choshi) is central to Chiba but did not surface in these searches; see the shoyu category instead of this page.",
+  "src": [
+   [
+    "MAFF Uchi no kyodo ryori: Chiba",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/chiba.html"
+   ],
+   [
+    "Chiba tourism: namerou",
+    "https://maruchiba.jp/gourmet/feature/detail_454.html"
+   ],
+   [
+    "Yachimata city: peanut history",
+    "https://www.city.yachimata.lg.jp/site/peanuts/1137.html"
+   ],
+   [
+    "Wikipedia: futomaki matsuri-zushi",
+    "https://ja.wikipedia.org/wiki/%E5%A4%AA%E5%B7%BB%E3%81%8D%E7%A5%AD%E3%82%8A%E5%AF%BF%E5%8F%B8"
+   ]
+  ]
+ },
+ {
+  "pref": 13,
+  "history": "MAFF's Tokyo page and other sources centre on Edo-mae, meaning dishes from Tokyo Bay ingredients, and on fishermen's food such as Fukagawa-meshi, which began in Fukagawa (Koto ward) as a crew meal. Daimyo travelling under the sankin-kotai system brought seeds of regional vegetables to Edo, where they were selected into the Edo Tokyo vegetables now kept as fixed varieties.",
+  "character": "Tokyo food in these sources comes from the bay and the nearby farms. Fukagawa-meshi is negi and raw asari simmered in miso and poured over rice. Edo Tokyo vegetables are fixed-seed (kotei-shu) varieties handed down from the Edo period, 52 varieties as of October 2024. Daikon was grown for pickling, e.g. Nerima daikon for takuan, and bettara-zuke is a listed Edo pickle.",
+  "staples": [
+   {
+    "name": "Fukagawa-meshi",
+    "ja": "深川めし",
+    "note": "Negi and raw asari simmered in miso over rice, from Fukagawa fishermen's meals; revived in 1981 by the former owner of the restaurant Fukagawa-juku."
+   },
+   {
+    "name": "Edo-mae",
+    "ja": "江戸前",
+    "note": "Cooking from Tokyo Bay catch; Fukagawa-meshi, sushi and dojo nabe are given as examples."
+   },
+   {
+    "name": "Dojo nabe",
+    "ja": "どぜう鍋",
+    "note": "Loach pot, given as an Edo-mae example in a travel-agency guide."
+   },
+   {
+    "name": "Kusaya",
+    "ja": "くさや",
+    "note": "Fermented dried fish of the Izu Islands; production said to date from the Edo period."
+   },
+   {
+    "name": "Komatsuna",
+    "ja": "小松菜",
+    "note": "Named after Komatsugawa village by the legend of shogun Yoshimune; today's market komatsuna is mostly hybrid, distinct from traditional varieties."
+   },
+   {
+    "name": "Nerima daikon",
+    "ja": "練馬大根",
+    "note": "Daikon from the Nerima area since the Edo period, used for takuan."
+   },
+   {
+    "name": "Kameido daikon",
+    "ja": "亀戸大根",
+    "note": "Grown around Kameido Katori shrine from about 1860-64 to early Showa."
+   },
+   {
+    "name": "Bettara-zuke",
+    "ja": "べったら漬け",
+    "note": "Edo-period pickle listed by MAFF on its Tokyo page."
+   },
+   {
+    "name": "Edo Tokyo vegetables",
+    "ja": "江戸東京野菜",
+    "note": "JA Tokyo Chuokai designation for fixed-seed varieties from the Edo period; 52 varieties as of October 2024."
+   }
+  ],
+  "calendar": [
+   {
+    "season": "Spring",
+    "text": "The sources consulted give no month-level data for Tokyo; the Edo Tokyo vegetables come in many varieties, but their individual seasons were not listed in the results."
+   },
+   {
+    "season": "Summer",
+    "text": "No summer-specific data were found in the sources consulted; Izu Island kusaya is a year-round dried product, described as a speciality dating from the Edo period."
+   },
+   {
+    "season": "Autumn",
+    "text": "Autumn data were not stated in the sources consulted. Daikon grown for pickling, such as Nerima, feeds the pickle trade including takuan."
+   },
+   {
+    "season": "Winter",
+    "text": "Bettara-zuke is the Edo pickle MAFF lists for Tokyo; the sources consulted give no sale date or season for it, and none is asserted here."
+   }
+  ],
+  "markets": [
+   {
+    "name": "Fukagawa district, Koto ward",
+    "ja": "深川（江東区）",
+    "note": "Home of Fukagawa-meshi, which began as a fishermen's meal in Fukagawa, Koto ward."
+   },
+   {
+    "name": "Nerima",
+    "ja": "練馬",
+    "note": "Daikon-growing area for Nerima daikon."
+   },
+   {
+    "name": "Komatsugawa, Edogawa ward",
+    "ja": "小松川（江戸川区）",
+    "note": "Village linked by tradition to the name komatsuna."
+   }
+  ],
+  "notes": "The claim that Fukagawa-meshi is one of Japan's 'five great meshi' by a 1939 Imperial Household selection could not be verified, as sources disagree. The Yoshimune komatsuna story is tradition. Tsukiji and Toyosu markets, soba and sushi history did not appear in the results, so are not covered here; consult the sushi and soy sauce categories.",
+  "src": [
+   [
+    "MAFF Uchi no kyodo ryori: Tokyo",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/tokyo.html"
+   ],
+   [
+    "MAFF: Fukagawa-meshi",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/34_1_tokyo.html"
+   ],
+   [
+    "Go Tokyo: Fukagawa-meshi",
+    "https://www.gourmet.gotokyo.org/jp/article/106.html"
+   ],
+   [
+    "Wikipedia: Edo Tokyo vegetables",
+    "https://ja.wikipedia.org/wiki/%E6%B1%9F%E6%88%B8%E9%87%8E%E8%8F%9C"
+   ]
+  ]
+ },
+ {
+  "pref": 14,
+  "history": "Kanagawa spans the Miura peninsula fishing and vegetable zone, Sagami Bay, Odawara and Kamakura. Misaki was among Japan's top tuna landing ports in early Showa. Odawara already made kamaboko in the Muromachi period, with volume in the late Edo period, and its reputation spread as daimyo on sankin-kotai stayed at Odawara and Hakone. Kenchin-jiru is traced to Kenchoji in Kamakura.",
+  "character": "Sea products and vegetables from the Miura peninsula and the temple cooking of Kamakura define it. The Kenchoji tradition fries vegetables in oil before simmering. Misaki fishermen cooked unsold tuna heads by hanging them in a boat chimney; MAFF's oven version bakes them 3 to 4 hours on low heat. Miura is a major daikon area, with daikon dried along the coast for takuan in winter.",
+  "staples": [
+   {
+    "name": "Kenchin-jiru",
+    "ja": "けんちん汁",
+    "note": "Vegetables fried in oil then simmered; origin debated between Chinese 'kenchan' and Kenchoji's 'Kencho-jiru', credited to Rankei Doryu."
+   },
+   {
+    "name": "Maguro no kabuto-yaki",
+    "ja": "マグロのかぶと焼き",
+    "note": "Misaki dish: tuna head slow-roasted, said to come from fishermen steaming unsold heads on boat chimneys."
+   },
+   {
+    "name": "Odawara kamaboko",
+    "ja": "小田原かまぼこ",
+    "note": "Made since the Muromachi period; large-scale production from the late Edo period."
+   },
+   {
+    "name": "Nama-shirasu don",
+    "ja": "生しらす丼",
+    "note": "Raw shirasu over rice, linked to Sagami Bay and Shonan landings at Kamakura and Enoshima."
+   },
+   {
+    "name": "Miura daikon",
+    "ja": "三浦大根",
+    "note": "Miura peninsula daikon growing is over 100 years old; winter-dried on the shore for takuan."
+   },
+   {
+    "name": "Oyama tofu dishes",
+    "ja": "大山の豆腐料理",
+    "note": "Listed by MAFF among Kanagawa traditional foods."
+   },
+   {
+    "name": "Kanko-yaki",
+    "ja": "かんこ焼き",
+    "note": "Tsukui (Sagamihara) dish: filling wrapped in a flour skin, baked then steamed."
+   },
+   {
+    "name": "Herahera dango",
+    "ja": "へらへら団子",
+    "note": "Listed by MAFF among Kanagawa traditional foods; no technical detail found."
+   },
+   {
+    "name": "Warihoshi daikon harihari-zuke",
+    "ja": "割り干し大根のはりはり漬け",
+    "note": "Split dried daikon pickled; listed by MAFF."
+   }
+  ],
+  "calendar": [
+   {
+    "season": "Spring",
+    "text": "The sources consulted give no month-level data for Kanagawa; shirasu landings at Sagami Bay and Shonan are documented but without a season calendar in the results."
+   },
+   {
+    "season": "Summer",
+    "text": "No summer-specific data appeared in the sources consulted. Misaki tuna and Odawara kamaboko are year-round products and the results give no seasonal limits."
+   },
+   {
+    "season": "Autumn",
+    "text": "Daikon from the Miura peninsula is the crop behind the winter takuan trade; autumn growing is implied by the winter drying, but the results do not state months."
+   },
+   {
+    "season": "Winter",
+    "text": "Winter is when daikon for takuan is hung to dry along the Miura coast, a sight MAFF calls a seasonal feature; sources consulted give no other winter data."
+   }
+  ],
+  "markets": [
+   {
+    "name": "Misaki",
+    "ja": "三崎",
+    "note": "Tuna port in Miura city, a top-ranking landing site in early Showa."
+   },
+   {
+    "name": "Odawara",
+    "ja": "小田原",
+    "note": "Kamaboko town, reputation spread by travelling daimyo."
+   },
+   {
+    "name": "Kamakura and Enoshima",
+    "ja": "鎌倉・江の島",
+    "note": "Known for shirasu from Sagami Bay and for Kenchoji's kenchin-jiru."
+   }
+  ],
+  "notes": "Kenchin-jiru is also eaten in Iwate, Oita and Ibaraki with different ingredients, so state the Kamakura version explicitly. The Kenchoji legend that the first abbot reused dropped tofu is a temple anecdote. Sanma-men, aji himono and a specific Miura daikon brand rule were not confirmed in the results.",
+  "src": [
+   [
+    "MAFF regional stories: Kanagawa",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/area_stories/kanagawa.html"
+   ],
+   [
+    "MAFF: Odawara kamaboko",
+    "https://www.maff.go.jp/j/syokuiku/kodomo_navi/cuisine/cuisine2_7.html"
+   ],
+   [
+    "MAFF: tuna kabuto-yaki, Kanagawa",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/35_13_kanagawa.html"
+   ],
+   [
+    "MAFF: kenchin-jiru, Kanagawa",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/35_1_kanagawa.html"
+   ]
+  ]
+ },
+ {
+  "pref": 15,
+  "history": "Niigata's documented dishes are tied to snow country and the Sea of Japan: hegi soba of the Uonuma region, a textile-weaving area, sasa-dango from a preservation tradition, and Murakami's salmon. The Uonuma district is also the Koshihikari heartland. Niigata sake is the product of heavy snow, clear water and the Echigo toji guild, which originated there.",
+  "character": "Flavour logic is mild and preserved. Hegi soba binds buckwheat with fu-nori seaweed, giving a smooth, springy noodle served in a hegi, a shallow tray of thin shaved wood. Noppe is a mildly seasoned taro-based simmered soup; the sliminess of the taro is essential. Murakami cures salmon as shiobiki and as koji-fermented iizushi. Sake is tanrei-karakuchi, made from Gohyakumangoku and snowmelt water.",
+  "staples": [
+   {
+    "name": "Hegi soba",
+    "ja": "へぎそば",
+    "note": "Uonuma soba bound with fu-nori seaweed, served on a hegi tray; credited to the area's weaving culture and eaten since the Edo period."
+   },
+   {
+    "name": "Noppe",
+    "ja": "のっぺ",
+    "note": "Taro-based mild simmered soup for festivals and New Year; ingredients vary, in the north including salmon and ikura."
+   },
+   {
+    "name": "Sasa-dango",
+    "ja": "笹団子",
+    "note": "Yomogi dumpling with sweet bean filling wrapped in bamboo leaf; origin variously a warring-states ration or a preserved dumpling of leftover rice."
+   },
+   {
+    "name": "Tochio aburaage",
+    "ja": "栃尾の油揚げ",
+    "note": "Large fried tofu of Tochio, Nagaoka, about 20 cm long."
+   },
+   {
+    "name": "Shiobiki salmon",
+    "ja": "塩引き鮭",
+    "note": "Murakami salted salmon; grilled, including skin, and served as ochazuke."
+   },
+   {
+    "name": "Murakami iizushi",
+    "ja": "村上の飯ずし",
+    "note": "Salmon and kazunoko fermented with koji, a preserved dish of Murakami."
+   },
+   {
+    "name": "Uonuma Koshihikari",
+    "ja": "魚沼コシヒカリ",
+    "note": "Rice from the snowy Uonuma district, which is described as the core Koshihikari area."
+   },
+   {
+    "name": "Niigata sake",
+    "ja": "新潟の日本酒",
+    "note": "Tanrei-karakuchi style; 89 breweries (first nationally) in one source, over 90 in another, 85 in an older one; third in output."
+   },
+   {
+    "name": "Gohyakumangoku",
+    "ja": "五百万石",
+    "note": "Sake rice named as typical of the clean, dry Niigata style."
+   }
+  ],
+  "calendar": [
+   {
+    "season": "Spring",
+    "text": "The sources consulted give no month-level data for Niigata. Noppe is a New Year and gathering dish rather than a spring one, and produce seasons were not covered."
+   },
+   {
+    "season": "Summer",
+    "text": "No summer-specific data appeared in the results, and hegi soba was not tied to a season there. Uonuma is the Koshihikari area, but harvest months were not stated."
+   },
+   {
+    "season": "Autumn",
+    "text": "The results give no autumn data directly. Salmon is the product Murakami cures as shiobiki and iizushi, but months were not stated in the sources consulted."
+   },
+   {
+    "season": "Winter",
+    "text": "Winter is the snow-country season behind kan-zukuri sake brewing in Uonuma, where breweries use cold-season brewing and groundwater, and noppe is cooked mainly at New Year."
+   }
+  ],
+  "markets": [
+   {
+    "name": "Murakami",
+    "ja": "村上",
+    "note": "Salmon town with a shop founded about 200 years ago selling shiobiki and recipes."
+   },
+   {
+    "name": "Tochio, Nagaoka",
+    "ja": "栃尾（長岡市）",
+    "note": "Home of the oversized aburaage."
+   },
+   {
+    "name": "Uonuma district",
+    "ja": "魚沼",
+    "note": "Koshihikari and hegi soba area, with old breweries including Shirataki (1855) and Tamagawa (1673)."
+   },
+   {
+    "name": "Nagaoka brewery district",
+    "ja": "長岡の酒蔵",
+    "note": "16 breweries, the most of any city in the prefecture; 35 in the Chuetsu region."
+   }
+  ],
+  "notes": "Brewery counts differ by source and year (85, 89, 'over 90'), so cite the date. Hegi soba is covered by the Agency for Cultural Affairs '100-year food' scheme. Koshihikari acreage, the Koshihikari rule set and Echigo cedar details were not in the results and are not stated here. MAFF's child-oriented page treats hegi soba as the product of weaving and soba culture together.",
+  "src": [
+   [
+    "MAFF: hegi soba, Niigata",
+    "https://www.maff.go.jp/j/syokuiku/kodomo_navi/cuisine/cuisine3_1.html"
+   ],
+   [
+    "Niigata Tourism: noppe",
+    "https://niigata-kankou.or.jp/feature/noope/"
+   ],
+   [
+    "Mapple: Niigata local food",
+    "https://www.mapple.net/article/77036/"
+   ],
+   [
+    "How to Niigata: Niigata breweries",
+    "https://howtoniigata.jp/spot/nihonshu/40210/"
+   ]
+  ]
+ },
+ {
+  "pref": 16,
+  "history": "MAFF's Toyama page ties the cuisine to a steep profile from the Tateyama range to Toyama Bay, with Goto (east) and Gosei (west) differing in culture. Toyama Bay is called a natural fish tank for buri, shiroebi and hotaruika. The Kitamae-bune trade carried Hokkaido kombu to Toyama ports, making Toyama a heavy kombu consumer, and fresh bay fish met that kombu in kobu-jime.",
+  "character": "Two supply lines meet: the fresh bay catch and Kitamae-bune kombu. Kobu-jime sandwiches fish between kombu, which absorbs surface moisture and extends shelf life in the era before refrigeration. Shiroebi is eaten as sashimi, kobu-jime, in sumashi, tempura and kara-age; hotaruika as su-miso or okizuke. Himi uses buri whole, including kama, and buri shabu is popular. Masu-zushi shops each guard pressing and rice cooking.",
+  "staples": [
+   {
+    "name": "Himi kan-buri",
+    "ja": "氷見の寒ブリ",
+    "note": "Winter yellowtail of Himi; eaten as sashimi, shioyaki of kama and cuts, and buri shabu; Himi's buri food culture is in the 100-year food scheme."
+   },
+   {
+    "name": "Buri shabu",
+    "ja": "ぶりしゃぶ",
+    "note": "Thin-sliced buri swished in hot broth; popular outside the prefecture."
+   },
+   {
+    "name": "Shiroebi",
+    "ja": "白えび",
+    "note": "Toyama Bay shrimp; sashimi, kobu-jime, sumashi, tempura or kara-age."
+   },
+   {
+    "name": "Hotaruika",
+    "ja": "ホタルイカ",
+    "note": "Eaten raw as sashimi, boiled with su-miso, or as okizuke."
+   },
+   {
+    "name": "Kobu-jime",
+    "ja": "昆布〆",
+    "note": "Fish layered between kombu; formed in the Edo period from Kitamae-bune kombu and bay fish."
+   },
+   {
+    "name": "Kobu-maki",
+    "ja": "昆布巻き",
+    "note": "Kombu roll; spread inland from the ports of Higashi-Iwase, Fushiki and Mizuhashi."
+   },
+   {
+    "name": "Tororo kombu",
+    "ja": "とろろ昆布",
+    "note": "Shaved kombu sold daily in Toyama shops and kept at home."
+   },
+   {
+    "name": "Masu-zushi",
+    "ja": "ます寿し",
+    "note": "Pressed masu sushi; each shop's rice cooking, seasoning and pressing method is a craft secret."
+   }
+  ],
+  "calendar": [
+   {
+    "season": "Spring",
+    "text": "Hotaruika is eaten raw, boiled with su-miso or as okizuke; the sources consulted do not state its season, so the month is not asserted here."
+   },
+   {
+    "season": "Summer",
+    "text": "The sources consulted give no summer-specific data for Toyama. Tororo kombu is sold daily in the prefecture's shops, so kombu use is not tied to a season."
+   },
+   {
+    "season": "Autumn",
+    "text": "No autumn-specific data were found. Shiroebi, served as sashimi, kobu-jime, sumashi, tempura and kara-age, has no season given in the sources consulted."
+   },
+   {
+    "season": "Winter",
+    "text": "Himi's kan-buri (winter yellowtail) is the headline winter product, eaten as sashimi, grilled kama and cuts, and buri shabu; the Agency for Cultural Affairs lists Himi's buri food culture."
+   }
+  ],
+  "markets": [
+   {
+    "name": "Himi",
+    "ja": "氷見",
+    "note": "Port famous for winter buri and its whole-fish eating culture."
+   },
+   {
+    "name": "Higashi-Iwase, Fushiki and Mizuhashi",
+    "ja": "東岩瀬・伏木・水橋",
+    "note": "Kitamae-bune ports through which kombu entered Toyama and spread."
+   },
+   {
+    "name": "Rausu link",
+    "ja": "羅臼",
+    "note": "Kombu-producing town in Hokkaido; one account says about 70% of its population has Toyama ties."
+   }
+  ],
+  "notes": "The Rausu 70% figure is one account and should be hedged. Meiji-era Toyama migrants pioneering kombu fishing at Rausu and sending kombu home is reported by one source. Baika-gohan did not get support in the results and is omitted. Masu-zushi rules are per-shop craft, not a statutory standard, in the sources consulted.",
+  "src": [
+   [
+    "MAFF Nippon traditional foods: Toyama",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/area/toyama.html"
+   ],
+   [
+    "MAFF: kobu-jime",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/kobu_zime.html"
+   ],
+   [
+    "MAFF: kobu-maki",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/kobu_maki.html"
+   ],
+   [
+    "Agency for Cultural Affairs: 100-year food, Toyama",
+    "https://www.bunka.go.jp/seisaku/shokubunka/foodculture/hyakunenfood/jirei/list_toyama.html"
+   ]
+  ]
+ }
+]

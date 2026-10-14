@@ -1,0 +1,810 @@
+[
+ {
+  "pref": 25,
+  "history": "Shiga sits at a crossroads of routes and encloses Lake Biwa. MAFF's regional profile says that being able to supply rice, fish and vegetables itself, while being a transit point, shaped its own food customs. Omi rice earned the name 'granary of the Kinki'. Trade routes brought in outside goods such as mackerel along the Saba-kaido (hence saba somen). Hikone domain is recorded as presenting miso-pickled beef to the shogunal house in 1781.",
+  "character": "The cuisine is a lake-and-paddy cuisine built on preservation and fermentation. Fish from Lake Biwa is salted and lactic-fermented with rice (funazushi), beef is cured in white miso and then grilled, and a local radish is pickled (hinona-zuke). Regional taste varies inside the prefecture; MAFF says funazushi is saltier in the north and often sweeter in the south.",
+  "staples": [
+   {
+    "name": "Funazushi",
+    "ja": "鮒ずし",
+    "note": "Nare-zushi of nigorobuna: salted in early spring, washed and packed in rice around the summer doyo period (MAFF says July), then fermented for six months or more and eaten from New Year through the festivals of the year."
+   },
+   {
+    "name": "Nigorobuna",
+    "ja": "ニゴロブナ",
+    "note": "The Lake Biwa crucian carp used for funazushi; MAFF notes its catch has fallen so fewer households make funazushi and it is now mostly bought at restaurants."
+   },
+   {
+    "name": "Omi beef miso-zuke",
+    "ja": "近江牛の味噌漬",
+    "note": "Omi beef cured several days in white miso and then grilled; MAFF cites a 1781 record of Hikone domain presenting it to the shogunal family."
+   },
+   {
+    "name": "Omi beef",
+    "ja": "近江牛",
+    "note": "The prefecture's wagyu brand, promoted by MAFF alongside fermented foods as a local pride."
+   },
+   {
+    "name": "Hinona-zuke",
+    "ja": "日野菜漬け",
+    "note": "Pickle of hinona, said to originate in Hino town (Gamo district); selected in 1998 as a Shiga prefectural intangible folk heritage 'food culture asset' per MAFF."
+   },
+   {
+    "name": "Omi rice",
+    "ja": "近江米",
+    "note": "Shiga's rice, called the 'granary of the Kinki' in the prefecture's own material; the food culture links lake and paddy."
+   },
+   {
+    "name": "Saba somen",
+    "ja": "鯖そうめん",
+    "note": "Somen simmered with mackerel, cited by MAFF as a dish that came out of trade along the mackerel route."
+   }
+  ],
+  "calendar": [
+   {
+    "season": "Spring",
+    "text": "Early spring is when nigorobuna caught at the start of the season is salted for funazushi. Spring festivals are among the occasions at which funazushi, made the previous summer, is still eaten."
+   },
+   {
+    "season": "Summer",
+    "text": "Around the doyo period (July in MAFF's description) the salted nigorobuna is washed and packed with rice for the main fermentation. Month-by-month produce was not given in the sources reviewed."
+   },
+   {
+    "season": "Autumn",
+    "text": "The funazushi packed in summer continues to ferment through autumn (six months or more in total). No autumn ingredient calendar was found in the sources reviewed, so none is asserted here."
+   },
+   {
+    "season": "Winter",
+    "text": "Around New Year funazushi reaches eating condition, with the bones softened according to the prefectural page. It is eaten at New Year, at the Okonai ritual and at spring festivals, per MAFF."
+   }
+  ],
+  "markets": [
+   {
+    "name": "Hino town (Gamo district)",
+    "ja": "日野町（蒲生郡）",
+    "note": "Food locality, not a market: the reputed origin of hinona, whose pickle was designated a Shiga food culture asset in 1998."
+   },
+   {
+    "name": "Hikone (former Hikone domain)",
+    "ja": "彦根（旧彦根藩）",
+    "note": "Food locality, not a market: the domain recorded in 1781 as presenting miso-pickled Omi beef to the shogunal house."
+   }
+  ],
+  "notes": "Funazushi methods differ by household and region (north saltier, south sweeter), and many cooks buy pre-salted fish and do only the main packing. Because nigorobuna catches have fallen, professionals should expect supply and price to vary. Omi beef's detailed brand criteria were not confirmed in this research pass; check with the producer association before specifying it. The Saba-kaido link is described by MAFF as a trade-route origin for saba somen.",
+  "src": [
+   [
+    "MAFF Nippon dento shokuzukan, Shiga",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/area/shiga.html"
+   ],
+   [
+    "MAFF Uchi no kyodo ryori, Shiga region",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/area_stories/shiga.html"
+   ],
+   [
+    "MAFF funazushi",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/funa_zushi_shiga.html"
+   ],
+   [
+    "Shiga Prefecture funazushi",
+    "https://www.pref.shiga.lg.jp/ippan/shigotosangyou/suisan/18690.html"
+   ]
+  ]
+ },
+ {
+  "pref": 26,
+  "history": "Kyoto was the seat of court culture, and MAFF's Kyoto food-culture paper describes a culture centred on court nobility. Sources describe Kyoto cuisine as drawing on the court's yusoku ryori and temple shojin ryori. Being far from the sea, marine products had to come from far away, which sources link to ingenuity in cooking. Buddhist thought and the basin's temperature range and abundant groundwater are given as reasons for a vegetable-centred cuisine and distinct local cultivars.",
+  "character": "Dashi is the core. Ichiban dashi is based on kombu with katsuobushi, and Kyoto's soft groundwater is said to draw out kombu umami easily; 'usuaji' (light taste) is a way of saying the dashi is doing the work. Seasonal local vegetables (kyo-yasai) and economical home cooking (obanzai) are central, with ichiju-sansai built around rice and a clear separation of hare (festive) and ke (everyday) meals.",
+  "staples": [
+   {
+    "name": "Kamo nasu",
+    "ja": "賀茂なす",
+    "note": "Large round eggplant from the Kamigamo area of Kita ward, Kyoto; sold roughly early May to late October."
+   },
+   {
+    "name": "Shogoin daikon",
+    "ja": "聖護院だいこん",
+    "note": "Head-sized round daikon, a winter vegetable."
+   },
+   {
+    "name": "Horikawa gobo",
+    "ja": "堀川ごぼう",
+    "note": "Thick burdock with a hollow core."
+   },
+   {
+    "name": "Mibuna",
+    "ja": "壬生菜",
+    "note": "Leaf vegetable in season about December to March."
+   },
+   {
+    "name": "Kyo takenoko",
+    "ja": "京たけのこ",
+    "note": "Moso bamboo shoot, the largest of the edible kinds."
+   },
+   {
+    "name": "Kujo negi",
+    "ja": "九条ねぎ",
+    "note": "Long-established negi; cultivation is said to have begun when Fushimi Inari shrine was built."
+   },
+   {
+    "name": "Manganji togarashi",
+    "ja": "万願寺とうがらし",
+    "note": "Large mild pepper listed among the representative kyo-yasai."
+   },
+   {
+    "name": "Ebi-imo",
+    "ja": "海老芋",
+    "note": "Taro variety listed among the representative kyo-yasai."
+   },
+   {
+    "name": "Obanzai",
+    "ja": "おばんざい",
+    "note": "Dashi-based home cooking that uses seasonal vegetables without waste."
+   },
+   {
+    "name": "Ichiban dashi",
+    "ja": "一番出汁",
+    "note": "Kombu base with katsuobushi; the basis of Kyoto cooking."
+   }
+  ],
+  "calendar": [
+   {
+    "season": "Spring",
+    "text": "Mibuna stays in season until about March, and kyo takenoko is among the brand vegetables; the sources reviewed did not give a month for the bamboo-shoot season, so none is claimed."
+   },
+   {
+    "season": "Summer",
+    "text": "Kamo nasu is on the market from early May to late October, covering the whole summer. The sources reviewed gave no further month-level summer detail such as hamo, so none is asserted."
+   },
+   {
+    "season": "Autumn",
+    "text": "Kamo nasu continues until late October. No further autumn ingredients with confirmed months were found in the search results, so only the Kamo nasu window is stated."
+   },
+   {
+    "season": "Winter",
+    "text": "Shogoin daikon is the typical winter round daikon and mibuna runs from December to the following March. Winter is the season highlighted in sources for kyo-yasai such as these."
+   }
+  ],
+  "markets": [
+   {
+    "name": "Nishiki Market",
+    "ja": "錦市場",
+    "note": "'Kyo no daidokoro'; Kyoto City says it began as a fish and poultry market in Hideyoshi's time (about 400 years), though Wikipedia gives about 1,300 years via Heian-era supply to the court; 120 or more shops (JR Central Tours), about 131 in an academic count."
+   },
+   {
+    "name": "Kamigamo district (Kita ward)",
+    "ja": "上賀茂（北区）",
+    "note": "Production locality, not a market: the home district of Kamo nasu."
+   }
+  ],
+  "notes": "Kyoto's 'traditional vegetables' are defined as those with a pre-Meiji introduction and are managed alongside a separate 'brand product' list. Sources give different totals: 35 existing plus 2 extinct (37), about 40 including extinct, and brand lists of 31 or 19 items. Check the current prefectural list before using a name on a menu. The origin and age of Nishiki Market differ by source (about 400 versus about 1,300 years).",
+  "src": [
+   [
+    "MAFF Kyo no shokubunka (Takahashi)",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/culture/pdf/07_kyo.pdf"
+   ],
+   [
+    "Kyoto Prefecture, Kyo brand products (vegetables)",
+    "https://www.pref.kyoto.jp/brand/1-1kyobrandnatu.html"
+   ],
+   [
+    "Kyoto City, Kyo no dento yasai",
+    "https://www.city.kyoto.lg.jp/sankan/page/0000029058.html"
+   ],
+   [
+    "Kyoto City commerce paper (Nishiki Market)",
+    "https://www.city.kyoto.lg.jp/sankan/cmsfiles/contents/0000147/147939/kyotoshoukoujouhou6.pdf"
+   ]
+  ]
+ },
+ {
+  "pref": 27,
+  "history": "In the Edo period Osaka was the commercial centre to which rice tribute and local products from around the country were brought to domain storehouses (kurayashiki) and sold by merchants, the basis of the name 'tenka no daidokoro'. Kombu travelled from Hokkaido by the northern Kitamae-bune route along the Japan Sea and through the Seto Inland Sea to Osaka, where Sakai craftsmen processed it. Osaka's soft water is also cited as supporting dashi culture.",
+  "character": "Osaka cooking is built on awase-dashi, a kombu base combined with katsuobushi or niboshi, in contrast to Kanto's katsuobushi emphasis. Processed kombu such as tsukudani and shio-kombu is a local specialty. Frugality ('shimatsu') shows in dishes like senba-jiru, which uses fish offcuts. The modern 'daidokoro' image also takes in popular foods like takoyaki, which sources say are a postwar development.",
+  "staples": [
+   {
+    "name": "Senba-jiru",
+    "ja": "船場汁",
+    "note": "Clear soup of salted-mackerel arai and daikon, a Senba household dish that uses all of the fish."
+   },
+   {
+    "name": "Hako-zushi (Osaka sushi)",
+    "ja": "箱寿司（大阪寿司）",
+    "note": "Sushi pressed in a wooden mould; toppings include shrimp, sea bream and conger eel."
+   },
+   {
+    "name": "Takoyaki",
+    "ja": "たこ焼き",
+    "note": "Osaka-born, but a recent food: shops began increasing in the 1955 to 1964 period (Showa 30s)."
+   },
+   {
+    "name": "Naniwa traditional vegetables",
+    "ja": "なにわの伝統野菜",
+    "note": "A set of 18 items including Kema cucumber, Suita kuwai and Senshu mizunasu; many disappeared with postwar urbanisation and are being revived."
+   },
+   {
+    "name": "Tsukudani kombu / shio-kombu",
+    "ja": "佃煮昆布・塩昆布",
+    "note": "Processed kombu characteristic of Osaka, which treats kombu as much as a food as a dashi material."
+   },
+   {
+    "name": "Awase-dashi",
+    "ja": "合わせだし",
+    "note": "Kombu base blended with katsuobushi or niboshi; the Kansai standard."
+   },
+   {
+    "name": "Kintoki carrot",
+    "ja": "金時人参",
+    "note": "Named among Osaka's local ingredients alongside ikanago in a regional-ingredient survey."
+   },
+   {
+    "name": "Ikanago",
+    "ja": "イカナゴ",
+    "note": "Sand lance listed among Osaka specialty products in the same survey."
+   }
+  ],
+  "calendar": [
+   {
+    "season": "Spring",
+    "text": "The sources reviewed gave no month-by-month calendar for Osaka. Ikanago is listed as a local specialty product, but its season was not given in the results, so it is not placed in a month."
+   },
+   {
+    "season": "Summer",
+    "text": "No summer items with confirmed months were found. Hako-zushi and takoyaki are year-round foods in the descriptions seen, not tied to a season by the sources."
+   },
+   {
+    "season": "Autumn",
+    "text": "No autumn calendar was found in the sources reviewed. The Naniwa traditional vegetables number 18 items, but the sources seen did not give their harvest months here."
+   },
+   {
+    "season": "Winter",
+    "text": "Senba-jiru, the salted-mackerel and daikon clear soup, is described as a household dish; the sources reviewed did not tie it to a month. Kombu dashi is the year-round base."
+   }
+  ],
+  "markets": [
+   {
+    "name": "Kuromon Market",
+    "ja": "黒門市場",
+    "note": "Said to have begun around 1822 to 1823, when merchants near the black sanmon of Enmyoji in Nihonbashi sold fish arriving from Sakai and Kishu; recognised as an official market in 1902 per most sources; about 150 shops."
+   },
+   {
+    "name": "Sakai kombu-processing district",
+    "ja": "堺（昆布加工）",
+    "note": "Production locality, not a market: Sakai's craft in processing kombu is cited as shaping Osaka's food identity."
+   }
+  ],
+  "notes": "The meaning of 'tenka no daidokoro' is historical (rice and goods concentrated in Osaka) and differs from the modern use that includes takoyaki and kushikatsu. Sources are mostly tourism and general media, so dates for foods like takoyaki are approximate. The Naniwa traditional vegetable list is a designated set of 18 items; confirm the current designation with the prefecture before labelling a dish. A kombu wholesaler notes that making dashi from scratch from kombu and katsuobushi has declined at home.",
+  "src": [
+   [
+    "Osaka Info, history of Osaka food culture",
+    "https://osaka-info.jp/osaka/food/gastronomy-story01/"
+   ],
+   [
+    "Kansai Wide-Area Union, dashi culture",
+    "https://www.kouiki-kansai.jp/koikirengo/jisijimu/nosui/kansainosyoku/873.html"
+   ],
+   [
+    "MAFF Uchi no kyodo ryori, Senba-jiru",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/39_16_osaka.html"
+   ],
+   [
+    "Kuromon Market history",
+    "https://kuromon.com/jp/history/"
+   ]
+  ]
+ },
+ {
+  "pref": 28,
+  "history": "Hyogo is a large prefecture whose sources describe food culture splitting by region: Kobe for western-style food and sweets, Harima for Himeji oden and conger-eel dishes, and Tajima for Tajima beef. Tajima cattle are described as the roots of Kobe Beef. Nada's five sake districts, Akashi sea bream from the Inland Sea and Awaji Island produce are the other pillars named in the sources.",
+  "character": "The prefecture runs from the Japan Sea side to the Seto Inland Sea, so it combines beef, sake, Inland Sea sea bream and sand lance, and Awaji vegetables. Sweet soft Awaji onions and the autumn-fat Akashi sea bream are the benchmark ingredients named in the sources. Because of Kobe Beef's strict grading and branding, professionals must distinguish 'Tajima-gyu' from 'Kobe Beef'.",
+  "staples": [
+   {
+    "name": "Tajima beef",
+    "ja": "但馬牛",
+    "note": "Breed regarded as the roots of Kobe Beef; served in northern Hyogo as steak, gyudon and beef soba."
+   },
+   {
+    "name": "Kobe Beef",
+    "ja": "神戸ビーフ",
+    "note": "Not a breed but a brand: Tajima cattle meeting criteria. Sources give BMS No. 6 or higher on the 12-step scale, steer or maiden heifer, and an age range of 28 to 60 months; carcass-weight limits differ by source."
+   },
+   {
+    "name": "Akashi tai",
+    "ja": "明石鯛",
+    "note": "Called Japan's top sea bream; only Pacific red sea bream meeting set standards may use the name, and the autumn fish is rated highest for fat."
+   },
+   {
+    "name": "Tai-meshi",
+    "ja": "鯛めし",
+    "note": "Akashi sea bream rice, listed as a local dish."
+   },
+   {
+    "name": "Awaji onion",
+    "ja": "淡路島玉ねぎ",
+    "note": "Prized with chefs; the Inland Sea climate is credited for a sweet, soft onion."
+   },
+   {
+    "name": "Nada gogo",
+    "ja": "灘五郷",
+    "note": "Five sake districts; makers named include Matsu-Take-Ume (Shochikubai), Hakutsuru and Kiku-Masamune."
+   },
+   {
+    "name": "Ikanago kugi-ni",
+    "ja": "いかなごのくぎ煮",
+    "note": "Spring sand-lance simmered in soy; named as the spring taste."
+   },
+   {
+    "name": "Izushi soba",
+    "ja": "出石そば",
+    "note": "Buckwheat dish from the Tajima area."
+   },
+   {
+    "name": "Sasayama botan-nabe",
+    "ja": "丹波篠山のぼたん鍋",
+    "note": "Wild-boar hot pot from Tamba-Sasayama."
+   },
+   {
+    "name": "Awaji raw shirasu-don",
+    "ja": "淡路島の生しらす丼",
+    "note": "Raw whitebait bowl listed as an Awaji standard."
+   }
+  ],
+  "calendar": [
+   {
+    "season": "Spring",
+    "text": "Spring is the season for ikanago kugi-ni, the sand lance simmered in soy that the sources name as the spring taste of Hyogo."
+   },
+   {
+    "season": "Summer",
+    "text": "No summer calendar with confirmed months was found in the results. Awaji raw shirasu-don is listed as a standard on the island, but its months were not stated."
+   },
+   {
+    "season": "Autumn",
+    "text": "Autumn is when Akashi sea bream is judged best: it fattens before winter and carries good-quality fat, according to the tourism source reviewed."
+   },
+   {
+    "season": "Winter",
+    "text": "Tamba-Sasayama is known for boar hot pot (botan-nabe) and Izushi for soba, but the sources reviewed did not give months for either, so no winter timing is asserted."
+   }
+  ],
+  "markets": [
+   {
+    "name": "Izushi",
+    "ja": "出石",
+    "note": "Food town, not a market: listed for Izushi soba in the Tajima region."
+   },
+   {
+    "name": "Tamba-Sasayama",
+    "ja": "丹波篠山",
+    "note": "Food town, not a market: listed for botan-nabe (wild boar)."
+   },
+   {
+    "name": "Awaji Island",
+    "ja": "淡路島",
+    "note": "Island locality, not a market: Awaji onions and raw shirasu-don."
+   }
+  ],
+  "notes": "Kobe Beef and Tajima beef are not interchangeable: Kobe Beef is a branded subset of Tajima cattle, with an official identity mark whose description varies by source (a chrysanthemum stamp and a nojigiku mark are both mentioned). Carcass-weight and age figures differ across sources and some are outdated, so check the Kobe Beef Marketing and Distribution Promotion Council criteria before quoting them. 'Akashi tai' is also restricted to fish meeting set standards.",
+  "src": [
+   [
+    "Hyogo tourism, gourmet feature",
+    "https://www.hyogo-tourism.jp/feature/gourmet"
+   ],
+   [
+    "Kobe Beef criteria, Kobe Niku council",
+    "https://www.kobe-niku.jp/contents/about/criteria.html"
+   ],
+   [
+    "Chiiki Brand News, Kobe Beef",
+    "https://news.tiiki.jp/articles/380"
+   ],
+   [
+    "Tabiiro, Hyogo seafood",
+    "https://tabiiro.jp/gourmet/theme/jizakana/kinki/hyogo/"
+   ]
+  ]
+ },
+ {
+  "pref": 29,
+  "history": "Nara is inland, and MAFF's account of kakinoha-zushi stresses that marine products were precious in the mountain areas, so salted mackerel was preserved and eaten with care. One theory says that around the mid-Edo period Kishu fishermen carried salted mackerel to villages along the Yoshino river, where it became a summer-festival treat. Local origin stories also link Miwa to the start of somen and Uda's Butsuryuji to tea porridge.",
+  "character": "This is a mountain-basin cuisine of preservation and rice-based staples: salted mackerel pressed on vinegared rice in persimmon leaf, hand-pulled somen, tea porridge (chagayu) and lees-pickled melon. The sources describe local vegetables (Yamato yasai) as native cultivars of the Nara basin and Yamato plateau, with certified traditional vegetables and brand vegetables.",
+  "staples": [
+   {
+    "name": "Kakinoha-zushi",
+    "ja": "柿の葉寿司",
+    "note": "Thinly sliced salted mackerel on vinegared rice wrapped in persimmon leaf; certified a '100-year food' in 2024 per the Agency for Cultural Affairs list."
+   },
+   {
+    "name": "Miwa somen",
+    "ja": "三輪そうめん",
+    "note": "Sakurai's Miwa is held to be the birthplace of somen; tradition links it to a revelation at Omiwa shrine; known for firm texture and a history said to exceed 1,300 years."
+   },
+   {
+    "name": "Chagayu",
+    "ja": "茶粥",
+    "note": "Rice porridge cooked in tea; light and fragrant with little stickiness. Tradition says Kobo Daishi sowed tea seed at Butsuryuji, Uda, in the early 9th century."
+   },
+   {
+    "name": "Yamato mana",
+    "ja": "大和まな",
+    "note": "Yamato traditional vegetable, mild with a distinctive aroma, good with oil; grown mainly in Yamatotakada and Uda."
+   },
+   {
+    "name": "Tsutsui renkon",
+    "ja": "筒井れんこん",
+    "note": "Lotus root from Yamatokoriyama, with long nodes and little stickiness; the Tsutsui castle area's plentiful groundwater and soft soil suited lotus."
+   },
+   {
+    "name": "Yamato imo",
+    "ja": "大和いも",
+    "note": "Yam grown mainly in Gose and Tenri; used for wagashi."
+   },
+   {
+    "name": "Nara-zuke",
+    "ja": "奈良漬",
+    "note": "Pickle of white melon in sake lees, built on locally abundant shirouri and good Nanto morohaku sake lees."
+   },
+   {
+    "name": "Mehari-zushi",
+    "ja": "めはり寿司",
+    "note": "Rice ball wrapped in pickled takana, distributed around Kumano and Nara's Yoshino district."
+   }
+  ],
+  "calendar": [
+   {
+    "season": "Spring",
+    "text": "The sources reviewed gave no month-level spring calendar for Nara. Yamato traditional vegetables number 20 certified items plus 5 brand items, but their months were not stated in the results."
+   },
+   {
+    "season": "Summer",
+    "text": "Kakinoha-zushi is tied to summer festivals in the Yoshino river villages in one origin theory. No other summer produce with confirmed months was found."
+   },
+   {
+    "season": "Autumn",
+    "text": "No autumn calendar with confirmed months was found. Persimmon leaf, the wrapper for kakinoha-zushi, is the seasonal material of the sushi, but timing was not stated."
+   },
+   {
+    "season": "Winter",
+    "text": "No winter calendar was found. Chagayu and Miwa somen are described as everyday and tradition foods without a stated season in the sources reviewed."
+   }
+  ],
+  "markets": [
+   {
+    "name": "Sakurai / Miwa",
+    "ja": "桜井市三輪",
+    "note": "Locality, not a market: the traditional birthplace of somen at Omiwa shrine."
+   },
+   {
+    "name": "Yamatokoriyama (Tsutsui)",
+    "ja": "大和郡山市（筒井）",
+    "note": "Locality, not a market: the lotus-root district."
+   },
+   {
+    "name": "Yoshino river villages",
+    "ja": "吉野川沿いの村",
+    "note": "Locality, not a market: the traditional setting for kakinoha-zushi."
+   }
+  ],
+  "notes": "Origins of kakinoha-zushi are disputed (a salted-mackerel peddling theory, plus preservation-food and soldiers' ration theories), so treat any single origin as one theory. 'Yamato yasai' is a prefectural certification of 25 items (20 traditional plus 5 brand). The 2024 100-year-food listing for kakinoha-zushi was reported in the search summary of the Agency for Cultural Affairs list; the date was not verified on the page itself.",
+  "src": [
+   [
+    "MAFF kakinoha-zushi",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/kakinoha_zushi_nara.html"
+   ],
+   [
+    "Agency for Cultural Affairs, 100-year food, Nara",
+    "https://www.bunka.go.jp/seisaku/shokubunka/foodculture/hyakunenfood/jirei/list_nara.html"
+   ],
+   [
+    "Nara Prefecture, Yamato mana",
+    "https://www.pref.nara.lg.jp/n116/58555.html"
+   ],
+   [
+    "Nippon Tradition Vegetable, Nara",
+    "https://tradveggie.or.jp/traditional-vegetables-prefecture/29-nara/"
+   ]
+  ]
+ },
+ {
+  "pref": 30,
+  "history": "Wakayama's food is shaped by mountains, Kumano and the Kuroshio coast. Mehari-zushi began as a lunch for mountain workers in the Kumano region, and nare-zushi of salted mackerel wrapped in leaves is said to have arisen when rice packed round the fish fermented. Yuasa's kinzanji miso is described as a root of Japanese soy sauce, though that is a tradition rather than settled fact. Koyasan developed shojin ryori.",
+  "character": "It is a cuisine of preserved and fermented foods, with fish ranging by district: mackerel in Arita and Hidaka, sanma or ayu from Kushimoto to Shingu. Pickled plums and mikan are the commercial crops. Mehari-zushi and kakinoha-zushi use wrappers (takana, persimmon leaf) as both flavour and preservative.",
+  "staples": [
+   {
+    "name": "Mehari-zushi",
+    "ja": "めはり寿司",
+    "note": "Large rice ball wrapped in takana pickle; from the Kumano mountain-worker lunch, found around Kumano (Wakayama and Mie) and Nara's Yoshino district."
+   },
+   {
+    "name": "Nare-zushi",
+    "ja": "なれずし",
+    "note": "Salted mackerel packed with rice in leaves and fermented; mackerel in Arita and Hidaka, sanma or ayu from Kushimoto to Shingu; served at autumn festivals."
+   },
+   {
+    "name": "Sanma-zushi",
+    "ja": "秋刀魚寿司",
+    "note": "Made with sanma of Kumano-nada; originally a preserved food."
+   },
+   {
+    "name": "Kinzanji miso",
+    "ja": "金山寺味噌",
+    "note": "Nameshi-style miso of Yuasa and Gobo; the Kishu kinzanji miso is a registered GI; Marushin Honke's Kuyo Murasaki uses kinzanji tamari, about 3 percent of the product."
+   },
+   {
+    "name": "Yuasa shoyu",
+    "ja": "湯浅醤油",
+    "note": "Soy sauce of Yuasa town, linked by tradition to the kinzanji miso origin story."
+   },
+   {
+    "name": "Nanko ume",
+    "ja": "南高梅",
+    "note": "Top-brand plum, grown mainly in Minabe town."
+   },
+   {
+    "name": "Arida mikan",
+    "ja": "有田みかん",
+    "note": "Wakayama is Japan's top mikan producer; Arida alone is said to hold about 9 percent of national output."
+   },
+   {
+    "name": "Koyasan shojin ryori and goma-dofu",
+    "ja": "高野山の精進料理・ごま豆腐",
+    "note": "Meatless monastic cuisine served at temple lodgings; sesame tofu is a Koya-cho specialty."
+   },
+   {
+    "name": "Katsuura tuna",
+    "ja": "那智勝浦のマグロ",
+    "note": "Tuna dishes of Nachikatsuura."
+   },
+   {
+    "name": "Taiji whale",
+    "ja": "太地町のくじら",
+    "note": "Whale dishes of Taiji."
+   }
+  ],
+  "calendar": [
+   {
+    "season": "Spring",
+    "text": "The sources reviewed did not give a spring calendar with months. Plum and mikan are the prefecture's main crops, but harvest months were not stated in the results seen."
+   },
+   {
+    "season": "Summer",
+    "text": "No summer calendar was found. Nare-zushi is defined by months of fermentation, and the timing of the mackerel catch was not stated in the results."
+   },
+   {
+    "season": "Autumn",
+    "text": "Nare-zushi was a treat for autumn festivals, with the sweeter, more-fermented pieces offered to guests alongside ginger and amazake, per MAFF."
+   },
+   {
+    "season": "Winter",
+    "text": "No winter-specific items with months were confirmed. Mikan and Koyasan's shojin ryori are year-round references, not dated by the sources reviewed."
+   }
+  ],
+  "markets": [
+   {
+    "name": "Kuroshio Ichiba",
+    "ja": "黒潮市場",
+    "note": "Seafood market in Wakayama Marina City with more than 10 stalls and restaurants; a tuna dismantling show runs daily, twice a day at weekends; open about 10:00 to 17:00."
+   },
+   {
+    "name": "Yuasa town",
+    "ja": "湯浅町",
+    "note": "Locality, not a market: home of Marushin Honke and the soy sauce and kinzanji miso tradition."
+   }
+  ],
+  "notes": "The 'Japan's soy sauce began here' claim for Yuasa is phrased as 'said to be the roots' in the sources, so present it as tradition. Kishu kinzanji miso is registered under the national GI system. Nare-zushi wrappers and fish vary by district. Details of Nanko ume standards, and of kuei (longtooth grouper), were not found in this research pass and are omitted.",
+  "src": [
+   [
+    "Kansai Wide-Area Union, Wakayama food",
+    "https://www.kouiki-kansai.jp/koikirengo/jisijimu/nosui/kansainosyoku/883.html"
+   ],
+   [
+    "MAFF nare-zushi, Wakayama",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/nare_zushi_wakayama.html"
+   ],
+   [
+    "Marushin Honke, kinzanji miso",
+    "https://www.marushinhonke.com/f/history"
+   ],
+   [
+    "Wakayama Prefecture tourism, Kuroshio Ichiba",
+    "https://www.wakayama-kanko.or.jp/spots/detail_589.html"
+   ]
+  ]
+ },
+ {
+  "pref": 31,
+  "history": "Tottori is a Japan Sea prefecture whose sources centre on winter crab, sandy-soil crops and tofu-based fish paste. Tofu-chikuwa, made from momen tofu and white fish, is a local dish said to go back to the Edo period. The dune-adjacent fields behind Tottori Sand Dunes grow rakkyo, for which Tottori ranks first in Japan, and nijisseiki pear has a history of over 100 years.",
+  "character": "The cuisine rests on cold Japan Sea seafood (matsuba-gani), sandy-field crops (rakkyo, white negi) and simple preparations such as tofu-chikuwa eaten with ginger soy. Cold winters are credited with hard, tight rakkyo. Local dishes named in sources include igisu, itadaki, dondoroke-meshi and nonoko-meshi.",
+  "staples": [
+   {
+    "name": "Matsuba-gani",
+    "ja": "松葉ガニ",
+    "note": "Winter snow crab; the season opens on 6 November and runs to about 20 March the following year."
+   },
+   {
+    "name": "Oyagani",
+    "ja": "親ガニ",
+    "note": "Female snow crab, fished only from early November to end of December and eaten at home."
+   },
+   {
+    "name": "Gokaisei matsubagani",
+    "ja": "五輝星",
+    "note": "Selected top-grade matsuba-gani brand launched by the prefecture in 2015; a crab sold for 5 million yen at the first auction; reportedly none landed at Tottori port in 2024."
+   },
+   {
+    "name": "Nijisseiki pear",
+    "ja": "二十世紀梨",
+    "note": "Pear with a history over 100 years, eaten in a limited period of August to September; flavour changes with ripeness colour."
+   },
+   {
+    "name": "Tofu-chikuwa",
+    "ja": "とうふちくわ",
+    "note": "Fish paste of momen tofu and white fish, eaten with ginger soy."
+   },
+   {
+    "name": "Sakyu rakkyo",
+    "ja": "砂丘らっきょう",
+    "note": "Rakkyo grown in dune fields; Tottori is first in Japan for rakkyo production."
+   },
+   {
+    "name": "Yumigahama white negi",
+    "ja": "弓ヶ浜の白ネギ",
+    "note": "Yonago-area white negi listed as a local ingredient."
+   },
+   {
+    "name": "Nonoko-meshi",
+    "ja": "ののこめし",
+    "note": "Local rice dish named in a survey of Tottori regional dishes."
+   }
+  ],
+  "calendar": [
+   {
+    "season": "Spring",
+    "text": "The matsuba-gani season ends around 20 March, and no other spring items with confirmed months were found in the sources reviewed."
+   },
+   {
+    "season": "Summer",
+    "text": "Nijisseiki pear is available in a limited period starting in August. The sources describe its season as August to September, so it straddles summer and autumn."
+   },
+   {
+    "season": "Autumn",
+    "text": "September ends the pear window, and from 6 November matsuba-gani opens; oyagani is fished only from early November, with late-season pears and new rice also featured in November."
+   },
+   {
+    "season": "Winter",
+    "text": "Matsuba-gani is the defining winter taste, with the first auction on the day after opening (7 November). Oyagani is fished only from early November to the end of December; the crab season as a whole runs to about 20 March."
+   }
+  ],
+  "markets": [
+   {
+    "name": "Tottori Port Seafood Market Karoichi",
+    "ja": "鳥取港海鮮市場 かろいち",
+    "note": "Port seafood market that runs a crab feature each season."
+   },
+   {
+    "name": "Tottori Sand Dunes area",
+    "ja": "鳥取砂丘周辺",
+    "note": "Locality, not a market: city tourism site lists dune-area local foods."
+   }
+  ],
+  "notes": "The matsuba-gani opening date is fixed by ministerial ordinance by sea area (6 November, season to about 20 March); oyagani has a shorter window (early November to end of December). The Gokaisei brand is selective and some years have no landings; the 5-million-yen figure comes from press reports. Several 'Japan No. 1' claims for crab landings are from promotional material, so verify before quoting.",
+  "src": [
+   [
+    "MAFF Kodomo navi, tofu-chikuwa",
+    "https://www.maff.go.jp/j/syokuiku/kodomo_navi/cuisine/cuisine5_1.html"
+   ],
+   [
+    "PR Times, Tottori matsuba-gani opening",
+    "https://prtimes.jp/main/html/rd/p/000000013.000078201.html"
+   ],
+   [
+    "JOCR, matsuba-gani and oyagani",
+    "https://jocr.jp/raditopi/2025/11/26/664603/"
+   ],
+   [
+    "Tabiiro, Tottori specialties",
+    "https://tabiiro.jp/gourmet/article/tottori-meibutsu-gotouchi/"
+   ]
+  ]
+ },
+ {
+  "pref": 32,
+  "history": "Izumo soba is said to have spread in early Edo, when Matsue's lord Matsudaira Naomasa brought buckwheat craftsmen from Shinano. In the Edo period the seventh Matsue lord, Matsudaira Harusato (Fumai-ko), developed the Fumai school of tea, and Matsue's confectionery tradition grew out of it. Lake Shinji's seven delicacies have been valued since the Edo period.",
+  "character": "Shimane combines lake and sea (Shinji-ko, Okinoshima, the Japan Sea) with a tea-ceremony culture that shaped Matsue sweets. Izumo soba is milled with the hull (hikigurumi) with little wheat binder, served as warigo or kamaage. Oki soba is 100 percent buckwheat and uses grilled-mackerel or flying-fish dashi. Ago (flying fish) noyaki and akaten are local fish-paste foods.",
+  "staples": [
+   {
+    "name": "Izumo soba",
+    "ja": "出雲そば",
+    "note": "One of Japan's three great soba; hull-ground (hikigurumi) with little wheat binder; eaten as warigo soba in stacked bowls or kamaage."
+   },
+   {
+    "name": "Oki soba",
+    "ja": "隠岐そば",
+    "note": "100 percent buckwheat noodle in a dashi of grilled mackerel or flying fish."
+   },
+   {
+    "name": "Shinjiko shichin",
+    "ja": "宍道湖七珍",
+    "note": "Seven Lake Shinji products: suzuki (sea bass), shirauo, koi, unagi, moroge-ebi, amasagi and shijimi."
+   },
+   {
+    "name": "Yamato shijimi",
+    "ja": "大和しじみ",
+    "note": "Lake Shinji clam, described as large and plump with a deep flavour."
+   },
+   {
+    "name": "Nodoguro",
+    "ja": "のどぐろ",
+    "note": "Premium fish landed at Hamada, called the 'red jewel of the Japan Sea'."
+   },
+   {
+    "name": "Akaten",
+    "ja": "赤天",
+    "note": "Hamada fish-paste fritter, named as a local food."
+   },
+   {
+    "name": "Ago-noyaki",
+    "ja": "あご野焼き",
+    "note": "Grilled flying-fish paste, named as a local specialty."
+   },
+   {
+    "name": "Matsue wagashi (Fumai-ko konomi)",
+    "ja": "松江和菓子（不昧公好み）",
+    "note": "Matsue sweets from the Fumai-ko tea tradition; the three famous sweets are Wakakusa, Yamakawa and Natane no Sato."
+   }
+  ],
+  "calendar": [
+   {
+    "season": "Spring",
+    "text": "24 April, the death day of Fumai-ko, is set by Matsue City ordinance as 'Cha no Yu no Hi' (tea-ceremony day). Tea and sweets are the spring link in the sources reviewed."
+   },
+   {
+    "season": "Summer",
+    "text": "The sources reviewed gave no month-level summer calendar. Shinji-ko products such as shijimi and sea bass are listed as a set but their seasons were not stated in the results."
+   },
+   {
+    "season": "Autumn",
+    "text": "No autumn calendar with confirmed months was found. Izumo soba is described by cooking style (warigo, kamaage) in the sources rather than by harvest month."
+   },
+   {
+    "season": "Winter",
+    "text": "Kamaage soba (served in its hot cooking water) is one of the two Izumo styles and suits the cold; the sources reviewed did not date it, and no other winter items were confirmed."
+   }
+  ],
+  "markets": [
+   {
+    "name": "Lake Shinji area",
+    "ja": "宍道湖周辺",
+    "note": "Locality, not a market: source of the seven delicacies; a 'Shinjiko shichin' dining area is promoted around Matsue and Izumo."
+   },
+   {
+    "name": "Matsue old confectioners",
+    "ja": "松江の老舗和菓子店",
+    "note": "Shops keeping Fumai-ko sweets; Saiundo, for example, is described as 147 years old."
+   },
+   {
+    "name": "Hamada",
+    "ja": "浜田",
+    "note": "Port locality, not a market: nodoguro and akaten."
+   }
+  ],
+  "notes": "Soba: Izumo (hull-ground, warigo or kamaage) and Oki (100 percent buckwheat) are different styles, so do not treat them as one. The seven Shinji-ko products are listed by the prefecture. The sources reviewed did not give nodoguro or rock-oyster details, so no grading or season is claimed. Fumai-ko is the seventh Matsue lord, Matsudaira Harusato; the sweets are called 'Fumai-ko konomi'.",
+  "src": [
+   [
+    "MAFF Izumo soba",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/izumosoba_shimane.html"
+   ],
+   [
+    "Shimane Prefecture, Shinjiko shichin",
+    "https://www.pref.shimane.lg.jp/industry/suisan/shinkou/kawa_mizuumi/yutakana/shiichin.html"
+   ],
+   [
+    "Shimane tourism, local dishes",
+    "https://www.kankou-shimane.com/pickup/12656.html"
+   ],
+   [
+    "Matsue Tourism Association, tea and wagashi",
+    "https://www.kankou-matsue.jp/omoshiro/ocha-wagashi"
+   ]
+  ]
+ }
+]

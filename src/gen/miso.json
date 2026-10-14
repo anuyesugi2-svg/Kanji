@@ -1,0 +1,621 @@
+[
+ {
+  "cat": "miso",
+  "name": "Kome miso (rice-koji miso)",
+  "ja": "米味噌",
+  "prefs": [
+   1,
+   2,
+   5,
+   17
+  ],
+  "text": "Miso made from soybeans, rice koji and salt; the type that dominates northern and Hokuriku Japan (Hokkaido, Tsugaru, Akita, Kaga/Noto appear among the examples in the sources). Sources give salt as roughly 5 to 13 percent and ageing as anywhere from a few months to about a year, with another source giving one month to one year; the figures differ by site because the category spans white to red styles.",
+  "flavor": "Ranges from sweet and pale (high koji, low salt) to deep, salty and red (low koji, long age); rounded, grain-sweet koji aroma.",
+  "use": "The default miso-soup and general seasoning miso; style is chosen by koji ratio, salt and age rather than by the grain alone.",
+  "craft": "Read three numbers together: koji ratio, salt percentage and ageing time. At constant salt a higher koji ratio makes a sweeter miso. Sources disagree on ageing ranges, so judge by the maker's stated figures, not the category label.",
+  "src": [
+   [
+    "Hikari Miso, miso encyclopedia: types",
+    "https://www.hikarimiso.co.jp/enjoy-miso/encyclopedia/type.html"
+   ],
+   [
+    "Kotowari Cooking, overview of Japanese miso",
+    "https://www.kotowari-cooking.com/note/ingredients/seasonings/miso/japanese/overview"
+   ],
+   [
+    "Furunavi, types and regional distribution of miso",
+    "https://furunavi.jp/discovery/knowledge_food/202505-miso/"
+   ]
+  ]
+ },
+ {
+  "cat": "miso",
+  "name": "Mame miso (soybean-koji miso)",
+  "ja": "豆味噌",
+  "prefs": [
+   21,
+   23,
+   24
+  ],
+  "text": "Miso whose koji is made from soybeans alone (mame koji), with salt and water; produced mainly in the three Tokai prefectures Aichi, Mie and Gifu and also called Sanshu miso. Sources give ageing as roughly one to three years and salt around 10 to 12 percent, and describe it as firm, rich and relatively low in moisture.",
+  "flavor": "Dark reddish-brown, dense, savoury and bitter-astringent with little sweetness.",
+  "use": "Miso soup and akadashi blends in the Tokai region; its strength suits long cooking (specific dishes not given in the sources seen).",
+  "craft": "No grain koji means the whole mash is protein: it is stiff, so little water is added and weight (stones) is needed to press it. Check hardness, colour depth and that bitterness is balanced by age, not mere salt.",
+  "src": [
+   [
+    "Kotowari Cooking, overview of Japanese miso",
+    "https://www.kotowari-cooking.com/note/ingredients/seasonings/miso/japanese/overview"
+   ],
+   [
+    "Jozo Navi, miso types and differences",
+    "https://jozo-navi.jp/miso/miso-types-differences/"
+   ],
+   [
+    "Kobayashi Foods, akadashi explained",
+    "https://www.kobayashi-foods.co.jp/washoku-no-umami/aka-dashi-japanese-miso"
+   ]
+  ]
+ },
+ {
+  "cat": "miso",
+  "name": "Mugi miso (barley-koji miso)",
+  "ja": "麦味噌",
+  "prefs": [
+   38,
+   40,
+   43,
+   46
+  ],
+  "text": "Miso fermented with barley koji; the sources place it mainly in the Chugoku, Shikoku and Kyushu regions of western Japan, with salt given as about 9 to 13 percent. Sweet-leaning types are listed at a koji ratio of 15 to 25 and salt of 9 to 11 percent, although no source gives a ratio specific to one regional style.",
+  "flavor": "Distinct barley fragrance, gentle sweetness, often with visible koji grains.",
+  "use": "Everyday miso soup in the west of Japan (specific dishes not given in the sources seen).",
+  "craft": "Barley koji needs pearled or pressed grain handled so the husk does not make the miso rough; check grain texture and the sweetness-to-salt balance. Numbers vary between sources, so verify with the maker.",
+  "src": [
+   [
+    "Shizen Shokuhin, barley miso (western Japan)",
+    "https://www.shizensyokuhin.jp/archives/articles/76"
+   ],
+   [
+    "Hikari Miso, miso encyclopedia: types",
+    "https://www.hikarimiso.co.jp/enjoy-miso/encyclopedia/type.html"
+   ],
+   [
+    "Marumanjozo Fukushima, types and character of miso",
+    "https://www.marumanjouzou.fukushima.jp/blog/%E5%91%B3%E5%99%8C%E3%81%AE%E7%A8%AE%E9%A1%9E%E3%81%A8%E7%89%B9%E5%BE%B4/"
+   ]
+  ]
+ },
+ {
+  "cat": "miso",
+  "name": "Shiro miso (white miso, Kansai-style)",
+  "ja": "白味噌",
+  "prefs": [
+   26,
+   27,
+   37
+  ],
+  "text": "The pale, sweet end of the colour scale: a high-koji, low-salt miso with a very short fermentation, listed in sources at about one week to three months. Examples named include Fuchu miso of Osaka and Sanuki miso of Kagawa (salt about 5 percent, one to two weeks). One source states that Kansai white miso suits miso-zuke of fish and meat because of its sweetness.",
+  "flavor": "Pale cream to light yellow, clearly sweet, low salt, smooth.",
+  "use": "Kyoto and Kansai soups and simmered dishes, and miso-zuke beds for fish and meat.",
+  "craft": "Low salt and short ageing mean poor keeping: store cold and use fresh. Sweet types are given at koji ratio 15 to 25 and salt 5 to 7 percent in one source; treat as a guide. Check for browning, which signals age or heat.",
+  "src": [
+   [
+    "Furunavi, types and regional distribution of miso",
+    "https://furunavi.jp/discovery/knowledge_food/202505-miso/"
+   ],
+   [
+    "Hankyu Food, miso types and regional list",
+    "https://web.hh-online.jp/hankyu-food/blog/lifestyle/detail/001696.html"
+   ],
+   [
+    "Kotobank, miso-zuke",
+    "https://kotobank.jp/word/%E5%91%B3%E5%99%8C%E6%BC%AC-138740"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Koji-buai (koji ratio)",
+  "ja": "麹歩合",
+  "prefs": [],
+  "text": "The ratio of rice or barley koji to soybeans in a miso mash, a key index of whether the miso turns out sweet or dry. At constant salt, a higher koji ratio gives a sweeter miso. Sources give dry miso as koji ratio about 5 to 10 with salt 11 to 14 percent, and sweet miso as about 15 to 25 (another source 12 to 17) with salt 5 to 12 percent. Traditional Tsugaru miso is cited at about 6.",
+  "flavor": "Spoken as a number: koji-buai juu (ten) or hachi-wari (eight tenths) depending on region and maker.",
+  "use": "Used to specify and compare miso recipes and to judge sweetness before tasting.",
+  "craft": "The figures are conventions that differ by source and by region: some state it as a ratio to beans by volume, others by weight, so always confirm the maker's basis before comparing two misos.",
+  "src": [
+   [
+    "Hankyu Food, miso types and regional list",
+    "https://web.hh-online.jp/hankyu-food/blog/lifestyle/detail/001696.html"
+   ],
+   [
+    "Furunavi, types and regional distribution of miso",
+    "https://furunavi.jp/discovery/knowledge_food/202505-miso/"
+   ],
+   [
+    "Olive Hitomawashi, Tsugaru miso",
+    "https://www.olive-hitomawashi.com/column/2019/12/3-69.html"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Miso colour classes (shiro / tanshoku / aka)",
+  "ja": "白味噌・淡色味噌・赤味噌",
+  "prefs": [],
+  "text": "Miso is commonly split by colour into white, light-coloured (tanshoku) and red. Colour mainly reflects ageing, darkening as time passes. Sources give white as about one week to three months, light as three to six months, and red as six months to three years or so. Aka-miso is a colour term, not a grain type: rice, barley and bean misos can all be red.",
+  "flavor": "Colour word used on labels and menus; it implies sweetness and age, not a single recipe.",
+  "use": "Used to choose miso for soups and dishes, e.g. white for sweet Kansai styles and red for stronger soups.",
+  "craft": "Do not equate red miso with Hatcho or with soybean miso. Durations differ by source, so use them as indicative bands only.",
+  "src": [
+   [
+    "Hankyu Food, miso types and regional list",
+    "https://web.hh-online.jp/hankyu-food/blog/lifestyle/detail/001696.html"
+   ],
+   [
+    "Kobayashi Foods, akadashi explained",
+    "https://www.kobayashi-foods.co.jp/washoku-no-umami/aka-dashi-japanese-miso"
+   ],
+   [
+    "Furunavi, types and regional distribution of miso",
+    "https://furunavi.jp/discovery/knowledge_food/202505-miso/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Amakuchi / karakuchi (sweet and dry miso)",
+  "ja": "甘口・辛口",
+  "prefs": [],
+  "text": "The sweet to dry axis used for miso, driven chiefly by koji ratio and salt. Dry types are given as koji ratio roughly 5 to 10 and salt 11 to 14 percent; sweet types as ratio 12 to 25 and salt 5 to 12 percent depending on source. Karakuchi here means salty and strong, not hot. Hokkaido miso is called dry yet mellow because it is well matured.",
+  "flavor": "Amakuchi is round and sweet; karakuchi is salty and savoury.",
+  "use": "A quick label for choosing miso for soup strength and seasoning level.",
+  "craft": "Salt percentage alone does not tell sweetness; compare it with koji ratio. Ranges cited by sellers vary, so rely on the maker's analysis.",
+  "src": [
+   [
+    "Hankyu Food, miso types and regional list",
+    "https://web.hh-online.jp/hankyu-food/blog/lifestyle/detail/001696.html"
+   ],
+   [
+    "Furunavi, types and regional distribution of miso",
+    "https://furunavi.jp/discovery/knowledge_food/202505-miso/"
+   ],
+   [
+    "Olive Hitomawashi, Hokkaido miso",
+    "https://www.olive-hitomawashi.com/column/2019/12/post-7692.html"
+   ]
+  ]
+ },
+ {
+  "cat": "miso",
+  "name": "Tsugaru miso (Tsugaru three-year miso)",
+  "ja": "津軽味噌",
+  "prefs": [
+   2
+  ],
+  "text": "A red, dry rice miso of Aomori, long aged to concentrate umami and said to need three summers' doyo: the saying is that good miso is not made without passing the summer doyo three times. Traditionally the koji ratio is low (about 6) and salt high (about 13 percent); some modern products use ratios of 7 to 10 and about 12.5 percent salt. The name Tsugaru miso is said to have spread in the mid-Meiji period, when the miso went to Hokkaido settlements.",
+  "flavor": "Deep red, salty, concentrated and savoury with mature aroma.",
+  "use": "Base for the Tsugaru country dish kenojiru and robust soups.",
+  "craft": "With low koji and high salt, the miso depends on time; check that colour and aroma show real ageing. Figures vary by maker. One explanation links long ageing to famine reserves, but that is an interpretation, not a documented fact.",
+  "src": [
+   [
+    "Olive Hitomawashi, Tsugaru miso and kenojiru",
+    "https://www.olive-hitomawashi.com/column/2019/12/3-69.html"
+   ],
+   [
+    "Kato Miso Shoyu, about Tsugaru miso",
+    "https://www.tsugaru-yamatou.com/%E9%86%B8%E9%80%A0%E5%85%83/"
+   ],
+   [
+    "Miso Dare, what is Tsugaru miso",
+    "https://miso-dare.com/faq/744/"
+   ]
+  ]
+ },
+ {
+  "cat": "miso",
+  "name": "Tsugaru onsen miso (hot-spring-heat miso)",
+  "ja": "津軽温泉味噌",
+  "prefs": [
+   2
+  ],
+  "text": "A Tsugaru miso presented by its seller as the only miso in Japan fermented and aged using hot-spring heat. The claim of uniqueness comes from the vendor's own page and I found no independent confirmation. It sits within the Tsugaru tradition of a red, long-aged, dry rice miso.",
+  "flavor": "Not described in the sources seen.",
+  "use": "Sold as a Tsugaru-style miso for soup and cooking.",
+  "craft": "Treat the hot-spring method as a maker's claim; ask for fermentation temperature and duration to compare with ordinary seasonal fermentation.",
+  "src": [
+   [
+    "Kodawari Choumiryou, Tsugaru onsen miso",
+    "https://kodawari-choumiryou.com/tugaruonsenmiso"
+   ],
+   [
+    "Olive Hitomawashi, Tsugaru miso and kenojiru",
+    "https://www.olive-hitomawashi.com/column/2019/12/3-69.html"
+   ]
+  ]
+ },
+ {
+  "cat": "miso",
+  "name": "Hokkaido miso",
+  "ja": "北海道味噌",
+  "prefs": [
+   1
+  ],
+  "text": "A dry rice miso, red as the typical style though light-coloured versions are also common, with a slightly high koji ratio and a mild, clean flavour. Salt is on the high side, yet it is well matured so harshness is limited. Sources say a full production plan existed in the late Edo period but did not proceed, and real production began in the Meiji era. The cold climate meant mainland methods did not work, so long ageing and turning of the mash (kirikaeshi) are credited with shaping its character.",
+  "flavor": "Mellow, savoury, dry but not harsh; simple taste that lets ingredients show.",
+  "use": "Miso soup and general cooking in Hokkaido.",
+  "craft": "Where the winter is cold, fermentation is slow, so maturation time and mash turning matter. Confirm ratio and salt with the maker because they differ.",
+  "src": [
+   [
+    "Miso Press, Hokkaido miso",
+    "https://miso-press.jp/study/15743/"
+   ],
+   [
+    "Olive Hitomawashi, Hokkaido miso",
+    "https://www.olive-hitomawashi.com/column/2019/12/post-7692.html"
+   ]
+  ]
+ },
+ {
+  "cat": "miso",
+  "name": "Akita miso",
+  "ja": "秋田味噌",
+  "prefs": [
+   5
+  ],
+  "text": "A red, dry rice miso of Akita, reddish-brown in colour. One account describes steaming soybeans overnight, pounding them, mixing with koji and salt, and fermenting in a tub for over a year, with three-year miso particularly prized. Records indicate households made miso in the Edo period, and the name Akita miso is said to have been first used in 1910 by Kodama Gomei. It goes into dama-ko mochi and chilled miso soup.",
+  "flavor": "Reddish-brown, dry, with strong koji presence for a dry miso.",
+  "use": "Dama-ko soup (dama-ko mochi) and hiyashi miso soup.",
+  "craft": "Sources describe a relatively high koji ratio for a dry miso, but no figure was found; ask the maker. Long tub ageing is the quality marker.",
+  "src": [
+   [
+    "Wikipedia, Akita miso",
+    "https://ja.wikipedia.org/wiki/%E7%A7%8B%E7%94%B0%E5%91%B3%E5%99%8C"
+   ],
+   [
+    "Miso Press, miso types by region",
+    "https://miso-press.jp/study/types/13945/"
+   ]
+  ]
+ },
+ {
+  "cat": "miso",
+  "name": "Kaga miso (Kaga and Noto miso)",
+  "ja": "加賀味噌",
+  "prefs": [
+   17
+  ],
+  "text": "Rice miso of Ishikawa. Per the Kaga Miso cooperative, it was produced as a military storage food in the roughly 300 years after Maeda Toshiie entered Kanazawa Castle in 1583. Another account says temples such as Oyama Gobo already made miso and the Maeda controlled production. Sources agree on a long-aged, higher-salt dry type with plentiful rice koji, originally red, though today many pale low-salt versions are sold. Place names like Misogura-machi are cited as evidence of an early miso trade. The cooperative of 10 local makers is said to produce about two thirds of the prefecture's miso, a claim from its own side. Accounts of the origin conflict in detail.",
+  "flavor": "Rich, full, with koji sweetness and savoury depth; modern versions lighter.",
+  "use": "Soups and dishes with seafood, said to suit rich fish ingredients in the region.",
+  "craft": "Compare traditional long-aged dry types with modern low-salt light ones; label does not tell you which.",
+  "src": [
+   [
+    "Kaga Miso Shokuhin Kogyo Kyogyo Kumiai",
+    "https://kagamiso.or.jp/"
+   ],
+   [
+    "Ishikawa Miso Kogyo Kyodo Kumiai, features",
+    "https://www.miso-ishikawaken.jp/feature/"
+   ],
+   [
+    "Shizen Shokuhin, Kaga and Noto miso",
+    "https://www.shizensyokuhin.jp/archives/articles/60"
+   ],
+   [
+    "Mytabi Ishikawa, Kaga miso",
+    "https://ishikawa.mytabi.net/kagamiso.php"
+   ]
+  ]
+ },
+ {
+  "cat": "miso",
+  "name": "Fuchu miso (Osaka white miso)",
+  "ja": "府中味噌",
+  "prefs": [
+   27
+  ],
+  "text": "A sweet, pale white miso of Osaka. The source describes it as high in koji, low in salt, with a short fermentation. It belongs to the Kansai white-miso family, which one source says is sweet enough to suit miso-zuke of fish and meat. No dates or production figures appeared in the results.",
+  "flavor": "Sweet, pale, light salt.",
+  "use": "Soups and simmered dishes in Kansai; miso-zuke beds.",
+  "craft": "Low salt and short ageing make it perishable; keep chilled.",
+  "src": [
+   [
+    "Furunavi, types and regional distribution of miso",
+    "https://furunavi.jp/discovery/knowledge_food/202505-miso/"
+   ],
+   [
+    "Hankyu Food, miso types and regional list",
+    "https://web.hh-online.jp/hankyu-food/blog/lifestyle/detail/001696.html"
+   ]
+  ]
+ },
+ {
+  "cat": "miso",
+  "name": "Satsuma miso",
+  "ja": "薩摩味噌",
+  "prefs": [
+   46
+  ],
+  "text": "A barley miso of Kagoshima, light to red in colour and sweet in taste. Ageing is relatively short to bring out barley sweetness, the barley fragrance is prominent, and koji grains often remain visible. No source gave a Satsuma-specific koji ratio; general sweet barley miso is quoted at koji ratio 15 to 25 and salt 9 to 11 percent. It is the standard miso for satsuma-jiru.",
+  "flavor": "Sweet, barley fragrance, grainy.",
+  "use": "Satsuma-jiru, the regional soup, and sweet miso cooking.",
+  "craft": "Check that visible koji grains and fragrance are clean; the sweetness depends on short ageing, so it does not keep as long as red miso.",
+  "src": [
+   [
+    "Shizen Shokuhin, barley miso (western Japan)",
+    "https://www.shizensyokuhin.jp/archives/articles/76"
+   ],
+   [
+    "Furunavi, types and regional distribution of miso",
+    "https://furunavi.jp/discovery/knowledge_food/202505-miso/"
+   ],
+   [
+    "Tokyo Gas, miso types and storage",
+    "https://uchi.tokyo-gas.co.jp/topics/3618"
+   ]
+  ]
+ },
+ {
+  "cat": "miso",
+  "name": "Okinawa miso (miisu)",
+  "ja": "沖縄味噌",
+  "prefs": [
+   47
+  ],
+  "text": "Miso made in Okinawa from rice, barley and soybeans, including turmeric (ukon) miso; some makers use Okinawan salt. It has been eaten since the Ryukyu Kingdom and was an important preserved food. The subtropical climate is warm with small temperature swings, so fermented foods can be made year-round. Cycad miso is also made on some islands. Local makers continue to store in old wooden barrels.",
+  "flavor": "Gentle, round sweetness.",
+  "use": "Okinawan miso soup and abura-miso.",
+  "craft": "Check the grain mix (rice, barley, soybean) and salt per maker; sources give no ratios.",
+  "src": [
+   [
+    "Orion Beer, Okinawa miso",
+    "https://www.orionbeer.co.jp/story/okinawa-miso/"
+   ],
+   [
+    "BRUTUS meets Be.Okinawa, miso",
+    "https://beokinawa.jp/jp/brutus/6/"
+   ],
+   [
+    "Japan Word, Okinawa miso",
+    "https://japan-word.com/okinawamiso"
+   ],
+   [
+    "Cookbiz, fermented foods of Okinawa",
+    "https://cookbiz.jp/soken/culture/okinawa_hakkoushoku/"
+   ]
+  ]
+ },
+ {
+  "cat": "miso",
+  "name": "Tamanaha miso of Shuri",
+  "ja": "玉那覇味噌",
+  "prefs": [
+   47
+  ],
+  "text": "A Shuri maker said to have supplied the Ryukyu court. It brews with soybeans, rice, island salt (shima-maasu) and barley in wooden tubs by natural fermentation. After the war destroyed the factory, it was rebuilt by exploiting the koji microbes remaining in the surviving pillars, per one account. It is described as making its own koji, which is said to be unique in Okinawa; that is a claim from the source.",
+  "flavor": "Not described in detail in the sources seen.",
+  "use": "Okinawan miso soup and cooking.",
+  "craft": "In-house koji and wooden tubs are the points to ask about when judging a maker. Details of ratio and ageing time were not found.",
+  "src": [
+   [
+    "into the local, Shuri miso",
+    "https://into-the-local.com/archives/okinawa/1681"
+   ],
+   [
+    "BRUTUS meets Be.Okinawa, miso",
+    "https://beokinawa.jp/jp/brutus/6/"
+   ]
+  ]
+ },
+ {
+  "cat": "miso",
+  "name": "Abura-miso (Okinawan oil miso)",
+  "ja": "油味噌",
+  "prefs": [
+   47
+  ],
+  "text": "A cooked relish in which miso is fried with pork or seafood; in hot, humid Okinawa where food spoils quickly, miso and pork fat were valued preserved foods. Also called andansu. It is known for the richness of pork or fish fat with miso and a gentle sweetness. Sold as a rice accompaniment.",
+  "flavor": "Rich with fat, gently sweet, savoury.",
+  "use": "Eaten as a rice accompaniment.",
+  "craft": "Fat acts as a seal; check how much sugar and fat the maker uses, as it sets keeping and sweetness.",
+  "src": [
+   [
+    "Shizen Shokuhin, abura-miso of Okinawa",
+    "https://www.shizensyokuhin.jp/archives/articles/66"
+   ],
+   [
+    "Misonoko Shokuhin, abura-miso",
+    "https://misonoko.net/"
+   ],
+   [
+    "Orion Beer, Okinawa miso",
+    "https://www.orionbeer.co.jp/story/okinawa-miso/"
+   ]
+  ]
+ },
+ {
+  "cat": "miso",
+  "name": "Sotetsu miso (cycad miso)",
+  "ja": "ソテツ味噌",
+  "prefs": [
+   46,
+   47
+  ],
+  "text": "A miso made from cycad nuts, brown rice and soybeans, produced in the Amami region and Okinoerabu islands of Kagoshima and on Aguni island in Okinawa. Cycad nuts need special treatment; the sources seen did not describe it. Known from a single source.",
+  "flavor": "Not described.",
+  "use": "Island household miso.",
+  "craft": "Cycad seeds are toxic unless properly processed; buy only from makers who process them correctly (general caution, not from the cited page).",
+  "src": [
+   [
+    "Shizen Shokuhin, abura-miso of Okinawa",
+    "https://www.shizensyokuhin.jp/archives/articles/66"
+   ]
+  ]
+ },
+ {
+  "cat": "miso",
+  "name": "Akadashi (red dashi miso blend)",
+  "ja": "赤だし",
+  "prefs": [
+   23,
+   21,
+   24
+  ],
+  "text": "A blended miso: bean miso with rice miso and seasoning, popular around Nagoya. Despite the name some products contain dashi and some do not. It differs from the term akamiso, which is a colour class. One explanation says that in akadashi the dashi is the lead, whereas in plain miso soup the miso flavour leads.",
+  "flavor": "Deep, savoury, bean-miso richness softened by rice miso.",
+  "use": "Miso soup with nameko, clams or tofu; check if dashi is included before seasoning.",
+  "craft": "Check the label: if dashi is blended in, reduce additional dashi and salt in the pot. Do not equate with Hatcho miso.",
+  "src": [
+   [
+    "Kobayashi Foods, akadashi explained",
+    "https://www.kobayashi-foods.co.jp/washoku-no-umami/aka-dashi-japanese-miso"
+   ],
+   [
+    "Marushin Honke, red, white and akadashi",
+    "https://www.marushinhonke.com/f/miso-kiso"
+   ],
+   [
+    "Kokonoe Miso, akamiso vs akadashi",
+    "https://www.kokonoemiso.com/miso/akamiso-akadashi/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Ishi-zumi (stone stacking)",
+  "ja": "石積み",
+  "prefs": [],
+  "text": "The craft of piling stones in a cone on a large wooden miso tub as weight, as done for Hatcho miso at Okazaki. The stones also help the mash circulate in the tub. Because Hatcho has little water, the weight needed is about half the miso weight; one account gives about 3 tons of stone for a 6 ton charge. It takes about ten years to become a full-fledged stacker. Ageing runs for at least two summers and two winters (nika nito).",
+  "flavor": "Spoken as ishizumi shokunin; craft term.",
+  "use": "Used for Hatcho-style bean miso production.",
+  "craft": "Stones must be stacked so the weight is even across the surface and does not slide; a collapsed pile lets the mash dry or mould. Confirm quantity relative to batch.",
+  "src": [
+   [
+    "Furusato Ikiru, Okazaki stone stacking",
+    "https://furusato-ikiru.com/chapter/aichi/detail-1433/"
+   ],
+   [
+    "Ryoritsushin, Hatcho miso nika nito",
+    "https://r-tsushin.com/journal/japan/hattori_yukio21/"
+   ],
+   [
+    "Okazaki Tourism, Hatcho production area",
+    "https://okazaki-kanko.jp/feature/hayawakari/miso"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Kioke (wooden fermentation tub)",
+  "ja": "木桶",
+  "prefs": [],
+  "text": "The large wooden tub in which traditional miso is mashed and aged. At Hatcho miso houses, bean koji, salt and water are packed into wooden tubs, weighted with stones and aged naturally for at least two summers and two winters. In Okinawa, Tamanaha miso and Ocho miso are said to use wooden barrels from before the war. Wood is used by some makers and not by others, which is a point to ask about.",
+  "flavor": "Craft term.",
+  "use": "Used in natural, unheated fermentation and ageing.",
+  "craft": "Ask whether the tub is wood or stainless steel, how it is cleaned, and how the mash is weighted.",
+  "src": [
+   [
+    "Ryoritsushin, Hatcho miso nika nito",
+    "https://r-tsushin.com/journal/japan/hattori_yukio21/"
+   ],
+   [
+    "Furusato Ikiru, Okazaki stone stacking",
+    "https://furusato-ikiru.com/chapter/aichi/detail-1433/"
+   ],
+   [
+    "BRUTUS meets Be.Okinawa, miso",
+    "https://beokinawa.jp/jp/brutus/6/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Hatcho miso and the GI dispute",
+  "ja": "八丁味噌 地理的表示",
+  "prefs": [],
+  "text": "Hatcho miso is a bean miso of soybeans, salt and water made since the early Edo period in the former Hatcho village of Okazaki, Aichi. Under the Geographical Indication system, only miso meeting state-set standards of method, ingredients and ageing may use the name. A 2018 Palsystem article raised the concern that traditional makers might be unable to use the name. The details of the dispute were not in the summaries I saw.",
+  "flavor": "Legal and trade term.",
+  "use": "Read labels: the name Hatcho may be restricted by GI standards.",
+  "craft": "Look at the GI register and the maker's disclosed process before assuming a product is Hatcho.",
+  "src": [
+   [
+    "Palsystem KOKOCARA, GI and Hatcho miso",
+    "https://kokocara.pal-system.co.jp/2018/09/03/geographical-indications-hacho-miso/"
+   ],
+   [
+    "Kobayashi Foods, akadashi explained",
+    "https://www.kobayashi-foods.co.jp/washoku-no-umami/aka-dashi-japanese-miso"
+   ]
+  ]
+ },
+ {
+  "cat": "miso",
+  "name": "Namemiso (okazu miso, eating miso)",
+  "ja": "なめ味噌",
+  "prefs": [
+   30
+  ],
+  "text": "Miso eaten as a side dish rather than dissolved in soup. Before miso soup began in the Kamakura period, miso was set on the tray and eaten as a relish. Kinzanji miso of Wakayama is the classic example and is said to have come from China in the Kamakura era. Tai miso and yuzu miso are secondary processed products, excluded from ordinary miso classification.",
+  "flavor": "Sweet-salty, thick, relish-like.",
+  "use": "On rice, with sake, with cucumbers (moro-kyu) and as a dip.",
+  "craft": "Quality depends on the underlying miso and added ingredients; a trade paper on namemiso quality is in the Journal of the Brewing Society of Japan.",
+  "src": [
+   [
+    "J. Brew. Soc. Japan, factors affecting namemiso quality",
+    "https://www.jstage.jst.go.jp/article/jbrewsocjapan1988/94/11/94_11_890/_pdf"
+   ],
+   [
+    "J. Brew. Soc. Japan, nationwide miso formulation",
+    "https://www.jstage.jst.go.jp/article/jbrewsocjapan1915/62/3/62_3_224/_pdf/-char/ja"
+   ],
+   [
+    "Marushin Honke, Kinzanji miso history",
+    "https://www.marushinhonke.com/f/history"
+   ]
+  ]
+ },
+ {
+  "cat": "miso",
+  "name": "Miso-zuke (miso-pickled foods)",
+  "ja": "味噌漬け",
+  "prefs": [
+   26
+  ],
+  "text": "The practice of curing vegetables, meat or fish in miso, and the pickle that results. Kyoto's Saikyo-zuke is the most noted fish and meat example, using Kansai white miso, whose sweetness is said to suit it. How-to details such as bed ratio or duration did not appear in the results.",
+  "flavor": "Salty-sweet, miso fragrance.",
+  "use": "Fish, meat and vegetable cures, grilled or served as pickles.",
+  "craft": "Scrape off or wipe excess miso before grilling, since sugars burn quickly (general practice, not from sources).",
+  "src": [
+   [
+    "Kotobank, miso-zuke",
+    "https://kotobank.jp/word/%E5%91%B3%E5%99%8C%E6%BC%AC-138740"
+   ],
+   [
+    "Kai Group, types of miso",
+    "https://www.kai-group.com/media/kitchen/1062/"
+   ]
+  ]
+ },
+ {
+  "cat": "miso",
+  "name": "Saikyo-zuke (Kyoto miso-cured fish and meat)",
+  "ja": "西京漬け",
+  "prefs": [
+   26
+  ],
+  "text": "Kyoto's representative miso-cure for fish and meat, which uses sweet Kansai white miso. It is described as turning fish or meat excellent, and the dictionary-level sources I found give no more procedural detail such as cure time or ratios.",
+  "flavor": "Sweet, gently salty, soft texture.",
+  "use": "Fish and meat cured in sweet white miso, then cooked.",
+  "craft": "Cure time and sugar content in the bed change burn risk; ask the maker.",
+  "src": [
+   [
+    "Kai Group, types of miso",
+    "https://www.kai-group.com/media/kitchen/1062/"
+   ],
+   [
+    "Kotobank, miso-zuke",
+    "https://kotobank.jp/word/%E5%91%B3%E5%99%8C%E6%BC%AC-138740"
+   ]
+  ]
+ }
+]

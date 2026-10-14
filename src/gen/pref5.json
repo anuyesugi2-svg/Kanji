@@ -1,0 +1,263 @@
+[
+{
+"pref": 33,
+"history": "Okayama faces the Seto Inland Sea, whose island-studded seascape (MAFF) supports boat fishing and nori and oyster farming. The prefecture's festive cooking grew around that sea: small oily fish such as mamakari (sappa) pickled in vinegar, and a mixed-topping sushi served at celebrations. Origins of bara-zushi are disputed: one account ties it to Edo-period sumptuary edicts (one soup, one dish), another to a boatmen's 'doburoku-meshi'. Neither is firmly documented.",
+"character": "The logic is vinegar and sweetness applied to Inland Sea fish and seasonal vegetables, built for festivals and family celebrations. Mamakari is cured in vinegar and laid on sushi rice; bara-zushi (also called matsuri-zushi or Bizen bara-zushi) mixes sea produce and colourful seasonal vegetables into or onto the rice. Alongside these the MAFF page lists dishes made with ishimochi-jako (fried drops) and akiami (small shrimp). The 20th-century counterpart is demi-katsudon: tonkatsu under hot demi-glace.",
+"staples": [
+{"name":"Mamakari-zushi","ja":"ままかりずし","note":"Vinegar-pickled mamakari (sappa) on sushi rice; MAFF lists it for the Seto Inland Sea coast, best around October, a staple of festivals and family celebrations."},
+{"name":"Mamakari su-zuke","ja":"ママカリの酢漬け","note":"The vinegar-pickled fish on its own, listed as a separate MAFF dish; the base preparation for the sushi."},
+{"name":"Okayama bara-zushi","ja":"岡山ばらずし (まつりずし)","note":"Festive sushi of sea produce and seasonal vegetables; also called matsuri-zushi or Bizen bara-zushi; MAFF treats it as a dish for special days."},
+{"name":"Demi-katsudon","ja":"デミカツ丼","note":"Fried pork cutlet on rice with hot demi-glace; credited to Ajitsukasa Nomura (now Katsudon Nomura), founded in Showa 6 (1931); listed on MAFF's Uchi no Kyodo Ryori."},
+{"name":"Ishimochi-jako no otoshi-age","ja":"いしもちじゃこの落とし揚げ","note":"Fried drops of small fish (ishimochi-jako), cited by MAFF as an example of Inland Sea cooking beyond mamakari."},
+{"name":"Akiami dishes","ja":"アキアミ料理","note":"Dishes using akiami (small shrimp), named by MAFF among Seto Inland Sea home dishes; specific recipes not detailed in the sources seen."},
+{"name":"Sappa (mamakari) as ingredient","ja":"サッパ (ママカリ)","note":"Fish in the herring family caught mainly in the Inland Sea; name is said to come from eating so much rice that one had to borrow (mama kari) more from a neighbour."},
+{"name":"Oyster and nori (farmed)","ja":"かき・のり養殖","note":"MAFF's regional story names nori and oyster aquaculture as major local fisheries; quantities not given in the sources seen."}
+],
+"calendar": [
+{"season":"Spring","text":"The sources consulted give no month-by-month data for spring. Bara-zushi and mamakari-zushi are tied to festivals and family celebrations rather than to a fixed month, so they appear whenever local matsuri and family events fall."},
+{"season":"Summer","text":"No summer-specific items were stated in the sources reviewed. Festive sushi remains an event dish rather than a seasonal one, and the farmed fisheries (nori, oysters) named by MAFF are not dated by month in the pages seen."},
+{"season":"Autumn","text":"October is given as the peak for mamakari (sappa), when the fish is fattiest and best for vinegar curing; this is the one month stated in the MAFF material. Mamakari-zushi is correspondingly an autumn matsuri dish."},
+{"season":"Winter","text":"Sources seen give no winter items for Okayama specifically. Oysters are farmed in the Inland Sea (MAFF), but the pages reviewed do not state months or varieties; check local fishery cooperatives for season dates."}
+],
+"markets": [
+{"name":"Katsudon Nomura (Okayama City)","ja":"カツ丼 野村","note":"Descended from Ajitsukasa Nomura (founded Showa 6/1931), the shop credited with demi-katsudon. A restaurant rather than a market; no market data found in the sources."},
+{"name":"Misono-zushi (Bara-zushi recipe source)","ja":"美苑鮨 (みそのずし)","note":"Restaurant whose bara-zushi recipe is published in the 100 Selected Rural Dishes recipe series; a reference point for the dish, not a market."}
+],
+"notes": "Mamakari-zushi and bara-zushi are both among the 100 Selected Rural Dishes (Nosanson Kyodo Ryori Hyakusen, MAFF). Mamakari is now more often eaten in restaurants than made at home (Wikipedia). Origin stories for bara-zushi (sumptuary edicts, boatmen's doburoku-meshi) are traditions, not documented fact. Demi-katsudon is cited by MAFF as an Okayama local bowl. I found no market or GI details in the sources searched.",
+"src":[
+["MAFF Uchi no Kyodo Ryori: Mamakari-zushi (Okayama)","https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/41_27_okayama.html"],
+["MAFF Uchi no Kyodo Ryori: Okayama regional story","https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/area_stories/okayama.html"],
+["MAFF Uchi no Kyodo Ryori: Okayama dish list","https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/okayama.html"],
+["100 Selected Rural Dishes recipe: Bara-zushi","https://www.location-research.co.jp/kyoudoryouri100/recipe/recipe/330224"]
+]
+},
+{
+"pref": 34,
+"history": "Hiroshima Bay is fed by rivers such as the Ota and sheltered by islands and capes, calm and rich in plankton, which suits oyster farming (Hiroshima city documents). Oysters have become the prefecture's defining product; dote-nabe is said to be tied to oyster boats that sold oysters in Osaka. Anago-meshi on Miyajima began as an ekiben in the Meiji period and spread through Showa-30s tour-bus lunch boxes (MAFF).",
+"character": "Flavour logic centres on the Inland Sea shellfish and fish, with miso, soy and sweet-savoury sauces. Dote-nabe lines the pot rim with a ridge of miso that is dissolved into the broth as oysters and vegetables cook. Anago is split along the back and grilled with kabayaki-type seasoning over rice. Okonomiyaki is built in layers on a thin spread batter rather than mixed, steamed-grilled, with noodles (soba or udon) inside.",
+"staples": [
+{"name":"Hiroshima oyster","ja":"広島かき","note":"Grown by raft hanging-culture (or basket culture) mainly in central and western Hiroshima waters; 16,129 t shucked in 2023, 62.9% of national output."},
+{"name":"Kaki no dote-nabe","ja":"かきの土手鍋","note":"Oysters and vegetables in a pot whose inner rim is coated with miso; eaten January to February; also certified as a 100-year food; three theories for the name."},
+{"name":"Kaki-meshi","ja":"かき飯","note":"Oyster rice, listed on MAFF's Uchi no Kyodo Ryori for Hiroshima; details not captured in the sources seen."},
+{"name":"Kaki-zoni","ja":"かき雑煮","note":"Oyster New Year soup listed by MAFF for Hiroshima."},
+{"name":"Anago-meshi","ja":"あなご飯","note":"Kabayaki-grilled conger on rice; MAFF gives Miyajima-cho (Hatsukaichi) and Hiroshima city, debut as an ekiben in the Meiji period."},
+{"name":"Nigome","ja":"煮ごめ","note":"A Hiroshima home dish listed by MAFF; composition not stated in the sources seen."},
+{"name":"Bishu-nabe","ja":"美酒鍋","note":"A pot dish listed by MAFF for Hiroshima; recipe details not captured in the sources seen."},
+{"name":"Hiroshima-na pickles","ja":"広島菜漬け","note":"Large, thick-leaved traditional vegetable with a wasabi-like pungency; pickles recorded as a Hiroshima domain local food."},
+{"name":"Hiroshima-style okonomiyaki","ja":"広島風お好み焼き","note":"Thin batter spread, ingredients layered not mixed and steamed-grilled; contains soba or udon noodles."}
+],
+"calendar": [
+{"season":"Spring","text":"The sources consulted do not give month-by-month spring items. Oyster shipping is described as a seasonal fresh trade in the Hiroshima fishery guidance, but the pages seen state no spring months or dishes for the prefecture."},
+{"season":"Summer","text":"No summer-specific dishes were stated in the sources reviewed. Anago is described as caught near oyster rafts, where small fish gather, but no months are given in the pages seen, so season dates should be checked locally."},
+{"season":"Autumn","text":"Sources seen do not give autumn months for Hiroshima. Oyster farming is a long hanging-culture cycle; the pages reviewed give totals and shipping shares (about 31% fresh, 69% frozen or processed in the 2024 guidance) rather than dates."},
+{"season":"Winter","text":"January and February are the season given for kaki no dote-nabe (MAFF). Oyster cooking is the winter centre of the cuisine: dote-nabe, kaki-meshi and kaki-zoni, the New Year oyster soup, are all listed by MAFF."}
+],
+"markets": [
+{"name":"Miyajima-cho (Hatsukaichi)","ja":"宮島町 (廿日市市)","note":"MAFF names it as a main area for anago-meshi, eaten by visitors and sold as souvenir."},
+{"name":"Hiroshima city restaurants","ja":"広島市内","note":"Listed alongside Miyajima as an anago-meshi area by MAFF; guides name okonomiyaki as a staple here. No specific market named in the sources."}
+],
+"notes": "Hiroshima accounts for about 62 to 65% of national oyster output depending on year (61.0% to 64.6% for 2018 to 2023 in a prefectural table; sources use differing counts). Dote-nabe has three competing name theories (miso embankment, an inventor's name, oyster boats on river embankments). Anago-meshi was a Meiji ekiben before becoming Miyajima fare. Oyster output is quoted as shucked weight. The sources did not support details of lemons or Setoda.",
+"src":[
+["Hiroshima City: oyster production","https://www.haff.city.hiroshima.jp/info/suisansc/oyster/production/"],
+["MAFF Uchi no Kyodo Ryori: Kaki no dote-nabe","https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/42_4_hiroshima.html"],
+["MAFF Uchi no Kyodo Ryori: Anago-meshi","https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/42_30_hiroshima.html"],
+["Hiroshima Prefecture food culture survey","https://comp.life.isct.ac.jp/gnavi/food_culture_survey/results/hiroshima/"]
+]
+},
+{
+"pref": 35,
+"history": "Yamaguchi faces both the Sea of Japan and the Seto Inland Sea, with Shimonoseki at the strait. Choshu domain is recorded as enforcing the ban on eating fugu most strictly in the Edo period; the ban was lifted in Meiji 21 (1888). Iwakuni, a castle town of the Kikkawa domain, produced its own box-pressed sushi and ceremonial dishes. Origin stories for these are traditional, and sources differ.",
+"character": "Winter fugu is the prefecture's headline product, handled in Shimonoseki (called fuku locally). Iwakuni cooking is built for large gatherings: oodaira, a stew of chicken, taro and lotus root in a big lidded lacquer bowl, and a multi-tier press sushi made in quantity. Kawara soba, soba noodles grilled on a roof tile, is a modern local dish with disputed origin. Ceremonial vessels and weights shape the techniques.",
+"staples": [
+{"name":"Fugu (fuku)","ja":"ふぐ (ふく)","note":"Shimonoseki is called Japan's largest fugu handling centre; a winter delicacy listed first in MAFF's Yamaguchi page."},
+{"name":"Haedomari bag auction","ja":"南風泊の袋競り","note":"Fugu priced by hand-signs inside a black bag; only the fugu-specialist Haedomari market is said to still use it."},
+{"name":"Iwakuni-zushi","ja":"岩国寿司","note":"Box-press sushi layered up to five tiers under weights, dozens of portions at once; also called tonosama-zushi; tied to the Kikkawa castle town."},
+{"name":"Oodaira","ja":"大平","note":"Iwakuni stew of chicken, taro and lotus root served in a flat, large lidded lacquer bowl, up to about 50 cm across, at ceremonies."},
+{"name":"Kawara soba","ja":"瓦そば","note":"Soba grilled on a roof tile; origin credited to a Kawatana onsen ryokan or to Toyoura, Shimonoseki; Seinan War soldiers grilling meat on tiles is the anecdote."},
+{"name":"Uiro","ja":"ういろう","note":"Steamed confection of warabi (or kuzu) starch, red bean and sugar; said to date to Muromachi; Edo-period Mori souvenir."},
+{"name":"Whale dishes (Shimonoseki)","ja":"くじら料理","note":"Shimonoseki's whale cooking appeared in search results; no further detail captured."},
+{"name":"Fugu sashimi and nabe","ja":"ふぐ刺し・ふぐ鍋","note":"The two standard fugu preparations listed by regional guides; no recipe or ratio details in the sources seen."}
+],
+"calendar": [
+{"season":"Spring","text":"The sources consulted give no spring-specific data for Yamaguchi. Iwakuni-zushi and oodaira are served at gatherings and ceremonies, so they appear whenever such events fall rather than in one named month."},
+{"season":"Summer","text":"No summer items were stated in the sources reviewed. Kawara soba is a year-round restaurant dish in the guides seen, and natural fugu landings are not described as a summer product in the pages consulted."},
+{"season":"Autumn","text":"Sources seen give no autumn months. Fugu is a winter delicacy per MAFF, so autumn is the lead-up to the season; check local reports for the opening of the fugu trade and prices."},
+{"season":"Winter","text":"Fugu is the winter delicacy (MAFF). The new-year first auction (hatsuseri) at Shimonoseki marks the season's opening; a recent report put the first-auction volume of natural and farmed fugu at about 2,610 kg."}
+],
+"markets": [
+{"name":"Haedomari Market","ja":"南風泊市場","note":"Shimonoseki's fugu-only wholesale market; hosts the hand-in-bag auction and the new-year first auction."},
+{"name":"Shunpanro (Shimonoseki)","ja":"春帆楼","note":"Restaurant recognised as the first licensed fugu house after the lifting of the ban; its Ito Hirobumi story is contested."}
+],
+"notes": "Fugu handling requires licensed processors under Ministry of Health, Labour and Welfare guidance. The tale that Ito Hirobumi ate fugu at Shunpanro in 1887 and prompted the 1888 lifting of the ban is widely repeated but disputed by food historians; treat it as legend. Natural torafugu landings are reported to have fallen from about 2,000 t a year at the peak to about 100 t or less (testimony in a government climate-adaptation interview).",
+"src":[
+["Climate adaptation platform: Shimonoseki fugu","https://adaptation-platform.nies.go.jp/data/interview/cs-062.html"],
+["Fugu-sakai Magazine: Haedomari bag auction","https://www.fugu-sakai.com/magazine/learn/3481/"],
+["MAFF Uchi no Kyodo Ryori: Oodaira (Yamaguchi)","https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/43_8_yamaguchi.html"],
+["100 Selected Rural Dishes: Yamaguchi","http://www.location-research.co.jp/kyoudoryouri100/ryouri/35.html"]
+]
+},
+{
+"pref": 36,
+"history": "In the Iya valley of Miyoshi, in Tokushima's mountains, rice was scarce, so buckwheat grown on the slopes was eaten as a substitute (sources seen). Soba is said to have been brought by fleeing Heike warriors, a legend rather than a documented fact. The grain is eaten whole as soba-gome. The sources consulted for this page say little about the coastal side of Tokushima, so this entry covers the mountain tradition.",
+"character": "The defining technique is eating buckwheat as a kernel: the seed is boiled in salted water, hulled and dried to make soba-gome, then simmered into a zosui with chicken and vegetables. Iya soba is the milled form: harvested buckwheat is sun-dried for about a month, threshed and ground, and served at celebrations and for guests. School meals reuse the soba-gome soup with Awa-odori chicken.",
+"staples": [
+{"name":"Soba-gome zosui","ja":"そば米雑炊","note":"Porridge of whole boiled-hulled-dried buckwheat kernels with chicken and vegetables; from Iya in Miyoshi; New Year dish in the Heike legend."},
+{"name":"Soba-gome","ja":"そば米","note":"Buckwheat seed boiled in salted water, hulled and dried; the unmilled form is distinctive to Tokushima's cooking."},
+{"name":"Iya soba","ja":"祖谷そば","note":"Buckwheat sun-dried about a month after cutting, then threshed and milled; for celebrations and hospitality; Heike legend tradition."},
+{"name":"Soba-gome jiru (school lunch)","ja":"そば米汁","note":"Soup version of the zosui used in school lunches, smaller portion to suit rice meals."},
+{"name":"Awa-odori chicken","ja":"阿波尾鶏","note":"Tokushima's specialty chicken; used in school-lunch soba-gome soup."},
+{"name":"Iya buckwheat","ja":"祖谷のそば","note":"Slope-grown buckwheat of Miyoshi's Iya district, substitute staple where rice was scarce."}
+],
+"calendar": [
+{"season":"Spring","text":"The sources reviewed give no spring data for Tokushima. Soba-gome zosui is described as a household and school-lunch dish without a named season, so use local sources for spring availability."},
+{"season":"Summer","text":"No summer items were stated in the sources consulted. The sun-drying of cut buckwheat (about one month) is described, but the harvest months are not given in the pages seen, so dates should be confirmed locally."},
+{"season":"Autumn","text":"Not dated in the sources. Buckwheat is cut and dried in the sun for about a month before threshing and milling (MAFF), which implies a harvest-time job, but the pages seen do not give the month."},
+{"season":"Winter","text":"Legend says that defeated Heike (Genpei) warriors made soba-gome zosui at New Year to remember the capital; New Year is the occasion tied to the dish in that tradition, though not documented as fact."}
+],
+"markets": [
+{"name":"Iya district, Miyoshi","ja":"三好市祖谷","note":"Home of soba-gome zosui and Iya soba; the main traditional area per MAFF and related pages."},
+{"name":"Awa Ikeda souvenir shops","ja":"阿波池田","note":"A producer in Awa-Ikeda sells soba-gome zosui and won an agriculture minister's award; no market named in the sources."}
+],
+"notes": "Soba-gome zosui is a traditional dish of the Iya district of Miyoshi, with the prefecture as a wider area; the Heike origin is legend. Some dishes use Awa-odori chicken. Naruto wakame, sudachi and Naruto kintoki are Tokushima products I searched for but the sources returned do not support any details, so none are described here. Tokushima's coastal food culture remains to be researched.",
+"src":[
+["MAFF Uchi no Kyodo Ryori: Iya soba","https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/44_5_tokushima.html"],
+["MAFF Uchi no Kyodo Ryori: Tokushima list","https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/tokushima.html"],
+["Zengakuei: Soba-gome zosui","https://www.zengakuei.or.jp/kyodosyoku/pref/tokushima_1.html"],
+["100 Selected Rural Dishes recipe: Soba-gome zosui","https://www.location-research.co.jp/kyoudoryouri100/recipe/recipe/360162"]
+]
+},
+{
+"pref": 37,
+"history": "Kagawa has a warm, low-rainfall climate that suits wheat; salt, shoyu and iriko were easy to obtain locally, which is cited as the foundation of udon culture (food-culture sources). Shodoshima's shoyu brewing is linked to the island's sweet-savoury shoyu-mame. The festival dishes are bound to the calendar: an-mochi zoni was an Edo-period New Year dish in Takamatsu, though sources differ on the exact era.",
+"character": "Iriko (dried anchovy), shoyu and sugar underlie the cuisine. Sanuki udon is built on local wheat, salt and shoyu with iriko dashi. An-mochi zoni sets anko-filled mochi in white miso and iriko stock with daikon and kintoki carrot. Shoyu-mame roasts fava beans before steeping them in a shoyu, sugar and chili liquid, giving a crumbly bite. Sugar, once a luxury, features in festive dishes.",
+"staples": [
+{"name":"Sanuki udon","ja":"讃岐うどん","note":"Udon on local wheat, salt and shoyu with iriko; cited as rooted in the warm, low-rainfall climate."},
+{"name":"An-mochi zoni","ja":"あんもち雑煮","note":"Anko-filled mochi in white miso and iriko stock with daikon and kintoki carrot; New Year dish of Takamatsu since the Edo period."},
+{"name":"Shoyu-mame","ja":"しょうゆ豆","note":"Roasted fava beans steeped in shoyu, sugar and chili; keeps well; can stand in for black beans in osechi; linked to Shodoshima shoyu."},
+{"name":"Ibuki iriko","ja":"伊吹いりこ","note":"Iriko of katakuchi-iwashi from Ibuki-jima, used for the zoni stock."},
+{"name":"Shippoku udon","ja":"しっぽくうどん","note":"Winter udon with vegetables, eaten in Sanuki."},
+{"name":"Sawasawa","ja":"さわさわ","note":"Dish from Nio-cho, Mitoyo, made on Kobo Daishi's monthly memorial day; passed on as a home dish (MAFF)."},
+{"name":"Mossou-meshi","ja":"もっそうめし","note":"Communal-work meal served to local workers (MAFF)."},
+{"name":"Olive hamachi","ja":"オリーブハマチ","note":"A branded yellowtail developed by the prefecture; Kagawa is the origin of hamachi farming."},
+{"name":"Wasanbon / sanbon-to","ja":"三盆糖 (和三盆)","note":"Listed on MAFF's Kagawa page alongside dojo-jiru; no production details in the sources seen."}
+],
+"calendar": [
+{"season":"Spring","text":"The sources reviewed give no month-by-month spring data for Kagawa. Sawasawa is made on Kobo Daishi's monthly memorial day, so it recurs through the year rather than in one season."},
+{"season":"Summer","text":"No summer-specific dishes are stated in the sources consulted. Udon, the prefecture's everyday dish, is described without a season, and the pages seen do not give summer products for Kagawa."},
+{"season":"Autumn","text":"Not dated in the sources. Shoyu-mame is a keepable condiment made from roasted fava beans, but the pages seen do not say when it is made; check local makers for the production calendar."},
+{"season":"Winter","text":"Shippoku udon is a winter dish of Sanuki. In January, an-mochi zoni is served at New Year and appears in school lunches, according to MAFF; the dish dates to the Edo period in Takamatsu."}
+],
+"markets": [
+{"name":"Ibuki-jima (iriko source)","ja":"伊吹島","note":"Island named by MAFF as source of the katakuchi-iwashi iriko used in the zoni stock."},
+{"name":"Shodoshima","ja":"小豆島","note":"Linked in sources to shoyu brewing and the sweet-savoury taste of shoyu-mame."},
+{"name":"Takamatsu","ja":"高松","note":"City where an-mochi zoni has been eaten at New Year since the Edo period (MAFF)."}
+],
+"notes": "The origin of an-mochi zoni varies between sources: Edo-period Takamatsu New Year dish (MAFF), a late-Edo white-miso soup, or a Meiji-era wish to use sugar at New Year. Sugar was costly in the Edo period. The Sanuki sanpaku (wheat, salt, shoyu) is a common framing but was not named in the pages seen. Olive hamachi is a prefecture-developed brand, not a traditional dish.",
+"src":[
+["MAFF Uchi no Kyodo Ryori: Kagawa regional story","https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/area_stories/kagawa.html"],
+["MAFF: Kagawa school lunch, an-mochi zoni","https://www.maff.go.jp/j/pr/aff/2101/food01.html"],
+["MAFF Kids Navi: Shoyu-mame (Kagawa)","https://www.maff.go.jp/j/syokuiku/kodomo_navi/cuisine/cuisine6_2.html"],
+["Zengakuei: An-mochi zoni","https://www.zengakuei.or.jp/kyodosyoku/pref/kagawa_1.html"]
+]
+},
+{
+"pref": 38,
+"history": "Ehime's cuisine splits along its coast. In the south, Nanyo around Uwajima, the Uwa Sea shaped fishermen's dishes such as hyuga-meshi; in the Matsuyama plain it is Inland Sea fish. Date Hidemune, first lord of Uwajima domain, is said in MAFF's children's page to have brought kamaboko craftsmen from Sendai, starting jako-ten. Ozu's imotaki is a riverbank autumn party tied to taro.",
+"character": "Two different taimeshi share one name: in Chuyo and Toyo, grilled sea bream is cooked with the rice; in Nanyo, raw bream slices in an egg-enriched sauce go over hot rice. Jako-ten is a fried fish paste. Imotaki simmers chicken, taro, konnyaku and shiitake. Matsuyama-zushi uses Seto Inland Sea fish, anago as the baseline ingredient, varying with season.",
+"staples": [
+{"name":"Uwajima taimeshi","ja":"宇和島鯛めし","note":"Sashimi bream in an egg sauce over rice; Nanyo style; said to descend from hyuga-meshi; regional collective trademark registered in January 2017 per one commentary."},
+{"name":"Chuyo/Toyo taimeshi","ja":"鯛めし (焼き鯛炊き込み)","note":"Grilled bream cooked in the rice; the other of the two taimeshi types; Hojo version tied to a Jingu Kogo legend."},
+{"name":"Hyuga-meshi","ja":"ひゅうが飯","note":"Fish steeped in sauce and poured on hot rice, Nanyo coast; origin on Hiburi-jima per MAFF-linked pages, a blog says peddlers of Akehama."},
+{"name":"Jako-ten","ja":"じゃこ天","note":"Fried fish paste of small fish; credited to Date Hidemune bringing kamaboko craftsmen from Sendai; name from zako or from a family name theory."},
+{"name":"Imotaki","ja":"いもたき","note":"Chicken, taro, konnyaku and shiitake pot; origin Ozu; held at about ten or more riverbed sites in the Nanyo area in autumn."},
+{"name":"Matsuyama-zushi","ja":"松山鮓","note":"Sushi with Inland Sea fish; anago is basic, other toppings change by season."},
+{"name":"Mikan-zushi","ja":"みかんずし","note":"Listed by MAFF for Ehime; Ehime mikan production is among the highest in Japan; recipe not detailed in the sources seen."},
+{"name":"Imabari yakitori","ja":"今治焼き鳥","note":"Named on MAFF's Ehime list together with bote-cha and tart; no method detail in the sources."}
+],
+"calendar": [
+{"season":"Spring","text":"The sources reviewed give no month-by-month spring data for Ehime. Matsuyama-zushi changes its toppings by season, with anago as the constant, but the pages seen do not itemise spring toppings."},
+{"season":"Summer","text":"No summer-specific entries are given in the sources consulted. Taimeshi and jako-ten are described as everyday regional foods, and the pages seen assign them no season."},
+{"season":"Autumn","text":"Imotaki is the autumn event: taro pots on riverbeds combined with moon viewing, held at roughly ten or more sites in Nanyo, with Ozu as the origin (MAFF). Taro is the seasonal anchor."},
+{"season":"Winter","text":"Not dated in the sources. Mikan is a key crop of Ehime, with production among the top in Japan (MAFF), but the pages reviewed give no harvest months or varieties."}
+],
+"markets": [
+{"name":"Ozu","ja":"大洲","note":"Origin of imotaki, held on the riverbed in autumn."},
+{"name":"Uwajima","ja":"宇和島","note":"Home of Uwajima taimeshi and jako-ten; Date-domain capital."},
+{"name":"Matsuyama","ja":"松山","note":"Source of Matsuyama-zushi; Hojo taimeshi is tied to the Matsuyama area."}
+],
+"notes": "'Uwajima taimeshi' is reported as a regional collective trademark registered in January 2017 (one commentary; verify with JPO). The Jingu Kogo story for Hojo taimeshi and Muromachi suigun origin for Uwajima taimeshi are legends. Wikipedia describes hyuga-meshi as a home dish that spread through restaurants in the 1970s. Jako-ten name origins are disputed (zako versus family-name theory).",
+"src":[
+["MAFF Kids Navi: Jako-ten (Ehime)","https://www.maff.go.jp/j/syokuiku/kodomo_navi/cuisine/cuisine6_3.html"],
+["MAFF Uchi no Kyodo Ryori: Imotaki","https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/imotaki_ehime.html"],
+["MAFF Uchi no Kyodo Ryori: Matsuyama-zushi","https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/matsu_yama_zushi_ehime.html"],
+["Shikoku Tourism: Ehime's taimeshi","https://shikoku-tourism.com/feature/taimeshi/1"]
+]
+},
+{
+"pref": 39,
+"history": "Kochi's fish culture is built on katsuo, the prefectural fish, eaten daily (MAFF). Tataki is said to have begun as fishermen's meal-time food, and one theory sees it as a way to eat bonito past its freshest before preservation. Sawachi-ryori goes back to the domain era and spread as banquet food in Meiji. Inaka-zushi arose in the mountains, where kombu and nori were hard to get.",
+"character": "The cuisine pairs coastal fish with the vegetarian mountain tradition. Katsuo no tataki is the best-known dish. Sawachi-ryori piles sashimi, sushi, simmered dishes and sweets on one large platter for okyaku banquets. Inaka-zushi uses mountain vegetables (myoga, ryukyu taro stem, konnyaku) without fish. Yuzu vinegar seasons the sugata-zushi of ayu, while saba sugata-zushi is a platter staple.",
+"staples": [
+{"name":"Katsuo no tataki","ja":"カツオのたたき","note":"Prefectural fish eaten daily; fishermen's meal that spread; one theory is that it let people eat less fresh bonito."},
+{"name":"Sawachi-ryori","ja":"皿鉢料理","note":"Sashimi, sushi, simmered dishes and sweets on a big platter for okyaku banquets; traced to domain era, spread in Meiji."},
+{"name":"Inaka-zushi","ja":"田舎ずし","note":"Mountain-area festive sushi with vegetables instead of fish; myoga, ryukyu (taro stem), konnyaku."},
+{"name":"Saba no sugata-zushi","ja":"さばの姿ずし","note":"Whole mackerel sushi; platter staple at ceremonies and Shinto events; made in many local ways."},
+{"name":"Ayu sugata-zushi","ja":"鮎の姿寿司","note":"Ayu sushi with yuzu vinegar; certified as a 100-year food by the Agency for Cultural Affairs."},
+{"name":"Katsuo no kakuni","ja":"かつおの角煮","note":"Simmered bonito listed in Zengakuei's local food series for Kochi."},
+{"name":"Yuzu vinegar","ja":"柚子酢","note":"Used in the sushi rice and vinegar for ayu sushi."},
+{"name":"Early rice and horticultural crops","ja":"早場米・園芸作物","note":"MAFF notes subtropical plants, early-harvest rice on the Kochi plain and active greenhouse horticulture."}
+],
+"calendar": [
+{"season":"Spring","text":"The sources reviewed give no spring months for Kochi. Katsuo is called a daily food in the prefecture, and the pages seen give no catch-season calendar, so tataki timing should be confirmed with local fishery sources."},
+{"season":"Summer","text":"No summer-specific entries are given in the sources consulted. Ayu sugata-zushi appears in the 100-year food list, but the pages seen do not date the ayu season; check local rivers' catch rules."},
+{"season":"Autumn","text":"Not dated in the sources reviewed. Sawachi-ryori and sushi platters belong to festivals and okyaku gatherings, which are tied to local Shinto events instead of a named month in the pages seen."},
+{"season":"Winter","text":"No winter items are stated for Kochi in the sources seen. Early-harvest rice and greenhouse horticulture are noted by MAFF, but the pages give no months for them."}
+],
+"markets": [
+{"name":"Kochi Nichiyo-ichi (Sunday market)","ja":"日曜市","note":"Appears in a Kochi tourism page on food culture (Sunday market and okyaku); no further detail captured."},
+{"name":"Tosa no Tataki participating shops (Kochi City)","ja":"土佐のたたき店 (高知市)","note":"Prefecture's list of participating tataki shops in Kochi City."}
+],
+"notes": "Okyaku are banquets built around sawachi platters, central to weddings, funerals and Shinto events. Inaka-zushi is notable as sushi without fish. Agency for Cultural Affairs 100-year food entries exist for Kochi, including the ayu sugata-zushi with yuzu vinegar. The prefecture runs a tataki shop programme. I found no GI or brand rules in the sources.",
+"src":[
+["MAFF Uchi no Kyodo Ryori: Katsuo no tataki (Kochi)","https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/katuonotataki_kochi.html"],
+["MAFF Uchi no Kyodo Ryori: Sawachi-ryori","https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/sawachiryori_kochi.html"],
+["MAFF Uchi no Kyodo Ryori: Inaka-zushi","https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/inakazushi_kochi.html"],
+["Agency for Cultural Affairs: Kochi 100-year foods","https://www.bunka.go.jp/seisaku/shokubunka/foodculture/hyakunenfood/jirei/list_kochi.html"]
+]
+},
+{
+"pref": 40,
+"history": "Fukuoka has four cultural zones (MAFF): Fukuoka-Hakata, industrial Kitakyushu, Chikuho post towns, and the Chikugo river plain. Chikugo was a wheat-growing area, the root of funayaki. Gameni, also called Chikuzen-ni after the old Chikuzen province, is explained either by the Hakata word gamekurikomu (to gather) or by Hideyoshi's Bunroku-era army cooking soft-shelled turtle. Mizutaki's first shop owner learned Western and Chinese cooking in Hong Kong.",
+"character": "The cuisine combines Hakata's sea produce and poultry pots with Chikuho and Buzen festive dishes. Gameni simmers chicken and root vegetables, a prefecture-wide dish. Hakata zoni uses roasted flying-fish (ago) stock with yellowtail and katsuona. Mizutaki is a cloudy chicken-bone broth; motsu-nabe is a postwar soy-based pot with offal and nira; mentaiko is pollock roe in chili liquor; Hakata ramen is a hard-boiled pork-bone soup.",
+"staples": [
+{"name":"Gameni (Chikuzen-ni)","ja":"がめ煮 (筑前煮)","note":"Prefecture-wide festive simmer; name from Hakata dialect gamekurikomu or from Hideyoshi's turtle stew; MAFF-listed."},
+{"name":"Hakata zoni","ja":"博多雑煮","note":"Roast flying-fish (ago) stock with yellowtail and katsuona (a takana relative); components prepared per portion."},
+{"name":"Funayaki","ja":"ふなやき","note":"Thin wheat-flour griddle cake of Chikugo, filled with items such as takana pickles; varies by household."},
+{"name":"Mizutaki","ja":"水炊き","note":"Chicken pot in cloudy stock from chicken bones; first shop's owner trained in Western and Chinese cooking in Hong Kong."},
+{"name":"Motsu-nabe","ja":"もつ鍋","note":"Born in postwar scarcity; offal and nira in a soy-based, sukiyaki-style soup."},
+{"name":"Karashi mentaiko","ja":"辛子明太子","note":"Pollock roe steeped in a chili-based liquor; chosen for MAFF's Gotochi Ninki Ryori Tokusen."},
+{"name":"Hakata ramen","ja":"博多ラーメン","note":"White, thick soup from pork bones boiled hard for hours; ultra-thin straight noodles, chashu, red pickled ginger, scallion."},
+{"name":"Yanagawa unagi no seiro-mushi","ja":"柳川うなぎのせいろ蒸し","note":"Kabayaki on sweet-salty rice, steamed in a seiro; Yanagawa has been famed for eel since the Edo period."},
+{"name":"Hakata goma-saba and okyuto","ja":"博多の胡麻鯖・おきゅうと","note":"Sesame-dressed mackerel and egonori jelly, named among Fukuoka-area sea dishes by MAFF."},
+{"name":"Nigui and dabu","ja":"にぐい・だぶ","note":"Festive stew of Buzen (Joge) called nigui; known as dabu in Chikuho."}
+],
+"calendar": [
+{"season":"Spring","text":"The sources reviewed give no month-by-month data for spring in Fukuoka. Items such as gameni and funayaki are described as home dishes without seasons, so timing should be checked with local sources."},
+{"season":"Summer","text":"No summer-specific entries are stated in the sources consulted. Hakata goma-saba and okyuto are listed as Fukuoka sea dishes, but the pages seen do not give catch months."},
+{"season":"Autumn","text":"Not dated in the sources. The Buzen dish nigui is described as indispensable at celebrations in Kokage town of Joge, but celebrations are not tied to a named month in the pages seen."},
+{"season":"Winter","text":"Hakata zoni is the New Year dish, with flying-fish stock and yellowtail. The pot dishes (mizutaki, motsu-nabe) are heated meals by nature, but the pages seen do not formally date them to a season."}
+],
+"markets": [
+{"name":"Hakata (Fukuoka city)","ja":"博多","note":"Home of Hakata zoni, goma-saba, okyuto, mizutaki and Hakata ramen."},
+{"name":"Yanagawa","ja":"柳川","note":"Eel town since the Edo period; origin of the seiro-mushi eel dish."},
+{"name":"Chikugo plain","ja":"筑後","note":"Wheat-growing area where funayaki developed."}
+],
+"notes": "Gameni's name origin is disputed (dialect gamekurikomu versus Hideyoshi's turtle). Karashi mentaiko appears on MAFF's Gotochi Ninki Ryori Tokusen list. Motsu-nabe and mizutaki origins come from shop and guide accounts, not archives. Katsuona is a takana relative used in zoni. The sources did not support details on amaou, Yame tea or specific markets, so none are described here.",
+"src":[
+["MAFF Uchi no Kyodo Ryori: Fukuoka regional story","https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/area_stories/fukuoka.html"],
+["MAFF Uchi no Kyodo Ryori: Gameni","https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/gameni_gukuoka.html"],
+["MAFF Kids Navi: Gameni (Fukuoka)","https://www.maff.go.jp/j/syokuiku/kodomo_navi/cuisine/cuisine7_1.html"],
+["Walker Station TV: Fukuoka local gourmet","https://www.wstv.jp/gourmet/pref_40_fukuoka.html"]
+]
+}
+]
