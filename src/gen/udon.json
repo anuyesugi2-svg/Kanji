@@ -1,0 +1,403 @@
+[
+ {
+  "cat": "noodle",
+  "name": "Sanuki no Yume 2009 (Kagawa udon wheat)",
+  "ja": "さぬきの夢2009",
+  "prefs": [
+   37
+  ],
+  "text": "Kagawa Prefecture's own udon wheat, registered in 2009 as the successor to Sanuki no Yume 2000. Reported advantages over the earlier cultivar: higher yield, better milling and noodle-making performance and higher eating-quality scores. It stands well against lodging, has a long, heavy ear, and its starch gelatinisation is described as 'slightly low amylose', which suits Sanuki udon. Larger kernel size gives a higher milling yield.",
+  "flavor": "Smooth, chewy-soft surface with a strongly elastic centre to the noodle.",
+  "use": "Milled and sold as domestic flour for Sanuki udon; used by shops that advertise 100% Kagawa wheat, often compared against imported ASW.",
+  "craft": "Sources say the dough extensibility (gliadin) was improved over the 2000 cultivar, which was hard to handle, less workable than ASW and went soft quickly once boiled. Test for yourself: hydration and resting times tuned for ASW may need adjusting. Quoted sources do not give a single recommended hydration for this flour.",
+  "src": [
+   [
+    "Kagawa Prefecture: features of Sanuki no Yume 2009",
+    "https://www.pref.kagawa.lg.jp/seiryu/sanukinoyume/menpaku/04_tokucho.html"
+   ],
+   [
+    "NARO: breeding of Sanuki no Yume 2009 (PDF)",
+    "https://www.naro.go.jp/org/warc/research_results/h22/pdf/01_sakumotu/15_0124.pdf"
+   ],
+   [
+    "Sanuki no Shoku portal: Sanuki no Yume",
+    "https://sanukinoshoku.jp/introduction/%EF%BC%9C%E5%B0%8F%E9%BA%A6%EF%BC%9E%E3%81%95%E3%81%AC%E3%81%8D%E3%81%AE%E5%A4%A2/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "ASW (Australian Standard White)",
+  "ja": "ASW(オーストラリア産標準白小麦)",
+  "prefs": [],
+  "text": "Imported Australian wheat long used as the benchmark flour for Japanese udon. Domestic breeders measure new udon cultivars against it: Kagawa's Sanuki no Yume 2000 was criticised as less workable than ASW and quicker to go soft after boiling, while Hokkaido's Kitahonami is reported to exceed ASW in udon suitability.",
+  "flavor": "Used as shorthand for the standard of 'good udon flour'.",
+  "use": "Seen on flour spec sheets and shop signs; 'ASW blend' versus '100% domestic' is a common selling point.",
+  "craft": "When trialling a domestic flour, mill grade, protein and water absorption differ from ASW, so a recipe tuned on ASW should be re-tested rather than copied.",
+  "src": [
+   [
+    "Kagawa Prefecture: features of Sanuki no Yume 2009",
+    "https://www.pref.kagawa.lg.jp/seiryu/sanukinoyume/menpaku/04_tokucho.html"
+   ],
+   [
+    "Homemade Cooking: Kitahonami column",
+    "https://www.homemade.co.jp/column/archives/you-know_vol14.htm"
+   ]
+  ]
+ },
+ {
+  "cat": "noodle",
+  "name": "Kitahonami (Hokkaido udon wheat)",
+  "ja": "きたほなみ",
+  "prefs": [
+   1
+  ],
+  "text": "Udon wheat registered in 2006 by the Kitami Agricultural Experiment Station. It is Hokkaido's main cultivar and the most widely grown domestic wheat in Japan. Valued for high yield, good noodle colour and resistance to pre-harvest sprouting; reported udon aptitude exceeds imported ASW, and boiled noodles are described as creamy white.",
+  "flavor": "Light, clean wheat flavour with a pale creamy colour.",
+  "use": "Medium-protein flour (chuuriki) for udon; also blended with soft or strong flours.",
+  "craft": "Prized for colour, so check boiled-noodle whiteness rather than raw dough colour. Commonly used as a medium-protein flour and also blended with soft or strong flours.",
+  "src": [
+   [
+    "Homemade Cooking: Kitahonami column",
+    "https://www.homemade.co.jp/column/archives/you-know_vol14.htm"
+   ],
+   [
+    "BASF Minorasu: wheat cultivars by region",
+    "https://minorasu.basf.co.jp/80913"
+   ],
+   [
+    "Eating Hokkaido: Kitahonami",
+    "https://eating-hokkaido.shop/blogs/article/26"
+   ]
+  ]
+ },
+ {
+  "cat": "noodle",
+  "name": "Chikugoizumi (Kyushu noodle wheat)",
+  "ja": "チクゴイズミ",
+  "prefs": [
+   40,
+   41,
+   42,
+   43,
+   44,
+   45
+  ],
+  "text": "Japanese-noodle cultivar registered in 1996 and grown mainly in Fukuoka, Saga, Nagasaki, Kumamoto, Oita and Miyazaki. Often described as Kyushu's representative wheat. In a tasting comparison with Kitahonami it was reported to give a dough with less gluten that was easy to roll out.",
+  "flavor": "Described as giving an easily rolled dough with relatively little gluten.",
+  "use": "Kyushu noodle flour for udon.",
+  "craft": "The source lists its pre-harvest sprouting resistance as 'difficult' (weak), so harvest timing and rain years matter for lot quality; ask the miller for falling-number data.",
+  "src": [
+   [
+    "BASF Minorasu: wheat cultivars by region",
+    "https://minorasu.basf.co.jp/80913"
+   ],
+   [
+    "Flour.co.jp: tasting of jiko udon from Hokkaido, Sanuki and Kyushu",
+    "https://www.flour.co.jp/news/article/516/"
+   ]
+  ]
+ },
+ {
+  "cat": "noodle",
+  "name": "Nebarigoshi (Aomori low-amylose wheat)",
+  "ja": "ネバリゴシ",
+  "prefs": [
+   2
+  ],
+  "text": "Low-amylose wheat grown mainly in Aomori, notably around Towada and Tsugaru. Considered suited to noodle-making, giving smooth, mochi-like texture.",
+  "flavor": "Smooth, glutinous-chewy bite.",
+  "use": "Local Aomori noodle flour.",
+  "craft": "Low amylose raises the glutinous quality of the boiled noodle; judge by chew after boiling and after cooling, not at the dough stage.",
+  "src": [
+   [
+    "Umai Aomori: wheat",
+    "https://www.umai-aomori.jp/specialtygoods-pbook/wheat"
+   ],
+   [
+    "BASF Minorasu: wheat cultivars by region",
+    "https://minorasu.basf.co.jp/80913"
+   ]
+  ]
+ },
+ {
+  "cat": "noodle",
+  "name": "Sanuki hand-made dough: hydration and brine by season",
+  "ja": "讃岐うどんの加水・塩水の季節配合",
+  "prefs": [
+   37
+  ],
+  "text": "Home-recipe guidance for hand-made Sanuki udon gives seasonal brine: spring and autumn 48% water by flour weight at 12% brine; summer 47% at 13%; winter 49% at 11%. Other sources quote a wider range, 45 to 50% water and 10 to 13% brine. Mid-protein flour forms the gluten network that produces the firmness. A traditional mnemonic, 'do-san kan-roku jo-go-hai', is cited for adjusting brine by season.",
+  "flavor": "Salt tightens the gluten: more salt in heat, less in cold.",
+  "use": "Starting values for hand-made and hand-style udon dough.",
+  "craft": "Treat these as starting values from recipe sites, not a code or standard. Disperse brine evenly through the flour and avoid over-kneading at first. Adjust further for flour type and room temperature.",
+  "src": [
+   [
+    "Kotowari Cooking: udon dough, hydration, treading, resting",
+    "https://www.kotowari-cooking.com/note/preparation/dough/noodle-dough/udon"
+   ],
+   [
+    "Flour-net: how to make Sanuki udon",
+    "https://flour-net.com/column/udon_making/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Ashibumi (foot-treading of udon dough)",
+  "ja": "足踏み",
+  "prefs": [
+   37
+  ],
+  "text": "The step in which udon dough is trodden to develop gluten and compress it. Home method: seal dough in a polythene bag, flatten to about 1 cm thick and tread for about 1 minute, then fold and repeat. Larger shops use the same principle on bigger pieces.",
+  "flavor": "Dense, even, springy dough; no streaks of dry flour.",
+  "use": "Used after the initial mixing and again after resting in some methods.",
+  "craft": "Check for uniform thickness and no dry pockets before folding. Treading after resting is mentioned in some sources to improve firmness. Flour-net runs a detailed column on the step.",
+  "src": [
+   [
+    "Flour-net: deeper look at the foot-treading step",
+    "https://flour-net.com/column/flour_udon/column_udon/post_109.html"
+   ],
+   [
+    "Kotowari Cooking: udon dough, hydration, treading, resting",
+    "https://www.kotowari-cooking.com/note/preparation/dough/noodle-dough/udon"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Jukusei (resting udon dough)",
+  "ja": "熟成(寝かし)",
+  "prefs": [
+   37
+  ],
+  "text": "After treading, udon dough is bagged and rested so water spreads and gluten relaxes. Indicative times in a recipe source are 30 to 60 minutes in summer, 1 to 2 hours in spring and autumn and 2 to 3 hours in winter; some methods tread the dough a second time after resting.",
+  "flavor": "Relaxed, extensible dough that rolls without snapping back.",
+  "use": "Resting precedes rolling and cutting.",
+  "craft": "Shorter in heat because dough relaxes faster and over-resting softens it; longer in cold. Judge by how the dough rolls, not just by the clock.",
+  "src": [
+   [
+    "Kotowari Cooking: udon dough, hydration, treading, resting",
+    "https://www.kotowari-cooking.com/note/preparation/dough/noodle-dough/udon"
+   ],
+   [
+    "Flour-net: how to make Sanuki udon",
+    "https://flour-net.com/column/udon_making/"
+   ]
+  ]
+ },
+ {
+  "cat": "noodle",
+  "name": "Goto udon (Goto tenobe udon)",
+  "ja": "五島うどん(五島手延べうどん)",
+  "prefs": [
+   42
+  ],
+  "text": "Hand-stretched thin round noodle from the Goto Islands, Nagasaki, about 2 mm in diameter with a nearly round section, closer to somen than ordinary udon. Salt made in Goto is kneaded into the dough, the rope of dough is stretched over two chopsticks with camellia oil applied, then aged and dried. Often cited with Mizusawa as a candidate for 'Japan's three great udon'.",
+  "flavor": "Fine, firm, springy noodle that resists swelling.",
+  "use": "Eaten as jigoku-daki straight from the pot or with tsuyu.",
+  "craft": "The camellia oil is said to slow the noodle's softening and add firmness. Dried tenobe noodle is judged by uniform diameter and a clean break.",
+  "src": [
+   [
+    "JA Goto: Goto udon",
+    "https://www.ja-goto.or.jp/kakou/udon.html"
+   ],
+   [
+    "JTB Tabi: Goto tenobe udon",
+    "https://tabi.jtb.or.jp/res/420050-"
+   ],
+   [
+    "Goto Island Products: features of Goto udon",
+    "http://kamigotou.jp/user_data/goto_udon_feature.php"
+   ]
+  ]
+ },
+ {
+  "cat": "noodle",
+  "name": "Jigoku-daki (Goto udon straight from the pot)",
+  "ja": "地獄炊き",
+  "prefs": [
+   42
+  ],
+  "text": "Way of serving Goto udon: noodles boiled in a large pot of vigorously boiling water, one source says 7 to 8 minutes in a big iron pot, and eaten directly from the pot dipped in beaten egg or in an ago (flying fish) dashi tsuyu.",
+  "flavor": "Hot, tender yet springy noodle with the sweetness of egg or ago dashi.",
+  "use": "Communal pot service, dipped by the diner.",
+  "craft": "Water volume matters so the temperature recovers quickly. The 7 to 8 minute figure comes from one source; timing depends on the noodle's dryness and diameter, so verify with the maker's instructions.",
+  "src": [
+   [
+    "Kyushu Love: Goto udon and jigoku-daki",
+    "https://kyushu-love.com/goto-udon/"
+   ],
+   [
+    "JTB Tabi: Goto tenobe udon",
+    "https://tabi.jtb.or.jp/res/420050-"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Tsubaki-abura in tenobe noodles (camellia oil)",
+  "ja": "椿油(手延べうどん)",
+  "prefs": [
+   42
+  ],
+  "text": "Goto's specialty camellia oil is applied while the dough rope is stretched over two chopsticks. Sources say it keeps the noodle from softening and strengthens its firmness.",
+  "flavor": "Gives a smooth surface and sustained bite.",
+  "use": "Oil is a defining step of Goto tenobe udon.",
+  "craft": "Oil is applied during the stretching stage, before ageing and drying; sources describe its effect on firmness and resistance to softening but give no quantities.",
+  "src": [
+   [
+    "Goto Island Products: features of Goto udon",
+    "http://kamigotou.jp/user_data/goto_udon_feature.php"
+   ],
+   [
+    "JA Goto: Goto udon",
+    "https://www.ja-goto.or.jp/kakou/udon.html"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Somen versus hiyamugi (JAS diameter classes)",
+  "ja": "素麺と冷麦の違い",
+  "prefs": [],
+  "text": "In JAS terms for machine-made dried noodles, somen is under 1.3 mm in diameter and hiyamugi is 1.3 mm or more but under 1.7 mm. For hand-stretched (tenobe) noodle, anything under 1.7 mm in long diameter may be labelled either somen or hiyamugi, so a 1.3 mm-plus tenobe somen is possible.",
+  "flavor": "Somen finer and more delicate, hiyamugi a little thicker and chewier.",
+  "use": "Served chilled with tsuyu, or warm as nyumen.",
+  "craft": "Check the label category and the manufacturing method: the name alone does not tell thickness for tenobe noodle. Verify against the current JAS text; these figures come from maker and Miwa FAQ pages.",
+  "src": [
+   [
+    "Okabe Men: somen vs hiyamugi",
+    "https://www.okabemen.co.jp/cont/forum/somen-hiyamugi/"
+   ],
+   [
+    "Miwa Somen Konishi: FAQ",
+    "https://miwasoumenkonishi.co.jp/faq"
+   ],
+   [
+    "Furunavi: somen and hiyamugi",
+    "https://furunavi.jp/discovery/knowledge_food/202504-somen_hiyamugi/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Tenobe (hand-stretched noodle, JAS definition)",
+  "ja": "手延べ(手延べそうめん類)",
+  "prefs": [],
+  "text": "Under the JAS definition quoted by trade sources, tenobe somen-type noodles are made by applying edible vegetable oil, stretching the dough in sequence while twisting it into round rods, then drying. Ageing during noodle-making is a condition of the definition. Oils such as cottonseed are cited.",
+  "flavor": "Fine, compact texture from stretching and ageing.",
+  "use": "Applies to Miwa, Ibonoito, Shodoshima somen and Goto udon.",
+  "craft": "Check whether a product labelled tenobe really includes the ageing step. Exact ageing durations from older JAS drafts were not verified in these sources.",
+  "src": [
+   [
+    "Okabe Men: somen vs hiyamugi",
+    "https://www.okabemen.co.jp/cont/forum/somen-hiyamugi/"
+   ],
+   [
+    "Tenobe somen labelling and JAS revision notes",
+    "http://ww81.tiki.ne.jp/~shiomi/jas-matome.html"
+   ]
+  ]
+ },
+ {
+  "cat": "noodle",
+  "name": "Inaniwa udon: four-step tenobe process",
+  "ja": "稲庭うどんの製法(練り・手綯い・延ばし・干し)",
+  "prefs": [
+   5
+  ],
+  "text": "Inaniwa udon from Yuzawa, Akita is made in four steps: kneading (neri), rope-twisting (tenai), stretching (nobashi) and drying (hoshi), with ageing between stages. Finished product takes at least four days. Hand kneading leaves many small air holes said to give a smooth bite, and starch rather than flour is used as dusting powder.",
+  "flavor": "Smooth, slippery, flat-ish thin noodle with a glassy surface.",
+  "use": "Dried noodle sold in bundles; served chilled with tsuyu or warm.",
+  "craft": "Dusting with starch rather than flour affects surface and boiling water clarity. Figures come from tourism and maker pages; exact hydration and ageing times are shop secrets and not stated.",
+  "src": [
+   [
+    "Gotochi Japan: Inaniwa udon",
+    "https://gotochijapan.com/area/akita/inaniwaudon"
+   ],
+   [
+    "IKI: 400 years of Inaniwa udon",
+    "https://i-k-i.jp/1422"
+   ],
+   [
+    "Nihonmono: Sato Yoetsu Honpo",
+    "https://nihonmono.jp/article/33333/"
+   ]
+  ]
+ },
+ {
+  "cat": "noodle",
+  "name": "Inaniwa udon origin accounts and the 1972 disclosure",
+  "ja": "稲庭うどんの起源と製法公開",
+  "prefs": [
+   5
+  ],
+  "text": "Origin accounts differ. Common story: Sato Kichizaemon began dried udon in Inaniwa, Yuzawa, and the second-generation Kichizaemon took over the method in Kanbun 5 (1665). The 1904 Inaniwa Kokin Jisekishi instead says Sato Ichibei began before the Kanbun era. Sugae Masumi's 1814 visit records a fifth-generation Kichizaemon who studied at Yurihonjo. In 1829 the Satake domain ordered the method kept secret; it was disclosed in 1972, raising output.",
+  "flavor": "Not applicable; historical entry.",
+  "use": "Reference when quoting a founding date or lineage on a menu or label.",
+  "craft": "Do not state one founder as fact; the sources conflict, so attribute the claim ('traditionally said').",
+  "src": [
+   [
+    "Wikipedia: Inaniwa udon",
+    "https://ja.wikipedia.org/wiki/%E7%A8%B2%E5%BA%AD%E3%81%86%E3%81%A9%E3%82%93"
+   ],
+   [
+    "IKI: 400 years of Inaniwa udon",
+    "https://i-k-i.jp/1422"
+   ],
+   [
+    "Gotochi Japan: Inaniwa udon",
+    "https://gotochijapan.com/area/akita/inaniwaudon"
+   ]
+  ]
+ },
+ {
+  "cat": "noodle",
+  "name": "Himokawa (Fukaya flat noodle)",
+  "ja": "ひもかわ(ひもかわうどん)",
+  "prefs": [
+   11
+  ],
+  "text": "Wide, ribbon-like flat noodle; MAFF's regional-cuisine database treats himokawa as another name for the Fukaya (Saitama) niboto, a simmered flat noodle dish. Its dough is made with salt. One source distinguishes it from hoto by the water content of the dough.",
+  "flavor": "Wide, soft and slippery, mild wheat taste.",
+  "use": "Eaten in soup as niboto; flat noodle served at table in the Fukaya area.",
+  "craft": "The hoto distinction is attributed to dough water content and the salt in the dough, which sources state only qualitatively; confirm with the maker.",
+  "src": [
+   [
+    "Shizen Shokuhin: himokawa udon",
+    "https://www.shizensyokuhin.jp/archives/articles/1284"
+   ],
+   [
+    "MAFF: okirikomi, Gunma",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/32_1_gunma.html"
+   ],
+   [
+    "Hugkum: okkirikomi, hoto and himokawa",
+    "https://hugkum.sho.jp/463022"
+   ]
+  ]
+ },
+ {
+  "cat": "noodle",
+  "name": "Suiton and Tocchanage-jiru (Gunma)",
+  "ja": "すいとん・とっちゃなげ汁",
+  "prefs": [
+   10
+  ],
+  "text": "Gunma suiton is flour mixed with water and dropped into soup. Gunma's rice and barley double-cropping made it a major wheat producer. In Fujioka the dish is called tocchanage-jiru, either from 'taking and throwing' lumps of batter into the pot or from 'father stirring the pot'. In food-scarce times it replaced rice.",
+  "flavor": "Soft, dumpling-like wheat lumps in a savoury soup.",
+  "use": "Home soup; the Gunma MAFF page records regional variations.",
+  "craft": "Sources give no technical ratios; the pot-side lump-dropping method gives the dumplings irregular shapes, which is what the Fujioka name refers to.",
+  "src": [
+   [
+    "MAFF: suiton, Gunma",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/32_2_gunma.html"
+   ],
+   [
+    "Zengakuei: okirikomi",
+    "https://www.zengakuei.or.jp/kyodosyoku/pref/gunma_1.html"
+   ]
+  ]
+ }
+]

@@ -1,0 +1,667 @@
+[
+ {
+  "cat": "glossary",
+  "name": "Ikejime, nojime, noujime, shinkei-jime (ways of killing fish)",
+  "ja": "活け締め・野締め・脳締め・神経締め",
+  "prefs": [],
+  "text": "Terms for how a fish is killed and bled. Noujime (brain spiking) alone leaves a fish brain-dead but with the body still 'alive'. In large fish, spinal-nerve reflexes then cause convulsions that burn off inosinic acid, the umami nucleotide, which is the reason nerve removal (shinkei-jime) is added to ikejime. Sources describe the four methods as distinct, with some variation in how each is defined.",
+  "flavor": "Used as a quality term: ikejime and shinkei-jime fish are described as firmer, cleaner-tasting and slower to lose freshness than fish left to die in the boat.",
+  "use": "Appears on menus, market labels and brand rules (for example Seki-aji requires ikejime). Buyers use it to judge how a fish was handled before it reached the board.",
+  "craft": "The point to check is whether the nerve was removed, not only the brain spiked; convulsions in big fish consume inosinic acid before the fish reaches the cook. Sources I saw give no per-species stroke technique, so confirm method with the supplier. Definitions of nojime vs the other methods vary between articles.",
+  "src": [
+   [
+    "Sakana Japan: differences of ikejime, nojime, noujime, shinkei-jime",
+    "https://sakana-japan.com/tighten-distinction/"
+   ],
+   [
+    "Hakata Torakichi: effect of ikejime and nerve removal",
+    "https://hakata-torakichi.jp/2999/"
+   ],
+   [
+    "Poke-m: shinkei-jime and ageing, view from busy restaurants",
+    "https://poke-m.com/stories/360"
+   ]
+  ]
+ },
+ {
+  "cat": "seafood",
+  "name": "Madai ageing data, Yamagata (sea bream: nojime vs shinkei-jime)",
+  "ja": "マダイの熟成に伴う成分変化(山形県)",
+  "prefs": [
+   6
+  ],
+  "text": "A Yamagata prefectural research summary tracked sea bream sashimi components by metabolome analysis over ageing up to day 9, comparing nojime and nerve-removed (shinkei-jime) fish and different body parts. Glutamic acid rose with ageing and was significantly higher in nojime fish. Inosinic acid fell with ageing; shinkei-jime fish held higher levels up to day 3, after which the kill method made no difference.",
+  "flavor": "Umami shifts from inosinic acid dominance early to more glutamic acid later; the study reports compounds, not taste scores.",
+  "use": "Evidence base for deciding how many days to rest sea bream and whether nerve removal still matters after day 3.",
+  "craft": "Reading for a cook: if the fish is rested beyond about 3 days, the inosinic-acid advantage of nerve removal in this dataset disappears, while glutamic acid keeps climbing. Single species and single study; do not extend directly to other fish.",
+  "src": [
+   [
+    "Yamagata Prefecture: madai ageing and component change (PDF)",
+    "https://www.pref.yamagata.jp/documents/25018/madai.pdf"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Jukusei (fish ageing) day guide by species",
+  "ja": "魚の熟成・寝かせ日数の目安",
+  "prefs": [],
+  "text": "Popular guides give resting times by fish. Yellowtail: one article puts inosinic-acid umami at its peak on day 3 after capture and says off-odour appears by day 6. Flounder: 3 to 4 days best in one article, while another citing research puts the inosinic acid maximum at 3 days after death. Buri, hirame and suzuki are generally said to suit 3 to 5 days. Mackerel and horse mackerel spoil fast and are better cooked fresh. Ageing of 13 to 31 days is said to reduce inosinic acid greatly.",
+  "flavor": "Firmer, slightly sweeter, deeper umami in the rested range; ammonia or fishy note signals over-ageing.",
+  "use": "Guides how long to hold whole or dressed fish before cutting for sashimi.",
+  "craft": "These figures come from general articles and vary by source; the sources themselves note that kill method, temperature control and individual fish change the result. Treat as starting points to be checked by tasting, and I found no reliable day count for sea bream outside the Yamagata study.",
+  "src": [
+   [
+    "Tsuri Hack: how to age fish",
+    "https://tsurihack.com/2277"
+   ],
+   [
+    "Bixpy Japan: resting time guide for caught fish",
+    "https://bixpy.jp/blogs/bixpy-japans-official-blog/%E9%87%A3%E3%81%A3%E3%81%9F%E9%AD%9A%E3%82%92%E7%BE%8E%E5%91%B3%E3%81%97%E3%81%8F%E9%A3%9F%E3%81%B9%E3%82%8B-%E7%86%9F%E6%88%90-%E5%AF%9D%E3%81%8B%E3%81%9B%E3%82%8B%E6%99%82%E9%96%93%E3%81%AE%E7%9B%AE%E5%AE%89"
+   ],
+   [
+    "Kawauma: what is fish ageing",
+    "https://kawauma.com/fish-jukusei/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Hira-zukuri / hiki-zukuri (standard sashimi slice)",
+  "ja": "平造り・引き造り",
+  "prefs": [],
+  "text": "The most common sashimi cut: a柵 (saku) block is sliced into thick rectangular pieces, used for fish that are not very thin-fleshed and suited to thick, soft flesh such as tuna and bonito. The knife is drawn in one direction in a single stroke, not sawed. Sources disagree on terms: one treats hiki-zukuri as the same as hira-zukuri, others list them separately.",
+  "flavor": "Thick cut gives body and a clean, cool mouthfeel.",
+  "use": "Tuna, bonito, yellowtail and other thick-fleshed fish; the default slice on a sashimi plate.",
+  "craft": "Draw the blade through once, front to back, without back-and-forth motion. For hira-zukuri set the edge at right angles to the muscle fibres, which gives the better mouthfeel according to one source. Terminology varies by shop, so check which term a kitchen means.",
+  "src": [
+   [
+    "Kikkoman: how to cut sashimi from the saku",
+    "https://www.kikkoman.co.jp/homecook/tsushin/tips0022/"
+   ],
+   [
+    "Haseko: basic cuts hira-zukuri and sogi-giri",
+    "https://www.haseko.co.jp/branchera/magazine/article/recipe-technic24.php"
+   ],
+   [
+    "Kondate: hiki-zukuri and names of cuts",
+    "https://kondate.oisiiryouri.com/sashimi-hikizukuri/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Sogi-zukuri and usu-zukuri (slanted and thin slices)",
+  "ja": "そぎ造り・薄造り",
+  "prefs": [],
+  "text": "Sogi-zukuri sets the knife at a slant and shaves the flesh off the saku; it is most often seen on white-fleshed fish such as sea bream. Usu-zukuri is described as an even thinner version of the same pulled cut. Both suit lean, firm fish where a thick slice would be chewy.",
+  "flavor": "Delicate, translucent slices; the firm flesh stays springy without chewiness.",
+  "use": "Sea bream, flounder and other white fish, often arranged in overlapping rows or rosettes.",
+  "craft": "Hold the blade at a low angle and pull the full length of the edge in one stroke. Thickness is the variable; sources only say usu-zukuri is thinner than sogi-zukuri and give no millimetre figures.",
+  "src": [
+   [
+    "Ginza Watari: sashimi cutting styles",
+    "https://ginzawatari.jp/%E5%88%BA%E8%BA%AB%E3%81%AE%E5%88%87%E3%82%8A%E6%96%B9/"
+   ],
+   [
+    "Kaneki: five ways to cut sashimi",
+    "https://www.kaneki-online.co.jp/view/page/column_howto_cut_sashimi"
+   ],
+   [
+    "Haseko: hira-zukuri and sogi-giri",
+    "https://www.haseko.co.jp/branchera/magazine/article/recipe-technic24.php"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Kaku-zukuri (cube cut)",
+  "ja": "角造り",
+  "prefs": [],
+  "text": "The saku is cut into long square sticks (like a hyoshigi block), then cut across into dice. The result is cubes of flesh, typically for dishes dressed with grated yam (yamakake) or a sauce.",
+  "flavor": "Chunky, with each cube carrying the full flavour of the fish.",
+  "use": "Tuna and other firm fish served with yamakake, wasabi-soy or in donburi and appetisers.",
+  "craft": "Cut sticks of even section first, then dice, so every cube is uniform. Sources describe only the method, with no size standard.",
+  "src": [
+   [
+    "Kagome: how to cut tuna from the saku",
+    "https://www.kagome.co.jp/vegeday/eat/202407/14121/"
+   ],
+   [
+    "Ginza Watari: sashimi cutting styles",
+    "https://ginzawatari.jp/%E5%88%BA%E8%BA%AB%E3%81%AE%E5%88%87%E3%82%8A%E6%96%B9/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Ito-zukuri / hoso-zukuri (thread cut)",
+  "ja": "糸造り・細造り",
+  "prefs": [],
+  "text": "A thin strip cut used for fish too thin-fleshed to be sliced as hira-zukuri, such as squid, sayori and kisu. The flesh is cut into narrow threads, which suits dressed dishes such as aemono. Some sources treat ito-zukuri and hoso-zukuri as one cut, others separately.",
+  "flavor": "Light, delicate texture; takes dressings and citrus well.",
+  "use": "Squid, sayori (halfbeak), kisu (whiting) and similar; also used as a dressed or aemono component.",
+  "craft": "Thin or flat flesh is cut finely to give body in the mouth. Terminology differs between sources.",
+  "src": [
+   [
+    "Temae Itamae: eight basic sashimi techniques",
+    "https://temaeitamae.jp/top/t5/b/sashimi.2.html"
+   ],
+   [
+    "Kikkoman: how to cut sashimi from the saku",
+    "https://www.kikkoman.co.jp/homecook/tsushin/tips0022/"
+   ],
+   [
+    "Ginza Watari: sashimi cutting styles",
+    "https://ginzawatari.jp/%E5%88%BA%E8%BA%AB%E3%81%AE%E5%88%87%E3%82%8A%E6%96%B9/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Kirikake-zukuri and nami-zukuri (scored and wave cuts)",
+  "ja": "切りかけ造り・波造り",
+  "prefs": [],
+  "text": "Kirikake-zukuri is used for fish with tough skin such as mackerel: a shallow cut is made first, then the blade is set at the neighbouring line and the slice is cut free, leaving the scoring in place. Nami-zukuri is used for shellfish and octopus; it follows the sogi-zukuri motion but the blade is moved in a wave to give an uneven surface.",
+  "flavor": "Scoring makes tough skin or chewy flesh easier to bite through; the wavy surface holds sauce.",
+  "use": "Mackerel and other skin-on fish (kirikake); shellfish such as ark shell and octopus (nami).",
+  "craft": "For kirikake, score first and then cut, so the skin does not stay as a tough strip. Sources give the sequence but no depth figures.",
+  "src": [
+   [
+    "Ginza Watari: sashimi cutting styles",
+    "https://ginzawatari.jp/%E5%88%BA%E8%BA%AB%E3%81%AE%E5%88%87%E3%82%8A%E6%96%B9/"
+   ],
+   [
+    "Kaneki: five ways to cut sashimi",
+    "https://www.kaneki-online.co.jp/view/page/column_howto_cut_sashimi"
+   ],
+   [
+    "Temae Itamae: eight basic sashimi techniques",
+    "https://temaeitamae.jp/top/t5/b/sashimi.2.html"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Maguro cuts: akami, chutoro, otoro",
+  "ja": "赤身・中トロ・大トロ",
+  "prefs": [],
+  "text": "The three names mark position on the tuna, not a quality grade. Akami is the lean back meat deep along the spine; chutoro lies on the outer belly and the upper back near the skin; otoro is the lowest, fattiest belly. Akami is lean and relatively firm. Chutoro has no firm definition and the boundary with otoro is not formally set.",
+  "flavor": "Akami: lean, ferrous, firm; chutoro: balanced fat; otoro: very rich and melting.",
+  "use": "Sushi and sashimi, priced in that rising order of fat.",
+  "craft": "Price per 100 g differs widely by source: one article averages otoro 3,800, chutoro 2,500, akami 1,800 yen; a shop site gives otoro 1,300 to 3,000, chutoro 800 to 1,800, akami 600 to 1,200. Prices float with market conditions, so ask the wholesaler.",
+  "src": [
+   [
+    "Tsuri Hack: otoro and chutoro",
+    "https://tsurihack.com/1748"
+   ],
+   [
+    "Patia: tuna cuts and prices",
+    "https://maguro-kaitai.patia-kitchen.jp/column/106/"
+   ],
+   [
+    "Chimney: tuna cuts",
+    "https://www.chimney.co.jp/campaign/maguro/"
+   ],
+   [
+    "Sushi Tanji: akami, chutoro, otoro",
+    "https://sushi-tanji.com/maguro-akami-chutoro-otoro-explained/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Kamatoro (tuna collar fat)",
+  "ja": "カマトロ",
+  "prefs": [],
+  "text": "Kamatoro is the particularly fatty part of the collar (kama) behind the gills of the tuna. It is a small special cut, separate from the belly otoro.",
+  "flavor": "Rich and fatty with a tighter texture from the collar muscle.",
+  "use": "Sold as a premium nigiri or sashimi cut or grilled.",
+  "craft": "Sources say only that it sits behind the gill; no yield figures were found, so confirm size and fat with the supplier.",
+  "src": [
+   [
+    "Gurume-tei: tuna cuts",
+    "https://gurume-tei.com/blog/%E3%83%9E%E3%82%B0%E3%83%AD%E3%81%AE%E9%83%A8%E4%BD%8D.html"
+   ],
+   [
+    "Maruko Suisan: tuna cuts",
+    "https://www.maruko-fish.co.jp/tuna-bui.html"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Hoho-niku (tuna cheek)",
+  "ja": "ほほ肉(マグロ)",
+  "prefs": [],
+  "text": "The cheek of the tuna, from behind the eye to the gill. Only two come from one fish. One explanation says about 1 kg is obtained from 100 kg of fish, making it a rare cut.",
+  "flavor": "Dense, slightly chewy, meaty.",
+  "use": "Sold as sashimi, grilled, or in simmered dishes.",
+  "craft": "Retail price from a shop is given as roughly 500 to 1,000 yen per 100 g; values fluctuate. Yield per fish is a rough figure only.",
+  "src": [
+   [
+    "Aomori Kaisan: tuna cuts",
+    "https://www.aomorikaisan.jp/?mode=f3"
+   ],
+   [
+    "Uopochi: tuna cuts FAQ",
+    "https://support.uopochi.jp/%E3%83%9E%E3%82%B0%E3%83%AD%E3%81%AE%E9%83%A8%E4%BD%8D%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6"
+   ],
+   [
+    "Gyogun: tuna broken down into cuts at Tsukiji",
+    "https://gyogun.net/blog/visiting/maguro_bui/"
+   ]
+  ]
+ },
+ {
+  "cat": "seafood",
+  "name": "Oma tuna and the 2018 hatsuseri sale",
+  "ja": "大間まぐろ・初競り",
+  "prefs": [
+   2,
+   13
+  ],
+  "text": "A trade article reports that at the first auction of the year on early morning of 5 January 2018, a 405 kg Oma tuna sold for 36.45 million yen. Oma is in Aomori. At Toyosu, nakaoroshi (intermediate wholesalers) judge a whole tuna by looking at a small window cut into the tail cross-section.",
+  "flavor": "Oma tuna is marketed on fat quality; the sources saw give no figures.",
+  "use": "Hatsuseri prices are publicity prices; the fish is cut up for sushi restaurants.",
+  "craft": "Whole-fish judgement is made from the tail section. The sources I saw did not describe grading criteria or the tail-cutting procedure in detail, and I could not verify Oma brand rules in these results.",
+  "src": [
+   [
+    "Gyogun Walker: tuna cut up at Tsukiji",
+    "https://gyogun.net/blog/visiting/maguro_bui/"
+   ],
+   [
+    "Patia: tuna cuts",
+    "https://maguro-kaitai.patia-kitchen.jp/column/106/"
+   ],
+   [
+    "Tsuri Hack: otoro and chutoro",
+    "https://tsurihack.com/1748"
+   ]
+  ]
+ },
+ {
+  "cat": "seafood",
+  "name": "Seki-aji (Saganoseki horse mackerel)",
+  "ja": "関あじ",
+  "prefs": [
+   44
+  ],
+  "text": "Brand horse mackerel from Saganoseki, Oita City. Fish may carry the name only if three conditions are met: caught on a single line (ipponzuri) by the Oita Prefecture Fishery Coop Saganoseki branch, selected by 'mengai' (visual buying), and ikejime-killed. The name was registered as a trademark, reported as the first for a fishery product in Japan.",
+  "flavor": "Sold at premium prices on the strength of single-line catch and ikejime handling.",
+  "use": "Sold as live-killed, hand-processed fish at premium prices; used for sashimi.",
+  "craft": "At shipping, each fish is bled (ikejime) and has its nerve removed by hand, one fish at a time, to keep flesh soft and fresh. Mengai selection means buyers judge size and quality by eye.",
+  "src": [
+   [
+    "Hachimenroppi: Seki-aji",
+    "https://hachimenroppi.com/brand/1276/"
+   ],
+   [
+    "Become: Seki-aji",
+    "https://www.become.co.jp/food/seafood/agitation/%E9%96%A2%E3%82%A2%E3%82%B8.html"
+   ],
+   [
+    "Oita Prefecture: Seki-aji and Seki-saba",
+    "https://edit.pref.oita.jp/news-columns/2291/"
+   ],
+   [
+    "Oita Yutakana Umidukuri: Seki-aji and Seki-saba",
+    "https://yutakana-umidukuri.pref.oita.jp/features/detail/c0930c89-2467-4452-8057-43d821ab8c1e"
+   ]
+  ]
+ },
+ {
+  "cat": "seafood",
+  "name": "Seki-saba (Saganoseki mackerel)",
+  "ja": "関さば",
+  "prefs": [
+   44
+  ],
+  "text": "Brand chub mackerel (masaba) from Saganoseki, Oita City. The fish is caught by single line, held in a keep net to settle, then bought by 'mengai': buyers judge weight and size by looking from above the net. It is then killed by ikejime and shipped.",
+  "flavor": "Sold as a premium mackerel; the sources give no sensory description.",
+  "use": "Premium mackerel sold ikejime-handled from the Saganoseki branch.",
+  "craft": "Resting fish in the net before shipping and visual buying are the brand's quality steps. Sources here give no weight thresholds.",
+  "src": [
+   [
+    "Suisan Shinko Museum: premium brand mackerel",
+    "https://museum.suisan-shinkou.or.jp/guide/saba-aji/1485/"
+   ],
+   [
+    "Hachimenroppi: Seki-saba",
+    "https://hachimenroppi.com/brand/1279/"
+   ],
+   [
+    "Nihonmono: Oita Fisheries Coop Saganoseki",
+    "https://nihonmono.jp/article/39939/"
+   ]
+  ]
+ },
+ {
+  "cat": "seafood",
+  "name": "Kuromon Ichiba (Osaka)",
+  "ja": "黒門市場",
+  "prefs": [
+   27
+  ],
+  "text": "Osaka fish and food market in Nippombashi. Tradition places its start in the Bunsei era (1818 to 1829), when merchants gathered near the black gate of Enmyo-ji temple to sell fish from Sakai and Kishu; the name comes from that gate. Osaka prefecture recognised it as a public market in 1902 (Meiji 35). The arcade is about 580 m long with roughly 150 shops, including many fugu specialists.",
+  "flavor": "Known as Osaka's kitchen; today much of the trade targets overseas visitors.",
+  "use": "Fresh fish, fugu, and prepared foods for local cooks and tourists.",
+  "craft": "Comparison with Kyoto Nishiki: both are reported to be at a turning point with tourism and land prices. Founding dates are tradition and sources vary.",
+  "src": [
+   [
+    "Kuromon market: history",
+    "https://kuromon.com/jp/history/"
+   ],
+   [
+    "Osaka Info: Kuromon market",
+    "https://osaka-info.jp/spot/kuromon-market/"
+   ],
+   [
+    "ktv: Nishiki and Kuromon",
+    "https://www.ktv.jp/news/feature/260109-ichiba/"
+   ]
+  ]
+ },
+ {
+  "cat": "seafood",
+  "name": "Nishiki Ichiba (Kyoto)",
+  "ja": "錦市場",
+  "prefs": [
+   26
+  ],
+  "text": "Kyoto's food market, called the kitchen of Kyoto. Reports say it has a history of over 400 years. A January 2026 broadcast feature described it as 'more arcade than market', with long-established shops closing as the balance between local customers and overseas tourists shifts, a pattern also seen at Osaka's Kuromon.",
+  "flavor": "Kyoto-style fish and pickles; market character is changing with tourism.",
+  "use": "Sourcing for Kyoto cooking and sightseeing.",
+  "craft": "The sources I saw gave no detail on its founding or trade; verify shop-level specialisation locally.",
+  "src": [
+   [
+    "ktv: Nishiki and Kuromon, old shops closing",
+    "https://www.ktv.jp/news/feature/260109-ichiba/"
+   ],
+   [
+    "Nikkei: Kuromon vs Nishiki",
+    "https://www.nikkei.com/article/DGXMZO36379720R11C18A0LKA000/"
+   ]
+  ]
+ },
+ {
+  "cat": "seafood",
+  "name": "Hamo honekiri (pike conger bone cutting)",
+  "ja": "鱧の骨切り",
+  "prefs": [
+   26
+  ],
+  "text": "Hamo has many fine bones, so the flesh is cut to just short of the skin to sever them. Rule of thumb is one sun (about 3 cm) with 24 to 26 knife strokes. Sources differ: 24 as the Kyoto ideal, 25, 26 or 33 also quoted. Kyoto restaurant Tankuma says 24 to 26 and practises 26. Season is June to July, around Gion Festival.",
+  "flavor": "Sweet, light white flesh; bones are unnoticeable when cut finely.",
+  "use": "Hamo otoshi, yubiki, tempura, simmered soup (hamo-suimono).",
+  "craft": "Leave the skin intact and cut every bone; a miss leaves a bone in the bite. Stroke count per sun is a target, not a fixed standard.",
+  "src": [
+   [
+    "Honke Tankuma: hamo bone cutting",
+    "https://tankuma.jp/column/5631/"
+   ],
+   [
+    "Toho University: Hamo",
+    "https://www.lab.toho-u.ac.jp/med/omori/oriental_med/column2/food/20220415-1.html"
+   ],
+   [
+    "WA-TO-BI: hamo bone cutting at Gion Kawakami",
+    "https://watobi.jp/iroha/3477.html"
+   ]
+  ]
+ },
+ {
+  "cat": "seafood",
+  "name": "Hamo otoshi (blanched hamo with ume)",
+  "ja": "鱧落とし",
+  "prefs": [
+   26
+  ],
+  "text": "Boned hamo blanched in hot water and shocked in ice water. Kyoto restaurant Hyoto's method: first the skin side alone for about 30 seconds, then the whole piece for about 10 seconds, then ice water. Served with ume paste: neri-ume loosened with nikiri sake and mirin. Some shops use sumiso.",
+  "flavor": "Delicate, sweet and fluffy; acidity of ume balances the fat.",
+  "use": "Summer dish in Kyoto around the Gion Festival.",
+  "craft": "Cook the skin first because it takes longer. Add ume in small amounts. Yubiki differs from otoshi in the sources, and details vary.",
+  "src": [
+   [
+    "mihaku: hamo bone cutting and otoshi (Hyoto)",
+    "https://note.com/mihaku_recipe/n/n822322aa5d06"
+   ],
+   [
+    "Kankou JP: hamo otoshi vs yubiki",
+    "https://kankoujp.com/hamo-no-otoshi/"
+   ],
+   [
+    "Koizumi Press: Gion Festival hamo dishes",
+    "https://koizumipress.com/archives/19196"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Fugu-shorishi (fugu handler licence)",
+  "ja": "ふぐ調理師・ふぐ処理師",
+  "prefs": [],
+  "text": "Licence to remove the poison parts of fugu. It is run by prefectures: a facility needs at least one certified handler, or a certified person present when processing. The ministry has set a uniform standard (written test plus practical test on removing toxic parts) aimed at licences valid across prefectures. A reference work notes the licence is still granted by prefectural governors and valid only within that prefecture.",
+  "flavor": "Regulatory term.",
+  "use": "Required to process fugu in restaurants and markets; also relevant to buying pre-processed fugu.",
+  "craft": "Requirements differ by prefecture; one 2025 article says Osaka still asks for work experience at a fugu facility while Tokyo and others dropped that. A December 2023 ministry notice calls for stronger oversight.",
+  "src": [
+   [
+    "Yamanashi Pref.: fugu handling",
+    "https://www.pref.yamanashi.jp/eisei-ykm/hugu_toriatukai.html"
+   ],
+   [
+    "Nikkei: unified fugu handling qualification",
+    "https://www.nikkei.com/article/DGXMZO46716620Y9A620C1CR8000/"
+   ],
+   [
+    "Wikipedia: fugu chorishi",
+    "https://ja.wikipedia.org/wiki/%E3%81%B5%E3%81%90%E8%AA%BF%E7%90%86%E5%B8%AB"
+   ],
+   [
+    "MHLW notice (PDF)",
+    "https://www.mhlw.go.jp/content/001179724.pdf"
+   ]
+  ]
+ },
+ {
+  "cat": "seafood",
+  "name": "Arimaki-zake (salted whole salmon, Iwate method)",
+  "ja": "新巻鮭",
+  "prefs": [
+   3
+  ],
+  "text": "Gutted, gilled whole salmon cured in salt then wind-dried. The Iwate Fisheries Technology Center procedure uses salt at about 15% of fish weight, rubbed in from tail to head, held 2 to 3 days in a cool dark place, then pressed with about 10 kg weight for 2 to 4 days. A home record with king salmon used about 10% salt, 7 days of curing and 5 hours of desalting before air-drying.",
+  "flavor": "Most arimaki is lightly salted (amajio).",
+  "use": "Cut and grilled, or simmered; desalted before cooking.",
+  "craft": "Gills are cut out first; chopsticks hold the belly open so the cavity dries. For cut pieces, desalt in 1 to 3% brine for half a day to a day; Iwate says overnight in plain water, or 30 minutes to keep a traditional salty taste.",
+  "src": [
+   [
+    "Iwate Fisheries Technology Center: arimaki salmon (PDF)",
+    "https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/008/509/aramaki.pdf"
+   ],
+   [
+    "macaroni: how to eat arimaki",
+    "https://macaro-ni.jp/48133"
+   ],
+   [
+    "Peatshop: arimaki smoked",
+    "https://www.peatshop.com/smoke/aramakisake.htm"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Shiobiki-zake vs arimaki-zake",
+  "ja": "塩引き鮭",
+  "prefs": [],
+  "text": "Shiobiki-zake uses a large amount of salt and is salty, and is said to be dried for longer. Most arimaki salmon is the lighter amajio style. The two are both salted salmon but differ in salt load and drying.",
+  "flavor": "Shiobiki: strongly salty; arimaki: milder.",
+  "use": "Desalted before use; kept as preserved food.",
+  "craft": "Judge salt by the desalting needed. The source here states the contrast without percentages.",
+  "src": [
+   [
+    "Delish Kitchen: shiobiki-zake",
+    "https://delishkitchen.tv/articles/185"
+   ],
+   [
+    "Mirai no Okanemochi: arimaki guide",
+    "https://mirainookanemoti.com/salty-salmon/cooking-recipe-collection/fish-dishes/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Mukae-jio / yobi-jio (brine desalting)",
+  "ja": "迎え塩・呼び塩",
+  "prefs": [],
+  "text": "Desalting by soaking in dilute brine rather than fresh water. 'Mukae-jio' is given as 1 to 1.5% brine for 4 to 5 hours. 'Yobi-jio' is the same for salted ikura: soak overnight in thin brine to draw out salt. Salmon pieces are also soaked in 1 to 3% brine for half a day to a day.",
+  "flavor": "Removes harshness while keeping flesh firmer than plain water.",
+  "use": "Salted salmon, salted ikura, other salted fish.",
+  "craft": "Brine strength and time vary by source; taste to confirm.",
+  "src": [
+   [
+    "macaroni: how to desalt salted salmon",
+    "https://macaro-ni.jp/36611"
+   ],
+   [
+    "Kurashi Trial: ikura shoyu-zuke",
+    "https://www.trial-net.co.jp/mag/detail/11204/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Ikura shoyu-zuke from raw sujiko",
+  "ja": "いくら醤油漬け",
+  "prefs": [],
+  "text": "Ikura is made by separating raw salmon roe skeins (sujiko) in 30 to 40 C salted warm water, rubbing the membrane apart by hand. Membrane and blood are floated off by repeated rinsing in water or brine. The dressing is soy sauce, sake and mirin, with sake and mirin boiled to drive off alcohol, then soy added and cooled. Recipes say it is good after 2 to 3 days, or 1 to 3 days, refrigerated.",
+  "flavor": "Clear popping skin, sweet-salty soy.",
+  "use": "Rice bowls, sushi, side dish.",
+  "craft": "Cool water makes the roe hard and hard to separate; warm brine is the standard. Dressing ratios differ among recipes.",
+  "src": [
+   [
+    "Kurashi Trial: ikura shoyu-zuke",
+    "https://www.trial-net.co.jp/mag/detail/11204/"
+   ],
+   [
+    "All About: ikura shoyu-zuke",
+    "https://allabout.co.jp/gm/gc/378254/"
+   ],
+   [
+    "Delish Kitchen: ikura from sujiko",
+    "https://delishkitchen.tv/recipes/212407178697376047"
+   ]
+  ]
+ },
+ {
+  "cat": "seafood",
+  "name": "Odawara kamaboko",
+  "ja": "小田原かまぼこ",
+  "prefs": [
+   14
+  ],
+  "text": "Steamed fish-paste on a board from Odawara. Per MAFF, production became established in the Edo period. Products meeting the 'ten articles' of the Odawara Kamaboko cooperative are certified. White fish such as guchi (ishimochi) is washed to remove fat and blood, strained, mounded onto a board and steamed. The earliest written mention is traced to a Heian banquet illustration (1115 per some sources).",
+  "flavor": "Springy (ashi) fine white paste.",
+  "use": "Sliced cold, in osechi, soba and oden.",
+  "craft": "Washing the minced fish removes fat and blood. East Japan tends to tall board-mounted steamed kamaboko, west smaller. Sources here are retail and local pages, not the national association.",
+  "src": [
+   [
+    "MAFF: Odawara kamaboko",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/35_19_kanagawa.html"
+   ],
+   [
+    "Chiiki Hyaku: regional kamaboko",
+    "https://chiikihyaku.jp/food/505.html"
+   ],
+   [
+    "Nihon Umai: Odawara fish paste history",
+    "https://nihonumai.com/odawara-fish-paste-history/"
+   ]
+  ]
+ },
+ {
+  "cat": "seafood",
+  "name": "Sendai sasa-kamaboko",
+  "ja": "笹かまぼこ",
+  "prefs": [
+   4
+  ],
+  "text": "Flat, leaf-shaped kamaboko of Sendai shaped to resemble a bamboo leaf (sasa). A table of regional kamaboko says Uwajima's starch-free eso method was learned from Sendai artisans.",
+  "flavor": "Soft, springy and lightly sweet.",
+  "use": "Eaten as it is, lightly grilled, or in sets.",
+  "craft": "Lacks detail on ratios in the sources I saw.",
+  "src": [
+   [
+    "Kamaboko types and history (e-sutokama)",
+    "https://e-sutokama.com/kamaboko-type"
+   ],
+   [
+    "Chiiki Hyaku: regional kamaboko",
+    "https://chiikihyaku.jp/food/505.html"
+   ]
+  ]
+ },
+ {
+  "cat": "seafood",
+  "name": "Uwajima eso kamaboko (starch-free)",
+  "ja": "宇和島のかまぼこ(エソ)",
+  "prefs": [
+   38
+  ],
+  "text": "Uwajima kamaboko is made without starch, from eso (lizardfish) alone. The method is said to have been learned from Sendai artisans.",
+  "flavor": "Pure fish taste, firm.",
+  "use": "Eaten as kamaboko.",
+  "craft": "Eso-only formula means texture comes from the fish. I could not confirm jakoten details in my results.",
+  "src": [
+   [
+    "Kamaboko types and history (e-sutokama)",
+    "https://e-sutokama.com/kamaboko-type"
+   ]
+  ]
+ },
+ {
+  "cat": "seafood",
+  "name": "Toyohashi chikuwa",
+  "ja": "豊橋ちくわ",
+  "prefs": [
+   23
+  ],
+  "text": "Toyohashi chikuwa is said to have developed as a way to use the fish landed at the local fish market.",
+  "flavor": "Grilled fish-paste tube, savoury.",
+  "use": "Eaten as it is, in oden and tempura.",
+  "craft": "Sources I saw are brief; confirm production details with a maker.",
+  "src": [
+   [
+    "Kamaboko types and history (e-sutokama)",
+    "https://e-sutokama.com/kamaboko-type"
+   ],
+   [
+    "Chiiki Hyaku: regional kamaboko",
+    "https://chiikihyaku.jp/food/505.html"
+   ]
+  ]
+ },
+ {
+  "cat": "seafood",
+  "name": "Satsuma-age (tsukeage)",
+  "ja": "さつま揚げ",
+  "prefs": [
+   46
+  ],
+  "text": "Satsuma-age is kamaboko (fish paste) that is deep-fried instead of steamed. In Kagoshima it is also called tsukeage. The sources I saw give no process figures.",
+  "flavor": "Savoury, oily surface with soft paste inside.",
+  "use": "Eaten as it is, simmered in oden.",
+  "craft": "Sources are short and give no process data.",
+  "src": [
+   [
+    "Kamaboko types and history (e-sutokama)",
+    "https://e-sutokama.com/kamaboko-type"
+   ],
+   [
+    "Chiiki Hyaku: regional kamaboko",
+    "https://chiikihyaku.jp/food/505.html"
+   ]
+  ]
+ }
+]

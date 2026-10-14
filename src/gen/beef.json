@@ -1,0 +1,635 @@
+[
+ {
+  "cat": "glossary",
+  "name": "Beef carcass grading (Kakuzuke): the 15-cell A5 to C1 system",
+  "ja": "牛枝肉の格付(A5・B3など)",
+  "prefs": [],
+  "text": "Japanese beef carcasses are graded by the Japan Meat Grading Association (JMGA) under the beef carcass trading standard. Two grades are combined: a yield grade (A, B, C) and a meat quality grade (1 to 5), giving 15 cells in all, e.g. A5 or B3. The letter says how much saleable meat the carcass yields; the number rates the meat itself, mainly marbling, with colour, firmness and fat quality also counted.",
+  "flavor": "Grade is a visual, carcass-side assessment; it contains no direct taste or eating-quality item.",
+  "use": "Used at carcass markets, in brand criteria (e.g. 'grade 4 or above', 'A5 or B5 only') and on menus as shorthand for quality tier.",
+  "craft": "Read the two characters separately: the letter is a cutting-yield matter, the number a meat-quality matter. A5 is therefore not a flavour rating; a lean, grass-fed style beef can be excellent and still grade low. Sources note that published BMS-to-grade tables come from retailers and are not an official correspondence, so check the JMGA standard itself.",
+  "src": [
+   [
+    "JMGA beef carcass trading standard",
+    "https://www.jmga.or.jp/standard/beef/"
+   ],
+   [
+    "ALIC: how meat is ranked",
+    "https://www.alic.go.jp/koho/kikaku03_001157.html"
+   ],
+   [
+    "Meatbook: A5 rank explained",
+    "https://meatbook.jp/a5-rank/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Yield grade (Buodomari toukyuu) A, B, C",
+  "ja": "歩留等級",
+  "prefs": [],
+  "text": "The yield grade shows how much saleable meat can be taken from a carcass; A is the highest and C the lowest. One source gives the yield-standard values as 72 or above for A, 69 to under 72 for B and under 69 for C. It is the letter half of a grade such as A5 or B4.",
+  "flavor": "Not a flavour measure; it describes cutting yield only.",
+  "use": "Brand specifications often restrict the letter, e.g. Maesawa beef accepts only A or B, and Sendai beef requires A5 or B5.",
+  "craft": "A B-yield carcass can carry top meat quality; Sendai beef explicitly admits B5. For a buyer, yield matters to cost per usable kilogram, not to eating quality. Confirm the numeric thresholds in the official JMGA standard before quoting them, since the figures here come from a secondary explainer.",
+  "src": [
+   [
+    "Meatbook: A5 rank explained",
+    "https://meatbook.jp/a5-rank/"
+   ],
+   [
+    "ALIC: how meat is ranked",
+    "https://www.alic.go.jp/koho/kikaku03_001157.html"
+   ],
+   [
+    "JMGA beef carcass trading standard",
+    "https://www.jmga.or.jp/standard/beef/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Meat quality grade (Nikushitsu toukyuu) 1 to 5",
+  "ja": "肉質等級",
+  "prefs": [],
+  "text": "The meat quality grade runs from 1 to 5. Under the JMGA standard it is judged mainly on marbling (fat intermixing) of the longissimus muscle, with meat colour, firmness and texture, and fat quality also taken into account. Grade 5 is the highest and is described as having a very large amount of marbling.",
+  "flavor": "Higher numbers mean richer, softer, fattier beef; lower numbers mean leaner, firmer meat.",
+  "use": "Most brand definitions set a floor on this number: Maesawa 4 or above, Miyazaki beef 4 or above, Hida 3 to 5 (per a retailer), Kumamoto Akaushi 2 or above.",
+  "craft": "Marbling is the main item but not the only one: colour, firmness and fat quality are also counted. Do not equate the number with taste; no taste item exists in the standard.",
+  "src": [
+   [
+    "JMGA beef carcass trading standard",
+    "https://www.jmga.or.jp/standard/beef/"
+   ],
+   [
+    "ALIC: how meat is ranked",
+    "https://www.alic.go.jp/koho/kikaku03_001157.html"
+   ],
+   [
+    "Nikuzou: meat quality grade",
+    "https://nikuzou.jp/user_data/grade2/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "BMS (Beef Marbling Standard) No.1 to No.12",
+  "ja": "BMS(ビーフ・マーブリング・スタンダード)",
+  "prefs": [],
+  "text": "BMS is the numeric scale for marbling in Japan, rated 1 to 12; a higher number means more marbling. It is the main component of the meat quality grade. Some brands state BMS directly: Kobe Beef requires No.6 or above, and one brand page says Saga Beef requires grade 5, or grade 4 with BMS No.7 or above.",
+  "flavor": "Describes fat intermixing only: No.1 is nearly lean, No.12 is the heaviest marbling.",
+  "use": "Used on grading certificates and in brand criteria, and by buyers to specify steak versus thin-slice (sukiyaki, shabu-shabu) lots.",
+  "craft": "Check the BMS number on the certificate rather than relying on the A5 label, since A5 spans a range of BMS values. Sources state that the BMS-to-grade table sold by retailers is not an official correspondence.",
+  "src": [
+   [
+    "Kobe Niku criteria",
+    "https://www.kobe-niku.jp/contents/about/criteria.html"
+   ],
+   [
+    "Fukuoka meat brand page (Saga beef)",
+    "https://www.fk-meat.co.jp/wp/brand/"
+   ],
+   [
+    "Meatbook: A5 rank explained",
+    "https://meatbook.jp/a5-rank/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Japanese Black (Kuroge Washu)",
+  "ja": "黒毛和種",
+  "prefs": [],
+  "text": "The dominant wagyu breed. One explainer puts it at about 1.73 million head, 98.4% of the four wagyu breeds; another source cites about 1.76 million head total for the four breeds as of January 2025, so counts depend on date and source. It is the breed behind nearly all famous brand beef and is known for fine-grained meat that marbles readily.",
+  "flavor": "Fine texture, sweet fat, heavy marbling when fattened long.",
+  "use": "The required breed in most brand definitions (Maesawa, Miyazaki, Kagoshima Kuroushi, Hitachi, Tochigi and others).",
+  "craft": "'Wagyu' legally means the four breeds (Black, Brown, Shorthorn, Polled) and their crosses, but brand names usually narrow it to Japanese Black. Ask for the breed on the individual-ID record; do not assume.",
+  "src": [
+   [
+    "Nikuzou: what is Kuroge Wagyu",
+    "https://nikuzou.jp/user_data/whats/"
+   ],
+   [
+    "ALIC: facts about wagyu",
+    "https://www.alic.go.jp/koho/kikaku03_001687.html"
+   ],
+   [
+    "Meatbook: four wagyu breeds",
+    "https://meatbook.jp/wagyu-types/"
+   ]
+  ]
+ },
+ {
+  "cat": "meat",
+  "name": "Japanese Brown (Akage Washu, Akaushi)",
+  "ja": "褐毛和種(あか牛)",
+  "prefs": [
+   43,
+   39
+  ],
+  "text": "Reddish-brown wagyu raised mainly in Kumamoto and Kochi, and called akaushi. One breakdown gives about 22,000 head, 1.3% of wagyu. The meat is described as red-meat dominant with moderate fat. Kumamoto Akaushi has been a registered GI since 2018.",
+  "flavor": "Lean-forward, savoury red meat with light fat.",
+  "use": "Yakiniku, steak, roast and thick cuts where the meat flavour is the point rather than melting fat.",
+  "craft": "Grade it by flavour and texture, not by marbling score: the breed is not bred for high BMS, so a modest grade number is normal. Pasture or grass-based rearing in Aso is cited by producers as a characteristic.",
+  "src": [
+   [
+    "Meatbook: four wagyu breeds",
+    "https://meatbook.jp/wagyu-types/"
+   ],
+   [
+    "Kumamoto Prefecture: Kumamoto Akaushi GI",
+    "https://www.pref.kumamoto.jp/soshiki/77/1407.html"
+   ],
+   [
+    "ALIC: facts about wagyu",
+    "https://www.alic.go.jp/koho/kikaku03_001687.html"
+   ]
+  ]
+ },
+ {
+  "cat": "meat",
+  "name": "Japanese Shorthorn (Nihon Tankaku Washu)",
+  "ja": "日本短角種",
+  "prefs": [
+   3,
+   2,
+   5
+  ],
+  "text": "A wagyu breed from the northern Tohoku region, bred from Nanbu cattle crossed with Shorthorn and recognised as a native beef breed in 1957 (Showa 32). Iwate is by far the largest producer. It is under 1% of Japanese beef; sources cite about 5,600 head (0.3%) or about 7,000 head, so counts differ.",
+  "flavor": "Firm-fibred, savoury red meat with little marbling.",
+  "use": "Grilled, roasted and steak-style cuts; chosen for flavour from lean meat.",
+  "craft": "Raised on the natsuyama-fuyusato system: mother and calf go up to pasture in spring and return to the barn in autumn; natural mating at about 1 bull to 30 to 50 cows is reported. Pasture finishing affects fat colour and flavour, so check feeding history.",
+  "src": [
+   [
+    "NBAFA: Japanese Shorthorn",
+    "https://nbafa.or.jp/knowledge/type04.html"
+   ],
+   [
+    "JA Iwate: Japanese Shorthorn",
+    "https://www.jaiwate.or.jp/shin-iwate/nouchiku/tankaku/"
+   ],
+   [
+    "Nikunofugane: Iwate Tankaku",
+    "https://nikunofugane.com/tankaku"
+   ]
+  ]
+ },
+ {
+  "cat": "meat",
+  "name": "Japanese Polled (Mukaku Washu)",
+  "ja": "無角和種",
+  "prefs": [
+   35
+  ],
+  "text": "A hornless black wagyu breed developed around 1920 in Abu district, Yamaguchi, by crossing native cattle with Aberdeen Angus. Numbers fell to 250 head in 1994 and are now around 200, the smallest of the four wagyu breeds. The meat is lean-dominant with little marbling, and rated next to Japanese Black in quality by one source.",
+  "flavor": "Red-meat flavour, little marbling.",
+  "use": "Specialist lean beef for grilling and roasting; very small supply.",
+  "craft": "Supply is tiny, so expect to buy through the Yamaguchi producers rather than on the open market. Judge as lean beef, not by marbling grade.",
+  "src": [
+   [
+    "Mukaku Wagyu: roots",
+    "https://www.mukakuwagyu.jp/meet/roots.html"
+   ],
+   [
+    "NBAFA: Japanese Polled",
+    "https://nbafa.or.jp/knowledge/type03.html"
+   ],
+   [
+    "Meatbook: four wagyu breeds",
+    "https://meatbook.jp/wagyu-types/"
+   ]
+  ]
+ },
+ {
+  "cat": "meat",
+  "name": "Kumamoto Akaushi (Kumamoto Aka-gyu), GI beef",
+  "ja": "くまもとあか牛",
+  "prefs": [
+   43
+  ],
+  "text": "Registered as a Geographical Indication on 27 September 2018. Kumamoto Prefecture states the rules: Japanese Brown beef of meat quality grade 2 or above, fattened 12 months or more, with Kumamoto as both longest and final rearing place; steers and non-calved heifers only. One source says the Kumamoto line of Japanese Brown was registered as a breed in 1944.",
+  "flavor": "Pronounced red-meat flavour with moderate fat.",
+  "use": "Yakiniku, steak, roast; sold on retail and furusato-nozei markets.",
+  "craft": "The grade floor of 2 is low by brand standards, so confirm the actual carcass grade if you need marbling. Producers stress Aso grassland rearing; ask for farm records.",
+  "src": [
+   [
+    "Kumamoto Prefecture: Akaushi GI",
+    "https://www.pref.kumamoto.jp/soshiki/77/1407.html"
+   ],
+   [
+    "GI Information site: Kumamoto Akaushi",
+    "https://pd.jgic.jp/register/entry/67.html"
+   ],
+   [
+    "Aso Niku Kobo: about Kumamoto Akaushi",
+    "https://aso-niku.com/pages/akage-wagyu/page"
+   ]
+  ]
+ },
+ {
+  "cat": "meat",
+  "name": "Tosa Akaushi (Kochi Japanese Brown)",
+  "ja": "土佐あかうし",
+  "prefs": [
+   39
+  ],
+  "text": "The Japanese Brown wagyu of Kochi, handled alongside Tosa Kuroushi (Tosa Black) under the Tosa Wagyu Brand Promotion Council. Kochi Prefecture reports that from December 2025 (Reiwa 7) the council has been working to raise recognition and sales, and runs a registration system for stores that handle the two brands. Kochi is one of the two main Japanese Brown prefectures.",
+  "flavor": "Red-meat style beef with moderate fat.",
+  "use": "Look for registered handling restaurants and shops in Kochi.",
+  "craft": "My sources did not confirm GI status, grade floors or fattening rules for Tosa Akaushi, so verify them with the council before writing specifications. Use the store registration list to check authenticity.",
+  "src": [
+   [
+    "Kochi Prefecture: Tosa Akaushi / Tosa Kuroushi store registration",
+    "https://www.pref.kochi.lg.jp/doc/2026020900104/"
+   ],
+   [
+    "Meatbook: four wagyu breeds",
+    "https://meatbook.jp/wagyu-types/"
+   ]
+  ]
+ },
+ {
+  "cat": "meat",
+  "name": "Maesawa Beef (Maesawa-gyu)",
+  "ja": "前沢牛",
+  "prefs": [
+   3
+  ],
+  "text": "A trademark of JA Iwate Furusato for Japanese Black fattened in Maesawa, Oshu, Iwate. Rules: birthplace confirmed by the calf registration, a Maesawa-resident producer who rears the animal one year or more, and Maesawa as longest and final rearing place. Carcass must grade meat quality 4 or above with yield A or B, and be shipped through JA Iwate Furusato.",
+  "flavor": "Fine marbling, mild sweet fat.",
+  "use": "Steak, sukiyaki, yakiniku; a classic gift beef of eastern Japan.",
+  "craft": "The grade floor (4 or above, A or B) is the practical test; ask for the certificate. Shipment must go through the trademark holder, so beef sold outside that channel is not Maesawa-gyu.",
+  "src": [
+   [
+    "Maesawa-gyu guide (definition)",
+    "https://www.maesawagyu.net/pdf/guide/Part2.pdf"
+   ],
+   [
+    "Iwate Shokuzai Club: Maesawa-gyu",
+    "https://www.iwate-syokuzaiclub.com/shokuzai/data.php?n=43"
+   ],
+   [
+    "Maesawa-gyu (Wikipedia)",
+    "https://ja.wikipedia.org/wiki/%E5%89%8D%E6%B2%A2%E7%89%9B"
+   ]
+  ]
+ },
+ {
+  "cat": "meat",
+  "name": "Iwate Tankaku Wagyu (Iwate Shorthorn beef)",
+  "ja": "いわて短角和牛",
+  "prefs": [
+   3
+  ],
+  "text": "Beef from Japanese Shorthorn raised in Iwate, which leads Japan in output of the breed. Iwaizumi town is described as the birthplace of tankaku cattle and the home of the natsuyama-fuyusato system. Winter feed is described as hay and fermented feed corn. The breed is under 1% of Japanese beef.",
+  "flavor": "Lean, savoury, firm-fibred red meat.",
+  "use": "Yakiniku, steak and roast where the red-meat flavour is wanted.",
+  "craft": "Lacks heavy marbling by design, so ask for ageing or cutting advice from the producer instead of buying on grade number. One older source calls the meat quality lower than Black but suited to grazing; assessments differ.",
+  "src": [
+   [
+    "JA Iwate: Japanese Shorthorn",
+    "https://www.jaiwate.or.jp/shin-iwate/nouchiku/tankaku/"
+   ],
+   [
+    "Nikunofugane: Iwate Tankaku",
+    "https://nikunofugane.com/tankaku"
+   ],
+   [
+    "Iwate Tankaku Wagyu (Wikipedia)",
+    "https://ja.wikipedia.org/wiki/%E3%81%84%E3%82%8F%E3%81%A6%E7%9F%AD%E8%A7%92%E5%92%8C%E7%89%9B"
+   ]
+  ]
+ },
+ {
+  "cat": "meat",
+  "name": "Tokachi Wagyu (Hokkaido)",
+  "ja": "十勝和牛",
+  "prefs": [
+   1
+  ],
+  "text": "A Hokkaido wagyu brand: meat-type Japanese Black born in Hokkaido and fattened in Tokachi. Producers must be members of the Tokachi Wagyu promotion council, and the animals must be listed at the Hokuren Tokachi carcass market. One article gives annual shipments of about 1,600 head. Long fattening is cited as the way fat is built.",
+  "flavor": "Marbled Black wagyu with sweet fat.",
+  "use": "Steak, yakiniku and sukiyaki; Hokkaido restaurants and gifts.",
+  "craft": "Entry rules are about origin, membership and sale route rather than a published grade floor in the pages seen; ask for the market record. Small annual volume means supply is limited.",
+  "src": [
+   [
+    "Tokachi Wagyu Project: about",
+    "http://tokachiwagyu.com/about.php"
+   ],
+   [
+    "Sora Tokachi: Tokachi beef",
+    "https://media.soratokachi.com/news/tokachi-beef"
+   ]
+  ]
+ },
+ {
+  "cat": "meat",
+  "name": "Sendai Beef (Sendai-gyu)",
+  "ja": "仙台牛",
+  "prefs": [
+   4
+  ],
+  "text": "Miyagi's brand. Sendai Beef must be Japanese Black fattened by registered Miyagi farms and presented at markets or shows approved by the Sendai Beef brand promotion council, and the carcass must grade A5 or B5. Wikipedia as quoted by one source calls its restrictions the strictest in Japan, with Saga Beef second.",
+  "flavor": "Top-grade marbling, soft sweet fat.",
+  "use": "Steak, yakiniku, sukiyaki. Not to be confused with Sendai gyutan, the tongue dish.",
+  "craft": "Only 5-grade meat quality qualifies, so the brand is a pure top-tier cut regardless of yield letter (A or B). Ask for the grade certificate.",
+  "src": [
+   [
+    "JA Kumamoto Keizairen: brands (Sendai criteria)",
+    "https://www.jakk.or.jp/kumamoto-chikusan/"
+   ],
+   [
+    "Fukuoka meat brand page",
+    "https://www.fk-meat.co.jp/wp/brand/"
+   ]
+  ]
+ },
+ {
+  "cat": "meat",
+  "name": "Kumamoto Kuroge Wagyu",
+  "ja": "くまもと黒毛和牛",
+  "prefs": [
+   43
+  ],
+  "text": "Kumamoto's Japanese Black brand: meat quality grade 3 or above, fattened in the prefecture for at least 12 months. It sits alongside the Akaushi, the prefecture's Japanese Brown, as the two pillars of Kumamoto beef.",
+  "flavor": "Moderately marbled Black wagyu.",
+  "use": "Table beef, yakiniku, steak.",
+  "craft": "The grade 3 floor is lower than most prestige brands, so for high marbling ask the carcass grade. 12 months fattening is the stated minimum.",
+  "src": [
+   [
+    "JA Kumamoto Keizairen: Kumamoto meat",
+    "https://www.jakk.or.jp/kumamoto-chikusan/"
+   ]
+  ]
+ },
+ {
+  "cat": "meat",
+  "name": "Hitachi Beef (Hitachi-gyu)",
+  "ja": "常陸牛",
+  "prefs": [
+   8
+  ],
+  "text": "Ibaraki's brand wagyu. A retailer summary says it requires a designated-producer system, rearing in Ibaraki for the longest period, and a JMGA grade at or above yield B and meat quality 4. Details beyond that were truncated in the search summary.",
+  "flavor": "Marbled Black wagyu.",
+  "use": "Steak, sukiyaki, yakiniku in Kanto restaurants and gifts.",
+  "craft": "This entry relies on a retailer page, not the promotion council, so confirm the exact grade rule with the council. Check designated-producer status.",
+  "src": [
+   [
+    "Niku no Iijima: Hitachi-gyu",
+    "https://nikunoiijima.co.jp/f/hitachigyu"
+   ]
+  ]
+ },
+ {
+  "cat": "meat",
+  "name": "Tochigi Wagyu",
+  "ja": "とちぎ和牛",
+  "prefs": [
+   9
+  ],
+  "text": "Tochigi's brand: pedigree-clear Japanese Black calves reared by designated farms. A Kanto brand guide table, not an official definition, lists shipping at 32 months and a quality standard of AB with grade 4 or above.",
+  "flavor": "Black wagyu marbling.",
+  "use": "Regional table beef, yakiniku.",
+  "craft": "The numbers come from a secondary comparison table and may not be official. Verify with the Tochigi brand council.",
+  "src": [
+   [
+    "Gyuniku Igarashi: Kanto brand beef",
+    "https://gyuniku-igarashi.co.jp/gyunikuhakase/3571/"
+   ],
+   [
+    "JA Town: beef",
+    "https://www.ja-town.com/shop/f/f40/"
+   ]
+  ]
+ },
+ {
+  "cat": "meat",
+  "name": "Kagoshima Kuroushi (Kagoshima Black Cattle), GI beef",
+  "ja": "鹿児島黒牛",
+  "prefs": [
+   46
+  ],
+  "text": "Registered as a GI. Per the MAFF-linked GI site, it is Japanese Black beef raised longer in Kagoshima than anywhere else, with Kagoshima as final rearing place, from non-calved females or steers. Tourism sources describe it as winning the national wagyu show repeatedly.",
+  "flavor": "Sweet marbled Black wagyu.",
+  "use": "Steak, shabu-shabu, yakiniku.",
+  "craft": "The GI rule is about breed, sex and rearing place, not a grade floor in the text seen. Check the GI label and carcass grade separately.",
+  "src": [
+   [
+    "GI Information site: Kagoshima Kuroushi",
+    "https://pd.jgic.jp/register/entry/58.html"
+   ],
+   [
+    "Kagoshima Kankou: Kagoshima beef",
+    "https://www.kagoshima-kankou.com/gourmet/meat/beef"
+   ]
+  ]
+ },
+ {
+  "cat": "meat",
+  "name": "Miyazaki Beef (Miyazaki-gyu), GI beef",
+  "ja": "宮崎牛",
+  "prefs": [
+   45
+  ],
+  "text": "Japanese Black produced in Miyazaki with meat quality grade 4 or above and Miyazaki as the longest rearing place; registered as a GI on 15 December 2017. Sources disagree on its wagyu-show record: the official site says three consecutive top prizes at the national wagyu show, another explainer says four.",
+  "flavor": "Fine marbling, clean fat.",
+  "use": "Steak, yakiniku, sukiyaki, gifts.",
+  "craft": "Grade 4 or above is the floor; quote the win count only with the official site as source. Calf pedigree and birthplace rules also exist.",
+  "src": [
+   [
+    "GI Information site: Miyazaki beef",
+    "https://pd.jgic.jp/register/entry/55.html"
+   ],
+   [
+    "Miyazaki Beef promotion council",
+    "https://www.miyazakigyu.jp/miyazakibeef/"
+   ]
+  ]
+ },
+ {
+  "cat": "meat",
+  "name": "Nagasaki Wagyu",
+  "ja": "長崎和牛",
+  "prefs": [
+   42
+  ],
+  "text": "A collective term for wagyu fattened by producers on the Nagasaki Wagyu registration system. The name itself does not require a grade; carcasses graded A or B at 4 or above are sold under the Nagasaki-gyu brand. It won the Prime Minister's Prize in the beef division at the 10th National Wagyu Show in 2012.",
+  "flavor": "Bright red meat, smooth and soft.",
+  "use": "Table beef, yakiniku, steak.",
+  "craft": "Ask which label applies: the registration name or the grade-4-or-above brand.",
+  "src": [
+   [
+    "Nagasaki Wagyu brand council",
+    "https://nagasakiwagyu-brand.jp/about/"
+   ],
+   [
+    "Kotobank: Nagasaki Wagyu",
+    "https://kotobank.jp/word/%E9%95%B7%E5%B4%8E%E5%92%8C%E7%89%9B-1698089"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Misuji (top blade, shoulder clod)",
+  "ja": "ミスジ",
+  "prefs": [],
+  "text": "A shoulder cut from behind the shoulder blade, described as well marbled and tender and available only in small quantity. In cross-section a sinew runs through the centre, which is the identification point.",
+  "flavor": "Tender, marbled, sweet.",
+  "use": "Yakiniku and steak.",
+  "craft": "Look for the central sinew when identifying the cut; it limits how thinly it can be sliced across.",
+  "src": [
+   [
+    "Nikuzou: yakiniku parts",
+    "https://nikuzou.jp/blog/yakiniku_parts/"
+   ],
+   [
+    "Yakiniku Shigaraki: cuts",
+    "https://yakiniku-shigaraki.com/kyoukasyo/bui/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Zabuton (Haneshita, chuck flap)",
+  "ja": "ざぶとん(ハネシタ)",
+  "prefs": [],
+  "text": "Part of the shoulder below the chuck roll, on the rib side. Only a few kilograms per animal are obtained. It has fine, even marbling.",
+  "flavor": "Dense marbling, sweet fat.",
+  "use": "Yakiniku and rare-cut steak.",
+  "craft": "Only a few kilograms exist per animal, so supply depends on how many carcasses are broken down.",
+  "src": [
+   [
+    "Nikuzou: yakiniku parts",
+    "https://nikuzou.jp/blog/yakiniku_parts/"
+   ],
+   [
+    "Akiakane: yakiniku cuts",
+    "https://akiakane.co.jp/yakiniku-bui/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Ichibo (aitchbone, rump cap)",
+  "ja": "イチボ",
+  "prefs": [],
+  "text": "A cut at the tip of the rump, with a balance of lean and marbling, considered a scarce yakiniku cut.",
+  "flavor": "Sweet lean with some fat.",
+  "use": "Yakiniku and steak.",
+  "craft": "Judge the lean-to-fat balance; it is valued for that balance.",
+  "src": [
+   [
+    "Nikuzou: yakiniku parts",
+    "https://nikuzou.jp/blog/yakiniku_parts/"
+   ],
+   [
+    "Akiakane: yakiniku cuts",
+    "https://akiakane.co.jp/yakiniku-bui/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Rump (Ranpu)",
+  "ja": "ランプ",
+  "prefs": [],
+  "text": "A cut from the loin toward the buttock described as lean and tender, with strong red-meat flavour.",
+  "flavor": "Lean umami, tender.",
+  "use": "Yakiniku and steak.",
+  "craft": "A lean cut: avoid overcooking.",
+  "src": [
+   [
+    "Nikuzou: yakiniku parts",
+    "https://nikuzou.jp/blog/yakiniku_parts/"
+   ],
+   [
+    "Yakiniku Shigaraki: cuts",
+    "https://yakiniku-shigaraki.com/kyoukasyo/bui/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Harami (skirt, diaphragm)",
+  "ja": "ハラミ",
+  "prefs": [],
+  "text": "Classed as offal, but in taste and appearance close to lean meat. It is soft and juicy with noticeable fat, and lies on the outer side of the diaphragm according to most descriptions.",
+  "flavor": "Juicy, soft, rich.",
+  "use": "Yakiniku staple.",
+  "craft": "Often shown on menus under the lean cuts; treated as offal in legal terms.",
+  "src": [
+   [
+    "Nikuzou: yakiniku parts",
+    "https://nikuzou.jp/blog/yakiniku_parts/"
+   ],
+   [
+    "Yakiniku Shigaraki: cuts",
+    "https://yakiniku-shigaraki.com/kyoukasyo/bui/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Kainomi (rib-end plate)",
+  "ja": "カイノミ",
+  "prefs": [],
+  "text": "One source describes it as part of the belly (bara) with moderate fat and a rich meat character.",
+  "flavor": "Rich, moderately fatty.",
+  "use": "Yakiniku.",
+  "craft": "Only one source described it in my results, so details need confirmation.",
+  "src": [
+   [
+    "Yakiniku Shigaraki: cuts",
+    "https://yakiniku-shigaraki.com/kyoukasyo/bui/"
+   ],
+   [
+    "Nikuzou: yakiniku parts",
+    "https://nikuzou.jp/blog/yakiniku_parts/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Dry-aged beef (Dry Aging, jukusei-niku)",
+  "ja": "ドライエイジング",
+  "prefs": [],
+  "text": "Beef hung in a controlled chamber, uncovered. Quoted conditions: about 0 to 4 C (many studies around 2 C), humidity near 80%, with airflow; another maker states 1 to 2 C and 70 to 80%. In Japan 40 to 60 days is the guideline versus 21 to 28 days in the United States. Yield falls because the dried crust is trimmed, roughly 60 to 70% by one source.",
+  "flavor": "Concentrated, nutty, aged aroma and firmer texture.",
+  "use": "Large steak cuts, bone-in loin and rib.",
+  "craft": "One producer measured shrinkage loss of about 3.3 to 4.7% at 14 days and 4.5 to 6.5% at 21 days, plus 5 to 6.5% trimming loss at 21 days. 'Jukusei-niku' has no legal definition, and Japan's climate and microflora differ from the US, so US day-counts do not transfer.",
+  "src": [
+   [
+    "Dry Aging Beef Japan: method",
+    "https://dryagingbeef.jp/dab_method.html"
+   ],
+   [
+    "Hajime Nikuya: dry aging",
+    "https://hajime-nikuya.com/dry-aging/"
+   ],
+   [
+    "Tamaya: dry vs wet aging",
+    "https://www.1129tamaya.com/2026/06/21/%E3%83%89%E3%83%A9%E3%82%A4%E3%82%A8%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0%E3%81%A8%E3%82%A6%E3%82%A7%E3%83%83%E3%83%88%E3%82%A8%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0%E3%80%81%E4%BD%95%E3%81%8C%E9%81%95/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Wet-aged beef (Wet Aging)",
+  "ja": "ウェットエイジング",
+  "prefs": [],
+  "text": "Beef aged vacuum-packed in the cold, recommended at 0 to 2 C. Because it is sealed, almost no moisture is lost and yield stays high. One source says most beef distributed in Japan is aged this way.",
+  "flavor": "Softer, milder than dry aged; no crust or dried notes.",
+  "use": "Standard for retail and restaurant beef.",
+  "craft": "Home chiller or partial-freezing compartments sit around 0 C and serve as a rough guide. No legal definition of 'jukusei-niku' exists.",
+  "src": [
+   [
+    "Tamaya: dry vs wet aging",
+    "https://www.1129tamaya.com/2026/06/21/%E3%83%89%E3%83%A9%E3%82%A4%E3%82%A8%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0%E3%81%A8%E3%82%A6%E3%82%A7%E3%83%83%E3%83%88%E3%82%A8%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0%E3%80%81%E4%BD%95%E3%81%8C%E9%81%95/"
+   ],
+   [
+    "Kotowari Cooking: meat aging",
+    "https://www.kotowari-cooking.com/note/preparation/meat-aging"
+   ]
+  ]
+ }
+]

@@ -1,0 +1,690 @@
+[
+ {
+  "cat": "glossary",
+  "name": "Ichibanko, nibanko, sanbanko (soba flour grades)",
+  "ja": "一番粉・二番粉・三番粉",
+  "prefs": [],
+  "text": "Soba flour is graded by which part of the kernel it comes from. Ichibanko is sifted from the central endosperm: white and starch-dominant, also called gozenko (御前粉). Nibanko is the next, middle-layer fraction and includes part of the flavourful inner skin (amakawa), so it carries the typical soba colour and aroma; it is the flour commonly used for ordinary soba. Sanbanko is the third fraction.",
+  "flavor": "Ichibanko: pale, mild, sweet-starchy. Nibanko: more colour and aroma. Sanbanko: darker, stronger (sources here give no further detail).",
+  "use": "Ichibanko is the flour for sarashina-style white soba; nibanko is the general-purpose soba flour; the fractions can also be left unsifted (see hikigurumi).",
+  "craft": "Ask the miller which fraction and what blend you are buying: a flour sold as ichibanko behaves and tastes very differently from a nibanko or whole-kernel flour, and the water ratio and aroma expectations change with it. The sources describe the fractions qualitatively only, with no yield or ash figures.",
+  "src": [
+   [
+    "Takayama Seifun: soba flour classification",
+    "https://www.takayamaseihun.co.jp/contents/sobako_type.php"
+   ],
+   [
+    "Takayama Seifun: ichibanko, nibanko and ratios",
+    "https://www.takayamaseihun.co.jp/column/sobadifference-ratio.php"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Hikigurumi (whole-kernel soba flour)",
+  "ja": "挽きぐるみ",
+  "prefs": [],
+  "text": "Hikigurumi is flour milled from the whole buckwheat kernel and used unsifted, so first-, second- and third-grade fractions are all ground in. One definition stresses that it is not a recombination of separately sifted fractions. Sources contrast its flavour and aroma sharply with sifted flours. Togakushi and Izumo soba are both described as made with hikigurumi flour.",
+  "flavor": "Strong aroma and flavour, darker colour (Izumo soba is described as blackish).",
+  "use": "Rustic, dark soba such as Togakushi and Izumo.",
+  "craft": "Check whether a supplier's flour is truly milled unsifted or is a blend of separately sifted fractions; by the stricter definition they are not the same.",
+  "src": [
+   [
+    "Soba Honda: hikigurumi",
+    "https://www.sobahonda.co.jp/blog/soba_hikigurumi/"
+   ],
+   [
+    "Takayama Seifun: soba flour classification",
+    "https://www.takayamaseihun.co.jp/contents/sobako_type.php"
+   ],
+   [
+    "MAFF: Izumo soba",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/izumosoba_shimane.html"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Sarashina soba / sarashina-ko",
+  "ja": "更科そば・更科粉",
+  "prefs": [],
+  "text": "Sarashina soba is the white style of soba made from ichibanko, the sifted central endosperm of the buckwheat kernel, often called gozenko. Because the dark inner skin is excluded, the flour is white and starch-heavy. It sits at the opposite end of the style spectrum from inaka (country) soba made from darker, more fully milled flour.",
+  "flavor": "Pale ivory, delicate, soft and smooth, with little of the pungent buckwheat aroma.",
+  "use": "Refined white soba; the sources found here do not specify service style.",
+  "craft": "A flour this starchy and low in aroma shows every fault in water rolling and boiling; judge it by clarity of colour and smoothness rather than by buckwheat scent. The sources here give only the flour definition, not blending ratios.",
+  "src": [
+   [
+    "Takayama Seifun: ichibanko, nibanko",
+    "https://www.takayamaseihun.co.jp/column/sobadifference-ratio.php"
+   ],
+   [
+    "Soba types: sarashina, inaka, yabu, sunaba, juwari, nihachi",
+    "https://jpnculture.net/soba/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Juwari (100% buckwheat soba)",
+  "ja": "十割そば",
+  "prefs": [],
+  "text": "Juwari soba is made from buckwheat flour alone, with no wheat or other binder. Sources describe a stronger buckwheat aroma but a dough that breaks easily. A water ratio of roughly 40 to 45 percent of flour weight is given in one guide for juwari; another source cites about 45 percent as good for soba in general, so the figure varies by shop and flour.",
+  "flavor": "Strongest buckwheat aroma of the standard blends; short, crumbly bite if the dough is weak.",
+  "use": "Quality-focused soba where aroma is the point; also made with a small binder in other styles.",
+  "craft": "With no gluten the dough relies entirely on thorough staged water rolling and kneading; the guide notes that humid days call for 5 to 10 percent less water. Cutting and boiling are less forgiving than for a wheat-blended dough.",
+  "src": [
+   [
+    "Soba Dokoro Sarashina: ratios and water",
+    "https://sobadokoro-sarashina.com/blog/soba-recipe-ratio-water-steps/"
+   ],
+   [
+    "Takayama Seifun: ratios",
+    "https://www.takayamaseihun.co.jp/column/sobadifference-ratio.php"
+   ],
+   [
+    "Mizkan Water Culture Centre: soba and water",
+    "https://www.mizu.gr.jp/kikanshi/no76/06.html"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Nihachi (80:20 soba)",
+  "ja": "二八そば",
+  "prefs": [],
+  "text": "Nihachi soba is made from eight parts buckwheat flour to two parts wheat flour as binder (tsunagi). It is described as balancing aroma and throat-feel, and as the standard blend. One guide gives a water ratio of about 45 to 50 percent for nihachi against 40 to 45 percent for juwari; another source cites about 45 percent, so treat all of these as starting points.",
+  "flavor": "Balanced: clear buckwheat aroma with a smoother, longer noodle than juwari.",
+  "use": "The standard mixed-flour soba of most shops, hot or cold.",
+  "craft": "The choice of wheat flour (medium-strength, strong or soft) changes how the noodle cuts and eats, according to the sources; adjust water to the buckwheat flour in use and reduce it on humid days.",
+  "src": [
+   [
+    "Soba Dokoro Sarashina: ratios and water",
+    "https://sobadokoro-sarashina.com/blog/soba-recipe-ratio-water-steps/"
+   ],
+   [
+    "Takayama Seifun: ratios",
+    "https://www.takayamaseihun.co.jp/column/sobadifference-ratio.php"
+   ],
+   [
+    "Kotowari: dough for juwari and nihachi",
+    "https://www.kotowari-cooking.com/note/preparation/dough/noodle-dough/soba"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Tsunagi (soba binders)",
+  "ja": "つなぎ",
+  "prefs": [],
+  "text": "Tsunagi is the binder that holds buckwheat dough together because buckwheat flour has no gluten. The standard binder is wheat flour in nihachi (8:2); the choice of medium-strength, strong or soft flour changes breakage and texture. Funori seaweed is the binder of Niigata hegi soba, and juwari uses none.",
+  "flavor": "Wheat binder: smoother, longer noodle. Funori: smooth throat-feel with firm spring.",
+  "use": "Selected per style: wheat for standard soba, funori for hegi soba, none for juwari.",
+  "craft": "Binder choice shifts both cutting reliability and bite, so test any change in flour grade or binder together with the water ratio. The sources here do not give wheat-flour grades or funori dosage.",
+  "src": [
+   [
+    "Soba Dokoro Sarashina: ratios and water",
+    "https://sobadokoro-sarashina.com/blog/soba-recipe-ratio-water-steps/"
+   ],
+   [
+    "Kotowari: dough for juwari and nihachi",
+    "https://www.kotowari-cooking.com/note/preparation/dough/noodle-dough/soba"
+   ],
+   [
+    "Jalan: hegi soba",
+    "https://www.jalan.net/news/article/261098/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Mizumawashi and kikuneri (water rolling and kneading)",
+  "ja": "水回し・菊練り",
+  "prefs": [],
+  "text": "Mizumawashi is the first stage of making soba dough: water is worked evenly into the sifted flour in several additions. One shop sifts the flour, adds about 70 percent of the measured water and stirs with upright fingertips; the crumbs progress from adzuki-bean size toward ping-pong-ball size. Kikuneri is the following kneading, where the rolled mass is compacted and worked into a smooth dough.",
+  "flavor": "Not applicable; a process term (judged by feel, grain size and smell of the crumbs).",
+  "use": "Foundational first stage of hand-made soba.",
+  "craft": "Add water in stages and judge by crumb size, colour and aroma change; add the last water in small amounts only if large dry crumbs remain. Reduce water 5 to 10 percent on humid days, and expect the right amount to vary with the flour type.",
+  "src": [
+   [
+    "Soba Sueyoshi: water rolling tips",
+    "https://soba-sueyoshi.co.jp/faq/2023-10-10-03"
+   ],
+   [
+    "Teutisoba: why soba breaks",
+    "https://teutisoba.com/archives/967"
+   ],
+   [
+    "Mizkan Water Culture Centre: soba and water",
+    "https://www.mizu.gr.jp/kikanshi/no76/06.html"
+   ],
+   [
+    "Adbox: water rolling guide",
+    "https://adbox.org/sobauti-2.html"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Kaeshi (soba sauce base)",
+  "ja": "かえし",
+  "prefs": [],
+  "text": "Kaeshi is the seasoned soy base that is combined with dashi to make soba tsuyu. A commonly quoted formula is koikuchi soy sauce, sugar and mirin at 5:1:1. Three types are distinguished: hon-kaeshi (soy sauce heated to dissolve sugar and mirin), nama-kaeshi (unheated) and han-nama (half-raw) kaeshi. Heating is said to soften the harsh edge of the soy sauce.",
+  "flavor": "Concentrated sweet-salty soy base; mellower when heated and aged.",
+  "use": "Mixed with dashi at the counter for hot or cold soba, and also used for other noodle and simmered dishes.",
+  "craft": "Resting after cooling is standard, but the length varies by source: about one week at room temperature in several, and two weeks to a month in another. Decide the rest time by tasting for roundness rather than from a fixed number of days.",
+  "src": [
+   [
+    "Macaroni: soba tsuyu and kaeshi",
+    "https://macaro-ni.jp/56684"
+   ],
+   [
+    "Higeta: soba tsuyu for professionals",
+    "https://www.higeta.co.jp/sobatsuyu/recipe_pro"
+   ],
+   [
+    "Soba Dokoro Sarashina: tsuyu and kaeshi",
+    "https://sobadokoro-sarashina.com/blog/soba-tsuyu-kaeshi-ratio-recipe-guide/"
+   ],
+   [
+    "Kobayashi Foods: kaeshi",
+    "https://www.kobayashi-foods.co.jp/washoku-no-umami/sobasoup-kaeshi"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Hon-kaeshi vs nama-kaeshi",
+  "ja": "本かえし・生かえし",
+  "prefs": [],
+  "text": "Hon-kaeshi is made by heating soy sauce and dissolving sugar and mirin in it; the heat rounds the soy sauce. Nama-kaeshi is made without heating and, according to one source, must be aged about one month to take the sharpness off the soy sauce. Han-nama (half-raw) kaeshi sits between them. Aging advice for hon-kaeshi runs from about one week to two weeks or a month depending on the source.",
+  "flavor": "Hon-kaeshi: rounded, cooked-sugar depth. Nama-kaeshi: fresher, sharper soy character until aged.",
+  "use": "Hon-kaeshi for conventional hot and cold tsuyu; nama-kaeshi for a fresher, soy-forward line.",
+  "craft": "Cool hon-kaeshi fully before putting it in a lidded container and resting it. Nama-kaeshi demands a longer rest because nothing else tames the soy sauce. Sources disagree on the days required, so taste periodically.",
+  "src": [
+   [
+    "Sukuyaka: kaeshi from a craftsman",
+    "https://sukuyaka.com/kaesi/"
+   ],
+   [
+    "Soba Dokoro Sarashina: tsuyu and kaeshi",
+    "https://sobadokoro-sarashina.com/blog/soba-tsuyu-kaeshi-ratio-recipe-guide/"
+   ],
+   [
+    "Dashi-ya: soba tsuyu",
+    "https://dashi-ya.com/en/blogs/recipe/%E3%81%9D%E3%81%B0%E3%81%A4%E3%82%86%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9"
+   ],
+   [
+    "Macaroni: soba tsuyu and kaeshi",
+    "https://macaro-ni.jp/56684"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Soba tsuyu dilution (hot vs cold)",
+  "ja": "そばつゆ(かけ・もり)の割合",
+  "prefs": [],
+  "text": "Soba tsuyu is kaeshi diluted with dashi. A commonly cited guide is kaeshi to dashi 1:8 for hot kake soup and 1:3 for cold dipping tsuyu. Sources differ on exact ratios and dashi composition, so these are starting points.",
+  "flavor": "Hot soup: gentle, dashi-led. Cold dipping tsuyu: concentrated, salty-sweet to stand up to the noodle.",
+  "use": "Hot soup for kake-style soba; stronger tsuyu for zaru and mori, dipped lightly.",
+  "craft": "Set the cold tsuyu strong enough that a short dip flavours the noodle; check hot soup at serving temperature, not cold. Re-balance whenever the kaeshi batch or its age changes.",
+  "src": [
+   [
+    "Soba Dokoro Sarashina: tsuyu and kaeshi",
+    "https://sobadokoro-sarashina.com/blog/soba-tsuyu-kaeshi-ratio-recipe-guide/"
+   ],
+   [
+    "Higeta: soba tsuyu for professionals",
+    "https://www.higeta.co.jp/sobatsuyu/recipe_pro"
+   ],
+   [
+    "Macaroni: soba tsuyu and kaeshi",
+    "https://macaro-ni.jp/56684"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Soba-yu (noodle cooking water)",
+  "ja": "そば湯",
+  "prefs": [],
+  "text": "Soba-yu is the cloudy water in which the soba was boiled, served at the end of the meal. One recipe source describes keeping it and diluting the leftover tsuyu with it to drink.",
+  "flavor": "Milky, mild buckwheat flavour; the tsuyu turns into a soup when diluted.",
+  "use": "Added to the leftover tsuyu and drunk at the end of the meal.",
+  "craft": "The source describes only keeping the water and using it to dilute leftover tsuyu; no timing or temperature guidance is given.",
+  "src": [
+   [
+    "Macaroni: soba tsuyu and kaeshi",
+    "https://macaro-ni.jp/56684"
+   ]
+  ]
+ },
+ {
+  "cat": "noodle",
+  "name": "Shinano No. 1 (Shinano-ichigo) buckwheat",
+  "ja": "信濃1号",
+  "prefs": [
+   20
+  ],
+  "text": "Shinano No. 1 is Nagano Prefecture's recommended variety and the main one grown there. It was selected from a Fukushima landrace and named in 1944. It is a summer-sown (autumn-crop) type, so the sowing date must be set so that it matures before the first frost.",
+  "flavor": "The standard flavour base of Nagano autumn soba (sources give no tasting detail).",
+  "use": "Autumn new-crop soba flour in Shinshu; the baseline against which other Nagano varieties are compared.",
+  "craft": "For growers: sowing date drives frost risk. For buyers: ask for variety and harvest year, because Nagano also grows earlier-maturing and tetraploid types.",
+  "src": [
+   [
+    "Hokuto Kona: Shinano No. 1",
+    "https://www.hokuto-kona.net/soba/hinshu/sinano-1.html"
+   ],
+   [
+    "Takii: Shinshu-okisoba",
+    "https://www.takii.co.jp/CGI/tsk/shohin/shohin.cgi?breed_seq=00000665"
+   ]
+  ]
+ },
+ {
+  "cat": "noodle",
+  "name": "Shinshu-okisoba (large-seed buckwheat)",
+  "ja": "信州大そば(信州大実そば)",
+  "prefs": [
+   20
+  ],
+  "text": "Shinshu-okisoba is a tetraploid developed by doubling the chromosomes of Shinano No. 1. The seeds are large, with a thousand-kernel weight of about 50 g according to a seed supplier, and yield is higher. It is frost tolerant and resistant to lodging, but has not spread widely.",
+  "flavor": "Large kernels; sources give no sensory description.",
+  "use": "A distinct Nagano variety for growers who want yield and large seed; seen mainly via seed catalogues.",
+  "craft": "Seed-catalogue figures (thousand-kernel weight about 50 g) are the supplier's; the sources give no milling data.",
+  "src": [
+   [
+    "Takii: Shinshu-okisoba",
+    "https://www.takii.co.jp/CGI/tsk/shohin/shohin.cgi?breed_seq=00000665"
+   ],
+   [
+    "Sankyo Seed: Shinshu-okisoba",
+    "https://shop.sankyoseed.co.jp/products/detail/99"
+   ]
+  ]
+ },
+ {
+  "cat": "noodle",
+  "name": "Shinano Natsu-soba (summer buckwheat)",
+  "ja": "しなの夏そば",
+  "prefs": [
+   20
+  ],
+  "text": "Shinano Natsu-soba is a Nagano variety suited to spring sowing and summer harvest, with a short growing period. It allows a summer crop of Shinshu soba rather than the usual autumn crop.",
+  "flavor": "Summer-crop soba (sources give no tasting detail).",
+  "use": "Early new-crop soba flour from Nagano in summer.",
+  "craft": "Spring-sown, short-season type; the sources found give no milling or water-ratio guidance.",
+  "src": [
+   [
+    "Konaya: Shinshu soba cultivation seminar",
+    "https://www.konaya.jp/blog/?p=199"
+   ],
+   [
+    "Hokuto Kona: Shinano No. 1",
+    "https://www.hokuto-kona.net/soba/hinshu/sinano-1.html"
+   ]
+  ]
+ },
+ {
+  "cat": "noodle",
+  "name": "Shinshu zairai (local landrace buckwheat)",
+  "ja": "信州そば 在来種",
+  "prefs": [
+   20
+  ],
+  "text": "Shinshu zairai is a Nagano landrace that matures about one week earlier than Shinano No. 1 and can be sown in spring or autumn according to the seed supplier. It is distinct from the prefecture's recommended variety.",
+  "flavor": "Landrace character, not described in the sources.",
+  "use": "Valued by growers and shops that want a local heritage strain rather than the prefectural standard.",
+  "craft": "Per the seed supplier it matures about one week earlier than Shinano No. 1; confirm the exact lineage with the grower.",
+  "src": [
+   [
+    "Nihon Tane: Shinshu soba zairai",
+    "https://nihontane.co.jp/pages/111/detail=1/b_id=155/r_id=187/"
+   ]
+  ]
+ },
+ {
+  "cat": "noodle",
+  "name": "Shinshu Hisui soba (Nagano S11)",
+  "ja": "信州ひすいそば",
+  "prefs": [
+   20
+  ],
+  "text": "Shinshu Hisui soba (long name Nagano S11) is a Nagano variety trademarked in 2013. It is promoted for a vivid green colour and strong aroma, which the prefecture describes as distinctive.",
+  "flavor": "Green-tinged flour and noodle, aromatic.",
+  "use": "A branded regional soba, sold for colour as well as flavour.",
+  "craft": "The prefecture holds the trademark (2013); consult its page for branding and supply rules.",
+  "src": [
+   [
+    "Nagano Prefecture: Shinshu Hisui soba",
+    "https://www.pref.nagano.lg.jp/nogi/soba/hisuisoba.html"
+   ]
+  ]
+ },
+ {
+  "cat": "noodle",
+  "name": "Kitawase-soba (Hokkaido main variety)",
+  "ja": "キタワセソバ",
+  "prefs": [
+   1
+  ],
+  "text": "Kitawase-soba is the principal buckwheat variety grown in Hokkaido and the reference against which newer varieties are compared; Horokanai stone-ground flour is marketed under this variety name. NARO describes Kitamitsuki as its intended successor.",
+  "flavor": "Standard Hokkaido soba flavour (comparative claims only in the sources).",
+  "use": "Hokkaido-grown flour for hand-made soba, including Horokanai.",
+  "craft": "Check the variety on the bag: newer varieties such as Kitamitsuki are being introduced as successors, so flour from the same town may change over time.",
+  "src": [
+   [
+    "NARO: Kitamitsuki leaflet",
+    "https://www.naro.go.jp/publicity_report/publication/files/harc_leaflet_kitamitsuki.pdf"
+   ],
+   [
+    "Horokanai Promotion Corp: stone-ground flour",
+    "https://soba-horokanai.jp/SHOP/sobauchi002.html"
+   ]
+  ]
+ },
+ {
+  "cat": "noodle",
+  "name": "Kitamitsuki (Hokkaido buckwheat)",
+  "ja": "キタミツキ",
+  "prefs": [
+   1
+  ],
+  "text": "Kitamitsuki is a buckwheat variety bred by NARO's Hokkaido Agricultural Research Center. Compared with Kitawase-soba it is higher yielding, heavier in volume weight and richer in rutin, while taste is described as on a par. It is being promoted as the successor to Kitawase-soba.",
+  "flavor": "Comparable to Kitawase-soba, per the breeders.",
+  "use": "A new Hokkaido flour source; interesting for functional rutin content.",
+  "craft": "Volume weight is a practical grain quality measure; ask suppliers for it. Taste parity is the breeder's claim, so run your own side-by-side.",
+  "src": [
+   [
+    "NARO: Kitamitsuki leaflet",
+    "https://www.naro.go.jp/publicity_report/publication/files/harc_leaflet_kitamitsuki.pdf"
+   ],
+   [
+    "Hokkaido Research Organization: Kitamitsuki report",
+    "https://www.hro.or.jp/upload/18118/04.pdf"
+   ],
+   [
+    "Kachimai: Kitamitsuki",
+    "https://kachimai.jp/article/index.php?no=2020521162040"
+   ]
+  ]
+ },
+ {
+  "cat": "noodle",
+  "name": "Horominori (Horokanai variety)",
+  "ja": "ほろみのり",
+  "prefs": [
+   1
+  ],
+  "text": "Horominori is an original buckwheat variety of Horokanai town, bred by the town's Agricultural Technology Center. The town reports a harvest about 1.3 times that of the earlier line and less variation in quality.",
+  "flavor": "No sensory description in the source.",
+  "use": "Horokanai's own soba, a town-specific cultivar.",
+  "craft": "Because lower variation is the stated gain, the practical test for a miller is lot-to-lot consistency; yield claims are the town's own.",
+  "src": [
+   [
+    "Horokanai Town: Horominori",
+    "https://www.town.horokanai.hokkaido.jp/horokanai-soba/horominori"
+   ]
+  ]
+ },
+ {
+  "cat": "noodle",
+  "name": "Togakushi bocchi-mori (bundle service)",
+  "ja": "戸隠そば ぼっち盛り",
+  "prefs": [
+   20
+  ],
+  "text": "Togakushi soba is served bocchi-mori style: a round bamboo zaru of nemagari-dake, with the noodles divided into five or six small bundles, each called a bocchi. It is made from hikigurumi flour, comes with little water drained off, and takes grated Togakushi daikon as condiment. Togakushi is counted among the three great soba of Japan with Wanko and Izumo.",
+  "flavor": "Rustic, aromatic, pungent daikon accent.",
+  "use": "A cold serving in the Togakushi district of Nagano, eaten with grated daikon.",
+  "craft": "Sources differ on the antiquity of the tradition, so treat origin claims as unconfirmed; the sources do not describe the bundling method in detail.",
+  "src": [
+   [
+    "Wikipedia (ja): Togakushi soba",
+    "https://ja.wikipedia.org/wiki/%E6%88%B8%E9%9A%A0%E3%81%9D%E3%81%B0"
+   ],
+   [
+    "Soba Honda: Togakushi soba",
+    "https://www.sobahonda.co.jp/blog/togakushisoba/"
+   ],
+   [
+    "Web Komachi: Togakushi soba",
+    "https://www.web-komachi.com/?p=249560"
+   ]
+  ]
+ },
+ {
+  "cat": "noodle",
+  "name": "Takato soba (Ina)",
+  "ja": "高遠そば",
+  "prefs": [
+   20
+  ],
+  "text": "Takato soba of the Ina area of Nagano is eaten by dipping the noodle in a tsuyu to which grated-daikon juice (squeezed) and yaki-miso have been added. MAFF's regional-dishes database lists it among Nagano's hand-made soba.",
+  "flavor": "Pungent daikon juice, roasted-miso depth in the dip.",
+  "use": "A cold dipping soba with a miso-daikon tsuyu.",
+  "craft": "The tsuyu is built with squeezed daikon juice and yaki-miso, not plain grated daikon; the sources here give no proportions.",
+  "src": [
+   [
+    "MAFF: hand-made soba, Nagano",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/teuchi_soba_nagano.html"
+   ]
+  ]
+ },
+ {
+  "cat": "noodle",
+  "name": "Itasoba (Yamagata board soba)",
+  "ja": "板そば",
+  "prefs": [
+   6
+  ],
+  "text": "Itasoba of Yamagata is served on a large board-shaped tray. A travel overview describes it as a rather thick, rustic noodle with the whole kernel ground in, giving strong aroma. The sources found are general overviews and give no detailed specification.",
+  "flavor": "Strong aroma, rustic thickness.",
+  "use": "Shared on a long board, dipped in tsuyu.",
+  "craft": "Because the whole kernel is ground in, treat it as a hikigurumi-style rustic cut; check the local shop's own specification for water ratio and cut thickness.",
+  "src": [
+   [
+    "Local soba overview (l-h.co.jp)",
+    "https://www.l-h.co.jp/soba/kyoudosoba.html"
+   ],
+   [
+    "Gotouchi soba list",
+    "https://www.alkashgo.com/gotouchi/"
+   ]
+  ]
+ },
+ {
+  "cat": "noodle",
+  "name": "Aizu soba",
+  "ja": "会津そば",
+  "prefs": [
+   7
+  ],
+  "text": "Aizu soba of Fukushima is described in overview sources as grown in Aizu's cool climate and once a festive dish. It is made with whole kernel flour, giving strong flavour and aroma. The sources found are general and do not give technical specifications.",
+  "flavor": "Strong flavour and aroma.",
+  "use": "A festive and regional soba of the Aizu region.",
+  "craft": "Specific method (flour fraction, binder, water ratio) is not documented in the sources found; consult the shops directly.",
+  "src": [
+   [
+    "Local soba overview (l-h.co.jp)",
+    "https://www.l-h.co.jp/soba/kyoudosoba.html"
+   ],
+   [
+    "Gotouchi soba list",
+    "https://www.alkashgo.com/gotouchi/"
+   ]
+  ]
+ },
+ {
+  "cat": "seaweed",
+  "name": "Funori as soba binder (Uonuma / hegi soba)",
+  "ja": "布海苔(へぎそばのつなぎ)",
+  "prefs": [
+   15
+  ],
+  "text": "Hegi soba of Niigata uses funori seaweed as its binder instead of wheat flour, and is served in a wooden tray called a hegi. One source says funori was originally used to stiffen weft threads in textile work, which is how its use in soba arose. The dish has been certified as a 100-year food by the Japanese cultural agency.",
+  "flavor": "Smooth throat-feel, firm spring, faint funori aroma.",
+  "use": "Binder for hegi soba, a Niigata regional soba.",
+  "craft": "Funori gives a noodle with firmer spring than a wheat-bound one; the sources do not state dosage or dissolution method, so consult the specific shop.",
+  "src": [
+   [
+    "Jalan: hegi soba",
+    "https://www.jalan.net/news/article/261098/"
+   ],
+   [
+    "How to Niigata: hegi soba",
+    "https://howtoniigata.jp/article/jimoto/39592/"
+   ],
+   [
+    "Kankou JP: hegi soba",
+    "https://kankoujp.com/hegi-soba/"
+   ]
+  ]
+ },
+ {
+  "cat": "noodle",
+  "name": "Honba Okinawa soba designation",
+  "ja": "本場沖縄そば(名称認可)",
+  "prefs": [
+   47
+  ],
+  "text": "Okinawa soba contains no buckwheat: it is made from wheat flour, with kansui or traditional wood-ash lye, and is classified as chuka men under the fair competition code. A 1976 Fair Trade Commission query was raised because the code defines soba as at least 30 percent buckwheat flour. Use of the name was allowed within the prefecture in 1977 and approved on 17 October 1978 as honba Okinawa soba under conditions; that date is now Okinawa Soba Day.",
+  "flavor": "Wheat noodle with a lye (kansui or ash) character; broth-based.",
+  "use": "Served with sanmai-niku pork belly, kamaboko and green onion as standard toppings.",
+  "craft": "The name is legally protected with conditions, including production in Okinawa; sources differ on the exact timing (1976 query, 1977 prefecture-only use, 1978 approval), so check the original records.",
+  "src": [
+   [
+    "Okinawa Fresh Noodle Cooperative: Okinawa Soba Day",
+    "https://oki-soba.jp/history/day/"
+   ],
+   [
+    "Okinawa Prefectural Archives",
+    "https://www.archives.pref.okinawa.jp/news/that_day/4923"
+   ],
+   [
+    "Nikkei: naming of Okinawa soba",
+    "https://www.nikkei.com/article/DGXNASJC0500G_V00C14A6000000/"
+   ],
+   [
+    "Wikipedia (ja): Okinawa soba",
+    "https://ja.wikipedia.org/wiki/%E6%B2%96%E7%B8%84%E3%81%9D%E3%81%B0"
+   ]
+  ]
+ },
+ {
+  "cat": "noodle",
+  "name": "Fujinomiya mushimen (steamed yakisoba noodle)",
+  "ja": "富士宮やきそば(蒸し麺)",
+  "prefs": [
+   22
+  ],
+  "text": "Fujinomiya yakisoba uses a steamed noodle. Where ordinary yakisoba noodle is steamed and then boiled, the Fujinomiya noodle is steamed and cooled quickly, then coated with oil, leaving less moisture and a firmer bite; the lower moisture also helped keeping before refrigeration. Marumo Shokuhin's Mochizuki is credited with the noodle, said to be an attempt to recreate Taiwanese rice vermicelli eaten in a wartime posting. Other origin theories exist (okonomiyaki shops, local noodle makers using up stock).",
+  "flavor": "Firm, springy, chewy noodle.",
+  "use": "Fried with niku-kasu and finished with fish powder.",
+  "craft": "Origin accounts differ; treat the Mochizuki account as reported. Per the sources the noodle is not boiled after steaming, which keeps moisture low.",
+  "src": [
+   [
+    "Fujinomiya Yakisoba Gakkai: history",
+    "https://umya-yakisoba.com/fujinomiyayakisoba/men-rekishi/"
+   ],
+   [
+    "Wikipedia (ja): Fujinomiya yakisoba",
+    "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%A3%AB%E5%AE%AE%E3%82%84%E3%81%8D%E3%81%9D%E3%81%B0"
+   ],
+   [
+    "Hugkum: Fujinomiya yakisoba",
+    "https://hugkum.sho.jp/472901"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Niku-kasu (Fujinomiya)",
+  "ja": "肉かす",
+  "prefs": [],
+  "text": "Niku-kasu is the Fujinomiya name for abura-kasu, the residue left after pork fat is rendered into lard. It is the characteristic ingredient of Fujinomiya yakisoba, which is finished with sprinkled fish powder (sardine and similar).",
+  "flavor": "Rich, fatty crispness from rendered pork.",
+  "use": "Added to Fujinomiya yakisoba while frying, with fish powder over the finish.",
+  "craft": "Fish powder is sprinkled at the end rather than during frying; the sources do not give proportions.",
+  "src": [
+   [
+    "Chefrepi: Fujinomiya yakisoba",
+    "https://chefrepi.com/magazine/culinary-dictionary/fujinomiya-yakisoba-history-regional-story/"
+   ],
+   [
+    "Fujinomiya Yakisoba Gakkai: history",
+    "https://umya-yakisoba.com/fujinomiyayakisoba/men-rekishi/"
+   ]
+  ]
+ },
+ {
+  "cat": "noodle",
+  "name": "Kuzukiri (kudzu noodles)",
+  "ja": "葛切り",
+  "prefs": [
+   29
+  ],
+  "text": "Kuzukiri is made by dissolving kudzu powder in water, pouring it into a mold, heating it to set into a sheet and cutting it into thin strips. Many commercial kuzukiri are in fact made of potato starch and few use true honkuzu. It is commonly eaten with kuromitsu, and is distinct from tokoroten and kanten, which are made from tengusa seaweed.",
+  "flavor": "Translucent, slippery and smooth, mildly chewy.",
+  "use": "Served cold with kuromitsu; dried kuzukiri is also used in hot pots.",
+  "craft": "Read the label: 100 percent kudzu starch (honkuzu) versus potato-starch blends separates true kuzukiri from the common product.",
+  "src": [
+   [
+    "Gishi: kuzukiri, kuzumochi, warabimochi",
+    "https://www.gishi.co.jp/home/faq_view.asp?id=89"
+   ],
+   [
+    "Sweetsvillage: kuzukiri",
+    "https://shop.sweetsvillage.com/blogs/knowledge/about-kuzukiri"
+   ],
+   [
+    "Minoyo: kudzu types guide",
+    "https://minoyo.co.jp/blog/kudzu-types-guide/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Honkuzu vs kakou-kuzu (kudzu labels)",
+  "ja": "本葛と加工葛",
+  "prefs": [],
+  "text": "Honkuzu is kudzu powder made entirely from starch from the kudzu root. Yoshino-kuzu is described as roughly half kudzu starch mixed with sweet potato or other starch, while Yoshino honkuzu uses only kudzu root starch. The traditional Yoshino-zarashi method pulverizes the root and washes it with repeated stirring, settling and water changes; kan-zarashi drying is said to take two to three months.",
+  "flavor": "Honkuzu: clean and mild.",
+  "use": "Kuzukiri, wagashi and thickening.",
+  "craft": "Check the ingredient list: 'kudzu starch 100%' or 'Yoshino honkuzu' means pure kudzu; any other starch means kakou-kuzu.",
+  "src": [
+   [
+    "Hugkum: Yoshino kudzu",
+    "https://hugkum.sho.jp/494555"
+   ],
+   [
+    "Inoue Tengyokudo",
+    "https://www.kudzu.co.jp/cp-bin/wordpress5/blog/aboutkudzu/200608-2/"
+   ],
+   [
+    "Minoyo: kudzu types guide",
+    "https://minoyo.co.jp/blog/kudzu-types-guide/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Tokoroten vs kanten",
+  "ja": "ところてん・寒天",
+  "prefs": [],
+  "text": "Tokoroten and kanten are both made from tengusa (red algae); kanten also uses other red algae such as ogonori and passes through repeated freezing and drying. Neither is related to kuzukiri, which is made from kudzu starch.",
+  "flavor": "Neutral, firm and clear.",
+  "use": "Not detailed in the sources found.",
+  "craft": "Sources found here do not give regional serving styles or extraction details.",
+  "src": [
+   [
+    "Sweetsvillage: kuzukiri knowledge",
+    "https://shop.sweetsvillage.com/blogs/knowledge/about-kudzu-starch-noodles-2"
+   ],
+   [
+    "Gishi: kuzukiri, kuzumochi, warabimochi",
+    "https://www.gishi.co.jp/home/faq_view.asp?id=89"
+   ]
+  ]
+ }
+]

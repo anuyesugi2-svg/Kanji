@@ -1,0 +1,657 @@
+[
+ {
+  "cat": "fruit",
+  "name": "Amaou strawberry (Fukuoka)",
+  "ja": "あまおう",
+  "prefs": [
+   40
+  ],
+  "text": "Fukuoka's flagship strawberry brand. The name is an acronym of the words for red, round, big and delicious (akai, marui, ookii, umai). Most sources give Brix around 10 to 12 with a balance of sweetness and acidity. Season runs December to May, peaking March to April.",
+  "flavor": "Sweet with a clear acid backbone; large, round, deep red fruit.",
+  "use": "Whole in gift packs, on shortcake and as the centrepiece of fruit parlour desserts where fruit size and even colour matter.",
+  "craft": "Sources quote Brix as a range, not a fixed value, and numbers differ between articles, so judge by taste and acid balance, not by the label figure. Peak March to April is when sugar and acid are most balanced; December fruit tends to be sold on appearance. Check for even red to the calyx and no white shoulders.",
+  "src": [
+   [
+    "Horti: strawberry varieties",
+    "https://horti.jp/22205"
+   ],
+   [
+    "Sanchoku Prime: strawberry varieties and Brix",
+    "https://sanchoku-prime.com/articles/strawberry-variety"
+   ]
+  ]
+ },
+ {
+  "cat": "fruit",
+  "name": "Tochiotome strawberry (Tochigi)",
+  "ja": "とちおとめ",
+  "prefs": [
+   9
+  ],
+  "text": "The standard strawberry of Tochigi, Japan's leading strawberry prefecture; sources say over 90 percent of the strawberries grown there are Tochiotome. Brix is given as 9 to 10 in some sources and 10 to 12 in others, with 11 to 12 for the best fruit. Peak season is February to April, with early shipments from late November.",
+  "flavor": "Balanced sweetness and acidity; a firm, everyday-quality strawberry rather than an ultra-sweet one.",
+  "use": "Retail packs, cake and pastry work, and processing where consistent supply from late November to spring matters.",
+  "craft": "Because Brix claims vary between sources (9 to 12), treat any single figure as approximate. Early-season fruit (late November to December) is usually more acidic and suited to cake decoration with cream; peak-season fruit is better eaten plain.",
+  "src": [
+   [
+    "Delish Kitchen: Tochiotome",
+    "https://delishkitchen.tv/articles/895"
+   ],
+   [
+    "Sanchoku Prime: strawberry varieties",
+    "https://sanchoku-prime.com/articles/strawberry-variety"
+   ]
+  ]
+ },
+ {
+  "cat": "fruit",
+  "name": "Benihoppe strawberry (Shizuoka)",
+  "ja": "紅ほっぺ",
+  "prefs": [
+   22
+  ],
+  "text": "A strawberry bred in Shizuoka, noted for flesh that is red through to the centre. Shizuoka's agricultural research institute data, as quoted by a trade source, give an average Brix of 9.7 percent and acidity of 0.78 percent. Season is roughly December to May, peaking March to April.",
+  "flavor": "Rich sweetness with a pronounced acid line; deeply coloured flesh.",
+  "use": "Cut fruit where the red interior shows, in desserts and sauces and as a whole fruit for retail.",
+  "craft": "With acidity near 0.78 percent, it holds shape and flavour in compotes and cut-fruit preparation better than very low-acid sweet varieties. Check that interior colour is even when cutting; pale cores indicate immature fruit.",
+  "src": [
+   [
+    "E-cha: Benihoppe",
+    "https://www.e-cha.co.jp/contents/beni-hoppe/"
+   ],
+   [
+    "Sanchoku Prime: strawberry varieties",
+    "https://sanchoku-prime.com/articles/strawberry-variety"
+   ]
+  ]
+ },
+ {
+  "cat": "fruit",
+  "name": "Shine Muscat grape",
+  "ja": "シャインマスカット",
+  "prefs": [
+   34,
+   25
+  ],
+  "text": "A green, seedless-eating grape bred by NARO (the national agricultural research organisation) and registered as Budo Norin No. 21; the cluster is cylindrical at 400 to 500 g with berries of about 11 to 12 g. Sugar is stated as around 20 Brix with low acid (0.3 to 0.4 g/100 mL), though Kanagawa's survey recorded 16.2 Brix. Shiga's grape growers set a shipping standard in December 2018 including Brix of 17 or more.",
+  "flavor": "Muscat aroma, high sugar, low acid, crisp skin that is eaten.",
+  "use": "Eaten fresh; the skin is edible per trade sources.",
+  "craft": "Published Brix runs from about 16 to 20, so a shipping standard such as Shiga's 17 Brix minimum is the practical quality gate. Check berry firmness and a clean bloom, and that the green is not turning yellow-brown.",
+  "src": [
+   [
+    "Shiga Prefecture: Shine Muscat cultivation guide (PDF)",
+    "https://www.pref.shiga.lg.jp/file/attachment/5301819.pdf"
+   ],
+   [
+    "Kanagawa Prefecture: Shine Muscat",
+    "https://www.pref.kanagawa.jp/docs/cf7/cnt/f450008/p581191.html"
+   ],
+   [
+    "Wikipedia: Shine Muscat",
+    "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%83%E3%83%88"
+   ]
+  ]
+ },
+ {
+  "cat": "fruit",
+  "name": "Kyoho grape (and Pione)",
+  "ja": "巨峰",
+  "prefs": [
+   22
+  ],
+  "text": "Kyoho is a large black grape described in sources as bred in Shizuoka. Kanagawa's survey recorded Brix 17.7 percent, while trade articles quote 18 to 20 for Kyoho and Pione. Pione, a large black grape related to it, is described in one source as a cross of Kyoho and Canon Hall Muscat. Delaware, by comparison, is a small seedless grape recorded at 19.4 Brix in the same Kanagawa data.",
+  "flavor": "Strong foxy-sweet grape flavour, thick skin, juicy flesh.",
+  "use": "Eaten fresh.",
+  "craft": "Figures conflict between regional surveys (17.7) and trade articles (18 to 20), so rely on tasting. Look for an even dark bloom and a fresh green stem when selecting.",
+  "src": [
+   [
+    "Kanagawa Prefecture: grape varieties data",
+    "https://www.pref.kanagawa.jp/docs/cf7/cnt/f450008/p581191.html"
+   ],
+   [
+    "Getta: Japanese grape encyclopedia",
+    "https://getta.jp/japan-crops-encyclopedia/japan-grape-encyclopedia/"
+   ],
+   [
+    "Kudamono Navi: grapes",
+    "https://www.kudamononavi.com/zukan/grape.htm"
+   ]
+  ]
+ },
+ {
+  "cat": "fruit",
+  "name": "Yubari Melon (Hokkaido)",
+  "ja": "夕張メロン",
+  "prefs": [
+   1
+  ],
+  "text": "Orange-fleshed melon of Yubari, Hokkaido, a geographically indicated product. Yubari agricultural cooperative inspects each fruit and grades it into four ranks: tokushu (Brix 13 or more), shu (12 or more), yu (11 or more) and ryo (10 or more). A fully graded shipment is a kyosen melon in a white box. A large fruit is about 1.6 kg.",
+  "flavor": "Dense, aromatic, high-sugar orange flesh.",
+  "use": "Premium gift fruit, served chilled and cut into wedges; also used for high-end parfaits.",
+  "craft": "One seller says tokushu is only about 0.2 percent of shipments, but this is retailer information, not an official figure. Ungraded fruit (kosen) goes in brown boxes, so the box colour signals whether a cooperative grade applies. Cut only when the stem end gives to light pressure.",
+  "src": [
+   [
+    "Yubari City: about Yubari Melon",
+    "https://www.city.yubari.lg.jp/site/kanko/1120.html"
+   ],
+   [
+    "Yubari melon grades",
+    "https://yubari-melon-people.com/melon_grade/"
+   ],
+   [
+    "Toyosu Market: Yubari Melon, Shu grade",
+    "https://www.tsukijiichiba.com/user/product/25559"
+   ]
+  ]
+ },
+ {
+  "cat": "fruit",
+  "name": "Crown Melon (Shizuoka)",
+  "ja": "クラウンメロン",
+  "prefs": [
+   22
+  ],
+  "text": "A musk melon brand grown by association members in western Shizuoka in glass greenhouses with automatic ventilation and heating. Cultivation is one fruit per plant; sources variously call this ikki-ikka and ikkei-ikka. Retail explainers describe grades fuji, yama and shiro, with fuji very rare (roughly one case in a thousand). Brix thresholds and the yama/shiro ratios vary widely between sources.",
+  "flavor": "Fine netting, aromatic and smooth-textured flesh.",
+  "use": "Gift fruit, served chilled in wedges.",
+  "craft": "Retail sites disagree on Brix per grade and the share of yama and shiro, so treat those numbers cautiously and confirm with the association. Grade is decided by size, net, shape and sugar; a flawless net is what to inspect on delivery.",
+  "src": [
+   [
+    "Crown Melon: official site",
+    "http://www.crown-melon.co.jp/about/"
+   ],
+   [
+    "Maeshima: Shizuoka Crown Melon",
+    "https://www.melonshop-maeshima.com/view/page/about"
+   ],
+   [
+    "Japan Wow: Crown Melon grades",
+    "https://japan-wow.jp/059-2/"
+   ]
+  ]
+ },
+ {
+  "cat": "fruit",
+  "name": "Fuji apple (Aomori)",
+  "ja": "ふじ",
+  "prefs": [
+   2
+  ],
+  "text": "Bred by crossing Ralls Janet (Kokko) with Red Delicious in 1939 at the Tohoku branch of the horticultural station in Fujisaki, Aomori, and registered in 1962. In 2001 it became the world's top apple by volume. It accounts for around half of Aomori's output. Its storage life allows sales from early November to August.",
+  "flavor": "Sweet-tart, crisp and juicy with a good keeping character; honey core in some fruit.",
+  "use": "Eaten fresh, in sliced garnishes, tarts and compotes; stores well for off-season supply.",
+  "craft": "Bagged (yubukuro) Fuji and unbagged Sun-Fuji are the same variety grown differently. Storage is the key advantage: check for flesh that is firm and not floury when buying late-season stock.",
+  "src": [
+   [
+    "Aomori Apple Council: apple varieties",
+    "https://www.aomori-ringo.or.jp/starcut/variety.html"
+   ],
+   [
+    "Wikipedia: Fuji (apple)",
+    "https://ja.wikipedia.org/wiki/%E3%81%B5%E3%81%98_(%E3%83%AA%E3%83%B3%E3%82%B4)"
+   ]
+  ]
+ },
+ {
+  "cat": "fruit",
+  "name": "Sun-Fuji apple",
+  "ja": "サンふじ",
+  "prefs": [
+   2
+  ],
+  "text": "Sun-Fuji is the Fuji apple grown without bags, so it ripens in direct sun; the bagged version is called yubukuro Fuji. The Aomori apple council describes Sun-Fuji as being more prone to honey core and good in sweetness and storage.",
+  "flavor": "More concentrated sweetness; frequent watercore (mitsu) in the flesh.",
+  "use": "Eaten fresh; the honey core is valued by consumers.",
+  "craft": "Honey core (mitsu) is a sign the Aomori council treats as a plus for Sun-Fuji. Sun-Fuji and bagged Fuji are one cultivar, so the label tells you the method, not the variety.",
+  "src": [
+   [
+    "Aomori Apple Council: apple varieties",
+    "https://www.aomori-ringo.or.jp/starcut/variety.html"
+   ],
+   [
+    "Amano Foods: apple types",
+    "https://www.amanofoods.jp/season/10584/"
+   ]
+  ]
+ },
+ {
+  "cat": "fruit",
+  "name": "Orin apple (Aomori)",
+  "ja": "王林",
+  "prefs": [
+   2
+  ],
+  "text": "A yellow-green apple presented as the representative green apple of Aomori. It was named Orin in 1952, meaning king of apples. Harvest runs from October to early November.",
+  "flavor": "Low acid, aromatic, sweet; green-yellow skin.",
+  "use": "Eaten fresh; the pale colour suits cut-fruit plates mixed with red apples.",
+  "craft": "Skin colour is not a ripeness cue in a green apple, so judge by aroma and firmness. The Aomori sources list harvest as October to early November.",
+  "src": [
+   [
+    "Umai Aomori: apple variety guide",
+    "https://www.umai-aomori.jp/pickup/detail_83.html"
+   ],
+   [
+    "Aomori Apple Council: varieties",
+    "https://www.aomori-ringo.or.jp/variety/"
+   ]
+  ]
+ },
+ {
+  "cat": "fruit",
+  "name": "Tsugaru apple (Aomori)",
+  "ja": "つがる",
+  "prefs": [
+   2
+  ],
+  "text": "An early apple bred from Golden Delicious and Jonathan (Kogyoku), registered in 1975. It is harvested in early to mid September, ahead of Fuji.",
+  "flavor": "Early-season apple; see Aomori sources.",
+  "use": "The first main-crop apple of the season; eaten fresh.",
+  "craft": "It is an early variety, harvested in early to mid September ahead of Fuji.",
+  "src": [
+   [
+    "Umai Aomori: apple variety guide",
+    "https://www.umai-aomori.jp/pickup/detail_83.html"
+   ],
+   [
+    "Aomori Apple Council: varieties",
+    "https://www.aomori-ringo.or.jp/variety/"
+   ]
+  ]
+ },
+ {
+  "cat": "fruit",
+  "name": "Toki apple (Aomori)",
+  "ja": "トキ",
+  "prefs": [
+   2
+  ],
+  "text": "A newer Aomori-born apple described as a cross between Orin and Fuji. It is introduced as a variety by the Zen-Noh apple information site.",
+  "flavor": "See sources; described as a newer Aomori apple.",
+  "use": "Eaten fresh.",
+  "craft": "The parentage given in the sources is Orin with Fuji; check the maker or cooperative for harvest timing before ordering.",
+  "src": [
+   [
+    "Zen-Noh Vegemart: Toki apple",
+    "https://vegemart.net/apple/kind/08_tk.html"
+   ],
+   [
+    "Umai Aomori: apple variety guide",
+    "https://www.umai-aomori.jp/pickup/detail_83.html"
+   ]
+  ]
+ },
+ {
+  "cat": "fruit",
+  "name": "Shimizu Hakuto peach (Okayama)",
+  "ja": "清水白桃",
+  "prefs": [
+   33,
+   30
+  ],
+  "text": "A white peach said to have arisen in Okayama; one source puts its discovery in 1932. Its skin is pale and flesh soft and fragrant. In 2022 national acreage was about 296 ha, with Okayama about 76 percent and Wakayama about 22 percent.",
+  "flavor": "Delicate sweetness, strong fragrance, melting soft flesh.",
+  "use": "Eaten very ripe by hand; used in whole-peach jelly and fine desserts.",
+  "craft": "The sources describe soft, fragrant flesh, so handle with minimal pressure and judge ripeness by aroma and give. Buy by region and acreage data: Okayama and Wakayama supply nearly all of it.",
+  "src": [
+   [
+    "Kudamono Navi: Shimizu Hakuto",
+    "https://www.kudamononavi.com/zukan/peach/shimizuhakutou"
+   ],
+   [
+    "JA Hare-no-Okayama: Okayama peaches",
+    "https://www.ja-hareoka.or.jp/specialty/hakutou.php"
+   ],
+   [
+    "Mynavi Agri: white peach",
+    "https://agri.mynavi.jp/2025_07_20_339059/"
+   ]
+  ]
+ },
+ {
+  "cat": "fruit",
+  "name": "Kawanakajima Hakuto peach (Nagano)",
+  "ja": "川中島白桃",
+  "prefs": [
+   20
+  ],
+  "text": "A white peach of Nagano origin, with a hard, firm flesh and large, heavy fruit. Sources describe the flesh as tight, juicy and richly flavoured, with good shelf life.",
+  "flavor": "Dense and juicy, rich flavour, crisp-firm texture.",
+  "use": "Eaten when firm to just soft; holds up better for slicing than soft peaches.",
+  "craft": "The firm flesh and good shelf life described by sources make it easier to handle and ship than soft white peaches.",
+  "src": [
+   [
+    "Mynavi Agri: white peach",
+    "https://agri.mynavi.jp/2025_07_20_339059/"
+   ],
+   [
+    "Furunavi: peach types",
+    "https://furunavi.jp/discovery/knowledge_food/202507-peach/"
+   ]
+  ]
+ },
+ {
+  "cat": "fruit",
+  "name": "Hakuho peach",
+  "ja": "白鳳",
+  "prefs": [
+   14
+  ],
+  "text": "A juicy, high-Brix, low-acid peach and one of the standard mid-season varieties. Sources disagree on origin: one says it came from Hakuto crossed with Tachibana-wase, another that it was named in 1933 in Kanagawa.",
+  "flavor": "Very sweet, very low acid, juicy and soft.",
+  "use": "Fresh eating; a standard summer peach.",
+  "craft": "Parentage claims conflict, so do not cite one as fact. Being soft and low in acid, it bruises easily and needs gentle handling and quick turnover.",
+  "src": [
+   [
+    "Cocoro Farm Village: Hakuho, Akatsuki, Hakuto",
+    "https://cocorofarm-vil.com/column/marche_fruitcolumn/fruitcolumn_peach/akatsuki_peach04/"
+   ],
+   [
+    "Mynavi Agri: white peach",
+    "https://agri.mynavi.jp/2025_07_20_339059/"
+   ]
+  ]
+ },
+ {
+  "cat": "fruit",
+  "name": "Hikawa Hakuho peach (Yamanashi)",
+  "ja": "日川白鳳",
+  "prefs": [
+   19
+  ],
+  "text": "A bud sport of Hakuho found in 1973 at Yamanashi City, Yamanashi, and now grown as its own named peach. Sources give no further breeding detail.",
+  "flavor": "Close to Hakuho: sweet, low in acid and juicy.",
+  "use": "Fresh eating in summer.",
+  "craft": "Because it is a sport of Hakuho, treat its handling the same as Hakuho: soft flesh, so pick and ship with care.",
+  "src": [
+   [
+    "Mynavi Agri: white peach",
+    "https://agri.mynavi.jp/2025_07_20_339059/"
+   ],
+   [
+    "Cocoro Farm Village: Hakuho, Akatsuki, Hakuto",
+    "https://cocorofarm-vil.com/column/marche_fruitcolumn/fruitcolumn_peach/akatsuki_peach04/"
+   ]
+  ]
+ },
+ {
+  "cat": "fruit",
+  "name": "Akatsuki peach (Fukushima)",
+  "ja": "あかつき",
+  "prefs": [
+   7
+  ],
+  "text": "A peach bred from Hakuto and Hakuho, described as the main variety of Fukushima's peach industry.",
+  "flavor": "Sweet and juicy with a firmer texture than Hakuho.",
+  "use": "Fresh eating.",
+  "craft": "As a Hakuto-by-Hakuho cross it sits between its parents in style. Confirm harvest week with growers since sources give only the cross and the Fukushima link.",
+  "src": [
+   [
+    "Cocoro Farm Village: Akatsuki",
+    "https://cocorofarm-vil.com/column/marche_fruitcolumn/fruitcolumn_peach/akatsuki_peach04/"
+   ],
+   [
+    "Mynavi Agri: white peach",
+    "https://agri.mynavi.jp/2025_07_20_339059/"
+   ]
+  ]
+ },
+ {
+  "cat": "fruit",
+  "name": "Kosui Japanese pear",
+  "ja": "幸水",
+  "prefs": [
+   7
+  ],
+  "text": "A red-skinned (russet) Japanese pear bred by the former Ministry of Agriculture horticultural station and named in 1959; its parents are given as Kikusui and Wase-Kozo. Brix is about 12 and season is early to mid August. It is among the sweetest of the common pears.",
+  "flavor": "Sweet with little acid, juicy and fine-textured.",
+  "use": "Eaten fresh peeled; early-season pear for August.",
+  "craft": "Sources vary on Brix (about 11 to 12 in one comparison, 12 or more in another), so take figures as approximate. Season is early to mid August, ahead of Hosui.",
+  "src": [
+   [
+    "Getta: Japanese pear encyclopedia",
+    "https://getta.jp/japan-crops-encyclopedia/japan-pear-encyclopedia/"
+   ],
+   [
+    "Sanchoku Prime: Kosui",
+    "https://n-kagayaki.sanchoku-prime.com/blog/pear_kousui"
+   ],
+   [
+    "Watanabe Orchard (Fukushima): pears",
+    "https://watakaju.com/pear.php"
+   ]
+  ]
+ },
+ {
+  "cat": "fruit",
+  "name": "Hosui Japanese pear",
+  "ja": "豊水",
+  "prefs": [
+   7
+  ],
+  "text": "A russet Japanese pear with Brix about 12 to 13, similar to Kosui, but with more acidity and a firmer, juicier texture. Parentage is reported inconsistently, one source giving Kosui x I-33 by DNA analysis and another citing a cross with Ishii-wase x Nijisseiki.",
+  "flavor": "Sweet-tart, juicy, slightly firmer than Kosui.",
+  "use": "Fresh eating following Kosui in late summer.",
+  "craft": "Sources describe it as more acidic and firmer than Kosui, with Brix similar (12 to 13). Parentage differs by source, so do not state it as certain.",
+  "src": [
+   [
+    "Frukaho note: Kosui, Hosui, Nijisseiki compared",
+    "https://note.com/frukaho_from2021/n/n3e13b425976b"
+   ],
+   [
+    "Sanchoku Prime: Kosui and Hosui",
+    "https://n-kagayaki.sanchoku-prime.com/blog/pear_kousui"
+   ],
+   [
+    "Watanabe Orchard (Fukushima): pears",
+    "https://watakaju.com/pear.php"
+   ]
+  ]
+ },
+ {
+  "cat": "fruit",
+  "name": "Nijisseiki pear (Tottori)",
+  "ja": "二十世紀梨",
+  "prefs": [
+   31,
+   12
+  ],
+  "text": "The green-skinned pear of Japan. A source says it was discovered in 1888 in Matsudo, Chiba, by a 13-year-old, and named in 1904. It is widely grown in Tottori. Brix is about 11 to 12 in most sources.",
+  "flavor": "Refreshing, crisp, balanced sweetness and acid.",
+  "use": "Eaten fresh, chilled; its crisp texture suits raw preparations.",
+  "craft": "As a green pear its colour is not a sweetness cue, so look for yellowing and aroma. Its Brix is lower than red pears, so it sells on refreshing quality.",
+  "src": [
+   [
+    "Getta: Japanese pear encyclopedia",
+    "https://getta.jp/japan-crops-encyclopedia/japan-pear-encyclopedia/"
+   ],
+   [
+    "Frukaho note: pear comparison",
+    "https://note.com/frukaho_from2021/n/n3e13b425976b"
+   ]
+  ]
+ },
+ {
+  "cat": "fruit",
+  "name": "Shiranui and Dekopon",
+  "ja": "不知火(デコポン)",
+  "prefs": [
+   43,
+   38,
+   42,
+   41
+  ],
+  "text": "Shiranui was bred in 1972 from Kiyomi and Nakano No. 3 ponkan at the NARO fruit research station (predecessor) in Kuchinotsu, Nagasaki, and initially not registered because of irregular shape. Dekopon is a trademark: only JA-shipped fruit meeting Brix 13 or more and acid 1 percent or less may use it. Kumamoto is the core region, Ehime second. Harvest is mid February to early April, with about 7 to 20 days of storage.",
+  "flavor": "High sugar, low acid after storage; knobbed top, easily peeled.",
+  "use": "Eaten by hand; segments for desserts and salads.",
+  "craft": "Freshly harvested fruit is too acidic, so the storage period is part of the process. Dekopon is a brand name, not a different cultivar.",
+  "src": [
+   [
+    "JA Saga: Shiranui (Dekopon)",
+    "http://jasaga.or.jp/agriculture/nousanbutsu/dekopon"
+   ],
+   [
+    "Sowa Kajuen: Dekopon and Shiranui",
+    "https://sowakajuen.com/articles/citrus-dictionary/deference-between-dekopon-and-siranui/"
+   ],
+   [
+    "Kudamono Navi: Dekopon",
+    "https://www.kudamononavi.com/zukan/citrus/dekopon"
+   ]
+  ]
+ },
+ {
+  "cat": "fruit",
+  "name": "Iyokan (Yamaguchi origin, Ehime)",
+  "ja": "伊予柑",
+  "prefs": [
+   35,
+   38
+  ],
+  "text": "A mandarin-type citrus that began as a chance seedling in Hagi, Yamaguchi, in 1886 (Meiji 19); its parents are unknown. It spread to Ehime and the name was established in 1930. It ships from early January to late March.",
+  "flavor": "Juicy, fragrant, easily peeled flesh.",
+  "use": "Eaten by hand and used in juices and desserts.",
+  "craft": "Because the parents are unknown, treat references to its lineage with caution. Shipping window is January to March.",
+  "src": [
+   [
+    "Aifood: Iyokan",
+    "https://www.kankitsu.aifood.jp/about/3/"
+   ],
+   [
+    "Mikkabi Mikan: Iyokan",
+    "https://mikkabimikan.jp/picture_books/Iyokan"
+   ]
+  ]
+ },
+ {
+  "cat": "fruit",
+  "name": "Setoka citrus",
+  "ja": "せとか",
+  "prefs": [
+   42
+  ],
+  "text": "A modern citrus from three parents (Kiyomi orange, Encore and Murcott), registered in 2001. Brix is 13 to 14 with thin peel and membranes and nearly seedless fruit. Shipping is mainly mid February to late March.",
+  "flavor": "High sugar, rich orange flavour, melting flesh.",
+  "use": "Eaten whole with thin segments; used in fine fruit plates and desserts.",
+  "craft": "Thin peel and membranes are the distinguishing point per the sources; handle gently. Shipping is mid February to late March.",
+  "src": [
+   [
+    "Ito Noen: Setoka",
+    "https://www.ito-noen.com/dictionary/mikan/setoka/"
+   ],
+   [
+    "Kudamono Navi: citrus guide",
+    "https://www.kudamononavi.com/zukan/citrus.htm"
+   ]
+  ]
+ },
+ {
+  "cat": "fruit",
+  "name": "Hyuganatsu (Miyazaki)",
+  "ja": "日向夏",
+  "prefs": [
+   45
+  ],
+  "text": "Found around 1820 in Miyazaki City, considered a mutation of yuzu. The white pith (albedo) is eaten with the flesh; it is less sour than grapefruit. Harvest is around May of the following year, taking more than a year from flower to harvest.",
+  "flavor": "Mild sour, sweet white pith, fresh citrus aroma.",
+  "use": "Peeled thinly so the white pith stays, then eaten like an apple or sliced into salads and desserts.",
+  "craft": "Peel only the outer yellow zest and leave the albedo, which is the point of the fruit. The long on-tree period means fruit is picked in the spring.",
+  "src": [
+   [
+    "Ito Noen: Hyuganatsu",
+    "https://www.ito-noen.com/dictionary/mikan/%E6%97%A5%E5%90%91%E5%A4%8F/"
+   ]
+  ]
+ },
+ {
+  "cat": "fruit",
+  "name": "Hassaku (Hiroshima, Innoshima)",
+  "ja": "八朔",
+  "prefs": [
+   34
+  ],
+  "text": "Found around 1860 at Mitsugon Jodoji temple in Tagumacho, Innoshima, Onomichi. It is said to be a hybrid of kunenbo and pomelo. The name comes from the first of the eighth lunar month, when it was said to be ready, though the real season is February to April. It spread nationally via a seller, Tanaka Seibei.",
+  "flavor": "Refreshing, lightly bitter, firm segments.",
+  "use": "Eaten by hand with membranes removed; segments for salads.",
+  "craft": "The name does not match the harvest season, which falls in late winter to spring. Remove the tougher membranes for plated use.",
+  "src": [
+   [
+    "Hiroshima Prefecture: Hassaku proposal (PDF)",
+    "https://www.pref.hiroshima.lg.jp/uploaded/attachment/267278.pdf"
+   ],
+   [
+    "Hassaku Yukari no Kai: history",
+    "https://hassaku-archives.com/history/"
+   ],
+   [
+    "Innoshima Tourism: Hassaku",
+    "https://kanko-innoshima.jp/eating/hassaku"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Tokushu / Shu / Yu / Ryo (grade words)",
+  "ja": "特秀・秀・優・良",
+  "prefs": [
+   1
+  ],
+  "text": "Grade terms used by the Yubari agricultural cooperative for its melons, from highest to lowest: tokushu, shu, yu and ryo, with minimum Brix of 13, 12, 11 and 10 respectively. Grade is one marker of the cooperative inspection; other regions may use their own scales.",
+  "flavor": "Read as toku-shuu, shuu, yuu, ryou.",
+  "use": "Printed on shipping boxes and seals; gift buyers choose shu for gift use.",
+  "craft": "These are cooperative standards, not a national rule, so always check which body issued the grade.",
+  "src": [
+   [
+    "Yubari melon grades",
+    "https://yubari-melon-people.com/melon_grade/"
+   ],
+   [
+    "Yubari City: about Yubari Melon",
+    "https://www.city.yubari.lg.jp/site/kanko/1120.html"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Kyosen and Kosen (joint vs individual selection)",
+  "ja": "共選・個選",
+  "prefs": [
+   1
+  ],
+  "text": "Kyosen means fruit graded jointly at the cooperative's inspection facility and sealed with a mark; Yubari kyosen melons are packed in white boxes. Kosen is individually selected fruit that is not graded, shipped in brown boxes.",
+  "flavor": "Kyou-sen and ko-sen.",
+  "use": "A buyer reads the box colour and seal to tell whether the fruit is cooperative-graded.",
+  "craft": "Kosen can still be good, with Brix of 10 or more mentioned in one source, but it carries no cooperative grade.",
+  "src": [
+   [
+    "Yubari melon grades",
+    "https://yubari-melon-people.com/melon_grade/"
+   ],
+   [
+    "Furusato Choice: Yubari Melon",
+    "https://www.furusato-tax.jp/product/detail/01209/28544"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Yubukuro and Mudai (bagged vs unbagged)",
+  "ja": "有袋・無袋",
+  "prefs": [
+   2
+  ],
+  "text": "In apple growing, yubukuro fruit is grown inside paper bags, while mudai fruit is grown without. Unbagged Fuji is sold as Sun-Fuji, which sources say develops honey core more readily.",
+  "flavor": "Yu-bukuro, mu-dai.",
+  "use": "Names on produce labels in Aomori apple trade.",
+  "craft": "The bag changes colour and sugar development but not the cultivar, so check the label for the method.",
+  "src": [
+   [
+    "Aomori Apple Council: apple varieties",
+    "https://www.aomori-ringo.or.jp/starcut/variety.html"
+   ],
+   [
+    "Amano Foods: apple types",
+    "https://www.amanofoods.jp/season/10584/"
+   ]
+  ]
+ }
+]

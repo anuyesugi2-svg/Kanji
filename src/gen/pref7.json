@@ -1,0 +1,41 @@
+[
+  {
+    "pref": 24,
+    "history": "The Ise, Toba, Shima and Minami-Ise areas were known in antiquity as Miketsukuni, districts that supplied food to the court. Salt-making there is old: wooden tablets recording salt delivered to the Heijo palace and salt-making pottery have been found in local sites. The Ise Grand Shrine offerings (shinsen) of salt, katsuobushi and kombu are made morning and evening and are said to have continued for about 1,500 years. In the Edo period mass pilgrimage to Ise created a travelling-customer food trade: Akafuku dates its anko-mochi shop to 1707, and Ise noodle shops kept boiled noodles ready for pilgrims.",
+    "character": "The cuisine is built on the sea and the shrine. Ise-Shima supplies spiny lobster, abalone, oysters, hijiki and fish for tekone-zushi; the Kumano-nada coast to the south (Higashi-Kishu) has its own food zone with sanma-zushi. Seasoning leans on tamari: Ise udon sauce is tamari with katsuobushi, iriko and kombu dashi, and Kuwana shigure-hamaguri is clam simmered with tamari and ginger. Hijiki is dried first and then steamed rather than boiled (the 'Ise method'), said to keep umami. Inland Matsusaka (beef) and Iga (Nabari gyujiru) are separate beef cultures; the north produces tea.",
+    "staples": [
+      {"name": "Ise-ebi (spiny lobster)", "ja": "伊勢えび", "note": "Mie is among the top Japanese catch areas; season opens 1 October, closed 1 May to 30 September; best October to April."},
+      {"name": "Ise-Shima awabi (abalone)", "ja": "伊勢志摩のあわび", "note": "Long a shrine offering; kuro-awabi, megai-awabi and madaka-awabi are landed, largely by ama divers."},
+      {"name": "Matsusaka beef", "ja": "松阪牛", "note": "Kuroge wagyu virgin heifers from a defined 22-municipality zone, individually registered; 'Tokusan Matsusaka' uses Hyogo calves fed 900+ days."},
+      {"name": "Ise udon", "ja": "伊勢うどん", "note": "Very thick, soft noodle boiled long (about an hour per MAFF) under a dark tamari-dashi sauce, no broth."},
+      {"name": "Tekone-zushi", "ja": "手こね寿司", "note": "Fishermen's dish of Shima: raw fish (typically bonito/tuna) dressed in soy sauce, mixed by hand with vinegared rice."},
+      {"name": "Sanma-zushi", "ja": "さんまずし", "note": "Higashi-Kishu (Owase) pressed sushi of saury; the shops' sales began in 1975 and it is now the area's signature dish."},
+      {"name": "Ise-cha / kabuse-cha", "ja": "伊勢茶・かぶせ茶", "note": "Third in Japan by area and output; kabuse (shaded) tea in the north, fukamushi sencha in the south."},
+      {"name": "Ise takuan", "ja": "伊勢たくあん", "note": "Misono daikon dried on racks 7 to 10 days in sun, then pickled in salt and rice bran; also called Ise koko."},
+      {"name": "Ise hijiki", "ja": "伊勢ひじき", "note": "Dried hijiki from Ise-Shima, harvested mainly March to May and steamed rather than boiled after drying."},
+      {"name": "Shigure-hamaguri", "ja": "時雨蛤", "note": "Kuwana clam simmered with tamari and ginger; listed by MAFF as a traditional food."},
+      {"name": "Matoya oyster", "ja": "的矢かき", "note": "Shima's Matoya Bay brand; Uramura and Watari oysters are other local brands; roughly October to April."},
+      {"name": "Anori-fugu", "ja": "あのりふぐ", "note": "Wild tora-fugu landed at Anori, Shima; eaten from early October to early March."},
+      {"name": "Nabari gyujiru", "ja": "名張牛汁", "note": "Soy-based clear soup of Iga beef and local vegetables, said to originate as butcher's staff meal."},
+      {"name": "Akafuku", "ja": "赤福", "note": "Anko-mochi from Ise, shop founded 1707; the main store opens from 5:00 to 17:00."}
+    ],
+    "calendar": [
+      {"season": "Spring", "text": "Shincha (new Ise tea) arrives. Ise-ebi can be had until about April and Matoya oysters to late April. Ise hijiki is harvested mainly March to May and dried. Ama abalone diving season is cited from April."},
+      {"season": "Summer", "text": "Ise-ebi fishing is closed from 1 May to 30 September, so spiny lobster is mostly absent. Abalone is cited as in season July to September (one shop source gives a prefectural closure from 15 September). Matsusaka beef is year-round."},
+      {"season": "Autumn", "text": "Ise-ebi opens on 1 October with first landings reported from Shima (Nagiri). Matoya oysters begin in October, and anori-fugu is available from early October. Higashi-Kishu sanma-zushi and Ise udon are eaten through the pilgrimage year."},
+      {"season": "Winter", "text": "Peak for Ise-ebi, oysters and anori-fugu (to early March). In Higashi-Kishu, nare-zushi is often eaten at New Year. Matsusaka beef is available year-round per the prefectural catalogue."}
+    ],
+    "markets": [
+      {"name": "Okage Yokocho", "ja": "おかげ横丁", "note": "Recreated late-Edo/early-Meiji Ise town at the Naiku approach, run by an Akafuku subsidiary; Ise udon, Akafuku and street food."},
+      {"name": "Oharai-machi", "ja": "おはらい町", "note": "Street leading to Naiku with Ise udon shops, sweets shops and stalls for walk-and-eat food."},
+      {"name": "Akafuku Honten", "ja": "赤福本店", "note": "Main store of the Ise anko-mochi shop (founded 1707), open 5:00 to 17:00; Tsuitachi asaichi on the 1st of each month in Okage Yokocho."}
+    ],
+    "notes": "Ise-ebi: fishing closed 1 May to 30 September, opens 1 October. Abalone rules: one retailer cites a prefectural closure from 15 September to 31 December and says Toba is stricter; other sources give a July to September season, so check current rules. Ise-cha kabuse share is quoted as about 63% (prefecture) versus roughly 30% or 24% elsewhere, depending on statistical year. Ise udon is defined by the Ise noodle association as at least 6 mm and boiled at least 25 minutes, with a tamari base. 'Mie' is cited as a GI for sake from 2020. Matsusaka beef GI status for the Tokusan grade is only stated by producer sites.",
+    "src": [
+      ["MAFF Nippon dento-shoku zukan Mie", "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/area/mie.html"],
+      ["MAFF Ise udon", "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/ise_udon.html"],
+      ["Ise City: Ise udon", "https://www.city.ise.mie.jp/cul_spo_edu/culture/bunkazai_shiseki/iseudon.html"],
+      ["Matsusaka City: Matsusaka beef", "https://www.city.matsusaka.mie.jp/site/matsusakaushi/matsusakaushitowa.html"]
+    ]
+  }
+]

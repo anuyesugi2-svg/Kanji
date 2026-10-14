@@ -1,0 +1,644 @@
+[
+ {
+  "cat": "veg",
+  "name": "Mazuma wasabi (真妻 cultivar)",
+  "ja": "真妻わさび",
+  "prefs": [
+   22,
+   30
+  ],
+  "text": "One of the two broad cultivar groups of wasabi, the other being misho (seed-raised) types. Sources describe mazuma as harder to grow, with strong heat that carries a rounded sweetness and rich aroma, and as rare because few growers keep it. Its crop cycle is long: the Izu city source gives 18 months for mazuma against 12 for other types. An Izu-region source says it was introduced from Wakayama and remains a main cultivar there.",
+  "flavor": "Strong pungency with a soft sweetness underneath, plus full aroma; rhizome described as reddish rather than green.",
+  "use": "Grated fresh as a condiment for sushi, sashimi and soba, where its sweetness is valued over raw heat.",
+  "craft": "Sources disagree on when mazuma entered Shizuoka: the Izu-region account says the mid-Showa 30s (late 1950s) via Wakayama, while a Shizuoka City document ties its spread to recovery after the 1958 Kanogawa typhoon. Treat the introduction date as unsettled. One result says farmers in the Mazuma district mainly grow a type called daruma, but gave no detail. Expect a longer, costlier crop than misho types (1.5 to 2 years or more in some accounts).",
+  "src": [
+   [
+    "Mazuma wasabi origin (nouka-recipe)",
+    "https://nouka-recipe.com/mazuma-wasabi/"
+   ],
+   [
+    "Shizuoka Pref. on Izu wasabi",
+    "https://www.pref.shizuoka.jp/sangyoshigoto/norinjimusho/tobunorin/1004172/1033935.html"
+   ],
+   [
+    "Iriyamanaka on mazuma wasabi",
+    "https://iriyamanaka.com/maduma-wasabi.html"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Misho-type wasabi (seed-raised wasabi)",
+  "ja": "実生系わさび",
+  "prefs": [
+   22
+  ],
+  "text": "Wasabi cultivars are divided broadly into misho (実生, seed-raised) and mazuma types. Misho types are described as easier to grow and are the mainstream commercial stock; the rhizome tends to look greener, whereas mazuma looks reddish. The Izu city account gives a 12 month crop cycle for non-mazuma types, against 18 for mazuma.",
+  "flavor": "Clean, sharp heat; generally described as less sweet and less complex than mazuma.",
+  "use": "Volume wasabi for restaurants and for grated fresh service where cost and supply stability matter.",
+  "craft": "Shorter cycle means more predictable supply than mazuma. When specifying wasabi, ask whether the supplier means cultivar (misho vs mazuma) or growing method (sawa vs hatake); these are separate axes and trade copy often blurs them.",
+  "src": [
+   [
+    "Smartblue: sawa vs hatake wasabi",
+    "https://smartblue.jp/shizuoka-sawawasabi-hatakewasabi/"
+   ],
+   [
+    "Shizuoka Pref. on Izu wasabi",
+    "https://www.pref.shizuoka.jp/sangyoshigoto/norinjimusho/tobunorin/1004172/1033935.html"
+   ],
+   [
+    "Tokyo Wasabi: types and origins",
+    "https://tokyowasabi.com/about-wasabi/"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Sawa-wasabi vs hatake-wasabi (water vs field wasabi)",
+  "ja": "沢わさび・畑わさび",
+  "prefs": [
+   22
+  ],
+  "text": "Both are the same plant, distinguished by growing method rather than cultivar. Sawa (mizu) wasabi is grown in flowing spring water and mainly for its rhizome. Hatake (oka) wasabi is grown in fields with a steady water supply in humid, cool places, and is eaten for leaves and stems too. Sources agree sawa wasabi is more valued: deeper green rhizome, better heat, aroma and appearance, and higher price for fresh grating.",
+  "flavor": "Sawa: vivid green, aromatic, clean heat. Hatake: generally ranked lower in quality by the trade sources.",
+  "use": "Sawa rhizomes are sold for fresh grating; sources say hatake wasabi's lower grade feeds much of the tube and processed market.",
+  "craft": "Naming varies by source (sawa, mizu, hatake, oka), so confirm the actual growing system with the supplier. Sources only say sawa is higher in color, heat, aroma and price; they give no further grading standard.",
+  "src": [
+   [
+    "Smartblue: sawa vs hatake wasabi",
+    "https://smartblue.jp/shizuoka-sawawasabi-hatakewasabi/"
+   ],
+   [
+    "Foodslink wasabi guide",
+    "https://foodslink.jp/syokuzaihyakka/syun/vegitable/wasabi.htm"
+   ],
+   [
+    "Yamamoto Foods on the wasabi plant",
+    "https://www.yamamotofoods.co.jp/wasabi/plant"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Shizuoka traditional water wasabi cultivation (GIAHS)",
+  "ja": "静岡水わさびの伝統栽培",
+  "prefs": [
+   22
+  ],
+  "text": "In 2018 the traditional cultivation of Shizuoka water wasabi was designated a Globally Important Agricultural Heritage System. Growers build stepped wasabi paddies in mountain streams and use spring water with minimal fertilizer. Cultivation is traced to Udo-gi in Shizuoka City in the Keicho era (1596-1615); a record says Itagaki Kanshiro brought seedlings to Izu in 1744. The Izu tatami-ishi (stone-bed) paddy was developed around Meiji 25 (1892). Amagi-foothill water is cited at 13 to 15 C.",
+  "flavor": "Rhizomes from cold, constantly moving water: dense, green, aromatic.",
+  "use": "Reference standard for fresh wasabi grated at the table.",
+  "craft": "Water temperature is the control variable: one account says year-round harvest is possible while water holds about 13 C, with shading in summer, and cites a Shizuoka survey that rhizomes rot if water stays above 20 C for 3 hours or more. Crop cycle is about 12 to 18 months depending on cultivar. Figures for Shizuoka's share of national output differ by source.",
+  "src": [
+   [
+    "MAFF GIAHS dossier (Shizuoka wasabi)",
+    "https://www.maff.go.jp/j/nousin/kantai/attach/pdf/giahs_3_122-4.pdf"
+   ],
+   [
+    "Shizuoka Pref. on Izu wasabi",
+    "https://www.pref.shizuoka.jp/sangyoshigoto/norinjimusho/tobunorin/1004172/1033935.html"
+   ],
+   [
+    "Shizuoka Wasabi: history",
+    "https://www.shizuoka-wasabi.jp/about/history.php"
+   ],
+   [
+    "Shizuoka Gastronomy report",
+    "https://shizuoka-gastronomy.jp/report/413/"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Kintoki ginger (hajikami type)",
+  "ja": "金時生姜",
+  "prefs": [
+   23,
+   22
+  ],
+  "text": "A small, red-tinged ginger counted among the small-rhizome (sho-shoga) group and described as unique to Japan. Sources say it is far smaller than ordinary ginger with very strong aroma and pungency. Main producing prefectures are Aichi and Shizuoka, and it is often shipped as ya-shoga / hajikami; Inazawa in Aichi was historically a center. One source lists it as a Kyoto medium-ginger instead, so classification differs by source.",
+  "flavor": "Intense aroma and pungency, small fibrous rhizome with red-pink shoulders.",
+  "use": "Shipped as ya-shoga / hajikami (pickled shoots to accompany grilled fish) according to the source; also used where strong ginger is wanted.",
+  "craft": "Classification is inconsistent between sources (small vs medium ginger). Sources note very strong aroma and heat for its size, so quantities should be set by taste, not by volume of ordinary ginger.",
+  "src": [
+   [
+    "MUJI: Kintoki hajikami ginger, Aichi",
+    "https://www.muji.com/jp/ja/store/articles/shokoku/1017671"
+   ],
+   [
+    "Kimura Farm: Kintoki ginger",
+    "https://shougaya.com/ginger.html"
+   ],
+   [
+    "Shioda Foods: ginger classification",
+    "http://www.syougaya.co.jp/05_html_syouga/05_syouga_02.html"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Ginger size classes: dai, chu, sho-shoga",
+  "ja": "大生姜・中生姜・小生姜",
+  "prefs": [],
+  "text": "Japanese trade sources sort ginger by rhizome weight into large (dai-shoga), medium (chu-shoga) and small (sho-shoga). Large types are late-maturing with big rhizomes; examples given are Otafuku and Tosa large ginger. Medium has milder heat and little fiber. Small types are early and have stronger pungency and aroma; Sanshu, Yanaka and Kintoki are cited. Sanshu is described as a hardy leaf-ginger type.",
+  "flavor": "Sources: small types stronger in pungency and aroma; medium types milder with little fiber.",
+  "use": "A way to specify ginger by size and maturity class when ordering.",
+  "craft": "Sources disagree on which cultivars sit in the medium class (Kintoki and Kumamoto ginger appear in both medium and small lists), so specify cultivar, not just class.",
+  "src": [
+   [
+    "Shioda Foods: ginger classification",
+    "http://www.syougaya.co.jp/05_html_syouga/05_syouga_02.html"
+   ],
+   [
+    "Sakata Shoten: ginger types",
+    "https://sakatashop.jp/pages/ginger-brand"
+   ],
+   [
+    "Yasainavi: leaf ginger",
+    "https://www.yasainavi.com/zukan/ginger/hashouga"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Yanaka shoga (leaf ginger)",
+  "ja": "谷中生姜",
+  "prefs": [
+   13
+  ],
+  "text": "The benchmark leaf ginger (ha-shoga), harvested young with stalk attached. The name comes from the Arakawa-ku Nishi-Nippori and Taito-ku Yanaka area of Tokyo, once a ginger-growing district, which made 'Yanaka' a synonym for leaf ginger. The cultivar is classed with small ginger.",
+  "flavor": "Leaf ginger: young, fresh, with stalk.",
+  "use": "Leaf ginger, eaten with the stalk; typical pairing is raw with miso or pickled.",
+  "craft": "The name now stands for the leaf-ginger style in general; the Tokyo district was the historic growing area per the sources.",
+  "src": [
+   [
+    "Yasainavi: leaf ginger / Yanaka ginger",
+    "https://www.yasainavi.com/zukan/ginger/hashouga"
+   ],
+   [
+    "Shioda Foods: ginger classification",
+    "http://www.syougaya.co.jp/05_html_syouga/05_syouga_02.html"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Asakura sansho (thornless sansho)",
+  "ja": "朝倉山椒",
+  "prefs": [
+   28
+  ],
+  "text": "A sansho cultivar originating in Asakura, Yokaicho, Yabu city, Hyogo. Sources say it was presented to the shogunate in the Edo period. The tree is thornless and bears large fruit in heavy yield. Aroma is citrus-like and the heat gentle. Harvest timing is given differently: one source says June to July plus September, while JA Tajima gives a peak in mid to late May.",
+  "flavor": "Citrus aroma, soft numbing heat, mild pungency.",
+  "use": "Sources describe uses for fruit and powder generally; the milder heat makes it suited where aroma is wanted over numbing.",
+  "craft": "Thornlessness and large heavy-bearing fruit are the stated distinguishing marks. Because harvest-time claims differ (May peak per JA Tajima; June-July and September per another), confirm crop date with the grower. Budo sansho (separate entry) is said to derive from Asakura.",
+  "src": [
+   [
+    "JA Tajima: Asakura sansho",
+    "https://www.ja-tajima.or.jp/tokusan/yasai/sansho.html"
+   ],
+   [
+    "Asakura sansho qualities",
+    "https://asakurasansho.net/qualities/"
+   ],
+   [
+    "Sansho Navi",
+    "https://kyosansyo.com/sansyo-know/"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Takahara sansho (Okuhida)",
+  "ja": "高原山椒",
+  "prefs": [
+   21
+  ],
+  "text": "A sansho grown around the Okuhida onsen area of Takayama, Gifu. Fruits are somewhat small, and sources describe a balance of aroma, pungency and numbing sensation.",
+  "flavor": "Balanced aroma, heat and tingling.",
+  "use": "Used as sansho spice; sources give no further use detail.",
+  "craft": "Detail in sources is limited. The stated mark is balance among aroma, pungency and numbing sensation.",
+  "src": [
+   [
+    "Sansho Navi",
+    "https://kyosansyo.com/sansyo-know/"
+   ],
+   [
+    "Sansho varieties summary (Laurier Station)",
+    "https://laurier-station.com/2023/07/13/types_of_japanese_pepper/"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Jitsu-zansho (green sansho berries)",
+  "ja": "実山椒",
+  "prefs": [
+   28,
+   30
+  ],
+  "text": "The young green fruit of sansho, taken while the skin is still green. One source says there are two harvests a year, the first around May when the fruit is young and soft, and recommends picking while green. Named types in the results include Asakura sansho of Hyogo and the Budo sansho of Arida-gawa, Wakayama, said to derive from Asakura and named for grape-like clusters.",
+  "flavor": "Bright citrus aroma, sharp tingling heat.",
+  "use": "Green fruit is the stage used for preserved sansho; sources give no recipe detail.",
+  "craft": "Pick while green and young; harvest timing is the main quality lever stated in the sources.",
+  "src": [
+   [
+    "Delish Kitchen: sansho",
+    "https://delishkitchen.tv/articles/400"
+   ],
+   [
+    "JA Tajima: Asakura sansho",
+    "https://www.ja-tajima.or.jp/tokusan/yasai/sansho.html"
+   ],
+   [
+    "Sansho Navi",
+    "https://kyosansyo.com/sansyo-know/"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Ao-jiso / oba (green perilla)",
+  "ja": "青じそ(大葉)",
+  "prefs": [
+   23,
+   8
+  ],
+  "text": "The green-leaved form of perilla, sold as oba. One source says it arose as a variant of red shiso. Main producing prefectures are Aichi and Ibaraki. Crinkled types such as chirimen ao-jiso also exist.",
+  "flavor": "Fresh herbal-minty aroma with a faint bitter edge.",
+  "use": "Garnish and wrapper for sashimi, tempura, condiment, chopped into cold noodles.",
+  "craft": "Sources give only origin, producing prefectures and the existence of crinkled types; judge freshness by leaf color and condition.",
+  "src": [
+   [
+    "Yasainavi: ao-jiso",
+    "https://www.yasainavi.com/zukan/shiso/aojiso"
+   ],
+   [
+    "Tama Seika: oba",
+    "https://tamaseika.co.jp/wp-content/uploads/2024/01/%E5%A4%A7%E8%91%89.pdf"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Aka-jiso (red perilla)",
+  "ja": "赤じそ",
+  "prefs": [
+   10
+  ],
+  "text": "The red-purple form of perilla. In the trade source, main producing areas are Ota and Maebashi in Gunma.",
+  "flavor": "Red-purple leaf.",
+  "use": "Red perilla; sources here give only the production area.",
+  "craft": "Sources give only production areas; no processing detail was in the results.",
+  "src": [
+   [
+    "Yasainavi: shiso guide",
+    "https://www.yasainavi.com/zukan/shiso/aojiso"
+   ],
+   [
+    "Sakata no Tane: shiso growing",
+    "https://sakata-tsushin.com/lesson-vegetable/detail_192/"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Hana-hojiso and hojiso (shiso flower spikes)",
+  "ja": "花穂じそ・穂じそ",
+  "prefs": [
+   23
+  ],
+  "text": "Shiso is used at two stages of the flower spike. Hana-hojiso is the spike at flowering. Hojiso is the spike after flowers have finished but before the seeds ripen, also called tabaho (bundled spike) per the trade sources. Both are mainly produced in Aichi.",
+  "flavor": "Shiso aroma, concentrated in the spike.",
+  "use": "Garnish ingredients (ashirai) for sashimi, according to the Marutomo vegetable data.",
+  "craft": "Stage decides the product: flowering spike vs post-flower, pre-seed spike. Sources give no handling detail.",
+  "src": [
+   [
+    "Yasainavi: hana-hojiso",
+    "https://www.yasainavi.com/zukan/shiso/hanahojiso"
+   ],
+   [
+    "Yasainavi: hojiso",
+    "https://www.yasainavi.com/zukan/shiso/hojiso"
+   ],
+   [
+    "Marutomo Chubu: hojiso",
+    "https://www.marutomo-chubu.com/vege-data/ashirai/post_363.html"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Myoga (Japanese ginger buds)",
+  "ja": "茗荷",
+  "prefs": [
+   39,
+   5,
+   29
+  ],
+  "text": "The flower bud of a perennial relative of ginger. Kochi dominates, with year-round greenhouse production and a national share given as roughly 87 to 90%. Outdoor production elsewhere includes Akita and Nara. Kochi uses native stock. Crops are split into early (natsu-myoga, spring planting, summer harvest) and late (aki-myoga, autumn harvest).",
+  "flavor": "Ginger-family aroma.",
+  "use": "Used as a condiment vegetable; sources here give production detail only.",
+  "craft": "Kochi's greenhouse production makes it available year-round; the early/late (summer/autumn) distinction matters for outdoor crops.",
+  "src": [
+   [
+    "JA Kochi: myoga",
+    "https://ja-kochi.or.jp/agriculture/products/vegetable/850/"
+   ],
+   [
+    "ALIC vegetable info: myoga",
+    "https://alic.go.jp/content/000152836.pdf"
+   ],
+   [
+    "Kochi Industrial Promotion Center: myoga",
+    "https://kochi-iop.jp/library/myoga/"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Mitsuba: ito, kiri, and ne types",
+  "ja": "三つ葉(糸・切り・根)",
+  "prefs": [
+   10,
+   11,
+   12,
+   22,
+   8
+  ],
+  "text": "Mitsuba is sold in three forms. Ito-mitsuba (green) is hydroponic, available year-round and aromatic. Kiri-mitsuba (white) is blanched by forcing, with roots cut off, low harshness and soft texture, in strongest demand in winter. Ne-mitsuba is field grown, shipped with roots, stronger in flavor with more bite, in season in March to April. A trade note lists ito-mitsuba from Gunma, Saitama, Chiba and Shizuoka and kiri from Ibaraki and Chiba, but the document was hard to read.",
+  "flavor": "Ito: aromatic. Kiri: gentle, clean. Ne: strongest, crunchy.",
+  "use": "Ito-mitsuba suits clear soup and chawanmushi per the sources; kiri-mitsuba has little harshness; ne-mitsuba is stronger in flavor.",
+  "craft": "Choose the form by purpose: green ito for aroma, white kiri for mildness, ne for flavor and bite. Regional assignments came from a hard-to-read table, so verify before citing origin.",
+  "src": [
+   [
+    "Educe Shokuiku: mitsuba types",
+    "https://www.educe-shokuiku.jp/news/food/mitsuba/"
+   ],
+   [
+    "Kagome Vegeday: mitsuba",
+    "https://www.kagome.co.jp/vegeday/store/202103/11156/"
+   ],
+   [
+    "Tama Seika: mitsuba",
+    "http://tamaseika.co.jp/wp-content/uploads/2024/01/%E3%81%BF%E3%81%A4%E8%91%89.pdf"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Kujo negi (green onion of Kyoto)",
+  "ja": "九条ねぎ",
+  "prefs": [
+   26
+  ],
+  "text": "A Kyoto heirloom leaf onion (ha-negi). Tradition says cultivation began in Fushimi-Fukakusa in 711 (Wado 4) from stock of Naniwa origin and settled as a variety in the Kujo area in the Jowa era. Leaves are soft and sweet with a lot of mucilage inside. Two groups exist, asagi (thin) and kuro (thick); the kuro type is the one commonly known. Season is winter, when cold raises sweetness and mucilage.",
+  "flavor": "Sweet, soft, slimy interior.",
+  "use": "Leaf onion eaten for the green part, soft and sweet.",
+  "craft": "Sweetness and mucilage rise with winter cold per the sources, so winter is the quality season. Verify asagi vs kuro type with the grower.",
+  "src": [
+   [
+    "Delish Kitchen: Kujo negi",
+    "https://delishkitchen.tv/articles/842"
+   ],
+   [
+    "Yasainavi: Kujo negi",
+    "https://www.yasainavi.com/zukan/negi/kujounegi"
+   ],
+   [
+    "Agriture: Kujo vs green onion",
+    "https://agriture.jp/kyoto-vegetables/kujo-onion/"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Shimonita negi",
+  "ja": "下仁田ねぎ",
+  "prefs": [
+   10
+  ],
+  "text": "A Gunma negi grown in the Kanra-Tomioka district (Tomioka, Shimonita, Kanra). A non-tillering, single-stalk type with a short white part of 15 to 20 cm and a thick, stubby shape. Raw it is pungent; cooked it becomes strongly sweet.",
+  "flavor": "Hot when raw; sweet and thick when cooked.",
+  "use": "Cooked dishes, since it turns sweet when heated.",
+  "craft": "Raw it is pungent, so cook it. Short (15-20 cm) thick white shank.",
+  "src": [
+   [
+    "Temaeita: types of negi",
+    "https://temaeita.site/post-2162/"
+   ],
+   [
+    "Jeinou: heirloom negi",
+    "https://www.jeinou.com/benri/vegetable/2014/06/171327.html"
+   ],
+   [
+    "Farm Tanaka: negi history",
+    "https://www.farm-tanaka.jp/blog/2021/01/20/history-of-greenonions/"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Fukaya negi",
+  "ja": "深谷ねぎ",
+  "prefs": [
+   11
+  ],
+  "text": "Fukaya negi is not a cultivar name; it is a general name for ne-bukai (deep-rooted, white-shank) onions grown around Fukaya city, Saitama. Fiber is fine, the white part is white and soft, and winter bunches are especially sweet. It is held up as a leading autumn-winter negi.",
+  "flavor": "Fine grain, soft, sweet in winter.",
+  "use": "White-shank negi for cooked dishes and condiment use.",
+  "craft": "As a regional brand rather than a cultivar, quality depends on the grower and season; winter is the sweet season per the sources.",
+  "src": [
+   [
+    "Delish Kitchen: types of negi",
+    "https://delishkitchen.tv/articles/1261"
+   ],
+   [
+    "Farm Tanaka: negi history",
+    "https://www.farm-tanaka.jp/blog/2021/01/20/history-of-greenonions/"
+   ],
+   [
+    "Temaeita: types of negi",
+    "https://temaeita.site/post-2162/"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Senju negi",
+  "ja": "千住ねぎ",
+  "prefs": [
+   13
+  ],
+  "text": "A white negi lineage whose name comes from the Senju market in Tokyo where it was collected. Sources say much of the white negi distributed today belongs to the Senju line. One source says sugar content can exceed 15 degrees around year-end.",
+  "flavor": "Sweet in winter, firm white shank.",
+  "use": "White-shank negi.",
+  "craft": "The sugar figure (above 15 degrees at year-end) is from one source and not independently confirmed.",
+  "src": [
+   [
+    "Farm Tanaka: negi history",
+    "https://www.farm-tanaka.jp/blog/2021/01/20/history-of-greenonions/"
+   ],
+   [
+    "Jeinou: heirloom negi",
+    "https://www.jeinou.com/benri/vegetable/2014/06/171327.html"
+   ],
+   [
+    "Delish Kitchen: types of negi",
+    "https://delishkitchen.tv/articles/1261"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Takanotsume (hawk-claw chili)",
+  "ja": "鷹の爪",
+  "prefs": [
+   37,
+   9,
+   28
+  ],
+  "text": "The standard Japanese dried red chili, described as native to Japan with a sharp, crisp heat. Mainly grown in Kagawa, Tochigi and Hyogo. Named cultivars include Hontaka, Mitaka and Kumataka.",
+  "flavor": "Clean, direct heat.",
+  "use": "Dried red chili for general seasoning.",
+  "craft": "Tochigi Mitaka and Nikko chili appear on a variety list but the results gave no detail.",
+  "src": [
+   [
+    "SB Foods: kinds of chili",
+    "https://www.sbfoods.co.jp/spice-herb/trivia/004.html"
+   ],
+   [
+    "Delish Kitchen: takanotsume",
+    "https://delishkitchen.tv/articles/1176"
+   ],
+   [
+    "Mynavi Agri: 22 chili types",
+    "https://agri.mynavi.jp/2024_10_21_285845/"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Yatsubusa chili",
+  "ja": "八房",
+  "prefs": [
+   8,
+   9,
+   10,
+   11,
+   12,
+   13,
+   14
+  ],
+  "text": "A red chili named for the fruits clustering in a bunch (yatsubusa, eight tassels). Mainly grown in the Kanto region, with moderate heat that is not extreme. Pungency is milder than takanotsume.",
+  "flavor": "Moderate heat.",
+  "use": "Red chili seasoning; sources do not give specifics.",
+  "craft": "Sources give only region and general heat; prefecture list represents the Kanto region as a whole.",
+  "src": [
+   [
+    "Shichimiya: chili varieties",
+    "https://www.shichimiya.co.jp/blog/blog-1421"
+   ],
+   [
+    "Mynavi Agri: 22 chili types",
+    "https://agri.mynavi.jp/2024_10_21_285845/"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Fushimi togarashi (Fushimi amanaga)",
+  "ja": "伏見唐辛子",
+  "prefs": [
+   26
+  ],
+  "text": "A non-pungent green chili grown for a long time in Fushimi ward, Kyoto. Like Manganji it is green, but it is more slender. Sometimes called Fushimi amanaga; spellings vary by source.",
+  "flavor": "Mild, sweet, thin skin.",
+  "use": "Green chili eaten cooked; sources do not give specifics.",
+  "craft": "Contrasted with Manganji: similar green color but more slender. Spellings vary (Fushimi amanaga).",
+  "src": [
+   [
+    "Mynavi Agri: 22 chili types",
+    "https://agri.mynavi.jp/2024_10_21_285845/"
+   ],
+   [
+    "Greensnap: chili types",
+    "https://greensnap.co.jp/columns/capsicum_variation"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Manganji togarashi",
+  "ja": "万願寺とうがらし",
+  "prefs": [
+   26
+  ],
+  "text": "A Kyoto heirloom green chili, listed among the Kyo-yasai. Thick-fleshed and sweet, not hot.",
+  "flavor": "Sweet, thick flesh.",
+  "use": "Green chili eaten cooked; sources do not give specifics.",
+  "craft": "Contrast: Fushimi is more slender; Manganji is thick-fleshed.",
+  "src": [
+   [
+    "Greensnap: chili types",
+    "https://greensnap.co.jp/columns/capsicum_variation"
+   ],
+   [
+    "Mynavi Agri: 22 chili types",
+    "https://agri.mynavi.jp/2024_10_21_285845/"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Fukuchi White Rokupen garlic",
+  "ja": "福地ホワイト六片",
+  "prefs": [
+   2
+  ],
+  "text": "A cold-region garlic from the Fukuchi district of Nanbu, Aomori (formerly Fukuchi village), named for its snow-white color. A bulb has about 4 to 6 large, firm cloves. It is planted in autumn and overwinters, which sources link to higher sugar. Harvest begins in early July, peaks around August, and the crop takes over ten months. 'Hakugyokuo' is an improved line.",
+  "flavor": "Sweet, rich, strong umami once cooked.",
+  "use": "Cooking garlic where sweetness is wanted; sources say sweetness and richness are emphasised when heated.",
+  "craft": "Sugar is attributed by sources to autumn planting and winter overwintering. Look for large, firm, white cloves, 4 to 6 per bulb.",
+  "src": [
+   [
+    "Gotouchi-i: Fukuchi White",
+    "https://gotouchi-i.jp/aomori-fukuchiwhiteroppen/"
+   ],
+   [
+    "Miura Farm Tsugaru: garlic",
+    "https://miurafarm-tsugaru.com/about/about-garlic/"
+   ],
+   [
+    "Kisetsu Miyori: garlic",
+    "https://kisetsumimiyori.com/garlicwhite/"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Kikai-jima sesame and domestic sesame",
+  "ja": "国産ごま(喜界島)",
+  "prefs": [
+   46
+  ],
+  "text": "Domestic sesame is a tiny share of the market. Kuki Sangyo cites 2020 domestic output of 50 t, about 0.024% self-sufficiency; another source gives consumption of about 150,000 t (2021) against roughly 40 t harvested; Wadaman says 0.1%. Kagoshima's Kikai-jima is the center, said to supply roughly 55 to 65% of domestic sesame. Its white sesame is a landrace grown without crossing, smaller but with a stronger aroma.",
+  "flavor": "Small seeds, strong aroma.",
+  "use": "Domestic seed used where aroma matters; sources give no recipe detail.",
+  "craft": "Harvest, drying and sorting are largely manual, which limits supply. Sources say nothing about black or golden sesame cultivars in domestic output.",
+  "src": [
+   [
+    "Kuki Sangyo: domestic sesame",
+    "https://www.kuki-info.co.jp/gomanokoto/gomanokoto-005.html"
+   ],
+   [
+    "Kuki Sangyo: sesame origins",
+    "https://www.kuki-info.co.jp/gomanokoto/gomanokoto-0018.html"
+   ],
+   [
+    "Wadaman: domestic sesame project",
+    "https://www.wadaman.com/kokusan/"
+   ]
+  ]
+ }
+]

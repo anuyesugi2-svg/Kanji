@@ -1,0 +1,746 @@
+[
+ {
+  "cat": "tea",
+  "name": "Yabukita (the dominant sencha cultivar)",
+  "ja": "やぶきた",
+  "prefs": [
+   46,
+   11
+  ],
+  "text": "The most widely planted tea cultivar in Japan. Sources put it at more than 70 percent of national tea acreage (one page citing July 2020), while a Saitama Prefecture document describes it as just under 80 percent, so the exact share depends on the source. It is a mid-season cultivar, neither early nor late. In Kagoshima it is reported at about 40 percent of plantings, with Yutakamidori about 30 percent.",
+  "flavor": "Balanced umami, astringency and aroma; fresh scent and a full-bodied cup.",
+  "use": "The baseline for futsu-sencha and most blended shiage-cha; the standard against which other cultivars are compared (earlier or later than Yabukita).",
+  "craft": "Because it dominates, harvest timing clusters; cultivars earlier or later than Yabukita (e.g. Sayamakaori, Okumidori) are listed relative to it. Sources disagree on its national share.",
+  "src": [
+   [
+    "Yamamotoyama cultivar guide",
+    "https://ec.yamamotoyama.co.jp/blogs/column/reading126"
+   ],
+   [
+    "Saitama Prefecture: tea cultivars grown in Saitama",
+    "https://www.pref.saitama.lg.jp/b0914/chahinsyu.html"
+   ],
+   [
+    "Chiran-cha, Minamikyushu City",
+    "https://www.city.minamikyushu.lg.jp/chirancha/about/chiranchatoha/1597.html"
+   ]
+  ]
+ },
+ {
+  "cat": "tea",
+  "name": "Sayamakaori (early, aromatic, strongly astringent)",
+  "ja": "さやまかおり",
+  "prefs": [
+   11
+  ],
+  "text": "A cultivar associated with Saitama (Sayama tea country). It is classed as early-budding relative to Yabukita; the source gives a range of 0 to 2 days earlier. It is described as the fifth most planted cultivar nationally. Known for a strong aroma and a forceful, astringent taste.",
+  "flavor": "Pronounced aroma, strong astringency, powerful body.",
+  "use": "Sencha with strength; suits drinkers who want a robust cup, and works in blends to add aroma and body.",
+  "craft": "Its astringency means water temperature and steeping time matter: brewing too hot or too long will push the bitterness. Described as strongly aromatic and strongly astringent, so check how a given lot is finished before blending.",
+  "src": [
+   [
+    "e-cha: Sayamakaori",
+    "https://www.e-cha.co.jp/contents/sayamakaori/"
+   ],
+   [
+    "Saitama Prefecture: tea cultivars",
+    "https://www.pref.saitama.lg.jp/b0914/chahinsyu.html"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Okumidori (late-season, mellow cultivar)",
+  "ja": "おくみどり",
+  "prefs": [],
+  "text": "A late-budding cultivar: sources say it comes into season after Yabukita, with one giving about 8 days later. Described as clean and mellow without off-notes, and as giving a fresh aroma when made into sencha. Its late picking is useful for staggering harvest workloads.",
+  "flavor": "Mellow, clean, no harshness; refreshing aroma.",
+  "use": "Single-cultivar sencha and a softening component in blends.",
+  "craft": "Late maturity staggers the harvest after the Yabukita fields. Sources differ on how many days later it is, so check the figure with your supplier.",
+  "src": [
+   [
+    "Shinryokuen: Okumidori",
+    "https://shinryokuen.co.jp/?mode=f247"
+   ],
+   [
+    "Yamamotoyama cultivar guide",
+    "https://ec.yamamotoyama.co.jp/blogs/column/reading126"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Saemidori (bright color, low astringency)",
+  "ja": "さえみどり",
+  "prefs": [],
+  "text": "A cultivar described with a vivid green liquor, refined sweetness and umami, little astringency and a neat, graceful character. Its aroma is described as gentle and delicate. Often presented as a cultivar for those who like a soft, sweet cup.",
+  "flavor": "Brilliant color, elegant sweetness and umami, a gentle fragrance, low astringency.",
+  "use": "Single-cultivar sencha where a bright liquor and gentle sweetness are wanted.",
+  "craft": "Judge by liquor color and the clean sweetness of the cup; the cultivar is described as low in astringency.",
+  "src": [
+   [
+    "Yamamotoyama cultivar guide",
+    "https://ec.yamamotoyama.co.jp/blogs/column/reading126"
+   ],
+   [
+    "Re:leaf Record: tea cultivars",
+    "https://releafrecord.com/article/57/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Asatsuyu ('natural gyokuro' cultivar)",
+  "ja": "あさつゆ",
+  "prefs": [],
+  "text": "A cultivar characterized by concentrated sweetness and umami, sometimes called 'natural gyokuro' (tennen gyokuro) because the cup resembles shaded tea. Described in cultivar guides as sweet and dense in flavor.",
+  "flavor": "Rich sweetness and umami, thick cup.",
+  "use": "Sencha or kabusecha where a gyokuro-like sweetness is wanted without a long shading period.",
+  "craft": "The 'natural gyokuro' label is descriptive rather than a formal grade; judge each lot by its sweetness and umami in the cup.",
+  "src": [
+   [
+    "Yamamotoyama cultivar guide",
+    "https://ec.yamamotoyama.co.jp/blogs/column/reading126"
+   ],
+   [
+    "Sanrokuen: 34 cultivars",
+    "https://tea-sanrokuen.com/wp/archives/2212"
+   ]
+  ]
+ },
+ {
+  "cat": "tea",
+  "name": "Samidori (Uji shaded-tea cultivar)",
+  "ja": "さみどり",
+  "prefs": [
+   26
+  ],
+  "text": "Described as one of the representative cultivars for Uji's shaded (covered) teas. The cup is rounded with a thick, deep umami. It is used for gyokuro and tencha-type products grown under shade in the Uji area.",
+  "flavor": "Mellow, thick umami, full body.",
+  "use": "Covered (shaded) teas of Uji.",
+  "craft": "Described as a representative cultivar of Uji's covered teas; judge by the thick umami of the first infusion.",
+  "src": [
+   [
+    "Yamamotoyama cultivar guide",
+    "https://ec.yamamotoyama.co.jp/blogs/column/reading126"
+   ],
+   [
+    "Re:leaf Record: tea cultivars",
+    "https://releafrecord.com/article/57/"
+   ]
+  ]
+ },
+ {
+  "cat": "tea",
+  "name": "Gyokuro (shaded leaf tea)",
+  "ja": "玉露",
+  "prefs": [
+   22,
+   40
+  ],
+  "text": "Shaded for about 20 days before picking. One source describes covering at the one-to-two leaf stage with 70 to 80 percent shading, then raising it to 95 to 98 percent. Processing follows the same steamed and rolled path as sencha. Shading preserves amino acids and limits conversion to catechins, producing sweetness, strong umami and the seaweed-like 'ooi-ka' (cover aroma). Asahina (Shizuoka) and Yame (Fukuoka) are cited producing regions.",
+  "flavor": "Concentrated umami and sweetness, low astringency, nori-like cover aroma.",
+  "use": "Brewed in small quantity with low-temperature water.",
+  "craft": "Shading period and percentage vary by source and by grower, so verify rather than assume. Judge the cover aroma, the rich green liquor and the sweetness of the first infusion.",
+  "src": [
+   [
+    "Senchado: kabusecha, between gyokuro and sencha",
+    "https://shop.senchado.jp/blogs/ocha/20201221_330"
+   ],
+   [
+    "Sanrokuen: gyokuro, Yame",
+    "https://tea-sanrokuen.com/wp/archives/1950"
+   ],
+   [
+    "Ochatimes: gyokuro",
+    "https://ochatimes.com/12387/"
+   ]
+  ]
+ },
+ {
+  "cat": "tea",
+  "name": "Asahina gyokuro (Fujieda)",
+  "ja": "朝比奈玉露",
+  "prefs": [
+   22
+  ],
+  "text": "Gyokuro from the hillside tea gardens on both banks of the Asahina river in Fujieda, Shizuoka. It is counted among the three great gyokuro of Japan. Neighbouring Okabe in Fujieda is also known for gyokuro. The tea carries the characteristic cover aroma of shaded gyokuro.",
+  "flavor": "Deep umami, nori-like cover aroma.",
+  "use": "Brewed low and slow like other gyokuro; a regional specialty for gifting.",
+  "craft": "Its historical detail was not confirmed in the sources found. Judge as for any gyokuro: cover aroma, color, and the sweetness of the first pour.",
+  "src": [
+   [
+    "Ochatimes: gyokuro",
+    "https://ochatimes.com/12387/"
+   ],
+   [
+    "Shizuoka tea brands",
+    "https://aardvarktea.jp/blogs/column/shizuoka-tea-brand"
+   ],
+   [
+    "MAFF: tea producing regions",
+    "https://www.maff.go.jp/j/seisan/tokusan/cha/attach/pdf/ocha-43.pdf"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Kabusecha (covered sencha)",
+  "ja": "かぶせ茶",
+  "prefs": [],
+  "text": "A tea shaded for a shorter time than gyokuro, about one week before picking, though sources give 3 to 10 days depending on region. Shading rate is given as around 50 percent in one source and 60 to 75 percent with tunnel covering in another. It sits between sencha and gyokuro in character: less astringent than sencha, less covered in aroma than gyokuro. Processing follows the sencha route.",
+  "flavor": "Sweet umami with moderate astringency, a light cover aroma.",
+  "use": "Sits between sencha and gyokuro; brew according to the producer's guidance.",
+  "craft": "Shading days and percentage vary widely, so do not treat any single figure as a standard. A longer shade lowers astringency and raises umami.",
+  "src": [
+   [
+    "Senchado: kabusecha",
+    "https://shop.senchado.jp/blogs/ocha/20201221_330"
+   ],
+   [
+    "Wikipedia JA: kabusecha",
+    "https://ja.wikipedia.org/wiki/%E3%81%8B%E3%81%B6%E3%81%9B%E8%8C%B6"
+   ],
+   [
+    "Senchado: tea types summary",
+    "https://shop.senchado.jp/blogs/ocha/20200208_416"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Tencha (unrolled tea, matcha base)",
+  "ja": "碾茶",
+  "prefs": [],
+  "text": "The raw material for matcha. Grown under shade like gyokuro, with one source stating a longer shading period of about 30 days. After steaming the leaf is dried without rolling, then stems and veins are removed and the leaf is ground to powder with a stone mill. Tencha is therefore flat, flaky leaf rather than the needle-shaped leaf of sencha.",
+  "flavor": "Sweet, marine-green aroma when well made; vivid green flakes.",
+  "use": "Ground to matcha; the grade of tencha determines the grade of matcha.",
+  "craft": "Check the leaf for even, bright green color and absence of stem or vein fragments. Shading days are source-dependent; do not treat 30 days as a fixed rule.",
+  "src": [
+   [
+    "Senchado: tea types",
+    "https://shop.senchado.jp/blogs/ocha/20200208_416"
+   ],
+   [
+    "Greentea Acapella: gyokuro, sencha, matcha, kabusecha",
+    "https://greentea-acapella.com/gyokuro-sencha-tigai/"
+   ],
+   [
+    "Marukyu Koyamaen: tea types",
+    "https://www.marukyu-koyamaen.co.jp/about-tea/know-kind.html"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Asamushi (light steaming)",
+  "ja": "浅蒸し",
+  "prefs": [],
+  "text": "Steaming sencha leaf for a short time, which sources quote variously as 10 to 30 seconds or about 20 seconds; many sources state ordinary sencha is steamed 30 to 40 seconds. Steaming stops oxidase activity, removes the grassy smell of fresh leaf and fixes the green color. Light steaming leaves the leaf structure intact.",
+  "flavor": "Fresh, with intact leaf; sources describe more aroma and astringency than fukamushi.",
+  "use": "Sencha steamed lightly; brew with attention to the infusion time.",
+  "craft": "The second figures differ by source; treat them as indicative.",
+  "src": [
+   [
+    "Satoen: asamushi vs fukamushi",
+    "https://www.satoen.co.jp/blog/sencha-fukamushi-chigai/"
+   ],
+   [
+    "Chakatsu: asamushi and fukamushi",
+    "https://chakatsu.com/basic/asamushi_fukamushi/"
+   ],
+   [
+    "Nihoncha Magazine: sencha aracha",
+    "https://nihoncha-magazine.com/?p=14"
+   ]
+  ]
+ },
+ {
+  "cat": "tea",
+  "name": "Fukamushi-cha (deep-steamed sencha)",
+  "ja": "深蒸し茶",
+  "prefs": [
+   46,
+   22
+  ],
+  "text": "Sencha steamed much longer than ordinary sencha: generally at least twice as long, with 60 seconds or more (one source 60 to 120 seconds) against 30 to 40 seconds. Longer steaming softens the leaf so it breaks into fine pieces, gives a dark green liquor and reduces astringency. Chiran in Kagoshima is known for it, and Kikugawa fukamushi in Shizuoka holds a GI.",
+  "flavor": "Deep green cloudy liquor, mellow body, little astringency.",
+  "use": "Brewed with hot water and a shorter steep than asamushi; fine particles end up in the cup.",
+  "craft": "Longer steaming softens the leaf so it crumbles; the dark green liquor and reduced astringency are the signals to check. Steaming seconds differ by source.",
+  "src": [
+   [
+    "Chanoniwa: fukamushi-cha",
+    "https://www.chanoniwa-online.com/blog/column/fukamushi-cha/"
+   ],
+   [
+    "e-cha: fukamushi-cha",
+    "https://www.e-cha.co.jp/contents/fukamushi-cha/"
+   ],
+   [
+    "Satoen: asamushi vs fukamushi",
+    "https://www.satoen.co.jp/blog/sencha-fukamushi-chigai/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Aracha to shiage-cha (rough tea to finished tea)",
+  "ja": "荒茶と仕上げ茶",
+  "prefs": [],
+  "text": "Farm-level processing produces aracha (rough tea): steaming to stop oxidase, then rolling and drying. After final rolling the leaf is dried with hot air at about 80 degrees C for around 30 minutes to about 5 percent moisture, per one source. At the tea merchant the aracha is sorted, fired (hiire) and blended (gouso) into shiage-cha, the finished product.",
+  "flavor": "Aracha is rougher; shiage-cha is uniform in shape and flavor.",
+  "use": "Understanding which stage a tea is at helps in buying and blending.",
+  "craft": "Hiire sets the roast character and aroma; gouso lets the merchant match a house flavor year to year. The roles of the individual rolling machines were not confirmed in the sources found.",
+  "src": [
+   [
+    "Nihoncha Magazine: how sencha aracha is made",
+    "https://nihoncha-magazine.com/?p=14"
+   ],
+   [
+    "Minorien: fukamushi process",
+    "https://minorien.jp/chishiki/process.html"
+   ],
+   [
+    "Satoen: asamushi vs fukamushi",
+    "https://www.satoen.co.jp/blog/sencha-fukamushi-chigai/"
+   ]
+  ]
+ },
+ {
+  "cat": "tea",
+  "name": "Kawane-cha (Oi river mountain tea)",
+  "ja": "川根茶",
+  "prefs": [
+   22
+  ],
+  "text": "Grown in the mountain districts of the middle and upper Oi river in Shizuoka. Short sunshine hours and large day-night temperature swings are cited, along with fog that acts as natural cover. Described as mild and balanced with low bitterness. Tea is already recorded in the 1599 (Keicho 4) land survey register. Sources disagree on the steaming style: one says traditional asamushi, another chumushi.",
+  "flavor": "Gentle, refreshing, low bitterness, balanced umami.",
+  "use": "Sencha, brewed according to the producer's style.",
+  "craft": "Because sources differ on steaming, ask the producer which style a given lot uses before judging it.",
+  "src": [
+   [
+    "Shizuoka food information: Kawane-cha",
+    "https://fujinokuni.shokunomiyako-shizuoka.pref.shizuoka.jp/culture/article/1840"
+   ],
+   [
+    "e-cha: Kawane-cha",
+    "https://www.e-cha.co.jp/contents/kawane-cha/"
+   ],
+   [
+    "MAFF: tea producing regions",
+    "https://www.maff.go.jp/j/seisan/tokusan/cha/attach/pdf/ocha-43.pdf"
+   ]
+  ]
+ },
+ {
+  "cat": "tea",
+  "name": "Honyama-cha (Abe and Warashina river tea)",
+  "ja": "本山茶",
+  "prefs": [
+   22
+  ],
+  "text": "Tea from the upper Abe and Warashina river areas of Shizuoka. Described as the oldest-established tea area in Shizuoka Prefecture, and said to be a favorite of Tokugawa Ieyasu when he lived at Sunpu Castle. Sources describe a deep mountain setting with large temperature differences; whether the tea is fog-grown is described differently by different sources.",
+  "flavor": "Substantial, mountain-grown, deep flavor.",
+  "use": "Sencha with historic provenance.",
+  "craft": "The Ieyasu link is a traditional claim, so present it as such.",
+  "src": [
+   [
+    "e-cha: Honyama-cha",
+    "https://www.e-cha.co.jp/contents/honyama-cha/"
+   ],
+   [
+    "Minorien: Shizuoka three regional brands",
+    "https://minorien.jp/special/suruga/nekochaya.html"
+   ],
+   [
+    "MAFF: tea producing regions",
+    "https://www.maff.go.jp/j/seisan/tokusan/cha/attach/pdf/ocha-43.pdf"
+   ]
+  ]
+ },
+ {
+  "cat": "tea",
+  "name": "Chiran-cha (Minamikyushu)",
+  "ja": "知覧茶",
+  "prefs": [
+   46
+  ],
+  "text": "Tea from Minamikyushu City, Kagoshima, centered on the former towns of Chiran, Ei and Kawanabe. It is the largest producer by municipality in Japan, though sources differ on volume: about 12,900 t and 15 percent of national output in one, about 12,000 t in another, and about 17 percent per the city site. Style is fukamushi on well-drained volcanic shirasu plateau. New tea can appear as early as the end of March.",
+  "flavor": "Mellow body, deep green liquor.",
+  "use": "Hot-water sencha; early shincha for the first of the season.",
+  "craft": "Kagoshima cultivars are about 40 percent Yabukita and 30 percent Yutakamidori according to one source, which affects blend character.",
+  "src": [
+   [
+    "Minamikyushu City: what is Chiran-cha",
+    "https://www.city.minamikyushu.lg.jp/chirancha/about/chiranchatoha/1597.html"
+   ],
+   [
+    "e-cha: Chiran-cha",
+    "https://www.e-cha.co.jp/contents/chiran-cha/"
+   ],
+   [
+    "Chiran-cha facts",
+    "https://chiran-tea.jp/hpgen/HPB/entries/3.html"
+   ]
+  ]
+ },
+ {
+  "cat": "tea",
+  "name": "Tamaryokucha / guri-cha (curled leaf tea)",
+  "ja": "玉緑茶(ぐり茶)",
+  "prefs": [
+   41,
+   42,
+   43
+  ],
+  "text": "A leaf shape rather than a region: the leaf is curled like a magatama comma bead, hence the name guri-cha. In place of the final rolling stage (seijuu) of sencha, tamaryokucha undergoes a re-drying step, which is said to reduce astringency and bitterness and give a mellow, sweet cup. In Ureshino, steamed tamaryokucha and pan-fired kamairi tamaryokucha are distinguished.",
+  "flavor": "Mellow and sweet, low astringency; steamed type has refreshing aroma and rich umami.",
+  "use": "Served as an everyday tea in the Ureshino area, in steamed and pan-fired versions.",
+  "craft": "The umbrella Ureshino brand requires raw tea from Saga or Nagasaki (100 percent). The re-drying step replaces seijuu, which is why the cup is soft and sweet.",
+  "src": [
+   [
+    "Ureshino City: types of tea",
+    "https://www.city.ureshino.lg.jp/kanko/ureshinocha/_19851/_20209.html"
+   ],
+   [
+    "Ureshino City: features of Ureshino tea",
+    "https://www.city.ureshino.lg.jp/kanko/ureshinocha/_19851/_20110.html"
+   ],
+   [
+    "Western Kyushu tea federation: Ureshino features",
+    "https://charen-ureshinocha.com/ureshino-tea/features/"
+   ]
+  ]
+ },
+ {
+  "cat": "tea",
+  "name": "Kamairicha (pan-fired tea)",
+  "ja": "釜炒り茶",
+  "prefs": [
+   41,
+   42
+  ],
+  "text": "Tea in which fresh leaf is heated in an iron pan to stop enzyme activity, instead of steaming. In Ureshino it is a small share: about 5 percent of Ureshino output according to one source, while an older source gives steamed tea as about 98 percent. The result is toasty and clean on the throat compared with steamed tea.",
+  "flavor": "Toasty aroma, light finish, clear liquor.",
+  "use": "Served as an everyday Ureshino tea; sources say it is clean on the throat.",
+  "craft": "Fixation is by pan-firing rather than steaming, which gives the toasty character; production shares quoted differ by source.",
+  "src": [
+   [
+    "Ureshino City: types of tea",
+    "https://www.city.ureshino.lg.jp/kanko/ureshinocha/_19851/_20209.html"
+   ],
+   [
+    "Shinryokuen: Ureshino tea",
+    "https://shinryokuen.co.jp/?mode=f281"
+   ],
+   [
+    "Japanese Tea Shop: Ureshino tea",
+    "https://japaneseteashop.com/about-ureshinocha"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Hojicha (roasted tea)",
+  "ja": "ほうじ茶",
+  "prefs": [],
+  "text": "Made by roasting bancha, kukicha or sencha at around 200 degrees C. Roasting gives the toasty aroma that defines it and takes away much of the astringency. Brewing guidance is boiling-hot water: one source uses about 3 g of leaf and a 30 second steep; the Nihoncha Instructors Association table lists 90 degrees C for bancha and hojicha.",
+  "flavor": "Roasty, caramelized aroma, light body.",
+  "use": "Brewed hot as an everyday tea.",
+  "craft": "Use fully hot water to release the aroma. Roast level is the main variable.",
+  "src": [
+   [
+    "e-cha: Japanese tea types",
+    "https://www.e-cha.co.jp/contents/japanese-tea/"
+   ],
+   [
+    "Zojirushi: how to brew tea",
+    "https://www.zojirushi.co.jp/kakushiaji/article/001443/"
+   ],
+   [
+    "Japan Tea Instructors Association: brewing",
+    "https://www.nihoncha-inst.com/basic/basic5.html"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Bancha (later-flush everyday tea)",
+  "ja": "番茶",
+  "prefs": [],
+  "text": "A broad category of everyday tea. Definitions vary: in some places bancha means tea from the second flush on, in others from the third flush on. Autumn-winter bancha (late September to early October picking) is also a named style. Later flushes grown in summer sun carry more astringency.",
+  "flavor": "Straightforward, sturdier, more astringent than first flush.",
+  "use": "Brewed hot at around 90 degrees C per the Japan Tea Instructors Association table; also base for hojicha.",
+  "craft": "Always ask the producer what 'bancha' means locally, because the term is not standardized.",
+  "src": [
+   [
+    "Nihoncha Magazine: ichiban to bancha",
+    "https://nihoncha-magazine.com/?p=467"
+   ],
+   [
+    "Yamaichien: shincha and bancha",
+    "https://www.yamaichien.com/blog/2018/05/%E6%96%B0%E8%8C%B6%E3%81%A8%E7%95%AA%E8%8C%B6%E3%81%AE%E9%81%95%E3%81%84%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/"
+   ],
+   [
+    "Japan Tea Instructors Association: brewing",
+    "https://www.nihoncha-inst.com/basic/basic5.html"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Kukicha / bocha (stem tea)",
+  "ja": "茎茶(棒茶)",
+  "prefs": [],
+  "text": "Tea made from the stems sorted out during sencha or gyokuro manufacture. Also called bocha in some regions. It is also used as raw material for hojicha.",
+  "flavor": "Mild, little astringency.",
+  "use": "Brewed as a light everyday tea.",
+  "craft": "Because stems come from the sorting step, quality tracks the quality of the parent tea.",
+  "src": [
+   [
+    "e-cha: Japanese tea types",
+    "https://www.e-cha.co.jp/contents/japanese-tea/"
+   ],
+   [
+    "Ureshino City: types of tea",
+    "https://www.city.ureshino.lg.jp/kanko/ureshinocha/_19851/_20209.html"
+   ]
+  ]
+ },
+ {
+  "cat": "tea",
+  "name": "Awa-bancha (lactic-fermented tea, Tokushima)",
+  "ja": "阿波晩茶",
+  "prefs": [
+   36
+  ],
+  "text": "A post-fermented tea of Tokushima (Naka town). Mature summer leaf is picked around July to August, steamed and rolled, packed into wooden barrels for lactic fermentation (reports say two weeks to a month), then sun-dried. Its method is designated an Important Intangible Folk Cultural Property. Legend credits Kobo Daishi with teaching tea making about 1200 years ago.",
+  "flavor": "Microbially fermented, not oxidized; compared by sources to barrel-fermented foods such as pickles and miso.",
+  "use": "Drunk as a traditional regional tea.",
+  "craft": "Lactic fermentation only (no mold stage). Methods vary by producer, so batches differ.",
+  "src": [
+   [
+    "O-CHA NET: Awa-bancha and Tosa goishi-cha",
+    "https://www.o-cha.net/jiten/nihonocha/awabancha.html"
+   ],
+   [
+    "Ikawa Hakko: Awa-bancha story",
+    "https://www.ikawahakko.jp/%E9%98%BF%E6%B3%A2%E6%99%A9%E8%8C%B6%E7%89%A9%E8%AA%9E/"
+   ],
+   [
+    "AIST: post-fermented teas of Shikoku",
+    "https://festa.csj.jp/2024/festa_free/pdf/oral/G3-07.pdf"
+   ]
+  ]
+ },
+ {
+  "cat": "tea",
+  "name": "Goishi-cha (Tosa black tea)",
+  "ja": "碁石茶",
+  "prefs": [
+   39
+  ],
+  "text": "A Shikoku post-fermented tea. Steamed leaf is first fermented aerobically by mold, then packed in a barrel with weights for several weeks of anaerobic lactic fermentation. This two-stage process is distinct from the lactic-only Awa-bancha. It is reportedly made in Kochi.",
+  "flavor": "Distinctive aroma and taste unlike other teas, according to sources.",
+  "use": "A regional specialty tea.",
+  "craft": "Two-stage fermentation makes it technically demanding; the microorganisms involved shape the aroma.",
+  "src": [
+   [
+    "AIST: post-fermented teas of Shikoku",
+    "https://festa.csj.jp/2024/festa_free/pdf/oral/G3-07.pdf"
+   ],
+   [
+    "O-CHA NET: Awa-bancha and Tosa goishi-cha",
+    "https://www.o-cha.net/jiten/nihonocha/awabancha.html"
+   ],
+   [
+    "e-cha: post-fermented teas",
+    "https://www.e-cha.co.jp/contents/ato-hakkou-cha/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Ichibancha and shincha (first flush)",
+  "ja": "一番茶・新茶",
+  "prefs": [],
+  "text": "First flush is generally picked late April to late May. Compared with later flushes it has less catechin and caffeine and more amino acids, giving sweetness and umami. Shincha is the first-flush tea of the year. Chiran can bring new tea out as early as the end of March.",
+  "flavor": "Sweet, umami-rich, fresh and soft.",
+  "use": "Brewed fresh as the seasonal highlight; priced above later flushes.",
+  "craft": "Compare picking and origin dates; warm regions start earlier.",
+  "src": [
+   [
+    "e-cha: ichibancha",
+    "https://www.e-cha.co.jp/contents/ichiban-cha/"
+   ],
+   [
+    "Chanoniwa: tea picking season",
+    "https://www.chanoniwa-online.com/blog/column/tea-picking/"
+   ],
+   [
+    "Chiran-cha, Minamikyushu City",
+    "https://www.city.minamikyushu.lg.jp/chirancha/about/chiranchatoha/1597.html"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Nibancha, sanbancha and autumn-winter bancha",
+  "ja": "二番茶・三番茶",
+  "prefs": [],
+  "text": "Later flushes follow the first: nibancha around mid June to early July, sanbancha late July to early August, and autumn-winter bancha late September to early October. Intervals are given as 45 to 50 days from first to second picking and 35 to 40 days from second to third.",
+  "flavor": "Increasingly astringent and robust.",
+  "use": "Everyday tea, bancha, hojicha, and tea for cold brewing.",
+  "craft": "Dates are national guidelines; warm and cold regions differ.",
+  "src": [
+   [
+    "Nihoncha Magazine: flush differences",
+    "https://nihoncha-magazine.com/?p=467"
+   ],
+   [
+    "jpnculture: shincha and flush meanings",
+    "https://jpnculture.net/nihoncha/"
+   ],
+   [
+    "Nogyo to Doboku: plucking season",
+    "https://nougyoudoboku.com/tea-plucking-season/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Hachijuhachiya (the 88th night)",
+  "ja": "八十八夜",
+  "prefs": [],
+  "text": "The 88th day counted from risshun (around 4 February), traditionally the start of tea picking. Warm regions begin earlier than the traditional date.",
+  "flavor": "Seasonal marker rather than a flavor.",
+  "use": "Calendar benchmark for shincha.",
+  "craft": "Treat it as a cultural reference; actual picking depends on regional temperature.",
+  "src": [
+   [
+    "Chanoniwa: tea picking season",
+    "https://www.chanoniwa-online.com/blog/column/tea-picking/"
+   ],
+   [
+    "Nogyo to Doboku: plucking season",
+    "https://nougyoudoboku.com/tea-plucking-season/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Brewing sencha by grade",
+  "ja": "煎茶の淹れ方",
+  "prefs": [],
+  "text": "The Japan Tea Instructors Association gives about 70 degrees C for premium sencha and 80 to 90 degrees C for mid-grade sencha. Marukyu Koyamaen suggests 7 to 9 g of leaf for three servings, and allows the water to cool; if water is too cool, wait about a minute.",
+  "flavor": "Low temperature emphasizes umami and sweetness; higher temperature, astringency.",
+  "use": "Guideline temperatures by grade.",
+  "craft": "Leaving water in the pot hurts later infusions.",
+  "src": [
+   [
+    "Japan Tea Instructors Association: brewing",
+    "https://www.nihoncha-inst.com/basic/basic5.html"
+   ],
+   [
+    "Marukyu Koyamaen: brewing sencha",
+    "https://www.marukyu-koyamaen.co.jp/about-tea/enjoy-sencha.html"
+   ],
+   [
+    "Zojirushi: how to brew tea",
+    "https://www.zojirushi.co.jp/kakushiaji/article/001443/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Brewing gyokuro",
+  "ja": "玉露の淹れ方",
+  "prefs": [],
+  "text": "Gyokuro is brewed in low-temperature water. Ocha.tv gives 50 degrees C, 6 g of leaf and 100 ml of water for 2 minutes; Marukyu Koyamaen suggests 7 to 8 g for three servings with water of 45 to 55 degrees C and 90 to 120 seconds. Other sources use larger leaf quantities.",
+  "flavor": "Concentrated umami and sweetness.",
+  "use": "Served in small cups.",
+  "craft": "Quantities differ by source, so start from a reference and adjust.",
+  "src": [
+   [
+    "Ocha-tv: brewing gyokuro",
+    "https://www.ocha.tv/how_to_brew/nihoncha/gyokuro/"
+   ],
+   [
+    "Marukyu Koyamaen: brewing gyokuro",
+    "https://www.marukyu-koyamaen.co.jp/about-tea/enjoy-gyokuro.html"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Chasen (bamboo tea whisk)",
+  "ja": "茶筅",
+  "prefs": [],
+  "text": "A bamboo whisk for matcha. Coarse-tined whisks are used for koicha (thick tea) and fine-tined for usucha (thin tea), according to one source. A new bamboo chasen should be soaked in warm water to soften the tines before use.",
+  "flavor": "Not applicable; a tool.",
+  "use": "Whisking matcha in a bowl.",
+  "craft": "Rinse the chasen in hot water before use. Tine counts and regional makers were not detailed in the sources found.",
+  "src": [
+   [
+    "Satoen: matcha tools",
+    "https://www.satoen.co.jp/blog/matcha-dogu-erabi/"
+   ],
+   [
+    "Iwano: tea ceremony utensils",
+    "https://iwano.biz/column/cha-dougu/tea_knowledge/tea_1.html"
+   ],
+   [
+    "Re:leaf Record: how to whisk matcha",
+    "https://releafrecord.com/article/45/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Natsume and chaire (matcha containers)",
+  "ja": "棗と茶入",
+  "prefs": [],
+  "text": "Containers for powdered tea. A natsume (lacquered wood) usually holds tea for usucha, while a chaire (ceramic or porcelain) holds tea for koicha. The chashaku (tea scoop) measures out matcha.",
+  "flavor": "Not applicable.",
+  "use": "Part of the core tea ceremony kit with chasen, chawan and chashaku.",
+  "craft": "Match the container to the tea type used in the procedure.",
+  "src": [
+   [
+    "Satoen: matcha tools",
+    "https://www.satoen.co.jp/blog/matcha-dogu-erabi/"
+   ],
+   [
+    "Iwano: tea ceremony utensils",
+    "https://iwano.biz/column/cha-dougu/tea_knowledge/tea_1.html"
+   ],
+   [
+    "MLIT: tea utensils",
+    "https://www.mlit.go.jp/tagengo-db/en/R4-00280.html"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Usucha (thin matcha)",
+  "ja": "薄茶",
+  "prefs": [],
+  "text": "Thin matcha, whisked with 1.5 to 2 g of powder, which sources describe as 2 chashaku scoops or 3 to 4 smaller scoops; the sources differ. Water is cooled to around 80 degrees C, about 50 to 60 ml per bowl.",
+  "flavor": "Foamy bowl of matcha.",
+  "use": "The everyday style of matcha in the tea ceremony.",
+  "craft": "Koicha amounts were not found in the sources. Whisk to a fine foam.",
+  "src": [
+   [
+    "Re:leaf Record: how to whisk matcha",
+    "https://releafrecord.com/article/45/"
+   ],
+   [
+    "Satoen: matcha tools",
+    "https://www.satoen.co.jp/blog/matcha-dogu-erabi/"
+   ],
+   [
+    "Akanean: usucha and koicha",
+    "https://www.akanean-shop.com/akanegoyomi/ochya-jikan/tea-sweets/"
+   ]
+  ]
+ }
+]

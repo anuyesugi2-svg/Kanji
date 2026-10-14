@@ -1,0 +1,748 @@
+[
+ {
+  "cat": "veg",
+  "name": "Shogoin daikon (Shogoin round radish)",
+  "ja": "聖護院だいこん",
+  "prefs": [
+   26
+  ],
+  "text": "A large, round Kyoto radish and one of the emblematic winter vegetables of Kyoto. Sources describe low pungency and a faint sweetness. The usual season is November to February (Kyoto Tsu hyakka jiten; Zen-Noh Kyoto). It is used in oden, furofuki daikon, simmered dishes and pickles.",
+  "flavor": "Mild, almost no pungency, faint sweetness; melting texture after long simmering.",
+  "use": "Oden, furofuki daikon, nimono, tsukemono. Kyoto cooks treat it as the winter simmering radish.",
+  "craft": "Sources stress that it resists crumbling and turns melting with long simmering. Peak November to February; no grading standard in the sources.",
+  "src": [
+   [
+    "Kyoto Tsu hyakka: Shogoin daikon",
+    "https://www.kyototuu.jp/Life/VegetableSyougoinDaikon.html"
+   ],
+   [
+    "Zen-Noh Kyoto: Kyoto vegetables and fruit",
+    "https://www.zennoh.or.jp/kt/product/fruits/index.html"
+   ],
+   [
+    "Agriture: winter Kyo-yasai",
+    "https://agriture.jp/kyoto-vegetables/winter/"
+   ],
+   [
+    "Minna no Nogyo Hiroba: Shogoin daikon",
+    "https://www.jeinou.com/technology/2014/05/19/091000.html"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Kamo-nasu (Kamo eggplant)",
+  "ja": "賀茂なす",
+  "prefs": [
+   26
+  ],
+  "text": "A round, glossy, deep purple Kyoto eggplant called the 'queen of eggplants' in Zen-Noh Kyoto's description. It is used for dengaku and agedashi and in simmered dishes. Peak season given by Zen-Noh Kyoto is May to October.",
+  "flavor": "Dense flesh with concentrated savour when cooked; the round fruit holds together.",
+  "use": "Nasu dengaku (miso-glazed), agedashi, nimono, deep-fried preparations.",
+  "craft": "Season about May to October. Sources here give no detailed cultivation or cultivar data.",
+  "src": [
+   [
+    "Zen-Noh Kyoto: Kyoto vegetables and fruit",
+    "https://www.zennoh.or.jp/kt/product/fruits/index.html"
+   ],
+   [
+    "Agriture: Kyoto vegetable calendar",
+    "https://agriture.jp/kyoto-vegetables/kyoyasai-calendar/"
+   ],
+   [
+    "Kyoto Kanko Navi Plus: Kyo-yasai basics",
+    "https://plus.kyoto.travel/entry/kyoyasai_kihon"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Kujo negi (Kujo green onion)",
+  "ja": "九条ねぎ",
+  "prefs": [
+   26
+  ],
+  "text": "A green (leaf) negi of Kyoto, soft, sweet and fragrant according to the Kyoto Kentei material. Zen-Noh Kyoto says it ships almost all year; Agriture gives November to February as its prime season, when cold raises the sweetness.",
+  "flavor": "Soft leaf, noticeable sweetness and fragrance, little harshness.",
+  "use": "Yakumi, nabe, miso soup, and wide general use as a green negi.",
+  "craft": "Winter negi is described as sweeter. Contrast with the white-negi tradition of eastern Japan (see the existing negi entry). Sources give no grade or length standard.",
+  "src": [
+   [
+    "Zen-Noh Kyoto: Kyoto vegetables and fruit",
+    "https://www.zennoh.or.jp/kt/product/fruits/index.html"
+   ],
+   [
+    "Agriture: winter Kyo-yasai",
+    "https://agriture.jp/kyoto-vegetables/winter/"
+   ],
+   [
+    "Nihon Dento Yasai Suishin Kyokai: Kyoto",
+    "https://tradveggie.or.jp/traditional-vegetables-prefecture/26-kyoto/"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Horikawa gobo (Horikawa burdock)",
+  "ja": "堀川ごぼう",
+  "prefs": [
+   26
+  ],
+  "text": "A thick, large burdock with a hollow centre, noted for strong aroma and soft flesh and fibre (Zen-Noh Kyoto). Peak season is given as November to December. The hollow is traditionally stuffed with meat and simmered, according to Kyoto Kanko Navi Plus.",
+  "flavor": "High aroma, soft flesh and fibre, tender even though thick.",
+  "use": "Stuffed with meat and simmered, per Kyoto Kanko Navi Plus.",
+  "craft": "The hollow core is the working feature: it allows stuffing and absorbs simmering liquid. Peak November to December. The sources do not specify cultivars or size grades.",
+  "src": [
+   [
+    "Zen-Noh Kyoto: Kyoto vegetables and fruit",
+    "https://www.zennoh.or.jp/kt/product/fruits/index.html"
+   ],
+   [
+    "Kyoto Kanko Navi Plus: Kyo-yasai basics",
+    "https://plus.kyoto.travel/entry/kyoyasai_kihon"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Mibuna (Mibu greens)",
+  "ja": "壬生菜",
+  "prefs": [
+   26
+  ],
+  "text": "A Kyoto leaf vegetable said to have spread around Mibu in Nakagyo-ku in the Edo period and to have arisen as a variant of mizuna. The leaf is darker green than mizuna and rounded, spatula-shaped, with a peppery pungency and aroma. Outdoor-grown stock is on the market December to March (Mynavi Agri).",
+  "flavor": "Peppery pungency and fragrance; firmer, darker leaf than mizuna.",
+  "use": "Asazuke (light pickles) per Mynavi Agri; also nabe and simmered use in Kyoto cooking.",
+  "craft": "Pungency makes it well suited to asazuke. Winter, December to March, is the outdoor season; also certified among the Kyoto Brand products. Origin attributions are traditional and described with hedging in the source.",
+  "src": [
+   [
+    "Mynavi Agri: Mibuna",
+    "https://agri.mynavi.jp/2025_02_01_298284/"
+   ],
+   [
+    "Kyo no Brand Sanpin (31 items)",
+    "https://kyoyasai.kyoto/details"
+   ],
+   [
+    "Nihon Dento Yasai Suishin Kyokai: Kyoto",
+    "https://tradveggie.or.jp/traditional-vegetables-prefecture/26-kyoto/"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Kyo-mizuna (Kyoto mizuna)",
+  "ja": "京水菜",
+  "prefs": [
+   26
+  ],
+  "text": "Mizuna, the mustard-family green of Kyoto, listed among the traditional Kyoto vegetables; mibuna is considered a variant of it. Agriture describes a crisp, snappy texture, suited to nabe (hot pot) and salad. Detailed cultivar and sowing data were not found in the sources consulted.",
+  "flavor": "Crisp, light, clean leaf and stem.",
+  "use": "Nabe (hot pot) and salad, per Agriture.",
+  "craft": "Texture is the quality criterion: crisp stems. Cook briefly in nabe to keep the snap. Winter is its main season. Sources consulted give no varietal detail.",
+  "src": [
+   [
+    "Mynavi Agri: Mibuna and mizuna",
+    "https://agri.mynavi.jp/2025_02_01_298284/"
+   ],
+   [
+    "Agriture: Kyoto traditional vegetables",
+    "https://agriture.jp/local-veg/kyoto/"
+   ],
+   [
+    "Kanemasa: Kyo-yasai no ohanashi",
+    "http://www.kyoyasai.co.jp/yasai.html"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Fushimi togarashi (Fushimi sweet chili)",
+  "ja": "伏見とうがらし",
+  "prefs": [
+   26
+  ],
+  "text": "A non-pungent sweet chili native to the Fushimi area of Kyoto, about 10 to 15 cm long, in season roughly June to September (Agriture). The leaves are also used, as 'kigosho', in tsukudani (Kanemasa).",
+  "flavor": "Sweet, mild, no heat; thin-walled and green-vegetal.",
+  "use": "Sweet chili for cooking; leaves as tsukudani.",
+  "craft": "Fushimi is 10-15 cm and non-pungent per the sources; Manganji is the thick-fleshed type. Cooking methods are not given in the sources.",
+  "src": [
+   [
+    "Agriture: Fushimi togarashi vs Manganji",
+    "https://agriture.jp/kyoto-vegetables/fushimi/"
+   ],
+   [
+    "Kanemasa: Kyo-yasai no ohanashi",
+    "http://www.kyoyasai.co.jp/yasai.html"
+   ],
+   [
+    "Kyo no Brand Sanpin (31 items)",
+    "https://kyoyasai.kyoto/details"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Manganji togarashi (Manganji sweet chili)",
+  "ja": "万願寺とうがらし",
+  "prefs": [
+   26
+  ],
+  "text": "Said to have arisen in the Taisho era in the Manganji district of Maizuru, Kyoto, believed to derive from crossing with Fushimi togarashi and similar types. The Kyo no Brand description gives thick flesh, sweetness and few seeds. Season is early summer to summer (Kanemasa).",
+  "flavor": "Thick, juicy flesh, sweet, few seeds, little bitterness.",
+  "use": "Summer cooking; sources consulted note grilling (Agriture).",
+  "craft": "Thick flesh and few seeds are the traits. The Fushimi cross is 'believed', not documented in these sources.",
+  "src": [
+   [
+    "Kyo no Brand Sanpin (31 items)",
+    "https://kyoyasai.kyoto/details"
+   ],
+   [
+    "Kanemasa: Kyo-yasai no ohanashi",
+    "http://www.kyoyasai.co.jp/yasai.html"
+   ],
+   [
+    "Agriture: Fushimi togarashi vs Manganji",
+    "https://agriture.jp/kyoto-vegetables/fushimi/"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Kyo-ninjin / Kintoki ninjin (Kyoto red carrot)",
+  "ja": "京にんじん(金時にんじん)",
+  "prefs": [
+   26
+  ],
+  "text": "The deep-red long carrot of Kyoto, a winter vegetable. Agriture notes that its red pigment is lycopene, that the colour runs through to the core, and that sweetness is strong. Sowing and harvest data were not found in the sources consulted.",
+  "flavor": "Red through the core, strong sweetness.",
+  "use": "Winter cooking in Kyoto; sources consulted give no specific dishes.",
+  "craft": "Deep red colour through the core is the quality trait. Sources here give no variety grades; season is winter.",
+  "src": [
+   [
+    "Agriture: winter Kyo-yasai",
+    "https://agriture.jp/kyoto-vegetables/winter/"
+   ],
+   [
+    "Agriture: Kyoto traditional vegetables",
+    "https://agriture.jp/local-veg/kyoto/"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Tennoji kabu (Tennoji turnip)",
+  "ja": "天王寺蕪",
+  "prefs": [
+   27
+  ],
+  "text": "A Naniwa traditional turnip from the Tennoji area of Osaka City, in two lines: a deeply cut-leaf type and a shallow round-leaf type. Both have a pure white flat root, strong sweetness and fine flesh. Season is November to January.",
+  "flavor": "Sweet, fine-textured flesh.",
+  "use": "General turnip uses; sources give no specific dishes.",
+  "craft": "The two lines differ in leaf cut only; the root description is shared. Season November to January.",
+  "src": [
+   [
+    "Nihon Dento Yasai Suishin Kyokai: Osaka",
+    "https://tradveggie.or.jp/traditional-vegetables-prefecture/27-osaka/"
+   ],
+   [
+    "Osaka Prefecture: Naniwa traditional vegetables",
+    "https://www.pref.osaka.lg.jp/o120090/nosei/naniwanonousanbutu/dentou.html"
+   ],
+   [
+    "JA Osaka Chuokai",
+    "https://www.jaosaka.or.jp/agri/dentou.php"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Tanabe daikon",
+  "ja": "田辺大根",
+  "prefs": [
+   27
+  ],
+  "text": "A white-necked daikon once the speciality of the Tanabe district, Higashisumiyoshi-ku, Osaka City. The root is white and cylindrical, slightly swollen and rounded at the tip, and the leaves lack spiny hairs. Flesh is fine, soft and sweet. Season is November to January.",
+  "flavor": "Fine, tender, sweet flesh.",
+  "use": "General daikon uses; sources give no specific dishes.",
+  "craft": "Spineless leaves are a distinguishing trait. Season November to January.",
+  "src": [
+   [
+    "Nihon Dento Yasai Suishin Kyokai: Osaka",
+    "https://tradveggie.or.jp/traditional-vegetables-prefecture/27-osaka/"
+   ],
+   [
+    "Osaka Prefecture: Naniwa traditional vegetables",
+    "https://www.pref.osaka.lg.jp/o120090/nosei/naniwanonousanbutu/dentou.html"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Kema kyuri (Kema cucumber)",
+  "ja": "毛馬胡瓜",
+  "prefs": [
+   27
+  ],
+  "text": "A black-spine cucumber thought to originate in Kema-cho, Miyakojima-ku, Osaka. Grown in the sandy soil along the Yodo River from the Edo period and used for Nara-zuke; cultivation declined after the war. The fruit is about 30 cm long with a distinctive bitterness at the tip. Season is July to August.",
+  "flavor": "Distinct tip bitterness.",
+  "use": "Traditionally used for Nara-zuke (sake lees pickles).",
+  "craft": "Long fruit (about 30 cm); the tip bitterness is the trait to expect. Peak July to August.",
+  "src": [
+   [
+    "Nihon Dento Yasai Suishin Kyokai: Osaka",
+    "https://tradveggie.or.jp/traditional-vegetables-prefecture/27-osaka/"
+   ],
+   [
+    "Osaka Prefecture: Naniwa traditional vegetables",
+    "https://www.pref.osaka.lg.jp/o120090/nosei/naniwanonousanbutu/dentou.html"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Tamatsukuri kuromon shirouri (Tamatsukuri Kuromon oriental pickling melon)",
+  "ja": "玉造黒門越瓜",
+  "prefs": [
+   27
+  ],
+  "text": "A pickling melon named after the black-lacquered Tamatsukuri gate of Osaka Castle, near where it was grown in the Edo period. The fruit is long-cylindrical, about 30 cm by 10 cm, dark green with 8 to 9 clear white lengthwise stripes. The flavour is light with an outstanding crunch. Season July to August.",
+  "flavor": "Light taste, excellent crunch.",
+  "use": "Pickling (shirouri tsukemono), simmered dishes.",
+  "craft": "Check the 8 to 9 clear white stripes and the dark green skin. Texture is the point.",
+  "src": [
+   [
+    "Nihon Dento Yasai Suishin Kyokai: Osaka",
+    "https://tradveggie.or.jp/traditional-vegetables-prefecture/27-osaka/"
+   ],
+   [
+    "Osaka Prefecture: Naniwa traditional vegetables",
+    "https://www.pref.osaka.lg.jp/o120090/nosei/naniwanonousanbutu/dentou.html"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Senshu mizunasu (Senshu water eggplant)",
+  "ja": "泉州水なす",
+  "prefs": [
+   27
+  ],
+  "text": "An old Osaka variety recorded in the Muromachi period. It is low in harshness and full of water, so it can be eaten raw. The fruit is a pouch (kinchaku) type with lengthwise grooves and thin light red-purple skin. Market arrivals run from March to November, with the core of the season in summer.",
+  "flavor": "Very juicy, little harshness, mild.",
+  "use": "Eaten raw.",
+  "craft": "Eaten raw, so freshness and crispness matter. Thin skin bruises easily. Sources give no cultivar names beyond the type.",
+  "src": [
+   [
+    "Agriture: Naniwa traditional vegetables",
+    "https://agriture.jp/local-veg/naniwa-vegetables/"
+   ],
+   [
+    "Nihon Dento Yasai Suishin Kyokai: Osaka",
+    "https://tradveggie.or.jp/traditional-vegetables-prefecture/27-osaka/"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Yamato maru-nasu (Yamato round eggplant)",
+  "ja": "大和丸なす",
+  "prefs": [
+   29
+  ],
+  "text": "A round eggplant grown for a long time in Yamatokoriyama and Nara, shipped mainly to Kyoto and the Keihin markets. Fruit is glossy purple-black with a thick spine on the calyx. Per the Nara Prefecture page, the flesh is firm and resists crumbling in cooking.",
+  "flavor": "Firm, dense flesh.",
+  "use": "Cooked eggplant; firm flesh suits simmering.",
+  "craft": "Firm flesh holds shape in simmering. The Nara page lists a thick spiny calyx as an identifying trait. Season was not stated in the sources consulted.",
+  "src": [
+   [
+    "Nara Prefecture: Yamato maru-nasu",
+    "https://www.pref.nara.lg.jp/n118/8050.html"
+   ],
+   [
+    "Foodslink: Yamato maru-nasu",
+    "https://foodslink.jp/syokuzaihyakka/syun/vegitable/nasu-yamatom.htm"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Yamato mana",
+  "ja": "大和まな(大和真菜)",
+  "prefs": [
+   29
+  ],
+  "text": "A native Nara tsukena (pickling green) of the Brassicaceae, once an oil-seed crop that became a food crop. A winter green: after frost in December and later, it becomes softer and sweeter. The leaf yellows readily after harvest.",
+  "flavor": "Soft, sweet after frost; mild brassica note.",
+  "use": "Winter green; sources give no specific dishes.",
+  "craft": "Frost sweetens the leaf, so December onward is the target. Leaves yellow quickly after cutting, so handle fresh and cook soon.",
+  "src": [
+   [
+    "Foodslink: Yamato mana",
+    "https://foodslink.jp/syokuzaihyakka/syun/vegitable/yamatomana.htm"
+   ],
+   [
+    "ALIC Yasai Joho: Yamato mana (June 2012)",
+    "https://vegetable.alic.go.jp/yasaijoho/iroiro/1206_iroiro.html"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Tanba kuro daizu (Tanba Sasayama black soybean)",
+  "ja": "丹波黒大豆(丹波篠山の黒大豆)",
+  "prefs": [
+   28
+  ],
+  "text": "A native black soybean line, 'Tanba-guro', grown in Tambasasayama for over 300 years; very late maturing and large-seeded, about 70 to 80 g per 100 seeds in one source. Black edamame are harvested early to mid October; dry beans late November to early December. Growing takes about a month longer than ordinary soybean. Grown on former 'sacrifice' paddies converted to dry fields, with paddy-field rotation every 2 to 3 years.",
+  "flavor": "Thin skin, soft flesh, sweetness; large and glossy.",
+  "use": "Black beans (kuromame) and kuro-edamame in October.",
+  "craft": "Large, glossy beans are the market standard. Kuro-edamame season is under a month in October and is picked by hand. Rotation between paddy and field every 2 to 3 years avoids continuous-cropping injury. Figures differ by source, so confirm size grade with the buyer.",
+  "src": [
+   [
+    "MAFF: Sasayama black soybean (GIAHS)",
+    "https://www.maff.go.jp/j/nousin/kantai/attach/pdf/giahs_3_sasayama-5.pdf"
+   ],
+   [
+    "Tambasasayama City: Tanba-guro",
+    "https://www.city.tambasasayama.lg.jp/photo_history/2/bunkazai_hubutu_huzoku/tanbaburarisanpodou/14067.html"
+   ],
+   [
+    "Hyogo: Chiiki no tabemono",
+    "https://www.hyogo-c.ed.jp/~taiiku-bo/syokuikukakari/tabemono/sozai/i-kurodaizu.html"
+   ],
+   [
+    "Ohata Daisuke Shoten: kuro-edamame",
+    "https://ohatadaisukeshouten.com/blog/3535/"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Hiroshima-na (Hiroshima pickling greens)",
+  "ja": "広島菜",
+  "prefs": [
+   34
+  ],
+  "text": "A broad, deep green, thick-leaved Brassicaceae pickling green, ranked with Kyushu takana and Shinshu nozawana as one of the three great na-zuke (MAFF). Harvest runs from mid-November to the end of January. Centre of production is Kawauchi, Asaminami-ku, Hiroshima City. Said (with caveats) to originate in 1892 when Kihara Saiji crossed Kannonji hakusai with a native Kyo-na.",
+  "flavor": "Fresh, mildly pungent, crisp leaf; flavour deepens in cold.",
+  "use": "Hiroshima-na-zuke (asazuke and furuzuke).",
+  "craft": "Salt first as rough pickling to remove harshness, then re-pickle (second salting) for the finished honzuke. Cold deepens flavour, so harvest is winter. The 1892 origin story is 'said' and sources vary.",
+  "src": [
+   [
+    "MAFF: Hiroshima-na-zuke",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/hiroshimana_zuke.html"
+   ],
+   [
+    "JA Hiroshima City: Hiroshima-na-zuke",
+    "https://pr.agrinews.co.jp/ja_charaland/products/1356"
+   ],
+   [
+    "Hiroshima City: Hiroshimana",
+    "https://www.haff.city.hiroshima.jp/hiro-sodati/www/products/hiroshimana.html"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Naruto kintoki (Naruto sweet potato)",
+  "ja": "なると金時(鳴門金時)",
+  "prefs": [
+   36
+  ],
+  "text": "A regional brand of the sweet potato cultivar Takakei No. 14, produced in Naruto City, Tokushima City and Itano-gun, Tokushima. Texture is chestnut-like and floury, with an elegant sweetness. Harvest runs from late August to about November; after storage, which raises sweetness, the best period is about November to February.",
+  "flavor": "Floury, chestnut-like, refined sweetness.",
+  "use": "Sweet potato dishes; sources consulted give no specific preparations.",
+  "craft": "Cultivar Takakei 14 under a Tokushima brand. Storage raises sweetness, per the sources, so cured potatoes (about November to February) are the target.",
+  "src": [
+   [
+    "Foodslink: Naruto kintoki",
+    "https://foodslink.jp/syokuzaihyakka/syun/vegitable/satumaimo-Narutokintoki.htm"
+   ],
+   [
+    "Food in Japan: Naruto kintoki",
+    "https://www.foodinjapan.org/ja/%E5%9B%9B%E5%9B%BD/%E5%BE%B3%E5%B3%B6/naruto-kintoki-sweet-potato-ja/"
+   ],
+   [
+    "MAFF Chugoku-Shikoku: regional specialties",
+    "https://www.maff.go.jp/chushi/kj/yontyou/3/3-4.html"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Sakurajima daikon",
+  "ja": "桜島大根",
+  "prefs": [
+   46
+  ],
+  "text": "A round, turnip-like giant radish grown on Sakurajima, Kagoshima, with cultivation going back more than 200 years. Kagoshima City gives an average weight of 10 to 20 kg, and Guinness certified a 31.1 kg, 119 cm girth root as the world's heaviest. Harvest runs mainly late December to February. Flesh is dense and sweet without bitterness and holds its shape when simmered.",
+  "flavor": "Dense, sweet, no bitterness.",
+  "use": "Simmered dishes such as oden and buri-daikon.",
+  "craft": "Holds shape in long simmering. Locally called 'shima dekon' per one source. A trigonelline claim of about 60 times ordinary radish comes from a single consumer site, so treat it as unverified.",
+  "src": [
+   [
+    "Kagoshima City: Sakurajima daikon",
+    "https://www.city.kagoshima.lg.jp/seisanryutu/sangyo/norin/recipe/daikon/index.html"
+   ],
+   [
+    "Welcome Kyushu: Sakurajima daikon",
+    "https://www.welcomekyushu.jp/oishii-island-kyushu/blessing/343/index.html"
+   ],
+   [
+    "Diet Plus: Sakurajima daikon",
+    "https://dietplus.jp/public/article/news/20201218-407106"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Katsuona (Hakata katsuo-na)",
+  "ja": "かつお菜(勝男菜)",
+  "prefs": [
+   40
+  ],
+  "text": "A Fukuoka traditional vegetable of the takana type, used in Hakata ozoni. The name is said to come from the dashi-like, bonito-like savour it gives to soups and simmered dishes. Winter season (12 to 2 in Fukuoka City-based summaries); harvest is described as early summer and winter, with winter leaves thicker and richer. Sources disagree on pungency.",
+  "flavor": "Savoury, dashi-like leaf; pungency reported inconsistently.",
+  "use": "Hakata ozoni (New Year soup), soups and simmered dishes.",
+  "craft": "Choose winter leaves for thickness and savour. Sources conflict on whether it is pungent, so taste lots before use.",
+  "src": [
+   [
+    "Foodslink: Katsuona",
+    "https://foodslink.jp/syokuzaihyakka/syun/vegitable/katuona.htm"
+   ],
+   [
+    "Kisetsu Mimiyori: Katsuona",
+    "https://kisetsumimiyori.com/katsuona/"
+   ],
+   [
+    "Michi no Eki Kurume: Katsuona",
+    "https://www.michinoeki-kurume.com/%E3%81%8B%E3%81%A4%E3%81%8A%E8%8F%9C%E2%97%8E%E7%A6%8F%E5%B2%A1%E7%9C%8C%E3%81%AE%E4%BC%9D%E7%B5%B1%E9%87%8E%E8%8F%9C/"
+   ],
+   [
+    "Nihon Dento Yasai Suishin Kyokai: Fukuoka",
+    "https://tradveggie.or.jp/traditional-vegetables-prefecture/40-fukuoka/"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Mike takana / Setaka karashi-takana",
+  "ja": "三池高菜(瀬高の辛子高菜)",
+  "prefs": [
+   40
+  ],
+  "text": "Takana of Setaka-cho, Miyama City, Fukuoka. One source says it was bred in Meiji 20 (1887) at the Tachibana family agricultural station by order of the Yanagawa lord, crossing Chinese 'Sichuan blue greens' with native purple takana. The leaf is thick and firm but crisp, with a characteristic aroma and moderate pungency and sourness. One source gives early April as season.",
+  "flavor": "Aroma, moderate heat and sourness; thick, crisp leaf.",
+  "use": "Takana-zuke and general takana cooking.",
+  "craft": "Origin attribution is from a producer page, so hedge it. Leaf is thick and firm yet crisp.",
+  "src": [
+   [
+    "Takana Senmonten: Setaka takana",
+    "https://takana.jp/setaka-takana"
+   ],
+   [
+    "Agriture: Fukuoka vegetables",
+    "https://agriture.jp/local-veg/fukuoka-vegetables/"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Suizenji moyashi (Suizenji bean sprouts)",
+  "ja": "水前寺もやし",
+  "prefs": [
+   43
+  ],
+  "text": "A Kumamoto City 'Higo vegetable' designated heritage sprout, traditionally grown around the spring-water sites of Ezu Lake. The traditional method uses spring water to grow soybean sprouts to 35 to 40 cm. Season is given as the end of December.",
+  "flavor": "Long, thick sprouts with a firm bite.",
+  "use": "Sprout vegetable; sources give no specific dishes.",
+  "craft": "Spring-water cultivation to 35 to 40 cm is the identifying trait.",
+  "src": [
+   [
+    "Agriture: Higo vegetables of Kumamoto",
+    "https://agriture.jp/local-veg/kumamoto-vegetables/"
+   ],
+   [
+    "Nihon Dento Yasai Suishin Kyokai: Kumamoto",
+    "https://tradveggie.or.jp/traditional-vegetables-prefecture/43-kumamoto/"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Handama (Suizenji-na, Okinawa)",
+  "ja": "ハンダマ(水前寺菜)",
+  "prefs": [
+   47,
+   43
+  ],
+  "text": "A leafy vegetable green on the front and purple on the back, which turns slimy when heated. Okinawa sources give a season of November to May. In Kumamoto it is known as suizenji-na and is said to have been a tribute to the shogunate from the Hosokawa house in the Edo period.",
+  "flavor": "Slightly slimy when cooked; earthy greens.",
+  "use": "Leaf vegetable; sources consulted give no specific dishes.",
+  "craft": "Slime appears on heating; season varies in sources (Nov-May in Okinawa).",
+  "src": [
+   [
+    "Kuwachii Okinawa: Handama",
+    "https://kuwachii-okinawa.com/agricultural/2506/"
+   ],
+   [
+    "Okinawa Story: shokuzai zukan",
+    "https://www.okinawastory.jp/feature/shokuzaizukan/"
+   ],
+   [
+    "Agriture: Higo vegetables of Kumamoto",
+    "https://agriture.jp/local-veg/kumamoto-vegetables/"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Goya (Okinawan bitter melon)",
+  "ja": "ゴーヤー(ニガウリ)",
+  "prefs": [
+   47
+  ],
+  "text": "The bitter melon, an essential summer vegetable now known across Japan. Season varies by source, given as April to July in some and May to September in others. It is among the 28 items Okinawa prefecture selected as 'Okinawan traditional agricultural products'.",
+  "flavor": "Distinct bitterness, crisp.",
+  "use": "Summer vegetable across Japan; sources give no specific dishes.",
+  "craft": "Seasonal windows differ by source (April-July vs May-September), so state a range.",
+  "src": [
+   [
+    "Okinawa Story: shokuzai zukan",
+    "https://www.okinawastory.jp/feature/shokuzaizukan/"
+   ],
+   [
+    "Nihon Dento Yasai Suishin Kyokai: Okinawa",
+    "https://tradveggie.or.jp/traditional-vegetables-prefecture/47-okinawa/"
+   ],
+   [
+    "Happy More: Okinawa shima yasai",
+    "https://happymore.jp/blog/1898/"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Nabera (Okinawan luffa)",
+  "ja": "ナーベーラー(ヘチマ)",
+  "prefs": [
+   47
+  ],
+  "text": "The luffa gourd, eaten young as a vegetable in Okinawa; the mature fruit is known for use as a scrub. Season is given as July to October or July to November depending on the source.",
+  "flavor": "Mild, soft, absorbs seasoning.",
+  "use": "Eaten as a young vegetable; sources give no specific dishes.",
+  "craft": "Eat young; seasons vary by source.",
+  "src": [
+   [
+    "Okinawa Story: shokuzai zukan",
+    "https://www.okinawastory.jp/feature/shokuzaizukan/"
+   ],
+   [
+    "Happy More: Okinawa shima yasai",
+    "https://happymore.jp/blog/1898/"
+   ],
+   [
+    "Nihon Dento Yasai Suishin Kyokai: Okinawa",
+    "https://tradveggie.or.jp/traditional-vegetables-prefecture/47-okinawa/"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Shima-rakkyo (Okinawan scallion-like rakkyo)",
+  "ja": "島らっきょう",
+  "prefs": [
+   47
+  ],
+  "text": "Okinawan rakkyo with strong aroma and pungency. Season is given as January to May, March to May, or February to March depending on the source, so the window is uncertain. It is usually eaten salted or as tempura.",
+  "flavor": "Strong aroma and heat; crisp.",
+  "use": "Salted (shio-zuke) and tempura.",
+  "craft": "Source seasons conflict, so confirm with the grower.",
+  "src": [
+   [
+    "Kuwachii Okinawa: Shima-rakkyo",
+    "https://kuwachii-okinawa.com/agricultural/2559/"
+   ],
+   [
+    "Okinawa Story: shokuzai zukan",
+    "https://www.okinawastory.jp/feature/shokuzaizukan/"
+   ],
+   [
+    "Nihon Dento Yasai Suishin Kyokai: Okinawa",
+    "https://tradveggie.or.jp/traditional-vegetables-prefecture/47-okinawa/"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Shima-ninjin (Okinawan carrot)",
+  "ja": "島にんじん",
+  "prefs": [
+   47
+  ],
+  "text": "A slender, long yellow carrot particular to Okinawa. Distribution runs December to March according to the sources consulted.",
+  "flavor": "Distinct carrot aroma, yellow flesh.",
+  "use": "General cooking as an Okinawan local carrot; sources give no specific dishes.",
+  "craft": "Winter distribution, December to March.",
+  "src": [
+   [
+    "Okinawa Story: shokuzai zukan",
+    "https://www.okinawastory.jp/feature/shokuzaizukan/"
+   ],
+   [
+    "Happy More: Okinawa shima yasai",
+    "https://happymore.jp/blog/1898/"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Moriguchi daikon",
+  "ja": "守口大根",
+  "prefs": [
+   23,
+   21
+  ],
+  "text": "A very slender daikon, about 2 cm in diameter and 1.2 to 1.3 m long, used for pickling as Moriguchi-zuke. Main producing area is Fuso-cho, Aichi, with some in Gifu. Season is December to January.",
+  "flavor": "Firm, dense flesh suited to long pickling.",
+  "use": "Moriguchi-zuke (sake-lees pickle).",
+  "craft": "Length of about 1.2 m is the identifying trait; grown for pickling.",
+  "src": [
+   [
+    "Chuden Katene: Fuso-cho Moriguchi daikon",
+    "https://katene.chuden.jp/clubkatene/p/entertainment/tourism/201903.html"
+   ],
+   [
+    "Aichi Pickles Association: Moriguchi",
+    "http://www.tsukemono.sakura.ne.jp/moriguchi.html"
+   ],
+   [
+    "Nihon Dento Yasai Suishin Kyokai: Aichi",
+    "https://tradveggie.or.jp/traditional-vegetables-prefecture/23-aichi/"
+   ]
+  ]
+ },
+ {
+  "cat": "veg",
+  "name": "Horyo daikon",
+  "ja": "方領大根",
+  "prefs": [
+   23
+  ],
+  "text": "A daikon from the Horyo area of Ama City (Jimoji district), Aichi. The root is pure white with a thick neck and fine, soft flesh. Season is January to February according to Aichi Agricultural Research Center information.",
+  "flavor": "Soft, fine flesh.",
+  "use": "Daikon for general cooking; sources give no specific dishes.",
+  "craft": "Note the thick neck and white skin. Season January to February.",
+  "src": [
+   [
+    "Aichi Prefecture: Horyo daikon",
+    "https://www.pref.aichi.jp/engei/dentoyasai/item/02.html"
+   ],
+   [
+    "Ama City: Horyo daikon",
+    "https://www.city.ama.aichi.jp/bussiness/sangyo/nougyou/1003864/1003872.html"
+   ]
+  ]
+ }
+]
