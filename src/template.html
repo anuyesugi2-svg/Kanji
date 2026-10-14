@@ -132,6 +132,18 @@ button.chip:hover{background:var(--blue);color:#fff}
 .rc{border-left:6px solid;padding-left:12px}
 .note{margin-top:26px;padding-top:14px;border-top:1px solid var(--line);color:var(--muted);font-size:12.5px}
 .empty{color:var(--muted)}
+.filter{width:100%;padding:8px 12px;border:1px solid var(--line);border-radius:10px;background:var(--bg);color:var(--ink);font:inherit;margin:4px 0 12px;outline:none}
+.filter:focus{border-color:var(--blue)}
+details.grp{margin:0 0 10px;border:1px solid var(--line);border-radius:14px;padding:4px 12px;background:var(--panel)}
+details.grp>summary{cursor:pointer;padding:8px 0;font-weight:650;list-style:none;display:flex;justify-content:space-between;gap:8px}
+details.grp>summary::-webkit-details-marker{display:none}
+details.grp[open]>summary{border-bottom:1px solid var(--line);margin-bottom:10px}
+details.grp .cnt{color:var(--muted);font-weight:500;font-size:12.5px}
+.stp{display:grid;grid-template-columns:1fr;gap:6px;margin:6px 0}
+.stp div{border:1px solid var(--line);border-radius:10px;padding:7px 10px;background:var(--bg);font-size:13.5px}
+.stp b{font-weight:650}
+.stp i{font-style:normal;color:var(--muted);margin-left:6px}
+.stp p{margin:2px 0 0;color:var(--muted);font-size:13px}
 .pin{fill:var(--blue-d);stroke:var(--panel);stroke-width:2;vector-effect:non-scaling-stroke;cursor:pointer;transition:fill .15s}
 .pin:hover,.pin.sel{fill:var(--green);stroke:var(--sel)}
 .tlbl{pointer-events:none;fill:var(--ink);paint-order:stroke;stroke:var(--land);stroke-opacity:.9;font-weight:650;transition:opacity .15s}
@@ -434,7 +446,9 @@ function paint() {
 /* ---------- legend ---------- */
 function legend() {
   const el = $("#legend"); const L = S.layer; let h = "";
-  if (L === "towns") {
+  if (L === "glossary") {
+    h = `<h4>Glossary</h4><div style="color:var(--muted);font-size:12.5px">Terms are not tied to a place, so the map is plain. Use the filter in the panel.</div>`;
+  } else if (L === "towns") {
     h = `<h4>Towns</h4><div class="row"><i class="sw" style="background:var(--blue-d);border-radius:50%"></i>${TOWNS.length} places</div><div style="color:var(--muted);font-size:12px;margin-top:4px">Zoom in to read labels.</div>`;
   } else if (L === "regions") {
     h = "<h4>Regions</h4>" + REGIONS.map(r => `<button class="row" data-region="${r.id}"><i class="sw" style="background:${r.color}"></i>${esc(r.en)}</button>`).join("");
@@ -479,6 +493,7 @@ function clearSel() { S.town = null; S.item = null; S.fish = null; S.pref = null
 
 /* ---------- panel ---------- */
 const panel = $("#panel");
+panel.addEventListener("input", e => { if (e.target.id !== "flt") return; const v = e.target.value.trim().toLowerCase(); panel.querySelectorAll(".card").forEach(c => { c.style.display = !v || c.textContent.toLowerCase().includes(v) ? "" : "none"; }); });
 const chips = ids => `<div class="chips">${ids.map(id => `<button class="chip" data-pref="${id}">${esc(prefById[id].en)}</button>`).join("")}</div>`;
 const ladderHTML = names => `<div class="ladder">${names.map((n, i) => `${i ? '<span class="arrow">&rarr;</span>' : ""}<div class="step"><b>${esc(n.n)}</b><i>${esc(n.j)}${n.s ? " · " + esc(n.s) : ""}</i></div>`).join("")}</div>`;
 const srcList = src => src && src.length ? `<h3>Sources (Japanese)</h3><ul class="srcs">${src.map(([t, u]) => `<li><a href="${esc(u)}" target="_blank" rel="noopener noreferrer">${esc(t)}</a></li>`).join("")}</ul>` : `<div class="note" style="margin-top:14px">Not yet cross-checked against Japanese sources: treat as general knowledge.</div>`;
@@ -508,7 +523,7 @@ function panelHome() {
     if (S.month) h = h.replace("<h3>Pick a fish</h3>", `<h3>In season: ${MONTH_NAMES[S.month - 1]}</h3>`);
     h += list.map(f => { const act = activeSeasons(f); return `<button class="card ${S.month && !inSeason(f) ? "off" : ""}" data-fish="${f.id}"><div class="t"><b>${esc(f.en)}</b><span class="ja">${esc(f.ja)}</span>${badge(f)}${srcBadge(f)}</div><p>${esc(f.systems[0].names.map(n => n.n).join(" → "))}${f.systems.length > 1 ? "  (+" + (f.systems.length - 1) + " naming zones)" : ""}</p>${act.length ? `<p><b>${esc(act.map(a => a.n + " " + a.j).join(", "))}</b></p>` : ""}</button>`; }).join("");
   }
-  else h += ITEMS.filter(i => i.cat === L).map(i => `<button class="card" data-item="${i.id}"><div class="t"><b>${esc(i.name)}</b><span class="ja">${esc(i.ja)}</span>${srcBadge(i)}</div><p>${esc(i.prefs.slice(0, 3).map(id => prefById[id].en).join(", "))}${i.prefs.length > 3 ? " +" + (i.prefs.length - 3) : ""}</p></button>`).join("");
+  else h += `<input class="filter" id="flt" type="search" placeholder="Filter ${ITEMS.filter(i => i.cat === L).length} entries in this layer..." autocomplete="off">` + [...ITEMS.filter(i => i.cat === L)].sort((a, b) => L === "glossary" || L === "producer" ? a.name.localeCompare(b.name) : 0).map(i => `<button class="card" data-item="${i.id}"><div class="t"><b>${esc(i.name)}</b><span class="ja">${esc(i.ja)}</span>${srcBadge(i)}</div><p>${i.prefs.length ? esc(i.prefs.slice(0, 3).map(id => prefById[id].en).join(", ")) + (i.prefs.length > 3 ? " +" + (i.prefs.length - 3) : "") : esc(i.flavor)}</p></button>`).join("");
   return h + note();
 }
 function panelItem(it) {
@@ -518,7 +533,7 @@ function panelItem(it) {
   <div class="box g"><b>Flavour</b>${esc(it.flavor)}</div>
   <div class="box"><b>Use</b>${esc(it.use)}</div>
   ${it.craft ? `<div class="box k"><b>Craft notes</b>${esc(it.craft)}</div>` : ""}
-  <h3>Where</h3>${chips(it.prefs)}${townChips(TOWNS.filter(t => t.items.includes(it.id)).map(t => t.id))}${srcList(it.src)}` + note();
+  ${it.prefs.length ? `<h3>Where</h3>${chips(it.prefs)}` : ""}${townChips(TOWNS.filter(t => t.items.includes(it.id)).map(t => t.id))}${srcList(it.src)}` + note();
 }
 function panelFish(f) {
   const sel = S.hoverSys;
@@ -535,14 +550,24 @@ function panelFish(f) {
 function panelPref(p) {
   const r = regById[p.reg]; const fish = fishFor(p.id); const items = itemsFor(p.id);
   const order = [S.layer, ...CATS.map(c => c.id).filter(c => c !== S.layer)];
+  const pg = PREFPAGES[p.id];
   let h = `<button class="back" data-closepref>&larr; Back</button><h2>${esc(p.en)}</h2><div class="ja">${esc(p.ja)} · <button class="chip" data-region="${r.id}">${esc(r.en)}</button></div><p>${esc(p.sum)}</p>`;
+  if (pg) {
+    h += `<h3>Food culture</h3><p>${esc(pg.character)}</p><h3>History</h3><p>${esc(pg.history)}</p>`;
+    h += `<h3>Staples</h3><div class="stp">${pg.staples.map(x => `<div><b>${esc(x.name)}</b><i>${esc(x.ja)}</i><p>${esc(x.note)}</p></div>`).join("")}</div>`;
+    h += `<h3>Through the year</h3>${pg.calendar.map(x => `<div class="season"><b>${esc(x.season)}</b><br>${esc(x.text)}</div>`).join("")}`;
+    h += `<h3>Markets &amp; food streets</h3><div class="stp">${pg.markets.map(x => `<div><b>${esc(x.name)}</b><i>${esc(x.ja)}</i><p>${esc(x.note)}</p></div>`).join("")}</div>`;
+    h += `<h3>Good to know</h3><p>${esc(pg.notes)}</p>`;
+    h += srcList(pg.src);
+  }
+  h += `<h2 style="font-size:17px;margin-top:26px">Entries from this prefecture</h2>`;
   for (const cid of order) {
     if (cid === "fish") {
       if (!fish.length) continue;
       h += `<h3>Fish names here</h3>` + fish.map(({ f, s, i }) => `<button class="card" data-fish="${f.id}"><div class="t"><b>${esc(f.en)}</b><span class="ja">${esc(s.label)}</span>${badge(f)}</div><p>${esc(s.names.map(n => n.n).join(" → "))}</p></button>`).join("");
     } else {
       const list = items.filter(i => i.cat === cid); if (!list.length) continue;
-      h += `<h3>${esc(catById[cid].label)}</h3>` + list.map(i => `<button class="card" data-item="${i.id}"><div class="t"><b>${esc(i.name)}</b><span class="ja">${esc(i.ja)}</span></div><p>${esc(i.flavor)}</p></button>`).join("");
+      h += `<details class="grp" ${cid === S.layer || list.length <= 3 ? "open" : ""}><summary>${esc(catById[cid].label)}<span class="cnt">${list.length}</span></summary>` + list.map(i => `<button class="card" data-item="${i.id}"><div class="t"><b>${esc(i.name)}</b><span class="ja">${esc(i.ja)}</span></div><p>${esc(i.flavor)}</p></button>`).join("") + `</details>`;
     }
   }
   h += townChips(TOWNS.filter(t => t.pref === p.id).map(t => t.id));
