@@ -1,0 +1,574 @@
+[
+ {
+  "cat": "glossary",
+  "name": "Yokan types (neri, mushi, mizu)",
+  "ja": "羊羹（練り・蒸し・水）",
+  "prefs": [],
+  "text": "Yokan is a family, not one sweet. Neri-yokan: agar dissolved, bean paste and sugar added, cooked down and set; it is the long-keeping gift standard. Mushi-yokan: azuki paste with wheat flour or kuzu steamed to set. Mizu-yokan: a softer, wetter neri type with lower sugar.",
+  "flavor": "Neri: dense, glossy, smooth and elastic. Mushi: close, chewy-soft (mochi-like). Mizu: light, wobbly, cooling.",
+  "use": "Neri-yokan is the standard boxed gift and tea sweet; mizu-yokan is a summer item; mushi-yokan is eaten fresh because it keeps for a shorter time.",
+  "craft": "Sources say neri-yokan gets its elasticity and smooth mouthfeel from cooking the mass over heat to drive off water, and its higher sugar content is what gives it shelf life. Mizu-yokan uses less agar, sugar and koshi-an than neri. The sources I saw give no exact percentages, so take ratios from the maker. They also disagree on when agar-set mizu-yokan became general: some say after the Meiji era, others the mid-Edo period.",
+  "src": [
+   [
+    "Toraya: yokan",
+    "https://www.toraya-group.co.jp/wagashi/yokan"
+   ],
+   [
+    "Wagokoro: neri, mushi and mizu yokan",
+    "https://wa-gokoro.jp/news/japanese-food-wagashi-631/"
+   ],
+   [
+    "Olive Hitomawashi: yokan is a generic term",
+    "https://www.olive-hitomawashi.com/column/2019/02/post-4050.html"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Yokan origin and the character 羊羹",
+  "ja": "羊羹の由来",
+  "prefs": [],
+  "text": "The characters come from a Chinese mutton soup (yo = sheep, kan = soup); Zen monks brought the tenjin (light meal) idea to Japan and it turned into a confection. Steamed yokan dominated until roughly the first half of the Edo period. Agar-set kinds were developed in Edo from about the mid-1700s and spread. Toraya's oldest dated yokan record is from Kan'ei 12 (1635).",
+  "flavor": "Used as a term: explains why a sweet is written with the characters for 'sheep soup'.",
+  "use": "Useful when explaining yokan to guests; also to date a house recipe (steamed = older style, agar-set = later).",
+  "craft": "The decisive technical turn is agar (kanten), which allowed yokan to be set without steaming and led to neri-yokan. Sources conflict on exact dates for the agar kinds, so cite the Toraya record (1635, a list of sweets for a retired emperor's visit) only as the earliest documented mention that Toraya holds, not as the invention date.",
+  "src": [
+   [
+    "Toraya: why is it called yokan?",
+    "https://support.toraya-group.co.jp/hc/ja/articles/25284620639636-%E3%81%AA%E3%81%9C-%E7%BE%8A%E7%BE%B9-%E3%81%A8%E3%81%84%E3%81%86%E3%81%AE%E3%81%A7%E3%81%97%E3%82%87%E3%81%86%E3%81%8B"
+   ],
+   [
+    "Kateigaho: history of yokan",
+    "https://www.kateigaho.com/food/rensai/175122"
+   ],
+   [
+    "Wagokoro: yokan types and history",
+    "https://wa-gokoro.jp/news/japanese-food-wagashi-631/"
+   ]
+  ]
+ },
+ {
+  "cat": "sweets",
+  "name": "Sakura-mochi, Kanto style (Chomeiji)",
+  "ja": "桜餅（関東風・長命寺）",
+  "prefs": [
+   13
+  ],
+  "text": "The Kanto sakura-mochi wraps bean paste in a thin crepe-like skin baked from a wheat-flour-based batter, then wraps it in a pickled cherry leaf. It is named for Chomeiji, a Tendai temple in Sumida ward, Tokyo. Accounts of who created it and when vary by source, so treat the origin story as tradition.",
+  "flavor": "Soft, thin, slightly elastic skin; sweet paste against the salty, aromatic leaf.",
+  "use": "A spring sweet; the leaf is optionally eaten or removed depending on taste.",
+  "craft": "Visual check: a smooth, flat, crepe-like skin, not grainy as in Kansai style. The sources reviewed give no batter ratios or leaf-curing details, so these must come from the maker.",
+  "src": [
+   [
+    "Kurashiru: sakura-mochi, Kanto vs Kansai",
+    "https://www.kurashiru.com/articles/1fa53d46-5329-4b1b-bc4b-f624f7841f1f"
+   ],
+   [
+    "MAFF: sakura-mochi (Osaka entry)",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/39_26_osaka.html"
+   ],
+   [
+    "Chigai-labo: Domyoji vs Chomeiji",
+    "https://chigai-labo.com/food/sakuramochi-domyoji-chomeiji/"
+   ]
+  ]
+ },
+ {
+  "cat": "sweets",
+  "name": "Sakura-mochi, Kansai style (Domyoji)",
+  "ja": "桜餅（関西風・道明寺）",
+  "prefs": [
+   27
+  ],
+  "text": "The Kansai sakura-mochi encloses bean paste in a skin of domyoji-ko (steamed, dried, coarsely crushed glutinous rice), rehydrated and steamed, so the surface shows distinct grains. It is named after Domyoji, a Shingon nunnery in Osaka, whose rice product it uses. It is wrapped in a pickled cherry leaf.",
+  "flavor": "Chewy, grainy, mochi-like skin with a pronounced rice texture; paste inside.",
+  "use": "Spring sweet; the Kansai counterpart to Chomeiji style, so state the style on a menu.",
+  "craft": "Domyoji-ko comes in several grain sizes and must be wetted with water before steaming. Sources give no hydration ratio. The origin sequence (Edo first, spreading to Kamigata, or the reverse) is contested between sources.",
+  "src": [
+   [
+    "MAFF: sakura-mochi (Osaka entry)",
+    "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/39_26_osaka.html"
+   ],
+   [
+    "Kurashiru: sakura-mochi, Kanto vs Kansai",
+    "https://www.kurashiru.com/articles/1fa53d46-5329-4b1b-bc4b-f624f7841f1f"
+   ],
+   [
+    "Chefrepi: Kanto vs Kansai guide",
+    "https://chefrepi.com/magazine/culinary-dictionary/sakura-mochi-kanto-kansai-difference-guide/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Domyoji-ko (coarse steamed glutinous rice)",
+  "ja": "道明寺粉",
+  "prefs": [
+   27
+  ],
+  "text": "Domyoji-ko is glutinous rice that has been steamed, dried and coarsely crushed, taking its name from Domyoji temple in Osaka. It is sold in more than one grain size. To use it, it is soaked or wetted with water and then steamed, which gives the grainy mochi-like skin of Kansai sakura-mochi.",
+  "flavor": "Pre-cooked, so the skin stays grainy and chewy rather than smooth.",
+  "use": "Skin for Kansai-style sakura-mochi and other grained mochi sweets.",
+  "craft": "Because the grain is already cooked and dried, the work is controlled rehydration followed by steaming; grain size changes the texture. Specific water ratios were not in the sources seen.",
+  "src": [
+   [
+    "Kurashiru: Domyoji and sakura-mochi",
+    "https://www.kurashiru.com/articles/1fa53d46-5329-4b1b-bc4b-f624f7841f1f"
+   ],
+   [
+    "Delish Kitchen: domyoji-ko",
+    "https://delishkitchen.tv/articles/799"
+   ],
+   [
+    "Chefrepi: Kanto vs Kansai guide",
+    "https://chefrepi.com/magazine/culinary-dictionary/sakura-mochi-kanto-kansai-difference-guide/"
+   ]
+  ]
+ },
+ {
+  "cat": "sweets",
+  "name": "Kashiwa-mochi (oak-leaf rice cake)",
+  "ja": "柏餅",
+  "prefs": [
+   13
+  ],
+  "text": "A rice-cake sweet wrapped in an oak leaf, eaten at Tango no Sekku (Boys' Day, 5 May). Accounts say it became tied to the festival in the Edo period and was the eastern counterpart of chimaki in the west. The oak is a symbol of continuity because old leaves do not fall until new buds appear. In western Japan other leaves such as sarutori-ibara were used.",
+  "flavor": "Soft white (or mugwort) mochi around paste, with a faint leaf aroma.",
+  "use": "Seasonal sweet for the Boys' Day festival.",
+  "craft": "The leaf is a wrapper, not food. The sources reviewed do not give the paste fillings or any technical detail, so a menu should state the filling.",
+  "src": [
+   [
+    "Sanko Seika: Tango and kashiwa-mochi",
+    "https://www.sanko-seika.co.jp/ochanoma/article/kashiwamochi.html"
+   ],
+   [
+    "All About: kashiwa-mochi and chimaki, east and west",
+    "https://allabout.co.jp/gm/gc/220707/"
+   ],
+   [
+    "Wikipedia: kashiwa-mochi",
+    "https://ja.wikipedia.org/wiki/%E6%9F%8F%E9%A4%85"
+   ]
+  ]
+ },
+ {
+  "cat": "sweets",
+  "name": "Mitarashi dango (Kyoto origin)",
+  "ja": "みたらし団子",
+  "prefs": [
+   26
+  ],
+  "text": "Mitarashi dango is traced to Shimogamo Shrine in Kyoto; the name is linked to the bubbles in the shrine's Mitarashi pond. The original is said to be small dango, five to a skewer, grilled with soy sauce. Kamo Mitarashi Chaya, west of the shrine, is cited as the originating shop (founded 1922 per one source). The sweet sticky glaze is a later development.",
+  "flavor": "Chewy dango, savoury-sweet soy glaze, grilled aroma.",
+  "use": "Eaten fresh on a skewer, warm.",
+  "craft": "Regional style differs: Kanto sells thicker, darker, koikuchi-shoyu glaze and usually four dango (a theory ties four to the four-mon coin); Kyoto's original is five. One source says the shoyu, brown sugar and kuzu glaze style dates from after WWII; sources differ on details such as the skewer symbolism.",
+  "src": [
+   [
+    "Kyotopi: Kamo Mitarashi Chaya",
+    "https://kyotopi.jp/articles/4P3mJ"
+   ],
+   [
+    "Mynavi: regional mitarashi compared",
+    "https://news.mynavi.jp/article/20140611-mitarashidango/"
+   ],
+   [
+    "Asakusa Marusen: mitarashi trivia",
+    "https://www.asakusa-marusen.co.jp/faq/cake/aboutmitarasidango.html"
+   ]
+  ]
+ },
+ {
+  "cat": "sweets",
+  "name": "Shoyu dango (Nagoya and Hida)",
+  "ja": "醤油団子（名古屋・飛騨）",
+  "prefs": [
+   23,
+   21
+  ],
+  "text": "A separate line from sweet-glazed mitarashi: soy-brushed dango grilled over flame. In Nagoya, a soy-coated grilled dango is often what is called mitarashi, and the point is the salt-savoury soy taste. The Hida (Gifu) shoyu dango is described as having almost no sweetness.",
+  "flavor": "Salty-savoury, toasty soy; little or no sugar.",
+  "use": "Grilled to order and eaten warm from the skewer.",
+  "craft": "Do not call it mitarashi without explanation outside Nagoya, as the term has a sweet-glaze meaning in Kanto and Kansai. Sources do not specify the shoyu type or dango flour.",
+  "src": [
+   [
+    "Toppy blog: Nagoya mitarashi and Hida shoyu dango",
+    "https://blog.toppy.net/1081512"
+   ],
+   [
+    "Wagashi (uico.nagoya): what is mitarashi?",
+    "http://uico.nagoya/2020/10/14/whats-mitarashiwhy-dont-you-call-me-shoyu-dango/"
+   ],
+   [
+    "Mynavi: regional mitarashi compared",
+    "https://news.mynavi.jp/article/20140611-mitarashidango/"
+   ]
+  ]
+ },
+ {
+  "cat": "sweets",
+  "name": "Nagoya uiro",
+  "ja": "名古屋ういろう",
+  "prefs": [
+   23
+  ],
+  "text": "Nagoya uiro is a steamed sweet made from rice flour (non-glutinous rice flour among others), sugar and water, set in a block. It is described as chewy-mochi in texture. A source says it appeared in the late Edo period and has no direct link to Odawara; it was commercialised after the war and became a Nagoya souvenir.",
+  "flavor": "Dense, chewy, soft; clean sweetness.",
+  "use": "Sold sliced from a block as a souvenir and tea sweet.",
+  "craft": "Basic method per sources: flour plus sugar and hot water, mixed, put in a mould and steamed; texture depends on the flour, mix and water content. The origin claims come from summary articles; check with a Nagoya maker.",
+  "src": [
+   [
+    "Ajisai Kaikan: Odawara vs Nagoya uiro",
+    "https://ajisaikaikan.com/kanagawa-odawara-uiro-nagoya/"
+   ],
+   [
+    "Kurashiru: what is uiro?",
+    "https://www.kurashiru.com/articles/153980cb-1205-4c8a-81f2-439c26b9712e"
+   ],
+   [
+    "Nippon no oishii mono: Nagoya vs Yamaguchi uiro",
+    "https://japanese-food-culture.com/3077.html"
+   ]
+  ]
+ },
+ {
+  "cat": "sweets",
+  "name": "Yamaguchi uiro (warabi-ko type)",
+  "ja": "山口ういろう（わらび粉）",
+  "prefs": [
+   35
+  ],
+  "text": "Yamaguchi uiro is made with warabi-ko (bracken-root starch), giving a springy, smooth, purun texture unlike the rice-flour type of Nagoya. Its origin is traced to the Muromachi-period Ouchi clan; Fukudaya, founded at the site of the Ouchi residence, is the shop named. A leading explanation is that good local warabi starch was used when rice flour was scarce.",
+  "flavor": "Bouncy, smooth, wobbly and jelly-like.",
+  "use": "Block sweet for tea and souvenirs.",
+  "craft": "Some shops are said to keep the traditional method of steaming in a seiro. The warabi-for-rice-flour reason is a leading theory, not proven. Check whether a product really contains warabi-ko, because some products use mixed starch (not covered in the sources).",
+  "src": [
+   [
+    "Gotouchi-i: Yamaguchi uiro and warabi-ko",
+    "https://gotouchi-i.jp/yamaguchi-uirou/"
+   ],
+   [
+    "Nippon no oishii mono: Nagoya vs Yamaguchi",
+    "https://japanese-food-culture.com/3077.html"
+   ],
+   [
+    "Town-hikaku: Nagoya vs Yamaguchi uiro",
+    "https://town-hikaku.com/uiro-nagoya-yamaguchi/"
+   ]
+  ]
+ },
+ {
+  "cat": "sweets",
+  "name": "Odawara uiro",
+  "ja": "小田原ういろう",
+  "prefs": [
+   14
+  ],
+  "text": "Odawara's uiro is tied to the Uiro-ke, a long-established local house described as keeping together medicine and confectionery. It is made from rice flour, with a chewy texture and a clean sweetness.",
+  "flavor": "Chewy, restrained sweetness.",
+  "use": "Block sweet; often an Odawara souvenir.",
+  "craft": "The sources seen are summary articles; they do not give formula details or dates for the Odawara line, so verify before repeating the medicine-to-sweet history in detail.",
+  "src": [
+   [
+    "Ajisai Kaikan: Odawara vs Nagoya uiro",
+    "https://ajisaikaikan.com/kanagawa-odawara-uiro-nagoya/"
+   ],
+   [
+    "Kurashiru: what is uiro?",
+    "https://www.kurashiru.com/articles/153980cb-1205-4c8a-81f2-439c26b9712e"
+   ]
+  ]
+ },
+ {
+  "cat": "sweets",
+  "name": "Shiose manju (志ほせ饅頭)",
+  "ja": "塩瀬の饅頭（志ほせ饅頭）",
+  "prefs": [
+   13
+  ],
+  "text": "Shiose Sohonke, in Akashi-cho, Chuo ward, Tokyo, is cited as the house of the first sweet manju in Japan, tracing back to Rin Jōin, a Chinese immigrant. Sources disagree on his arrival: 1349 (Jowa 5) in some, 1341 (Ryakuo 4) in others. Shiose's own museum site and press describe Jōin adapting a Chinese method with a Japanese-style sweet bean filling.",
+  "flavor": "Thin skin, sweet paste filling.",
+  "use": "Tea sweet and gift manju; the shop's museum pages are a good primary source.",
+  "craft": "The shop's museum also says the Shoichi Kokushi sake-manju account cannot be proven. Cite both dates when quoting the founding year.",
+  "src": [
+   [
+    "Shiose museum: manju arrives",
+    "https://www.shiose.co.jp/blogs/museum/jyoin1"
+   ],
+   [
+    "Wikipedia: Shiose manju",
+    "https://ja.wikipedia.org/wiki/%E5%BF%97%E3%81%BB%E3%81%9B%E9%A5%85%E9%A0%AD"
+   ],
+   [
+    "Agata Japan: Shiose Sohonke",
+    "https://agatajapan.com/tokyo/shinise_interview/shiosesohonke_1/"
+   ]
+  ]
+ },
+ {
+  "cat": "sweets",
+  "name": "Joyo manju (yam-skin manju)",
+  "ja": "薯蕷饅頭",
+  "prefs": [
+   13
+  ],
+  "text": "Joyo manju has a skin made from yamato-imo (yam), rice flour and sugar. Shiose's site credits its design to the 7th head, Rin Shohan, who studied manju in China and took the idea from court cuisine. Shiose is the maker named in the sources.",
+  "flavor": "Fine, moist, close skin with a yam softness; koshi-an inside.",
+  "use": "Manju for tea gatherings and gifts; the Shiose collection page is the maker source.",
+  "craft": "The sources give only the three skin ingredients. Ratios, yam grating and steaming times need to come from the maker.",
+  "src": [
+   [
+    "Shiose: manju collection",
+    "https://www.shiose.co.jp/collections/manju"
+   ],
+   [
+    "Wikipedia: Shiose manju",
+    "https://ja.wikipedia.org/wiki/%E5%BF%97%E3%81%BB%E3%81%9B%E9%A5%85%E9%A0%AD"
+   ],
+   [
+    "Shiose museum: manju arrives",
+    "https://www.shiose.co.jp/blogs/museum/jyoin1"
+   ]
+  ]
+ },
+ {
+  "cat": "sweets",
+  "name": "Sake manju and the Shoichi Kokushi legend",
+  "ja": "酒饅頭（聖一国師伝承）",
+  "prefs": [
+   40
+  ],
+  "text": "A tradition says that Shoichi Kokushi, back from Song China, taught the owner of a tea house in Hakata how to make manju with a sake starter (sake-bo), which is taken as the start of sake manju. Shiose's own museum site notes that such origin stories remain unproven. Hakata is in present-day Fukuoka.",
+  "flavor": "Fermented, mildly alcoholic aroma, soft crumb.",
+  "use": "Steamed manju made with a sake starter, traditionally linked to Hakata.",
+  "craft": "Treat as legend when writing menus. The sources I saw do not cover fermentation times or temperatures.",
+  "src": [
+   [
+    "Shiose museum",
+    "https://www.shiose.co.jp/blogs/museum"
+   ],
+   [
+    "Shiose museum: manju arrives",
+    "https://www.shiose.co.jp/blogs/museum/jyoin1"
+   ],
+   [
+    "Tsukuba Univ. library: manju",
+    "https://www.tulips.tsukuba.ac.jp/exhibition/jyousetu/tsukubane/manjyuudesu.html"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Monaka (wafer shell sweet) and monaka-dane",
+  "ja": "最中・最中種",
+  "prefs": [],
+  "text": "Monaka is bean paste enclosed in a thin, crisp wafer made of glutinous rice (the shell is called monaka-dane, also kawa-dane, kashi-dane). Per Wikipedia, the prototype was a steamed, thinly rolled and baked glutinous-rice-flour sheet; the filled form dates from the mid-Edo period and the shell making was refined by the Meiji era.",
+  "flavor": "Light, crisp shell that softens against the paste.",
+  "use": "Shells are sold separately by makers so that shops can fill them to order.",
+  "craft": "Producer descriptions: glutinous rice is milled, steamed, pounded, rolled thin and baked in a mould. One maker says about 90 seconds of pressing. The starch puffs in the mould to give a light, crisp bite.",
+  "src": [
+   [
+    "Wikipedia: monaka",
+    "https://ja.wikipedia.org/wiki/%E6%9C%80%E4%B8%AD"
+   ],
+   [
+    "Kaga-dane Shokuhin: monaka-dane",
+    "https://kagadane.co.jp/product/monakadane/"
+   ],
+   [
+    "Maruishoten: how monaka is made",
+    "https://maruishoten.co.jp/make/"
+   ],
+   [
+    "Shachimonaka: ingredients",
+    "https://shachimonaka.com/blogs/monakablog/genryo"
+   ]
+  ]
+ },
+ {
+  "cat": "sweets",
+  "name": "Kintsuba (square kintsuba, Kobe)",
+  "ja": "きんつば",
+  "prefs": [
+   26,
+   28
+  ],
+  "text": "Kintsuba derives from the older ginsuba, a round flat sweet of bean paste in rice-flour dough said to have begun in 17th-century Kyoto and named after the sword guard (tsuba). The silver-to-gold change is explained variously (Edo's love of gold, or wheat flour browning). The square type is attributed to Sugita Taikichi of Benibanado (later Motoko Takasagoya) in Kobe in the Meiji era.",
+  "flavor": "Firm paste held together with a very thin seared skin; sweetness from azuki.",
+  "use": "Everyday tea sweet and gift.",
+  "craft": "The square block form means paste is cut and seared on each face (sources describe the form, not the method). Dates and the Kyoto origin vary between summary sources.",
+  "src": [
+   [
+    "Enaka Kawakamiya: what is kintsuba",
+    "https://column.enakawakamiya.co.jp/japanese/what-is-kintsuba.html"
+   ],
+   [
+    "Omiya: kintsuba origin",
+    "https://omiyadata.jp/kintsuba-origin/"
+   ],
+   [
+    "Wagashi no miryoku: kintsuba",
+    "https://wagashimiryoku.com/wagashi/kintsuba/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Omogashi and higashi (moisture classes)",
+  "ja": "主菓子と干菓子",
+  "prefs": [],
+  "text": "In tea practice, sweets are split into omogashi (served with thick tea, koicha) and higashi (served with thin tea, usucha). Higashi has roughly 10 percent or less moisture; nama-gashi roughly 30 percent or more. Higashi includes rakugan and arihei-to, and semi-moist sweets such as suhama and kan-kori.",
+  "flavor": "Term: a rule for pairing sweet to tea.",
+  "use": "Choose the sweet by which tea it accompanies.",
+  "craft": "Moisture thresholds are given as rough guidelines by the sources. Jo-namagashi such as nerikiri and kinton are regarded as the most formal tea sweets.",
+  "src": [
+   [
+    "Wagokoro: higashi types in tea",
+    "https://wa-gokoro.jp/accomplishments/sado/649/"
+   ],
+   [
+    "Haskapp: the three wagashi categories",
+    "https://www.haskapp.co.jp/news/wagashi_syurui/"
+   ],
+   [
+    "e-cha: omogashi in chado",
+    "https://www.e-cha.co.jp/contents/omogashi/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Rakugan (pressed sugar-and-flour higashi)",
+  "ja": "落雁",
+  "prefs": [],
+  "text": "Rakugan is a dry sweet pressed in a wooden mould from rice or other flour with sugar and starch syrup or water. It is a core higashi for usucha tea. Wasanbon is one of the sugars named among higashi materials. No single origin region was found in the sources.",
+  "flavor": "Dry, crumbly, melts on the tongue; clear sugar sweetness.",
+  "use": "Served with thin tea (usucha) as a core higashi.",
+  "craft": "Sources describe it only as flour plus sugar or mizuame, moulded; the choice of flour, sugar and the moulding force decide texture, but numbers are not given in the sources seen.",
+  "src": [
+   [
+    "Wagokoro: higashi in tea",
+    "https://wa-gokoro.jp/accomplishments/sado/649/"
+   ],
+   [
+    "Haskapp: the wagashi categories",
+    "https://www.haskapp.co.jp/news/wagashi_syurui/"
+   ],
+   [
+    "Enaka Kawakamiya: tea sweets",
+    "https://column.enakawakamiya.co.jp/kuri-kinton/tea-confectionery-type.html"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Nerikiri",
+  "ja": "練り切り",
+  "prefs": [],
+  "text": "Nerikiri is a jo-namagashi built on white bean paste (shiro-an) worked into a smooth, pliable dough and shaped into seasonal forms. With kinton it is placed at the top of tea-ceremony sweets for formality and is much used at tea gatherings.",
+  "flavor": "Smooth, fine, delicately sweet.",
+  "use": "Served as omogashi with koicha; the shape names the season.",
+  "craft": "Shiro-an is sold in several forms (sweetened or unsweetened, strained or raw), so check which is specified before adjusting sugar. The sources give no dough ratios.",
+  "src": [
+   [
+    "Wagokoro: tea sweets",
+    "https://wa-gokoro.jp/accomplishments/sado/649/"
+   ],
+   [
+    "Enaka Kawakamiya: tea sweets",
+    "https://column.enakawakamiya.co.jp/kuri-kinton/tea-confectionery-type.html"
+   ],
+   [
+    "Yukiko Sasakawa: shiro-an",
+    "https://www.yukiko-sasakawa.com/shiroan-tsukaimichi-daiyou/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Kinton (strained bean or chestnut sweet)",
+  "ja": "きんとん",
+  "prefs": [],
+  "text": "Kinton, as a confection, is a sweet made from sweetened chestnuts or ingen beans pressed through a sieve into a paste. In tea practice it ranks with nerikiri as the most formal class of jo-namagashi.",
+  "flavor": "Fine strands or paste with natural chestnut or bean sweetness.",
+  "use": "Omogashi served with thick tea.",
+  "craft": "Sources describe the straining step only. Straining texture, fineness and sugar balance are the points a maker is judged on, but the sources reviewed give no numbers.",
+  "src": [
+   [
+    "Enaka Kawakamiya: tea sweets",
+    "https://column.enakawakamiya.co.jp/kuri-kinton/tea-confectionery-type.html"
+   ],
+   [
+    "Wagokoro: higashi in tea",
+    "https://wa-gokoro.jp/accomplishments/sado/649/"
+   ],
+   [
+    "Hyakkanokai: tea sweets",
+    "https://www.hyakkanokai.com/blog/2644/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Asa-namagashi (same-day fresh sweets)",
+  "ja": "朝生菓子",
+  "prefs": [],
+  "text": "Asa-namagashi are everyday fresh sweets such as daifuku and manju that are made and sold to be eaten the same day. They are classed as omogashi. Their moisture is high (nama-gashi are roughly 30 percent or more), so they do not keep.",
+  "flavor": "Soft and fresh; texture is lost within a day.",
+  "use": "Sell the same day; plan production to the day's demand.",
+  "craft": "The sources only state the same-day rule and the moisture class; plan production against the day's demand.",
+  "src": [
+   [
+    "Wagokoro: tea sweets",
+    "https://wa-gokoro.jp/accomplishments/sado/649/"
+   ],
+   [
+    "Haskapp: the wagashi categories",
+    "https://www.haskapp.co.jp/news/wagashi_syurui/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Koshi-an and tsubu-an",
+  "ja": "こしあん・つぶあん",
+  "prefs": [],
+  "text": "Tsubu-an is made by simmering azuki and sweetening them, keeping skins and grains. Koshi-an adds a straining step that removes skins and germ, leaving a creamy, smooth paste. Tsubu-an keeps more fibre because the skins stay in; koshi-an is mostly the bean interior.",
+  "flavor": "Koshi: creamy and uniform. Tsubu: textured, with bean skins.",
+  "use": "Tsubu-an keeps grains and skins; koshi-an gives a smooth paste. Pick by the texture wanted.",
+  "craft": "Koshi-an costs more labour because of straining. Check whether a recipe starts from raw (nama-an) or sweetened paste before setting sugar.",
+  "src": [
+   [
+    "Tsunoda Seika: koshi-an and tsubu-an",
+    "https://tsunoda-seika.com/2022/02/02/koshian-tsbuan/"
+   ],
+   [
+    "Shiroan.jp: anko types",
+    "https://shiroan.jp/blog/wagashi-anko/"
+   ],
+   [
+    "Yahoo Expert: koshi-an vs tsubu-an",
+    "https://news.yahoo.co.jp/expert/articles/1278c9197921b69cb2c81f7f257a4fc1a61a238e"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Anko sugar grades (nami, nakawari, jowari)",
+  "ja": "並あん・中割あん・上割あん",
+  "prefs": [],
+  "text": "Raw anko (nama-an) has no sugar added; sweetened anko is graded by sugar relative to the raw paste: nami-an at 75 percent or less, nakawari-an at 75 to 90 percent, and jowari-an at 90 percent or more. Higher sugar generally means a sweeter paste.",
+  "flavor": "Term: sweetness level and sugar load of a paste.",
+  "use": "Specify the grade when buying paste for manju, yokan or daifuku.",
+  "craft": "The percentages are given relative to the weight of raw paste. Confirm with the supplier whether the base is koshi-an or tsubu-an, since sources discuss them separately.",
+  "src": [
+   [
+    "ALIC: sugar trivia (July 2006)",
+    "https://sugar.alic.go.jp/tisiki/ti_0607.htm"
+   ],
+   [
+    "Kumitasu: azuki processed foods",
+    "https://www.kumitasu.com/contents/hyoji/1699"
+   ]
+  ]
+ }
+]

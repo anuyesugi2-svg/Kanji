@@ -1,0 +1,730 @@
+[
+ {
+  "cat": "glossary",
+  "name": "Nimono (simmered dishes, umbrella term)",
+  "ja": "煮物",
+  "prefs": [],
+  "text": "Nimono is the general term for food simmered in dashi or water with seasonings such as mirin, soy sauce, sake and sugar until tender. Heat and flavour penetration are the goal, so a finished pot may or may not retain liquid. Specific names (nitsuke, nishime, nibitashi, nikomi) are distinguished mainly by the amount of liquid and the cooking time.",
+  "flavor": "Umbrella word; the name tells the cook how much liquid is left and how strongly it is seasoned.",
+  "use": "Used on menus and in kitchens as the category heading; the narrower terms are chosen once liquid volume and time are decided.",
+  "craft": "Sources agree that liquid quantity and duration are the dividing lines, not the ingredient: meat, fish and vegetables can all be nimono. Seasoning ratios are not fixed by definition and vary by shop, so a cook should state the style (thin and soaked, reduced, or glazed) before giving a ratio. Sources I saw gave no single standard dashi:soy:mirin ratio.",
+  "src": [
+   [
+    "macaroni: nimono vs nishime",
+    "https://macaro-ni.jp/37261"
+   ],
+   [
+    "Kobayashi Foods Washoku no Umami: nishime and nitsuke",
+    "https://www.kobayashi-foods.co.jp/washoku-no-umami/nishime-nitsuke"
+   ],
+   [
+    "Kufura: types of simmered dishes",
+    "https://kufura.jp/life/food/264277"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Nitsuke (short-liquid sweet-savoury simmer)",
+  "ja": "煮付け",
+  "prefs": [],
+  "text": "Nitsuke is simmering with a small amount of liquid from the start, so flavour is applied as the food cooks. It is sweet-salty (amakara), most often used for fish, and the sauce is left slightly in the pot rather than fully reduced. Some explanations add that it is done over strong heat in a short time.",
+  "flavor": "Glossy, sweet-salty, fairly rich; a little sauce remains.",
+  "use": "Typical for whole or cut fish, finished with the reduced liquid spooned over.",
+  "craft": "Contrast with nishime, where liquid is cooked down almost completely, and with nibitashi, where the seasoning is thin. The short, vigorous cook with little liquid is the point: sources describing it as strong heat and short time frame it as an explanation by some writers, not a universal rule, so confirm the house method.",
+  "src": [
+   [
+    "Kobayashi Foods Washoku no Umami: nishime and nitsuke",
+    "https://www.kobayashi-foods.co.jp/washoku-no-umami/nishime-nitsuke"
+   ],
+   [
+    "Kufura: nishime vs nitsuke by amount of liquid",
+    "https://kufura.jp/life/food/264277"
+   ],
+   [
+    "iemone: nikomi, nishime, nitsuke",
+    "https://iemone.jp/article/gourmet/hana_125044/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Nishime (simmered until the liquid is nearly gone)",
+  "ja": "煮しめ",
+  "prefs": [],
+  "text": "Nishime is a simmer in which the ingredients are cooked until the liquid has nearly evaporated, so the seasoning is concentrated into the food. Root vegetables are the typical ingredients. It differs from ordinary nimono mainly in that the pot is taken down to little or no remaining liquid.",
+  "flavor": "Deeply seasoned, dry-surfaced, savoury-sweet.",
+  "use": "Standard components of celebratory and make-ahead tiered dishes; each ingredient is often cooked separately and arranged together (see takiawase).",
+  "craft": "The reduction is the technique: liquid volume is judged against time so that the pot reaches almost dry without scorching. Sources frame the difference from nitsuke purely as liquid amount, so a cook should plan the starting liquid from the intended finish.",
+  "src": [
+   [
+    "macaroni: nishime basic recipe",
+    "https://macaro-ni.jp/37261"
+   ],
+   [
+    "Kobayashi Foods Washoku no Umami: nishime and nitsuke",
+    "https://www.kobayashi-foods.co.jp/washoku-no-umami/nishime-nitsuke"
+   ],
+   [
+    "Kufura: nishime vs nitsuke",
+    "https://kufura.jp/life/food/264277"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Nibitashi (brief simmer, then soaked in the liquid)",
+  "ja": "煮浸し",
+  "prefs": [],
+  "text": "Nibitashi means simmering ingredients briefly, then leaving them to steep in the cooking liquid. The seasoning is light. It sits at the thin end of the nimono range, opposite nishime.",
+  "flavor": "Light, dashi-forward, soft and moist.",
+  "use": "Greens, small fish and vegetables served at room temperature or chilled in their liquid.",
+  "craft": "Cooking is short; the flavour is absorbed during the soak rather than by prolonged simmering. Keep the seasoning thin enough that the soaked liquid is still pleasant, since it is served with the food. The sources I saw state the concept without a fixed ratio.",
+  "src": [
+   [
+    "macaroni: nimono types",
+    "https://macaro-ni.jp/37261"
+   ],
+   [
+    "43better: nimono variations",
+    "https://43better.com/nimono-variation"
+   ],
+   [
+    "Kufura: types of simmered dishes",
+    "https://kufura.jp/life/food/264277"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Nikomi (long low-heat simmer)",
+  "ja": "煮込み",
+  "prefs": [],
+  "text": "Nikomi is slow simmering of ingredients over low heat for a long time. It is contrasted in popular explanations with nishime and nitsuke by duration and heat rather than by how much liquid remains.",
+  "flavor": "Soft, fully melded, deeply flavoured.",
+  "use": "Tougher cuts, root vegetables and offal-type dishes where long cooking is wanted.",
+  "craft": "The practitioner distinction is time and heat: low and long, where nitsuke is quick. As with the other nimono terms, definitions are loose and vary by author, so define the method to the staff rather than relying on the word alone.",
+  "src": [
+   [
+    "iemone: nikomi, nishime, nitsuke",
+    "https://iemone.jp/article/gourmet/hana_125044/"
+   ],
+   [
+    "macaroni: nimono vs nishime",
+    "https://macaro-ni.jp/37261"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Yuan-yaki (yuan-marinade grilling; tsuke-yaki)",
+  "ja": "幽庵焼き",
+  "prefs": [],
+  "text": "Yuan-yaki is fish steeped in a yuan-ji, a mix of soy sauce, mirin and sake with citrus such as yuzu or kabosu, then grilled. It is a form of tsuke-yaki (marinade grilling). The most quoted base is equal parts soy, mirin and sake (1:1:1), though recipes also use 3:2:2 soy:mirin:sake.",
+  "flavor": "Fragrant citrus, mellow sweet-salty glaze.",
+  "use": "Sawara, yellowtail, salmon, sea bream, amberjack; served as a grilled course.",
+  "craft": "Marinating time is short by most accounts: about 30 minutes for lean fish and about an hour for fatty fish, turning the pieces over; one recipe runs 8 hours or more, so sources diverge. Salting first for about 30 minutes to draw out water is common. The marinade is brushed on about three times during grilling; soy and mirin scorch easily, so watch heat.",
+  "src": [
+   [
+    "Tankuma (Kyoto): yuan-yaki",
+    "https://tankuma.jp/column/6740/"
+   ],
+   [
+    "mi-journey: sawara yuan-yaki",
+    "https://mi-journey.jp/foodie/7825/"
+   ],
+   [
+    "Kikkoman: sawara yuan-yaki",
+    "https://www.kikkoman.co.jp/homecook/search/recipe/00001952/"
+   ],
+   [
+    "Delish Kitchen: yuan-yaki vs teriyaki",
+    "https://delishkitchen.tv/articles/2335"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Tempura koromo (tempura batter ratios)",
+  "ja": "天ぷらの衣",
+  "prefs": [],
+  "text": "Tempura batter is soft wheat flour, egg and cold water. Sources give different baselines: 100 to 110 g cake flour, half a beaten egg and 200 ml cold water (Shirogohan); 100 g flour, 1 egg (50 g) and 150 ml water (a maker's article); or flour to water 3:2 by weight, for example 150 g to 100 g (a Q&A answer). Cold water is used to limit gluten.",
+  "flavor": "Thin, crisp, lightly set coating.",
+  "use": "Base for ebi, vegetables and fish tempura; more flour gives a thicker, more clinging coat.",
+  "craft": "Less egg gives a thinner coat according to a Tokyo Kasei University study cited in the results; a Kogakuin University page reports that microwave-treated flour produced a crisp coating even without cold water. Treat all ratios as house-style starting points and adjust to the ingredient and desired coat thickness.",
+  "src": [
+   [
+    "Shirogohan: tempura batter",
+    "https://www.sirogohan.com/recipe/tenpurakoromo/"
+   ],
+   [
+    "Journal of Cookery Science of Japan Vol. 49 No. 2",
+    "https://www.jstage.jst.go.jp/article/cookeryscience/49/2/49_172/_pdf"
+   ],
+   [
+    "Kogakuin Univ.: chemistry of crisp tempura",
+    "https://www.kogakuin-applchem.jp/laboratory/foodchemistry/tempura"
+   ],
+   [
+    "Yahoo Chiebukuro: flour to water ratio",
+    "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14144129284"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Tempura frying temperature (abura-on)",
+  "ja": "天ぷらの揚げ油温",
+  "prefs": [],
+  "text": "Shirogohan gives a base frying temperature of 170 to 175 C for tempura, tested by dropping batter into the oil: it should sink and rise immediately. Because a small volume of oil loses temperature when food is added, it suggests starting slightly higher, at 175 to 180 C. Another recipe states 170 to 180 C.",
+  "flavor": "A working range, not a single number.",
+  "use": "Check with a drop of batter before the first piece and between batches.",
+  "craft": "The behaviour of the drop is the practical gauge: sinks then rises right away. With limited oil, begin at the upper end and fry in small batches so temperature does not collapse. Figures in the sources are from household-oriented recipes, so a restaurant with deep oil may set its own range.",
+  "src": [
+   [
+    "Shirogohan: basic tempura",
+    "https://www.sirogohan.com/recipe/tenpura/"
+   ],
+   [
+    "Shirogohan: tempura batter",
+    "https://www.sirogohan.com/recipe/tenpurakoromo/"
+   ],
+   [
+    "weeeat (Tokyo Gas): vegetable tempura",
+    "https://weeeat.tokyogas-com.co.jp/recipe/00300.html"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Chawanmushi (savoury steamed egg custard)",
+  "ja": "茶碗蒸し",
+  "prefs": [],
+  "text": "Chawanmushi is a steamed custard of beaten egg and dashi. Most sources give egg to dashi by volume of 1:3 as the baseline; 1:4 is used for more delicate texture, and one recipe uses 1:2.5. A medium egg is about 50 g and a large about 60 g, so a medium egg takes roughly 150 ml of dashi.",
+  "flavor": "Smooth, quivering set, dashi-led.",
+  "use": "Served hot as a steamed course (mushimono) with fillings in the cup.",
+  "craft": "Two schedules appear: strong heat for about 6 minutes then low for about 20 (with a chopstick wedged under the lid), or medium-strong heat for 3 minutes then low for about 15. Doneness is tested with a bamboo skewer: clear liquid should run out. Ratios and times vary by source and cup size, so test your own cup.",
+  "src": [
+   [
+    "Kobayashi Foods: egg to dashi 1:3",
+    "https://www.kobayashi-foods.co.jp/washoku-no-umami/steamed-egg-custard-ratio"
+   ],
+   [
+    "Higashimaru: chawanmushi basics",
+    "https://www.higashimaru.co.jp/recipe/event/chawanmushi/basic.html"
+   ],
+   [
+    "macaroni: chawanmushi ratio and steaming time",
+    "https://macaro-ni.jp/41221"
+   ],
+   [
+    "mi-journey: chawanmushi 1:3",
+    "https://mi-journey.jp/foodie/49227/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Su-dachi (pitting and bubbles in steamed custard)",
+  "ja": "す立ち",
+  "prefs": [],
+  "text": "Su-dachi is the honeycomb of small holes that appears in chawanmushi or other steamed egg dishes when they are over-cooked or handled badly. Sources attribute it in part to air worked into the egg, so beating the egg vigorously like a foam is warned against.",
+  "flavor": "Not a flavour term; a texture defect.",
+  "use": "A quality check on steamed egg custard.",
+  "craft": "Mix egg gently to avoid air. Steaming guidance in the results uses a chopstick gap under the lid and a strong-then-weak heat sequence; the sources do not state a mechanism for each step. One article's scientific explanations were flagged by the search summary as thinly supported, so compare against multiple professional recipes.",
+  "src": [
+   [
+    "macaroni: chawanmushi and su-dachi",
+    "https://macaro-ni.jp/41221"
+   ],
+   [
+    "gagalog: chef's non-su-dachi technique",
+    "https://gagalog.com/recipe/57300"
+   ],
+   [
+    "Higashimaru: chawanmushi basics",
+    "https://www.higashimaru.co.jp/recipe/event/chawanmushi/basic.html"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Awase-zu (compound vinegars)",
+  "ja": "合わせ酢",
+  "prefs": [],
+  "text": "Awase-zu are vinegar mixtures prepared for sunomono and dressed dishes. Standard types include nihai-zu, sanbai-zu, tosa-zu, amazu, kagen-zu and ponzu. The 'hai' in the names reflects a measure of cup (sakazuki) volumes. Amount used is given in one source as roughly 1.5 to 2 tablespoons per 100 g of food.",
+  "flavor": "Sour, with sweetness and salt balanced per type.",
+  "use": "Dressing for vegetables, seafood and seaweed.",
+  "craft": "Basic 'hai' proportions are one tradition; one source says the original ratios are hardly used now and home cooks adjust sugar, salt and dashi to taste. Choose the type by the main ingredient: sharper for fish and wakame, rounder and sweeter for vegetables.",
+  "src": [
+   [
+    "oisiiryouri.com: five meanings of awase-zu",
+    "https://oisiiryouri.com/vinegared-dish-japanese-food/"
+   ],
+   [
+    "Shokuiku Daijiten: nihai-zu vs sanbai-zu",
+    "https://shokuiku-daijiten.com/mame/mame-2802/"
+   ],
+   [
+    "Itamae no Issho: awase-zu",
+    "https://wareitamae.com/japanesecuisinevarious/soup/vinega"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Nihai-zu (two-part vinegar)",
+  "ja": "二杯酢",
+  "prefs": [],
+  "text": "Nihai-zu is vinegar and soy sauce, basically in equal parts. It is salty and sour as it stands, so it is often combined with other ingredients. One source lists a more acid version with 1 to 1.8 parts vinegar to 1 part usukuchi (light) soy.",
+  "flavor": "Sharp, salty-sour, no sweetness.",
+  "use": "Seafood and wakame; the base of many sunomono before sweetening.",
+  "craft": "The fast, clean dressing for seafood; adding mirin or sugar turns it toward sanbai-zu. Because it is strong, apply with restraint and often dilute with dashi or the food's own liquid.",
+  "src": [
+   [
+    "macaroni: nihai-zu and usage",
+    "https://macaro-ni.jp/72744"
+   ],
+   [
+    "Shokuiku Daijiten: nihai-zu vs sanbai-zu",
+    "https://shokuiku-daijiten.com/mame/mame-2802/"
+   ],
+   [
+    "Chouemon Shoten: nihai-zu, sanbai-zu, tosa-zu",
+    "https://ssl.inetsuke-chouemon.com/user_data/cooking/cooking_detail.php?cooking_id=11"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Sanbai-zu (three-part vinegar)",
+  "ja": "三杯酢",
+  "prefs": [],
+  "text": "Sanbai-zu is nihai-zu with mirin added; today sugar often replaces mirin. Sources disagree on ratios: vinegar:soy:mirin 1:1:1; vinegar:sugar:soy 3:2:1; or 1.5 to 2 vinegar with 1 usukuchi soy and 1 mirin, brought to a boil and cooled.",
+  "flavor": "Balanced sour, sweet and salty.",
+  "use": "All-round dressing for vegetables, seafood and jellyfish-type sunomono.",
+  "craft": "Boiling and cooling the mixture (one method) softens the vinegar's edge. The traditional equal parts are, according to one source, rarely used now, so cooks set the balance by taste and ingredient.",
+  "src": [
+   [
+    "Shokuiku Daijiten: nihai-zu vs sanbai-zu",
+    "https://shokuiku-daijiten.com/mame/mame-2802/"
+   ],
+   [
+    "Kuumonotei: sanbai-zu golden ratio",
+    "https://kuumonotei.com/sunomono-sanbaizu-tosazu/"
+   ],
+   [
+    "Itamae no Issho: awase-zu",
+    "https://wareitamae.com/japanesecuisinevarious/soup/vinega"
+   ],
+   [
+    "Chouemon Shoten: nihai-zu, sanbai-zu, tosa-zu",
+    "https://ssl.inetsuke-chouemon.com/user_data/cooking/cooking_detail.php?cooking_id=11"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Tosa-zu (dashi-enriched vinegar)",
+  "ja": "土佐酢",
+  "prefs": [],
+  "text": "Tosa-zu is a sanbai-zu type vinegar with katsuobushi dashi added. Ingredients are dashi, vinegar, soy, mirin and sugar. One source gives a ratio written as 4:2:1:6, but the mapping of numbers was unclear in the summary I saw, so verify before use.",
+  "flavor": "Softer and rounder than sanbai-zu, with katsuo aroma.",
+  "use": "Cucumber, crab, octopus, seaweed and fish sunomono.",
+  "craft": "Because it contains plenty of dashi, a source warns that under-dressing leaves the dish flat; it suggests using around 3/10 of the food's quantity. Make a small test batch before scaling.",
+  "src": [
+   [
+    "Chouemon Shoten: nihai-zu, sanbai-zu, tosa-zu",
+    "https://ssl.inetsuke-chouemon.com/user_data/cooking/cooking_detail.php?cooking_id=11"
+   ],
+   [
+    "Kuumonotei: tosa-zu",
+    "https://kuumonotei.com/sunomono-sanbaizu-tosazu/"
+   ],
+   [
+    "oisiiryouri.com: five meanings of awase-zu",
+    "https://oisiiryouri.com/vinegared-dish-japanese-food/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Amazu (sweet vinegar)",
+  "ja": "甘酢",
+  "prefs": [],
+  "text": "Amazu is a vinegar mixture with heavy sugar. Two examples in the results: 200 cc vinegar, 100 g sugar and 45 g salt; or equal parts water, vinegar and sugar with a little salt.",
+  "flavor": "Sweet-sour, mild.",
+  "use": "Quick pickling of vegetables, lotus root, ginger and similar garnish items.",
+  "craft": "Sugar content is far higher than in sanbai-zu, so it works as a pickling liquid. Dissolve sugar and salt fully before use.",
+  "src": [
+   [
+    "Itamae no Issho: awase-zu",
+    "https://wareitamae.com/japanesecuisinevarious/soup/vinega"
+   ],
+   [
+    "oisiiryouri.com: five meanings of awase-zu",
+    "https://oisiiryouri.com/vinegared-dish-japanese-food/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Sunomono (vinegared dishes)",
+  "ja": "酢の物",
+  "prefs": [],
+  "text": "Sunomono is a dish of vegetables, seafood or seaweed dressed in an awase-zu. As a measure, one source gives about 1.5 to 2 tablespoons of awase-zu per 100 g of ingredient. The dressing type is matched to the ingredient.",
+  "flavor": "Refreshing, sour, light.",
+  "use": "Palate-cleansing small dish in a Japanese meal.",
+  "craft": "Typical practice is to salt and squeeze watery ingredients such as cucumber, and to dress at the last moment so the dish does not weep. The sources I saw primarily stress the choice of nihai-zu, sanbai-zu or tosa-zu per ingredient and quantity per weight.",
+  "src": [
+   [
+    "Temae Itamae: basics of sunomono",
+    "https://temaeitamae.jp/top/t8/Japanese.food.8/01.html"
+   ],
+   [
+    "Kuumonotei: sunomono and awase-zu",
+    "https://kuumonotei.com/sunomono-sanbaizu-tosazu/"
+   ],
+   [
+    "oisiiryouri.com: five meanings of awase-zu",
+    "https://oisiiryouri.com/vinegared-dish-japanese-food/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Aemono and ae-goromo (dressed dishes and their dressings)",
+  "ja": "和え物・和え衣",
+  "prefs": [],
+  "text": "Aemono are dishes in which ingredients are tossed with a dressing called ae-goromo, made from seasoning plus a flavourful base. Named types include goma-ae (sesame), karashi-ae (mustard), shira-ae (tofu), ume-ae (plum), miso-ae, suzu-miso-ae and oroshi-ae.",
+  "flavor": "Varies by dressing; mostly mild and clinging.",
+  "use": "Small side dishes and course components.",
+  "craft": "Per one chef's source, vegetables should be seasoned lightly first and well drained before dressing, so water does not dilute the dressing. Dress shortly before serving. Ratios differ between sites and are starting points.",
+  "src": [
+   [
+    "Itamae no Issho: ae-goromo",
+    "https://wareitamae.com/japanesecuisinevarious/soup/tocalmdown"
+   ],
+   [
+    "japanese-food.net: types of aemono",
+    "https://japanese-food.net/top-page/seasoned/"
+   ],
+   [
+    "Olive: aemono variations",
+    "https://www.olive-hitomawashi.com/column/2018/03/3-4.html"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Shira-ae (tofu and sesame dressing)",
+  "ja": "白和え",
+  "prefs": [],
+  "text": "Shira-ae is a dressing of white tofu and white sesame, seasoned with white miso and usukuchi soy. One chef's figures for one block of silken tofu: 30 g white miso, 3 tbsp sugar, 2 tsp usukuchi soy, 2 tbsp ground sesame, 1 tsp mirin and 1 tsp lemon juice.",
+  "flavor": "Creamy, mildly sweet, nutty.",
+  "use": "Dresses cooked vegetables, konnyaku, mushrooms and persimmon-type fruit.",
+  "craft": "The source emphasises seasoning vegetables beforehand and draining thoroughly. Tofu must be drained and smoothly puréed; one version uses lemon for brightness. The figures are one shop's recipe, not a standard.",
+  "src": [
+   [
+    "Itamae no Issho: ae-goromo",
+    "https://wareitamae.com/japanesecuisinevarious/soup/tocalmdown"
+   ],
+   [
+    "Rassic: shira-ae",
+    "https://rassic.jp/content/8165"
+   ],
+   [
+    "japanese-food.net: types of aemono",
+    "https://japanese-food.net/top-page/seasoned/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Goma-ae (sesame dressing)",
+  "ja": "胡麻和え",
+  "prefs": [],
+  "text": "Goma-ae dresses vegetables in ground sesame with soy and sugar. Ratios in the results: sesame:sugar:soy of 3:1:1 (1 tbsp : 1 tsp : 1 tsp) on one site, equal parts on another.",
+  "flavor": "Toasty, sweet-salty, rich.",
+  "use": "Spinach, green beans, and other blanched vegetables.",
+  "craft": "Sesame can be ground to order for aroma; ratios differ, so adjust sugar and soy to the vegetable's own flavour. Squeeze the vegetable well before dressing.",
+  "src": [
+   [
+    "Wanosyoku Academy: goma-ae ratio",
+    "https://www.wanosyoku-academy.com/gomaaeougonnhi/"
+   ],
+   [
+    "japanese-food.net: types of aemono",
+    "https://japanese-food.net/top-page/seasoned/"
+   ],
+   [
+    "Itamae no Issho: ae-goromo",
+    "https://wareitamae.com/japanesecuisinevarious/soup/tocalmdown"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Nuta (vinegar-miso dressing)",
+  "ja": "ぬた",
+  "prefs": [],
+  "text": "Nuta is a dish dressed with vinegar-miso (su-miso), usually white miso with vinegar and soy. Negi and cucumber are given as good partners. One source lists it with an alternative name, teppo-ae.",
+  "flavor": "Tangy, sweet-savoury miso.",
+  "use": "Seafood such as clams or squid with scallion; spring vegetables.",
+  "craft": "The results did not state exact proportions for su-miso. Balance miso sweetness against vinegar, loosen to a coating consistency, and dress at the last moment.",
+  "src": [
+   [
+    "japanese-food.net: types of aemono",
+    "https://japanese-food.net/top-page/seasoned/"
+   ],
+   [
+    "Lavi Aya lesson: house dressings",
+    "https://lesson.vision-aya.com/2023/08/10/lesson_wa_1_5/"
+   ],
+   [
+    "Olive: aemono variations",
+    "https://www.olive-hitomawashi.com/column/2018/03/3-4.html"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Takikomi-gohan (mixed rice cooked with seasoning)",
+  "ja": "炊き込みご飯",
+  "prefs": [],
+  "text": "Takikomi-gohan is rice cooked together with seasoning and ingredients. Ratios per 1 go of rice: Kikkoman gives 1 tbsp soy and 150 ml water as baseline; another source gives soy, sake and mirin 1 tbsp each; a dashi-based version uses 1 cup dashi, 1/2 tsp salt and 1 tsp each sake, mirin and usukuchi soy.",
+  "flavor": "Savoury, aromatic; seasoned to be eaten plain.",
+  "use": "Gomoku rice, seasonal ingredient rice.",
+  "craft": "Reduce the water to allow for liquid seasonings and ingredients. Soak rice until opaque white: about 30 minutes in summer and an hour in winter, per one recipe. White dashi is dosed by maker, for example 25 ml per go for a Yamaki product.",
+  "src": [
+   [
+    "Kikkoman: gomoku takikomi gohan",
+    "https://www.kikkoman.co.jp/homecook/washoku/029/"
+   ],
+   [
+    "Himeji Mitai: takikomi ratios",
+    "https://www.himeji-mitai.com/feature/377060.html"
+   ],
+   [
+    "oixi-kitchen: takikomi ratio",
+    "https://oixi-kitchen.com/tips/6145/"
+   ],
+   [
+    "ON THE UMAMI: dashi ratio for takikomi",
+    "https://www.on-the-umami.com/2024/06/06/blog-282/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Dashimaki-tamago (dashi rolled omelette)",
+  "ja": "だし巻き卵",
+  "prefs": [],
+  "text": "Dashimaki is a rolled omelette in which dashi is the main seasoning and the egg colour is preserved, associated with Kansai. The Kappo Aun page describes Kansai style with almost no sugar and dashi equal in quantity to egg; another recipe uses 200 ml dashi for 8 eggs, so quantities differ.",
+  "flavor": "Juicy, dashi-led, delicate.",
+  "use": "Sushi shops, soba shops, izakaya, kappo counters.",
+  "craft": "Kansai method per one source: beat egg carefully and strain, use a rectangular pan, roll from the near side to the far side; Kanto reverses this (rougher beating, square pan, far to near). Kappo Aun names the Kansai roll kyo-maki (Kyoto roll), said to leave fewer gaps. Sources contradict each other on which region is sweeter.",
+  "src": [
+   [
+    "Yamaki: regional dashimaki differences",
+    "https://www.yamaki.co.jp/katsuobushi-plus/news/202602_dashimaki/"
+   ],
+   [
+    "Kappo Aun: dashimaki tamago",
+    "https://kappo-aun.jp/2020/03/27/dashimaki/"
+   ],
+   [
+    "oisiso: dashimaki",
+    "https://oisiso.com/html/memo/dasimaki.html"
+   ],
+   [
+    "magickitchen: dashimaki ratio",
+    "https://magickitchen.blog/dashimaki-tamago/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Atsuyaki-tamago (thick sweet omelette, Kanto style)",
+  "ja": "厚焼き卵",
+  "prefs": [],
+  "text": "Atsuyaki-tamago, or Kanto-style tamagoyaki, is seasoned with sugar and soy to a sweet-savoury taste and browned for firmness. Yamaki contrasts it with Kansai style, where dashi takes the lead and the egg colour is kept.",
+  "flavor": "Sweet, firm, caramelised edges.",
+  "use": "Bento, sushi-shop tamago, breakfast.",
+  "craft": "One source frames the split as more dashi gives Kansai dashimaki and more sugar gives Kanto atsuyaki. Another source reverses which region is sweeter, and the search summary flagged that conflict; confirm against regional professional sources before asserting regional claims.",
+  "src": [
+   [
+    "Yamaki: regional dashimaki differences",
+    "https://www.yamaki.co.jp/katsuobushi-plus/news/202602_dashimaki/"
+   ],
+   [
+    "Marron diet recipe: tamagoyaki and dashimaki",
+    "https://marron-dietrecipe.com/washoku/washoku_dasimakitamago.html"
+   ],
+   [
+    "Wikipedia: tamagoyaki",
+    "https://ja.wikipedia.org/wiki/%E5%8D%B5%E7%84%BC%E3%81%8D"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Suimono (clear soup) and sumashi-jiru",
+  "ja": "吸い物・すまし汁",
+  "prefs": [],
+  "text": "Suimono is a clear soup built from three parts: wandane (the main item), tsuma (accompaniments) and suikuchi (the aromatic). Sumashi-jiru is clear soup of ichiban dashi seasoned with soy or salt. Sources disagree on nesting: one says suimono is a kind of wanmono, another treats sumashi-jiru as a kind of osuimono.",
+  "flavor": "Clear, restrained, aroma-led.",
+  "use": "Kaiseki and banquet soup course.",
+  "craft": "A clear soup is judged on dashi aroma and clarity. The search summary notes ichiban dashi is fragrant and refined while niban dashi is less fragrant but more full-bodied in umami. Terminology varies by source.",
+  "src": [
+   [
+    "Delish Kitchen: sumashi-jiru vs osuimono",
+    "https://delishkitchen.tv/articles/2118"
+   ],
+   [
+    "Haseko Branchera: sumashi-jiru",
+    "https://www.haseko.co.jp/branchera/idea/recipe/recipe_0317.html"
+   ],
+   [
+    "Kawashimaya: dashi extraction",
+    "https://kawashima-ya.jp/contents/?p=105628"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Suiji (clear-soup seasoned broth)",
+  "ja": "吸い地",
+  "prefs": [],
+  "text": "Suiji is the seasoned broth for suimono. One example ratio: 600 cc dashi, 1 tbsp sake, 1/3 to 1/4 tsp salt and 5 cc usukuchi soy. The source stresses that salts differ and the broth should be tasted and adjusted.",
+  "flavor": "Barely seasoned, salt-light.",
+  "use": "Base broth for clear soup.",
+  "craft": "Seasoning is held low so dashi shows through. Suimono is cited at about 0.5 to 1 g salt per serving, much lower than miso soup. The ratio is one recipe, so treat as a starting point.",
+  "src": [
+   [
+    "oisiiryouri.com: suimono ratios",
+    "https://oisiiryouri.com/suimono-wariai/"
+   ],
+   [
+    "icefoodnavi: salt in miso soup and suimono",
+    "https://icefoodnavi.com/misoshiru-enbun/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Misoshiru (miso soup)",
+  "ja": "味噌汁",
+  "prefs": [],
+  "text": "Misoshiru is dashi with miso dissolved in it plus ingredients. Salt per bowl is reported inconsistently: about 1.2 g in one article and about 2 to 3 g in another. To lower salt, sources suggest reducing miso and compensating with dashi flavour.",
+  "flavor": "Savoury, umami-rich, salty.",
+  "use": "Daily soup with rice.",
+  "craft": "Dashi strength and miso quantity need to be balanced. For soups whose ingredients release flavour themselves, such as tonjiru, dashi can be cut back. Salt figures vary by data source.",
+  "src": [
+   [
+    "Kawashimaya: miso soup and salt",
+    "https://kawashima-ya.jp/contents/?p=10828"
+   ],
+   [
+    "icefoodnavi: salt in miso soup and suimono",
+    "https://icefoodnavi.com/misoshiru-enbun/"
+   ],
+   [
+    "ayanyan: suimono vs miso soup",
+    "https://ayanyan.net/goumet/japanese-food/263"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Tonjiru (pork and vegetable miso soup)",
+  "ja": "豚汁",
+  "prefs": [],
+  "text": "Tonjiru is a miso-based soup with pork and many vegetables, mostly root vegetables. It is often contrasted with kenchin-jiru, which is of shojin origin, meatless and soy-sauce seasoned.",
+  "flavor": "Rich, meaty-sweet, hearty.",
+  "use": "One-pot soup served as a main-style side.",
+  "craft": "Because pork and vegetables flavour the broth, dashi can be used in lower proportion than in a plain miso soup. Details of regional variants were not given in the sources I saw.",
+  "src": [
+   [
+    "Kurashiru: tonjiru vs kenchin-jiru",
+    "https://www.kurashiru.com/articles/ddbbeb5c-fc4a-48bf-9470-691cbe1ba6ce"
+   ],
+   [
+    "Kawashimaya: dashi extraction",
+    "https://kawashima-ya.jp/contents/?p=105628"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Kenchin-jiru (vegetable soup of shojin origin)",
+  "ja": "けんちん汁",
+  "prefs": [],
+  "text": "Kenchin-jiru is a soup that originated in shojin (temple vegetarian) cooking. It contains no meat, uses mostly root vegetables and is basically soy-sauce flavoured, though some regions use miso.",
+  "flavor": "Clear-brown, vegetal, savoury.",
+  "use": "Winter soup; vegetarian preparations.",
+  "craft": "The meatless principle means flavour must come from dashi suited to the kitchen and from the vegetables. Sources disagree on the seasoning in some regions.",
+  "src": [
+   [
+    "Kurashiru: tonjiru vs kenchin-jiru",
+    "https://www.kurashiru.com/articles/ddbbeb5c-fc4a-48bf-9470-691cbe1ba6ce"
+   ],
+   [
+    "Educe Shokuiku: soups",
+    "https://www.educe-shokuiku.jp/news/speciality/shirumono/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Hon-wasabi oroshi (grating real wasabi)",
+  "ja": "本わさびのおろし方",
+  "prefs": [],
+  "text": "Pungency in wasabi arises when grating ruptures cells and an enzyme reaction occurs, and finer grating gives more heat and flavour. Grate from the stem side with a circular motion using a grater or sharkskin grater. Makers state peak aroma and heat come about 3 to 5 minutes after grating, with good flavour for about 30 minutes after.",
+  "flavor": "Fresh, sharp, aromatic then sweet.",
+  "use": "Sashimi, sushi, soba.",
+  "craft": "Grate to order, as pungency fades with time (volatile). One source says bitterness is present right after grating and turns to pungency after a few minutes. Another page discusses taste differences by grating direction, stem versus root side. Use fine-toothed tools.",
+  "src": [
+   [
+    "S&B Foods: how to grate Azumino wasabi",
+    "https://www.sbfoods.co.jp/customer/detail/00516.html"
+   ],
+   [
+    "Kinjirushi: about hon-wasabi",
+    "https://www.kinjirushi.co.jp/wasabi/type/"
+   ],
+   [
+    "Ginza Watari: grating direction and two tastes",
+    "https://ginzawatari.jp/%E6%9C%AC%E3%83%AF%E3%82%B5%E3%83%92%E3%82%99%E3%81%AE%E6%93%A6%E3%82%8A%E6%96%B9%EF%BC%81%E3%81%8A%E3%82%8D%E3%81%99%E9%9A%9B%E3%81%AE%E3%83%AF%E3%82%B5%E3%83%93%E3%81%AE%E5%90%91%E3%81%8D%E3%83%BB2/"
+   ],
+   [
+    "Wasa-lab: eating hon-wasabi",
+    "https://www.wasa-lab.com/knowledge/530/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Samegawa-oroshi (sharkskin grater)",
+  "ja": "鮫皮おろし",
+  "prefs": [],
+  "text": "Samegawa-oroshi is a grater faced with sharkskin, used for grating wasabi. Sources describe it as well suited to the job, while some state that a fine-toothed ordinary grater is also adequate.",
+  "flavor": "Fine grate.",
+  "use": "Wasabi for sashimi and sushi.",
+  "craft": "The finer the grate, the more cells are broken and the stronger the heat. Use a circular motion from the stem. Grate fresh for service.",
+  "src": [
+   [
+    "World Vision: sharkskin grater",
+    "https://www.world-v.com/wasabinitsuite-nikkeihealth-4.html"
+   ],
+   [
+    "Wasabiya Yuu: grating wasabi well",
+    "https://wasabiyayuu.com/wasabi/17"
+   ],
+   [
+    "S&B Foods: how to grate Azumino wasabi",
+    "https://www.sbfoods.co.jp/customer/detail/00516.html"
+   ]
+  ]
+ }
+]

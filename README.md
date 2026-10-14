@@ -14,3 +14,6 @@ Open `index.html` in a browser. It is a single static file with no dependencies.
 - `python3 tools/build_site.py`: rebuilds `index.html`
 
 Regional names are traditions, not strict borders; entries are an editorial guide and worth double-checking before publishing.
+
+## Generated content
+`src/gen/*.json` holds researched entries written by parallel research agents (validated with `tools/validate_gen.js`, deduplicated by name at build time). Every record carries source links.

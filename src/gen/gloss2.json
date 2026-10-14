@@ -1,0 +1,647 @@
+[
+ {
+  "cat": "glossary",
+  "name": "Yanagiba (willow-blade sashimi knife)",
+  "ja": "柳刃包丁",
+  "prefs": [],
+  "text": "A long, thin, single-bevel (kataba) Japanese knife for slicing sashimi. Trade sources group it with deba, usuba, hamo-honekiri and mioroshi as 'wabocho' with a single bevel, a hollow back (ura-suki) and typically a tang-in-handle (sashi-e) fitting. Its length lets the cook cut in one long pulling stroke.",
+  "flavor": "Heard at the sashimi station and in every knife shop as the first knife a Japanese-cuisine cook buys.",
+  "use": "'Yanagiba de saku o hiku' - drawing a block (saku) of fish into slices with one continuous pull.",
+  "craft": "The point of the long blade is a single draw cut, which sources say keeps the cut face of the sashimi from collapsing. Not for bone: the thin blade is the opposite of the heavy deba. Carbon steel (hagane) versus stainless is a standard choice discussed by makers.",
+  "src": [
+   [
+    "Made in Japan - Japanese knife specialist guide (deba/yanagiba)",
+    "https://made-in-japan.jp/guide/japan-knife-specialist/"
+   ],
+   [
+    "Ichimonji - professional guide to wabocho",
+    "https://www.ichimonji.co.jp/collections/japanese-kitchen-knives/%E5%88%87%E4%BB%98%E5%8C%85%E4%B8%81"
+   ],
+   [
+    "Hocholab - knife types",
+    "https://hocholab.com/kiji/shurui.html"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Deba (heavy fish-butchering knife)",
+  "ja": "出刃包丁",
+  "prefs": [],
+  "text": "A thick, heavy single-bevel knife for breaking down whole fish. Its weight is used rather than muscle: sources describe striking or chopping through the head and bones and then making sanmai-oroshi fillets. It contrasts with the thin, long yanagiba, which is for slicing, not chopping.",
+  "flavor": "Heard in the prep kitchen: 'deba de oroshite, yanagi de hiku'.",
+  "use": "Removing heads, cutting through the backbone and ribs, and filleting whole fish before the yanagiba takes over for slicing.",
+  "craft": "Keep the deba for fish: its thickness and weight do the work of cutting through head and bone. Makers' guides present steel choice (hagane vs stainless) as a main buying decision.",
+  "src": [
+   [
+    "Made in Japan - Japanese knife specialist guide",
+    "https://made-in-japan.jp/guide/japan-knife-specialist/"
+   ],
+   [
+    "Hands Net - kitchen knife types",
+    "https://hands.net/hintmagazine/kitchen/2302-kitchen-knife.html"
+   ],
+   [
+    "Hocholab - knife types",
+    "https://hocholab.com/kiji/shurui.html"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Usuba (thin-bladed vegetable knife)",
+  "ja": "薄刃包丁",
+  "prefs": [],
+  "text": "A single-bevel Japanese vegetable knife. Trade sources point out that the single bevel makes katsuramuki (rotary peeling into a thin sheet) easy.",
+  "flavor": "Heard when cooks talk about vegetable prep, katsuramuki and the difference between usuba and nakiri.",
+  "use": "Katsuramuki of daikon and other vegetable work.",
+  "craft": "Common confusion: usuba and nakiri are often sold under overlapping names, and some sources say retailers do not strictly separate them. A practical check is the bevel: usuba are single-bevel, whereas nakiri are often double-bevel.",
+  "src": [
+   [
+    "Kohno - square-bladed knives (nakiri and usuba)",
+    "https://kohno-onlineshop.com/blog/square-knife/"
+   ],
+   [
+    "Hocholab - knife types",
+    "https://hocholab.com/kiji/shurui.html"
+   ],
+   [
+    "Masahiro - knife uses and features",
+    "https://masahiro-hamono.com/story/story01"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Nakiri (greens-cutting knife)",
+  "ja": "菜切包丁",
+  "prefs": [],
+  "text": "A square-ended vegetable knife with a straight edge, so that a large vegetable is cut evenly against the board in one contact. Sources note that many nakiri are double-bevel, unlike the single-bevel usuba, and warn against using them on fish or hard meat because the edge may chip.",
+  "flavor": "Heard in knife shops and in home kitchens; in professional kitchens it is usually compared with the usuba.",
+  "use": "Chopping cabbage, daikon and other large vegetables evenly.",
+  "craft": "Do not use for bones, fish or hard meat. The line between nakiri and usuba is blurred in selling practice; check whether the bevel is single or double rather than relying on the name.",
+  "src": [
+   [
+    "Kohno - square-bladed knives",
+    "https://kohno-onlineshop.com/blog/square-knife/"
+   ],
+   [
+    "Hocholab - knife types",
+    "https://hocholab.com/kiji/shurui.html"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Takobiki (Kanto-style sashimi knife)",
+  "ja": "蛸引",
+  "prefs": [
+   13
+  ],
+  "text": "A sashimi knife of the Kanto (Tokyo) tradition: long, narrow and thin like the Kansai yanagiba, but with a square (not pointed) tip. Sources describe it as suited to soft ingredients and to cutting a block (saku) of fish.",
+  "flavor": "Heard when comparing Kanto and Kansai sashimi knives.",
+  "use": "Sashimi slicing in Kanto-style kitchens, especially for taking slices from a saku.",
+  "craft": "The squared tip is the identifying feature. The Kanto = takobiki / Kansai = yanagiba pairing is a trade generalisation.",
+  "src": [
+   [
+    "Hocholab - knife types",
+    "https://hocholab.com/kiji/shurui.html"
+   ],
+   [
+    "Ichimonji - professional guide to wabocho",
+    "https://www.ichimonji.co.jp/collections/japanese-kitchen-knives/%E5%88%87%E4%BB%98%E5%8C%85%E4%B8%81"
+   ],
+   [
+    "Kikumatsu - wabocho blade shapes",
+    "https://kikumatsu.jp/en-us/blogs/news/%E5%92%8C%E5%8C%85%E4%B8%81%E3%81%AE%E7%A8%AE%E9%A1%9E%E3%81%A7%E5%88%83%E3%81%AE%E5%BD%A2%E7%8A%B6%E3%82%92%E6%AF%94%E8%BC%83%E3%81%99%E3%82%8B-%E5%92%8C%E5%8C%85%E4%B8%81-%E7%A8%AE%E9%A1%9E-%E5%88%83%E5%BD%A2%E7%8A%B6-%E7%89%B9%E5%BE%B4%E3%82%92%E8%A7%A3%E8%AA%AC"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Katsuramuki (rotary peeling)",
+  "ja": "かつらむき",
+  "prefs": [],
+  "text": "A knife technique in which a cylinder of daikon (or similar) is turned against the blade and peeled into one continuous, very thin sheet, like unrolling paper. Sources describe it as the standard exercise for learning knife control; the sheet is then cut further, e.g. into sengiri, which is easier to keep uniform.",
+  "flavor": "Heard in apprentice training and when describing the basics of the vegetable station.",
+  "use": "Peeling daikon into a sheet and then cutting it, e.g. into sengiri.",
+  "craft": "Uniform thickness and an unbroken sheet are the usual measures of skill. Knife makers say it is easier with a single-bevel knife.",
+  "src": [
+   [
+    "Wikipedia JA - list of ingredient cuts",
+    "https://ja.wikipedia.org/wiki/%E9%A3%9F%E6%9D%90%E3%81%AE%E5%88%87%E3%82%8A%E6%96%B9%E4%B8%80%E8%A6%A7"
+   ],
+   [
+    "Chef Gohan (Gurunavi) - vegetable cutting",
+    "https://chefgohan.gnavi.co.jp/skill/1/"
+   ],
+   [
+    "Kohno - square-bladed knives",
+    "https://kohno-onlineshop.com/blog/square-knife/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Sengiri (julienne)",
+  "ja": "千切り・せん切り",
+  "prefs": [],
+  "text": "Cutting into long, thin strips, imagined as a thousand threads. The word is also written 繊切り or 線切り. In practice the vegetable is sliced thinly and then cut lengthwise into fine strips; katsuramuki sheets can be cut this way to keep strips uniform.",
+  "flavor": "Heard as the basic cut for garnishes and salads: 'sengiri ni shite'.",
+  "use": "Daikon, carrot, cabbage and similar vegetables.",
+  "craft": "The written form varies (千/繊/線) but the cut is the same.",
+  "src": [
+   [
+    "Kurakon - basics of cutting",
+    "https://www.kurakon.jp/cooking/kihon/cut/"
+   ],
+   [
+    "Wikipedia JA - list of ingredient cuts",
+    "https://ja.wikipedia.org/wiki/%E9%A3%9F%E6%9D%90%E3%81%AE%E5%88%87%E3%82%8A%E6%96%B9%E4%B8%80%E8%A6%A7"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Rangiri (irregular rolling cut)",
+  "ja": "乱切り",
+  "prefs": [],
+  "text": "A cut in which the ingredient is turned between strokes and cut on a diagonal, producing irregular wedges. The larger surface area exposes more flesh, so heat penetrates faster and flavour takes in more readily. Used for gobo, carrot, eggplant and other long vegetables. English culinary sources sometimes call it 'roll cut'.",
+  "flavor": "Heard in simmered-dish (nimono) prep: 'ninjin o rangiri ni'.",
+  "use": "Gobo, carrot and eggplant.",
+  "craft": "Because the faces are irregular, aim for similar piece size so that pieces cook through at the same rate.",
+  "src": [
+   [
+    "Kurakon - basics of cutting",
+    "https://www.kurakon.jp/cooking/kihon/cut/"
+   ],
+   [
+    "Wikipedia JA - list of ingredient cuts",
+    "https://ja.wikipedia.org/wiki/%E9%A3%9F%E6%9D%90%E3%81%AE%E5%88%87%E3%82%8A%E6%96%B9%E4%B8%80%E8%A6%A7"
+   ],
+   [
+    "Royal Queen - cutting list",
+    "https://www.royalqueen.jp/ours/shokuiku/jissen/kirikata_itiran.htm"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Sasagaki (whittled shavings)",
+  "ja": "ささがき・笹掻き",
+  "prefs": [],
+  "text": "Shaving a root vegetable such as burdock (gobo) into thin slivers by rotating it and cutting as if sharpening a pencil. The name comes from the resemblance to bamboo-grass (sasa) leaves.",
+  "flavor": "Heard for gobo in kinpira, kakiage and soup.",
+  "use": "Gobo.",
+  "craft": "Sources differ on prep: some add a lengthwise cut first, some do not.",
+  "src": [
+   [
+    "House Foods - sasagaki",
+    "https://housefoods.jp/recipe/kihon/cut/cut_21.html"
+   ],
+   [
+    "Kurakon - basics of cutting",
+    "https://www.kurakon.jp/cooking/kihon/cut/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Kakushi-bocho (hidden knife cut)",
+  "ja": "隠し包丁",
+  "prefs": [],
+  "text": "Shallow cuts, often a cross, made on a vegetable such as daikon before simmering so that heat and seasoning penetrate and the piece cooks through evenly, without the cuts being visible on the serving face. One source specifies cuts on one face only.",
+  "flavor": "Heard in simmered-dish prep, especially daikon.",
+  "use": "Daikon and similar vegetables for simmering.",
+  "craft": "Sources describe cuts on the cut surface; one specifies one face only. Often discussed alongside men-tori.",
+  "src": [
+   [
+    "Kurakon - basics of cutting",
+    "https://www.kurakon.jp/cooking/kihon/cut/"
+   ],
+   [
+    "Wikipedia JA - list of ingredient cuts",
+    "https://ja.wikipedia.org/wiki/%E9%A3%9F%E6%9D%90%E3%81%AE%E5%88%87%E3%82%8A%E6%96%B9%E4%B8%80%E8%A6%A7"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Men-tori (bevelling cut edges)",
+  "ja": "面取り",
+  "prefs": [],
+  "text": "Shaving off the sharp corners of cut vegetables such as daikon. The point, per sources, is to stop the edges breaking up during simmering.",
+  "flavor": "Heard in nimono prep: 'daikon wa mentori shite'.",
+  "use": "Daikon and other vegetables for simmered dishes.",
+  "craft": "Purpose per sources: prevents the edges breaking up during simmering.",
+  "src": [
+   [
+    "Kurakon - basics of cutting",
+    "https://www.kurakon.jp/cooking/kihon/cut/"
+   ],
+   [
+    "Wikipedia JA - list of ingredient cuts",
+    "https://ja.wikipedia.org/wiki/%E9%A3%9F%E6%9D%90%E3%81%AE%E5%88%87%E3%82%8A%E6%96%B9%E4%B8%80%E8%A6%A7"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Sanmai-oroshi (three-piece filleting)",
+  "ja": "三枚おろし",
+  "prefs": [],
+  "text": "The most basic method of filleting a round fish: it is divided into a left fillet, a right fillet and the central bone. The usual order is a first stage in which one side is separated (two-piece state) and then the other from the tail side along the bone.",
+  "flavor": "Heard as the first technique every apprentice learns.",
+  "use": "Round fish in general.",
+  "craft": "Compare with daimyo-oroshi for small fish, which leaves more meat on the bone.",
+  "src": [
+   [
+    "Wikipedia JA - sanmai-oroshi",
+    "https://ja.wikipedia.org/wiki/%E4%B8%89%E6%9E%9A%E3%81%8A%E3%82%8D%E3%81%97"
+   ],
+   [
+    "Tabechoku - beginner's guide to three-piece filleting",
+    "https://www.tabechoku.com/feature_articles/sakana_sanmai-oroshi"
+   ],
+   [
+    "Temae Itamae - sanmai-oroshi",
+    "https://temaeitamae.jp/top/t5/13/09.html"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Gomai-oroshi (five-piece filleting)",
+  "ja": "五枚おろし",
+  "prefs": [],
+  "text": "A way of filleting flat or large fish into five parts. Sources differ on definition: one says two upper fillets, two lower fillets and a central bone, for flatfish such as hirame and karei; another describes dividing the two fillets again into halves for large fish such as tuna and bonito.",
+  "flavor": "Heard when a flatfish or large fish is on the board.",
+  "use": "Flatfish such as hirame and karei (per one source); tuna and bonito (per another).",
+  "craft": "The sources disagree on the exact definition, so confirm what the kitchen means.",
+  "src": [
+   [
+    "Tabechoku - beginner's guide to filleting",
+    "https://www.tabechoku.com/feature_articles/sakana_sanmai-oroshi"
+   ],
+   [
+    "Suisan Navi - fish filleting for beginners",
+    "https://suisan-navi.jp/fish-knowledge/fish-fillet-beginners/"
+   ],
+   [
+    "Temae Itamae - filleting",
+    "https://temaeitamae.jp/top/t5/13/09.html"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Daimyo-oroshi (nobleman's cut)",
+  "ja": "大名おろし",
+  "prefs": [],
+  "text": "A filleting shortcut for small or soft fish: no incisions are made on the belly and back, and the flesh is separated from the central bone directly. It suits small fish such as kisu, sanma and small aji. More flesh stays on the bone (nakaochi) than in sanmai-oroshi, so yield is lower.",
+  "flavor": "Heard for small fish and fishing-blog recipes.",
+  "use": "Kisu, sanma, small aji.",
+  "craft": "The trade-off is yield: more meat (nakaochi) stays on the bone than with sanmai-oroshi.",
+  "src": [
+   [
+    "Temae Itamae - daimyo-oroshi and matsuba-oroshi",
+    "https://note.com/temaeitamae/n/n29367f133387"
+   ],
+   [
+    "Genten - daimyo-oroshi in four steps",
+    "https://genten-net.jp/blogs/fishing/394"
+   ],
+   [
+    "Suisan Navi - fish filleting for beginners",
+    "https://suisan-navi.jp/fish-knowledge/fish-fillet-beginners/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Shinkeijime (nerve spiking, the step after ikejime)",
+  "ja": "神経締め",
+  "prefs": [],
+  "text": "Passing a dedicated wire through the spinal canal to destroy the spinal nerve, which delays rigor mortis. Sources say it is done after the brain is spiked (nojime) and the fish is bled, and that the bleeding is done directly after the brain spike, by cutting the gill.",
+  "flavor": "Heard in fish-market talk.",
+  "use": "Larger fish.",
+  "craft": "Order matters: brain spike, bleed, then nerve. The definition of ikejime proper was not covered in the sources consulted.",
+  "src": [
+   [
+    "Tabechoku - fish killing methods from ikejime to shinkeijime",
+    "https://www.tabechoku.com/feature_articles/sakana_shime"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Shime (vinegar cure), as in shime-saba",
+  "ja": "〆・しめ鯖",
+  "prefs": [],
+  "text": "Curing fish with salt and then vinegar, most familiarly mackerel. Sources give widely differing times: a common benchmark is salt 2-3 hours and vinegar 1 hour, while others use 1 hour of salt, 6 hours in the fridge, or only 15 minutes in vinegar. A raw-style cure is 20-30 minutes in vinegar; a firm cure about half a day.",
+  "flavor": "Heard at sushi counters and izakaya: 'shime-saba'.",
+  "use": "Shime-saba, aburi shime-saba.",
+  "craft": "Times vary with fish and school. Sources warn about anisakis: freshness and refrigeration matter, and fridge storage is advised in summer. Kohada-specific times were not in the sources consulted.",
+  "src": [
+   [
+    "Hirono Town (Iwate) - the complete guide to shime-saba",
+    "https://portal.town.hirono.iwate.jp/feature/feature-60882/"
+   ],
+   [
+    "Sirogohan - shime-saba recipe",
+    "https://www.sirogohan.com/recipe/simesaba/"
+   ],
+   [
+    "Dancyu - shime-saba",
+    "https://dancyu.jp/recipe/2025_00009967.html"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Arai (cold-water washed sashimi)",
+  "ja": "洗い",
+  "prefs": [],
+  "text": "Thin slices of fish washed in cold water or ice water so that the flesh tightens and becomes elastic and chilled; it is a summer sashimi style. White fish such as carp, sea bass (suzuki) and sea bream are typical. A common method is first rinsing in running water to remove fat and smell, then ice water.",
+  "flavor": "Heard in summer menus: 'koi no arai', 'suzuki no arai'.",
+  "use": "Carp arai with vinegared miso; sea bass or sea bream arai.",
+  "craft": "One source says arai should be made only with fish that was killed by ikejime. For carp, one method is a hot-water wash at about 65-70 C followed by ice water, with slices about 2 mm thick, served with vinegared miso.",
+  "src": [
+   [
+    "WA-TO-BI - what is arai",
+    "https://watobi.jp/iroha/4357.html"
+   ],
+   [
+    "Temae Itamae - arai for suzuki and tai",
+    "https://temaeitamae.jp/top/t5/bb/sashimi.1001.html"
+   ],
+   [
+    "Jizakanavi Fukuoka - carp arai",
+    "https://jizakanavi-fukuoka.jp/recipe/carp/c7871240cea1ffa37e2eeeffbda4675977bb8e82.html"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Tataki (seared or chopped fish)",
+  "ja": "たたき",
+  "prefs": [],
+  "text": "Two senses are given: (1) small blue fish such as aji or iwashi chopped with condiments or miso; (2) bonito tataki, where the skin-on fillet is skewered, the surface seared over strong heat, quickly dipped in ice water and then sliced.",
+  "flavor": "Heard as 'katsuo no tataki' and as 'aji no tataki'.",
+  "use": "Katsuo no tataki; aji tataki.",
+  "craft": "State which meaning is intended: a chopped dish is a different product from a seared block. For bonito, the fillet is dipped quickly in ice water after searing.",
+  "src": [
+   [
+    "Chigai Allguide - sashimi, otsukuri, arai and tataki",
+    "https://chigai-allguide.com/%E5%88%BA%E8%BA%AB%E3%81%A8%E3%81%8A%E9%80%A0%E3%82%8A%E3%81%A8%E3%81%82%E3%82%89%E3%81%84%E3%81%A8%E3%81%9F%E3%81%9F%E3%81%8D"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Kobujime (kombu-cured)",
+  "ja": "昆布締め",
+  "prefs": [],
+  "text": "Sandwiching fish between kombu sheets under weight in the refrigerator. White fish such as tai and hirame are typical. The kombu draws out moisture and its umami is said to combine with that of the fish. One source says 2-3 days in the fridge is the target for eating.",
+  "flavor": "Heard at sushi counters and in Kyoto cooking.",
+  "use": "Tai or hirame kobujime.",
+  "craft": "Tsuji's sea bream version: skin off, thin slices salted lightly and left about 15 minutes. A Kyoto shop sells ma-kombu sheets specifically for kobujime.",
+  "src": [
+   [
+    "Tsuji Culinary Institute - tai kobujime recipe",
+    "https://www.tsuji.ac.jp/hp/jpn/kyoto/recipe/tai2/tai2.htm"
+   ],
+   [
+    "Kyo Konbu-ho Tanaka - kobujime kombu",
+    "https://kyokonbu.jp/plan/%E3%80%90%E6%98%86%E5%B8%83%E7%B7%A0%E3%82%81%E7%94%A8%E3%80%91%E3%81%86%E3%81%BE%E3%81%BF%E3%82%92%E5%BC%95%E3%81%8D%E5%87%BA%E3%81%99%E3%80%81%E6%98%86%E5%B8%83%E7%B7%A0%E3%82%81%E3%81%8A%E3%81%93/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Yubiki (hot-water blanching of fish)",
+  "ja": "湯引き",
+  "prefs": [],
+  "text": "Pouring boiling water over, or dipping briefly, so that only the surface turns white. Used on hamo and on skin-on fish for sashimi, and as a prep for simmered fish. Some sources use yubiki and shimofuri for the same thing; others separate them by purpose.",
+  "flavor": "Heard as 'hamo no yubiki' and in simmered-fish prep.",
+  "use": "Hamo; skin-on fish; fish before simmering.",
+  "craft": "Sources disagree on the difference: one says yubiki is the method and shimofuri the state; another says shimofuri is for removing smell and slime, yubiki for skin texture and appearance.",
+  "src": [
+   [
+    "Delish Kitchen - yubiki for hamo",
+    "https://delishkitchen.tv/articles/914"
+   ],
+   [
+    "Tsuttarou - difference between shimofuri and yubiki",
+    "https://tsuttarou.net/archives/291125"
+   ],
+   [
+    "Olive - yubiki for simmered fish",
+    "https://www.olive-hitomawashi.com/column/2018/09/post-3049.html"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Shimofuri (frost-like blanching)",
+  "ja": "霜降り",
+  "prefs": [],
+  "text": "Dipping in hot water or pouring boiling water over an ingredient so that only the surface turns white. Sources describe it as removing smell and slime from fish before cooking. Often equated with yubiki.",
+  "flavor": "Heard in fish prep before simmering.",
+  "use": "Fish before simmering; shimofuri-zukuri sashimi.",
+  "craft": "The sources disagree whether shimofuri and yubiki are the same thing or differ in purpose.",
+  "src": [
+   [
+    "Betterhome - shimofuri",
+    "https://www.betterhome.jp/jiten/shimofuri/shimofuri.php"
+   ],
+   [
+    "Haseko - how to shimofuri fish",
+    "https://www.haseko.co.jp/branchera/magazine/article/recipe-technic102.php"
+   ],
+   [
+    "Wikipedia JA - shimofuri-zukuri",
+    "https://ja.wikipedia.org/wiki/%E9%9C%9C%E9%99%8D%E3%82%8A%E9%80%A0%E3%82%8A"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Kawashimo-zukuri (skin-scalded sashimi)",
+  "ja": "皮霜作り",
+  "prefs": [],
+  "text": "A way of preparing sashimi for fish such as tai whose skin has good flavour but is tough raw: the fillet is laid skin-side up, covered with a cloth, and boiling water is poured over the skin.",
+  "flavor": "Heard in sashimi prep for sea bream.",
+  "use": "Sea bream sashimi with the skin on.",
+  "craft": "The cloth is placed over the skin before the boiling water is poured. Details on cooling were not in the sources consulted.",
+  "src": [
+   [
+    "Wikipedia JA - shimofuri-zukuri",
+    "https://ja.wikipedia.org/wiki/%E9%9C%9C%E9%99%8D%E3%82%8A%E9%80%A0%E3%82%8A"
+   ],
+   [
+    "Kondate - yubiki and names of sashimi cuts",
+    "https://kondate.oisiiryouri.com/sashimi-yubiki/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Oroshigane (grater)",
+  "ja": "おろし金",
+  "prefs": [],
+  "text": "A grater whose teeth cut across the fibres of the ingredient, used mainly for daikon, and for wasabi to a fine, smooth texture. Shapes differ by region: Kanto commonly a paddle (hagoita) form, Kansai a square form. Copper is traditional; stainless is increasingly common; aluminium and plastic are not recommended by one source.",
+  "flavor": "Heard at the table and sashimi station.",
+  "use": "Daikon-oroshi, wasabi, ginger.",
+  "craft": "Stainless teeth are sharp and fast, per one source; cleaning method depends on the material.",
+  "src": [
+   [
+    "Nippon.com - the grater",
+    "https://www.nippon.com/ja/japan-topics/b12002/"
+   ],
+   [
+    "Higuchi Naoya - oroshigane and daikon oroshi",
+    "https://note.com/travelingfoodlab/n/n7aa81d11e81a"
+   ],
+   [
+    "Tokyo Gas - cleaning graters",
+    "https://uchi.tokyo-gas.co.jp/topics/3673"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Suribachi (grooved mortar)",
+  "ja": "すり鉢",
+  "prefs": [],
+  "text": "A ceramic mortar with a grooved interior, used with a pestle to grind ginger, garlic, sesame and herbs; sources say it gives a rounder aroma than a grater. Food is trapped in the grooves, so washing takes more work; a bamboo scraper is sold for this purpose.",
+  "flavor": "Heard for aemono and grated-aromatics prep.",
+  "use": "Grinding ginger, garlic and herbs.",
+  "craft": "Bamboo scrapers remove sesame or herbs lodged in the grooves.",
+  "src": [
+   [
+    "Arenokawari - grater substitutes and suribachi",
+    "https://areno-kawari.com/grater/"
+   ],
+   [
+    "Matsunoya - grater scraper",
+    "https://waza2.com/products/129739713"
+   ],
+   [
+    "Pro Kitchen - suribachi and graters",
+    "https://www.prokitchen.co.jp/products/list?category_id=529"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Robatayaki (hearth grilling)",
+  "ja": "炉端焼き",
+  "prefs": [
+   4,
+   1
+  ],
+  "text": "Grilling over a charcoal hearth, with food cooked slowly at differing distances from the fire. Origin is disputed: Wikipedia JA gives a 1950 Sendai shop 'Robata' (opened 2 July 1950 by Amae Tomiya) as the origin, where vegetables were grilled; Kushiro is credited with the seafood style, a shop opening around 1953 that took its cue from the Sendai one.",
+  "flavor": "Heard in Hokkaido and Tohoku tourism.",
+  "use": "Fish, shellfish and vegetables grilled over a hearth.",
+  "craft": "Heat management is by distance: strong fire and cooking from a distance. Sources differ on the claim of origin between Sendai and Kushiro.",
+  "src": [
+   [
+    "Wikipedia JA - robatayaki",
+    "https://ja.wikipedia.org/wiki/%E7%82%89%E7%AB%AF%E7%84%BC%E3%81%8D"
+   ],
+   [
+    "Hokkaido Fan - was robatayaki born in Kushiro",
+    "https://hokkaidofan.com/robatayaki/"
+   ],
+   [
+    "Visit Hokkaido - robatayaki",
+    "https://www.visit-hokkaido.jp/spot/detail_12816.html"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Sumibi (charcoal fire) and binchotan",
+  "ja": "炭火・備長炭",
+  "prefs": [],
+  "text": "Cooking over charcoal. Binchotan is a hard white charcoal (shirozumi); it looks whitish outside but is black inside, burns for a long time with little flame or smoke, and takes a long time to light. It is used for yakitori and eel.",
+  "flavor": "Heard in yakitori and unagi shops.",
+  "use": "Yakitori and unagi.",
+  "craft": "Slow lighting means planning the fire ahead. Claims about far-infrared radiation were not supported by the sources consulted.",
+  "src": [
+   [
+    "Sumitakayama - what is binchotan",
+    "https://www.sumitakayama-sumi.com/2026/09/23/%e5%82%99%e9%95%b7%e7%82%ad%e3%81%a8%e3%81%af%ef%bc%9f%e6%9c%a8%e7%82%ad%e3%81%a8%e3%81%ae%e9%81%95%e3%81%84%e3%81%a85%e3%81%a4%e3%81%ae%e7%89%b9%e5%be%b4%e3%82%92%e5%be%b9%e5%ba%95%e8%a7%a3%e8%aa%ac/"
+   ],
+   [
+    "Wikipedia JA - kabayaki",
+    "https://ja.wikipedia.org/wiki/%E8%92%B2%E7%84%BC"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Kabayaki (tare-grilled split eel)",
+  "ja": "蒲焼き",
+  "prefs": [],
+  "text": "Splitting a fish, skewering, dipping repeatedly in tare and grilling over charcoal. Two regional methods: Kanto splits the eel from the back, grills plain (shirayaki), steams, then grills with tare; Kansai splits from the belly and grills directly with tare. Used for eel, hamo, anago and loach. The name is explained by skewered pieces resembling the spike of the gama reed.",
+  "flavor": "Heard as 'unagi no kabayaki'.",
+  "use": "Eel, hamo, anago.",
+  "craft": "Dipping repeatedly in tare so fat and sauce combine is the distinguishing handling; sources say the tare is nearly the same as for teriyaki.",
+  "src": [
+   [
+    "Wikipedia JA - kabayaki",
+    "https://ja.wikipedia.org/wiki/%E8%92%B2%E7%84%BC"
+   ],
+   [
+    "Meaning-Difference - kabayaki and teriyaki",
+    "https://meaning-difference.com/?p=51801"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Teriyaki (glaze-grilled)",
+  "ja": "照り焼き",
+  "prefs": [],
+  "text": "Grilling while brushing with a sweetened soy-based tare so that the surface gains a shine (teri). Used on fish, shellfish and chicken. Sources say the tare is largely the same as for kabayaki; the difference lies in the material and in brushing instead of dipping.",
+  "flavor": "Heard as 'buri no teriyaki', 'teriyaki chicken'.",
+  "use": "Fish, shellfish, chicken.",
+  "craft": "Sources say the difference from kabayaki is mainly brushing on tare versus dipping.",
+  "src": [
+   [
+    "Ashiaki - teriyaki vs kabayaki",
+    "https://ashiaki-nikki.hatenablog.com/entry/teriyaki_kabayaki"
+   ],
+   [
+    "Meaning-Difference - kabayaki and teriyaki",
+    "https://meaning-difference.com/?p=51801"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Ichiban-dashi (first dashi)",
+  "ja": "一番だし",
+  "prefs": [],
+  "text": "The first extraction from kombu and katsuobushi. A commonly cited basic ratio is 1 L water, 10 g kombu and 20 g hanakatsuo. Katsuobushi goes in just before the boil and the heat is turned off; do not boil hard. Sources disagree on kombu temperature: one gives about 60 C, another removes kombu around 85 C when bubbles form.",
+  "flavor": "Heard in dashi-making instruction.",
+  "use": "Clear soup and simmering base.",
+  "craft": "Do not squeeze the katsuobushi hard, which makes the dashi cloudy and worse. One shop says inosinic acid extracts best at 85 C and aroma best at about 70 C.",
+  "src": [
+   [
+    "Odashi - how to make ichiban dashi",
+    "https://odashi.co.jp/ichiban-dashi-howto/"
+   ],
+   [
+    "Amano Katsuobushi - ichiban dashi temperature",
+    "https://www.odashiya.jp/blog/2026/07/27/ichiban-dashi-torikata-ondo/"
+   ],
+   [
+    "Japanese chef - kombu at 60 C",
+    "https://japanasechef.hatenablog.com/entry/2018/05/30/152148"
+   ]
+  ]
+ }
+]

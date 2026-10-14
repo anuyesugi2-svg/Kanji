@@ -1,0 +1,973 @@
+[
+ {
+  "cat": "glossary",
+  "name": "Shari (sushi rice)",
+  "ja": "シャリ",
+  "prefs": [],
+  "text": "Trade word for vinegared sushi rice (su-meshi). The usual explanation is that it comes from the Buddhist term sharira (舎利, relics of the Buddha), because cremated bone fragments resemble white rice grains. Sources stress that the etymology is a theory, not a documented fact. Like much sushi jargon it is thought to descend from Edo-period stall slang.",
+  "flavor": "Heard at the counter whenever rice is discussed.",
+  "use": "'Shari wa mou sukoshi koburi ni' (a little smaller rice), or a chef saying the shari is the foundation of the piece.",
+  "craft": "Itamae use shari for the seasoned rice only; plain cooked rice is gohan. Treat the Buddhist origin as a folk etymology when explaining it to guests, since sources call it a theory.",
+  "src": [
+   [
+    "osushi.studio: sushi terms",
+    "https://osushi.studio/media/sushi-yougo/"
+   ],
+   [
+    "Delish Kitchen: sushi jargon",
+    "https://delishkitchen.tv/articles/2407"
+   ],
+   [
+    "JpnCulture: sushi history and terms",
+    "https://jpnculture.net/sushi/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Neta (topping)",
+  "ja": "ネタ",
+  "prefs": [],
+  "text": "The ingredient laid on or wrapped around the shari: fish, shellfish, egg and so on. The commonly given origin is that it is the syllable-reversed form of tane (種), as in sushi-dane (sushi topping). This kind of reversal is typical of the Edo-period trade slang (fucho) from which much sushi vocabulary derives.",
+  "flavor": "Heard constantly: 'Kyo no neta wa?' (what is good today?).",
+  "use": "'Neta-keesu' is the glass display case; 'neta ga ii' means the toppings are of good quality.",
+  "craft": "Neta strictly means the topping as prepared (cut, cured, marinated or cooked), not just raw fish. Distinguish it from tane in a menu or kitchen context, where tane is the more neutral and formal word for a filling or component.",
+  "src": [
+   [
+    "Delish Kitchen: sushi jargon",
+    "https://delishkitchen.tv/articles/2407"
+   ],
+   [
+    "osushi.studio: sushi terms",
+    "https://osushi.studio/media/sushi-yougo/"
+   ],
+   [
+    "Chefkuru: sushi terminology",
+    "https://chefkuru.jp/media/useful/learn-food/1124/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Gari (pickled ginger)",
+  "ja": "ガリ",
+  "prefs": [],
+  "text": "Ginger pickled in sweet vinegar and served with sushi to be eaten between pieces. The name is often explained as imitating the crunching sound when it is eaten, but sources state there is no clear historical document and that origins are disputed.",
+  "flavor": "Counter slang; polite menus say 'shoga' or 'sushi-shoga'.",
+  "use": "'Gari o onegai shimasu' to ask for more.",
+  "craft": "Gari is a palate reset between pieces, not a topping to be laid on the nigiri. Do not credit a single origin story when explaining the word; present the onomatopoeia theory as only a theory.",
+  "src": [
+   [
+    "osushi.studio: sushi terms",
+    "https://osushi.studio/media/sushi-yougo/"
+   ],
+   [
+    "Yasatabi: sushi shop vocabulary",
+    "https://yasatabi.jp/travel-culture/sushi-terms/"
+   ],
+   [
+    "Delish Kitchen: sushi jargon",
+    "https://delishkitchen.tv/articles/2407"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Murasaki (soy sauce, sushi-shop word)",
+  "ja": "むらさき",
+  "prefs": [],
+  "text": "Sushi-shop word for soy sauce. The explanation commonly given is that soy sauce, once a precious seasoning, was seen as the noble colour purple (murasaki). As with other sushi words, the origin is traditionally stated rather than documented.",
+  "flavor": "Used by the customer or counter as a polite trade word; menus say shoyu.",
+  "use": "'Murasaki o kudasai' to ask for soy sauce.",
+  "craft": "A guest's word at the counter. Treat the 'noble purple' origin as the traditional explanation only; sources do not document it.",
+  "src": [
+   [
+    "osushi.studio: sushi terms",
+    "https://osushi.studio/media/osushi-yougo/"
+   ],
+   [
+    "Japanpedia: sushi roots and terms",
+    "https://japanpedia.net/41.html"
+   ],
+   [
+    "Delish Kitchen: sushi jargon",
+    "https://delishkitchen.tv/articles/2407"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Fucho (trade code words)",
+  "ja": "符丁",
+  "prefs": [],
+  "text": "Industry code words (fucho) used among tradespeople. Several sources say that most sushi vocabulary (shari, neta, gari, murasaki and so on) is rooted in the fucho of the Edo-period sushi stalls, though the origin of individual words is usually uncertain and varies from source to source.",
+  "flavor": "Explains why customers and chefs share a private-sounding vocabulary.",
+  "use": "'Sushi-ya no fucho' as a heading in terminology lists.",
+  "craft": "Treat each word's etymology as a story, not a fact: sources frequently say 'there are several theories'. Fucho differ between shops and regions, so do not assume a counter will use the same word for the same thing.",
+  "src": [
+   [
+    "osushi.studio: 50 sushi terms",
+    "https://osushi.studio/media/sushi-yougo/"
+   ],
+   [
+    "Yasatabi: sushi shop vocabulary",
+    "https://yasatabi.jp/travel-culture/sushi-terms/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Nigiri-zushi (hand-pressed sushi)",
+  "ja": "握り寿司",
+  "prefs": [
+   13
+  ],
+  "text": "Sushi in which a topping is pressed by hand onto shari. It is traditionally attributed to Hanaya Yohei of Edo in the Bunsei era (1820s), when pieces were reportedly two to three times today's size and eaten at stalls. Another source gives only 'early 19th century'. Edo nigiri is said to have used no sugar in the shari, with toppings often vinegar-cured or marinated in soy (zuke).",
+  "flavor": "The default meaning of 'sushi' today.",
+  "use": "'Nigiri o juukan' (ten pieces); 'Edomae nigiri'.",
+  "craft": "Sources disagree on the date, and the Hanaya Yohei attribution is a tradition rather than a settled fact. The Edo style of preparing toppings (curing, zuke) is the point: the topping is often pre-worked, not just sliced raw.",
+  "src": [
+   [
+    "Pixiv Encyclopedia: nigiri-zushi",
+    "https://dic.pixiv.net/a/%E6%8F%A1%E3%82%8A%E5%AF%BF%E5%8F%B8"
+   ],
+   [
+    "Wikipedia JP: sushi",
+    "https://ja.wikipedia.org/wiki/%E5%AF%BF%E5%8F%B8"
+   ],
+   [
+    "Sushi Kaneki: origins of sushi",
+    "https://sushi-kaneki.co.jp/archives/4034"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Gunkan-maki (battleship roll)",
+  "ja": "軍艦巻き",
+  "prefs": [],
+  "text": "A piece of shari wrapped around its side with a band of nori, leaving the top open to hold loose toppings such as ikura or uni. Named for its resemblance to a warship; sources say it was devised in Japan in the first half of the 20th century.",
+  "flavor": "Heard when ordering roe, uni, minced items.",
+  "use": "'Ikura gunkan', 'uni gunkan'.",
+  "craft": "The nori band exists to hold toppings that would otherwise slide off a nigiri. Sources give only a general period (first half of the 20th century), so do not quote a year.",
+  "src": [
+   [
+    "Fukuju Hatsuzushi: gunkan-maki",
+    "https://fukuju-hatsuzushi.net/instagram/20260206/"
+   ],
+   [
+    "osushi.studio: sushi terms",
+    "https://osushi.studio/media/sushi-yougo/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Chirashi-zushi (scattered sushi)",
+  "ja": "ちらし寿司",
+  "prefs": [],
+  "text": "Vinegared rice topped with a variety of ingredients, explained as 'scattered' (chirasu) over the rice; typically eaten at celebrations. In Edo-mae style, toppings prepared as for nigiri are laid out on the rice, which one source calls Edomae chirashi. Regional types (e.g. mixed-in barazushi) exist.",
+  "flavor": "Festive, home or lunch-menu word.",
+  "use": "'Kaisen chirashi', 'Edomae chirashi', 'bara-zushi'.",
+  "craft": "Check whether the rice is plain shari with toppings placed on it (Edomae chirashi) or has cooked ingredients mixed in. Menu usage varies; confirm what is meant.",
+  "src": [
+   [
+    "Wikipedia JP: sushi",
+    "https://ja.wikipedia.org/wiki/%E5%AF%BF%E5%8F%B8"
+   ],
+   [
+    "osushi.studio: types of sushi",
+    "https://osushi.studio/media/osushi-shurui/"
+   ],
+   [
+    "Chisou: types of sushi",
+    "https://chisou-media.jp/posts/1526"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Oshi-zushi (pressed sushi)",
+  "ja": "押し寿司",
+  "prefs": [
+   27,
+   16
+  ],
+  "text": "Sushi in which vinegared rice and ingredients are packed into a wooden mould and pressed. Sources say it developed mainly in the Kansai region; examples named are battera with mackerel from Osaka and masu-zushi with trout from Toyama.",
+  "flavor": "Kansai and regional sushi.",
+  "use": "'Battera', 'hako-zushi' (box sushi).",
+  "craft": "Often grouped with hako-zushi (box sushi). Pressing depends on a mould; the lid pressure and the cure of the fish are what a maker checks. The sources name regional examples but do not give process figures, so do not assume ratios.",
+  "src": [
+   [
+    "osushi.studio: types of sushi",
+    "https://osushi.studio/media/osushi-shurui/"
+   ],
+   [
+    "Chisou: types of sushi",
+    "https://chisou-media.jp/posts/1526"
+   ],
+   [
+    "Wikipedia JP: sushi",
+    "https://ja.wikipedia.org/wiki/%E5%AF%BF%E5%8F%B8"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Kappa-maki (cucumber roll) and hosomaki",
+  "ja": "かっぱ巻き",
+  "prefs": [],
+  "text": "A thin roll (hosomaki) with cucumber as the filling. The name comes from the kappa (water sprite) said to love cucumber; one source says it was originally called kyuri-maki. Other thin rolls cited are kanpyo-maki, tekka-maki and natto-maki. Makizushi in general means vinegared rice and fillings rolled in nori or similar.",
+  "flavor": "A cheap palate cleanser at the end or start of a meal.",
+  "use": "'Kappa-maki o hitotsu'.",
+  "craft": "A hosomaki carries a single filling, with kanpyo, tekka and natto rolls as other examples in the sources. The kappa story is the conventional explanation for the name, with kyuri-maki as the earlier name.",
+  "src": [
+   [
+    "Wikipedia JP: makizushi",
+    "https://ja.wikipedia.org/wiki/%E5%B7%BB%E3%81%8D%E5%AF%BF%E5%8F%B8"
+   ],
+   [
+    "osushi.studio: types of sushi",
+    "https://osushi.studio/media/osushi-shurui/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Tsuma (garnish for sashimi)",
+  "ja": "つま",
+  "prefs": [],
+  "text": "General term for the accompaniments laid beside sashimi. Beyond shredded daikon, these include aojiso, hojiso, beni-tade, wakame and chrysanthemum. Daikon shreds laid under the fish are called shiki-zuma (bedding garnish). Daikon gives height to the plate and its shreds draw off moisture so the fish does not sit wet; sources also cite palate-cleansing use.",
+  "flavor": "Heard for the white shredded daikon, though strictly broader.",
+  "use": "'Tsuma o oku' (to place the garnish); 'ken-tsuma'.",
+  "craft": "Sources differ on terminology: some call shredded daikon 'ken', others 'tsuma', and say the usage is blurred today. Claims that shiso or wasabi are antibacterial are stated in the sources without scientific backing; present them as folk function, not proven.",
+  "src": [
+   [
+    "Delish Kitchen: sashimi tsuma",
+    "https://delishkitchen.tv/articles/995"
+   ],
+   [
+    "Kurashiru: role of tsuma",
+    "https://www.kurashiru.com/articles/9f6088d7-e9cc-440d-8beb-b95baa3a0d8c"
+   ],
+   [
+    "Maruichi Sansho: tsuma and yakumi",
+    "https://www.maruichi.com/delicious/file/post-9.php"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Ken (upright garnish)",
+  "ja": "けん",
+  "prefs": [],
+  "text": "Garnish placed standing up beside sashimi; the name is explained as coming from the character for sword (剣). Daikon, myoga and carrot are typical. Some sources use ken for shredded daikon, others call the same thing tsuma, so the boundary is described as vague.",
+  "flavor": "Kitchen and plating word; 'ken' is the professional term for the upright shredded daikon.",
+  "use": "'Daikon no ken', 'ken o mori-tsukeru'.",
+  "craft": "Distinction in the sources is by cut and placement: ken stands, tsuma lies or supports. Because modern usage is loose, agree terms within the brigade before writing prep lists.",
+  "src": [
+   [
+    "Delish Kitchen: sashimi tsuma",
+    "https://delishkitchen.tv/articles/995"
+   ],
+   [
+    "Maruichi Sansho: tsuma and yakumi",
+    "https://www.maruichi.com/delicious/file/post-9.php"
+   ],
+   [
+    "Kurashiru: role of tsuma",
+    "https://www.kurashiru.com/articles/9f6088d7-e9cc-440d-8beb-b95baa3a0d8c"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Karami (pungent condiment)",
+  "ja": "辛み",
+  "prefs": [],
+  "text": "The sharp condiment served with sashimi, notably wasabi, in the group of yakumi. Sources credit it with masking fishy odour and with antibacterial action, though one summary notes that the evidence behind some such claims is not firm.",
+  "flavor": "Menu and kitchen word; guests say 'wasabi'.",
+  "use": "'Karami wa wasabi to oroshi shoga'.",
+  "craft": "The karami is chosen to suit the fish, and placement on the plate is part of presentation. Treat antibacterial claims cautiously: sources assert them without detail.",
+  "src": [
+   [
+    "Maruichi Sansho: tsuma and yakumi",
+    "https://www.maruichi.com/delicious/file/post-9.php"
+   ],
+   [
+    "Delish Kitchen: sashimi tsuma",
+    "https://delishkitchen.tv/articles/995"
+   ],
+   [
+    "Kurashiru: role of tsuma",
+    "https://www.kurashiru.com/articles/9f6088d7-e9cc-440d-8beb-b95baa3a0d8c"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Ashirai (garnish, umbrella term)",
+  "ja": "あしらい",
+  "prefs": [],
+  "text": "Umbrella word for what is served with a main preparation: tsuma, ken and karami together. Sources say the distinction among them rests on how the item is cut and where it is placed on the plate.",
+  "flavor": "Cook and plating word.",
+  "use": "'Ashirai o soeru'.",
+  "craft": "Use ashirai when speaking about the whole set of garnishes. Because tsuma and ken are used loosely, ashirai is the safe collective word.",
+  "src": [
+   [
+    "Maruichi Sansho: tsuma and yakumi",
+    "https://www.maruichi.com/delicious/file/post-9.php"
+   ],
+   [
+    "Delish Kitchen: sashimi tsuma",
+    "https://delishkitchen.tv/articles/995"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Kaiseki (tea-ceremony meal) versus kaiseki (banquet meal)",
+  "ja": "懐石と会席",
+  "prefs": [],
+  "text": "Two homophones. Chakaiseki (懐石) is the meal served before koicha at a tea gathering; kaiseki (会席) is a banquet meal served with sake in a restaurant. Sources describe the chakaiseki meal as served so guests do not drink strong tea on an empty stomach. Restaurant kaiseki has no strict rules, and courses and order vary by shop.",
+  "flavor": "Heard whenever menus or banquet courses are discussed.",
+  "use": "'Kaiseki ryori' (restaurant), 'chakaiseki' (tea gathering).",
+  "craft": "The common confusion: restaurants often write the tea-style kanji for banquet meals. The sources note that the number of dishes and order varies, so do not assume a fixed sequence.",
+  "src": [
+   [
+    "Kurashiru: kaiseki vs kaiseki",
+    "https://www.kurashiru.com/articles/8bfe7fd7-cd3c-4abe-af22-841e0533652b"
+   ],
+   [
+    "Japan Culinary Institute: two KAISEKI",
+    "https://www.japanculinaryinstitute.com/post/kaiseki_japanese?lang=ja"
+   ],
+   [
+    "Agata Japan: kaiseki ryori",
+    "https://agatajapan.com/tokyo/dictionary/kaisekiryouri01/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Sakizuke (opening dish)",
+  "ja": "先付",
+  "prefs": [],
+  "text": "A small dish that opens a meal and accompanies the first sake. In banquet kaiseki it corresponds to otoshi or zensai (appetizer).",
+  "flavor": "Opening-course word on kaiseki menus.",
+  "use": "'Sakizuke: ...' as a line on a kaiseki menu.",
+  "craft": "In some sources sakizuke is treated as equivalent to otoshi, while others separate them: kappo-style explanations treat otoshi, tsukidashi and sakizuke as three terms with different shades. Decide by shop style.",
+  "src": [
+   [
+    "Educe Shokuiku: kondate names",
+    "https://www.educe-shokuiku.jp/news/shokuiku/nihonryouri/"
+   ],
+   [
+    "Kappo Aun: otoshi, tsukidashi, sakizuke",
+    "https://kappo-aun.jp/2020/05/23/otooshi/"
+   ],
+   [
+    "Gurunavi: kaiseki primer",
+    "https://r.gnavi.co.jp/g-interview/entry/1219"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Hassun (sea-and-mountain tray)",
+  "ja": "八寸",
+  "prefs": [],
+  "text": "A course of small seasonal items from sea and mountain, set on a square cedar tray (hassun); the tray and the dish share the name. In tea kaiseki it is the point at which host and guest exchange cups of sake. Older practice was one item from the sea and one from the mountain.",
+  "flavor": "Sake-accompanying course.",
+  "use": "'Hassun' on a menu; the guests drink with it.",
+  "craft": "The cedar tray is part of the definition. Because the sake exchange happens at this course in the tea setting, the food acts as sake accompaniment. Modern shops often put more than two items on it.",
+  "src": [
+   [
+    "Educe Shokuiku: kondate names",
+    "https://www.educe-shokuiku.jp/news/shokuiku/nihonryouri/"
+   ],
+   [
+    "Temae Itamae: kaiseki manners",
+    "https://temaeitamae.jp/top/t8/manners.Japanesefood/04.html"
+   ],
+   [
+    "Kondate: chakaiseki order",
+    "https://kondate.oisiiryouri.com/tyakaiseki-no-imi-yurai/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Mukozuke (the 'far side' dish)",
+  "ja": "向付",
+  "prefs": [],
+  "text": "Dish placed on the far side of the tray (oshiki), from the mukou-ni-tsukeru ('set beyond'). Typically sashimi or vinegared namasu.",
+  "flavor": "The sashimi course of kaiseki.",
+  "use": "'Mukozuke: tai no kobujime'.",
+  "craft": "The name refers to placement, not content, so a vessel can hold fish, namasu or something else seasonal; do not assume 'mukozuke means raw fish' in every shop.",
+  "src": [
+   [
+    "Educe Shokuiku: kondate names",
+    "https://www.educe-shokuiku.jp/news/shokuiku/nihonryouri/"
+   ],
+   [
+    "Temae Itamae: kaiseki manners",
+    "https://temaeitamae.jp/top/t8/manners.Japanesefood/04.html"
+   ],
+   [
+    "Kurahiro TEPCO: kaiseki order",
+    "https://kurahiro.tepco.co.jp/media/food/15802/index.html"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Wanmono (soup course; also wanmori)",
+  "ja": "椀物",
+  "prefs": [],
+  "text": "The bowl course, a clear-soup preparation, which in the sources is said to refresh the mouth before the next dish. In tea kaiseki it is the simmered-bowl course (nimono-wan, also wanmori).",
+  "flavor": "Considered the centre of a Japanese meal's seasoning.",
+  "use": "'Wanmono: hamo no suimono'.",
+  "craft": "Two senses: a clear soup in banquet kaiseki, a simmered bowl in tea kaiseki. Check which is meant before using the word.",
+  "src": [
+   [
+    "Educe Shokuiku: kondate names",
+    "https://www.educe-shokuiku.jp/news/shokuiku/nihonryouri/"
+   ],
+   [
+    "Kurahiro TEPCO: kaiseki order",
+    "https://kurahiro.tepco.co.jp/media/food/15802/index.html"
+   ],
+   [
+    "Omotesenke: tea cuisine",
+    "https://www.omotesenke.jp/list5/list5-3/list5-3-6/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Yakimono (grilled course; hachizakana)",
+  "ja": "焼物",
+  "prefs": [],
+  "text": "The grilled course, usually seasonal fish. In kaiseki it is also called hachizakana (鉢肴). In tea kaiseki the ichiju-sansai consists of soup plus mukozuke, nimono and yakimono.",
+  "flavor": "Third main course.",
+  "use": "'Yakimono: sawara no yuan-yaki'.",
+  "craft": "Sources describe it as the course of a grilled seasonal fish. Its position and the choice of serving vessel (platter versus individual) vary with the shop.",
+  "src": [
+   [
+    "Educe Shokuiku: kondate names",
+    "https://www.educe-shokuiku.jp/news/shokuiku/nihonryouri/"
+   ],
+   [
+    "Kurahiro TEPCO: kaiseki order",
+    "https://kurahiro.tepco.co.jp/media/food/15802/index.html"
+   ],
+   [
+    "Omotesenke: tea cuisine",
+    "https://www.omotesenke.jp/list5/list5-3/list5-3-6/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Takiawase (simmered assortment)",
+  "ja": "炊き合わせ",
+  "prefs": [],
+  "text": "A simmered course of separately cooked seasonal vegetables (and often a protein) served together. A source lists it as another name for the nimono course.",
+  "flavor": "Simmered course on kaiseki menus.",
+  "use": "'Takiawase: kabura to ebi-imo'.",
+  "craft": "The idea is that each component is simmered separately and combined on the plate, so each keeps its own texture and seasoning. This is a general characteristic; the sources only gave the definition.",
+  "src": [
+   [
+    "Educe Shokuiku: kondate names",
+    "https://www.educe-shokuiku.jp/news/shokuiku/nihonryouri/"
+   ],
+   [
+    "Value Plus: kaiseki order",
+    "https://value-plus.jp/valueplus/hotel-bridal-baito-mamechishiki/kaiseki-ryori/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Shiizakana (obligatory extra dish)",
+  "ja": "強肴",
+  "prefs": [],
+  "text": "A dish pressed on the guest: in banquet kaiseki, vinegared (su-no-mono) or dressed (ae-mono) items according to one source. In tea kaiseki it is the azukebachi, an extra dish after the ichiju-sansai. Sources differ on exactly what it is and where it falls.",
+  "flavor": "A course that exists beyond the formal minimum.",
+  "use": "'Shiizakana: ... '",
+  "craft": "A common confusion: the banquet and tea definitions differ. A tea host serves it as an additional dish to the formal ichiju-sansai; in a ryotei it can be a vinegared or dressed dish. Check the shop's own tradition.",
+  "src": [
+   [
+    "Educe Shokuiku: kondate names",
+    "https://www.educe-shokuiku.jp/news/shokuiku/nihonryouri/"
+   ],
+   [
+    "Kurahiro TEPCO: kaiseki order",
+    "https://kurahiro.tepco.co.jp/media/food/15802/index.html"
+   ],
+   [
+    "Kondate: chakaiseki order",
+    "https://kondate.oisiiryouri.com/tyakaiseki-no-imi-yurai/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Tome-wan (closing soup set)",
+  "ja": "止め椀",
+  "prefs": [],
+  "text": "The closing bowl of the meal, served with rice and ko-no-mono (pickles): rice, tome-wan (a miso soup) and pickles end the meal. The sources checked did not define the related word tomezakana, so it is not covered here.",
+  "flavor": "Closing set on kaiseki menus.",
+  "use": "'Gohan, tome-wan, kou-no-mono'.",
+  "craft": "Seen at the end of banquet kaiseki. Do not confuse it with the earlier clear soup course; tome-wan is the final soup.",
+  "src": [
+   [
+    "Value Plus: kaiseki order",
+    "https://value-plus.jp/valueplus/hotel-bridal-baito-mamechishiki/kaiseki-ryori/"
+   ],
+   [
+    "Educe Shokuiku: kondate names",
+    "https://www.educe-shokuiku.jp/news/shokuiku/nihonryouri/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Mizugashi (fruit course)",
+  "ja": "水菓子",
+  "prefs": [],
+  "text": "The final course of seasonal fruit, sometimes ice cream or sherbet, to refresh the mouth.",
+  "flavor": "Dessert word on kaiseki menus.",
+  "use": "'Mizugashi: ichigo'.",
+  "craft": "Mizugashi is fruit (or ice cream, sherbet) to refresh the mouth, whereas the sweet in a tea gathering is separate (omogashi).",
+  "src": [
+   [
+    "Educe Shokuiku: kondate names",
+    "https://www.educe-shokuiku.jp/news/shokuiku/nihonryouri/"
+   ],
+   [
+    "Value Plus: kaiseki order",
+    "https://value-plus.jp/valueplus/hotel-bridal-baito-mamechishiki/kaiseki-ryori/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Otoshi / tsukidashi (cover-charge appetizer)",
+  "ja": "お通し・突き出し",
+  "prefs": [],
+  "text": "A small dish served at the start in izakaya regardless of order, usually with a charge. Kanto says otoshi, Kansai says tsukidashi. 'Otoshi' is explained as from passing an order through to the kitchen or ushering the guest to a seat; 'tsukidashi' from being thrust out regardless of ordering. Typical price quoted: about 300 to 500 yen, often functioning as a seat charge.",
+  "flavor": "First thing placed on the table.",
+  "use": "'Otoshi wa irimasen' is sometimes asked; otoshi charge shown on the bill.",
+  "craft": "Explanations that otoshi and tsukidashi differ in timing are minor; sources say they are now used interchangeably as regional variants. It is a different thing from sakizuke in kaiseki, though sources equate them in some contexts.",
+  "src": [
+   [
+    "Iichiko: otoshi and tsukidashi",
+    "https://style.iichiko.co.jp/finger-food/20240618/0329/"
+   ],
+   [
+    "NDL Reference: meaning of otoshi",
+    "https://crd.ndl.go.jp/reference/entry/index.php?page=ref_view&id=1000187117"
+   ],
+   [
+    "Chisou: otoshi, tsukidashi, sakizuke",
+    "https://chisou-media.jp/posts/4830"
+   ],
+   [
+    "Kappo Aun: otoshi differences",
+    "https://kappo-aun.jp/2020/05/23/otooshi/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Ryotei (traditional banquet restaurant)",
+  "ja": "料亭",
+  "prefs": [],
+  "text": "A high-end restaurant serving Japanese cuisine mainly in private tatami rooms; some sources add that geisha can be called. Contrast the kappo, with counter or table seating and a visible kitchen.",
+  "flavor": "Prestige restaurant word.",
+  "use": "'Ryotei de settai' (entertaining at a ryotei).",
+  "craft": "The difference from kappo is layout and service: rooms and hosts versus counter and chef. Sources agree on this contrast in layout.",
+  "src": [
+   [
+    "Jikko: ryotei vs kappo",
+    "https://www.jikko.jp/news/ryoutei"
+   ],
+   [
+    "Matcha: Japanese words kappo and ryotei",
+    "https://matcha-jp.com/jp/1233"
+   ],
+   [
+    "Zatsuneta: ryotei and kappo",
+    "https://zatsuneta.com/archives/002666.html"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Kappo (chef-at-the-counter restaurant)",
+  "ja": "割烹",
+  "prefs": [
+   26
+  ],
+  "text": "Originally a cooking term (kappo: 割 cutting with a knife, 烹 applying heat). In the late Edo period it came to denote Kamigata cooking and later fine dining generally. Today it usually means a restaurant with counter and table seating where the kitchen is visible and the itamae cooks before the guest. One source dates the start of counter-style kappo to the Gion, Kyoto restaurant Itamae Kappo Hamasaku (founded 1927).",
+  "flavor": "Counter fine dining.",
+  "use": "'Kappo no kaunta'.",
+  "craft": "Key difference from ryotei is the exchange with the itamae in front of the counter. The 1927 origin claim comes from a single summary; present it as one account.",
+  "src": [
+   [
+    "Wikipedia JP: kappo",
+    "https://ja.wikipedia.org/wiki/%E5%89%B2%E7%83%B9"
+   ],
+   [
+    "Jikko: ryotei vs kappo",
+    "https://www.jikko.jp/news/ryoutei"
+   ],
+   [
+    "Iki: kappo cuisine",
+    "https://i-k-i.jp/11951"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Itamae (kitchen chef)",
+  "ja": "板前",
+  "prefs": [],
+  "text": "A cook of Japanese cuisine in general; in the narrow sense, the head of the itaba (kitchen) who plans the menu and directs cooking. One explanation derives it from standing in front of the chopping board (manaita-ba). Some sources hold that only someone who has finished apprenticeship is properly an itamae.",
+  "flavor": "The ordinary word for a Japanese-cuisine chef.",
+  "use": "'Itamae-san', 'kappo no itamae'.",
+  "craft": "Ranks differ from shop to shop; sources note ranks are stages of training, not a fixed corporate hierarchy. Do not assume the same order everywhere.",
+  "src": [
+   [
+    "Wikipedia JP: itamae",
+    "https://ja.wikipedia.org/wiki/%E6%9D%BF%E5%89%8D"
+   ],
+   [
+    "Temae Itamae: ranks",
+    "https://note.com/temaeitamae/n/n29ce395215e2"
+   ],
+   [
+    "Washoku no Umami: becoming an itamae",
+    "https://www.kobayashi-foods.co.jp/washoku-no-umami/before-the-board"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Hanaita / itacho (head of the kitchen)",
+  "ja": "花板・板長",
+  "prefs": [],
+  "text": "The person who heads the kitchen, called itacho or hanaita depending on the shop. He supervises apprentices and plans and directs the whole menu. The deputy is called tsugi-ita or waki-ita in some shops.",
+  "flavor": "Top of the brigade.",
+  "use": "'Hanaita ga kimeru'.",
+  "craft": "Sources note shops vary: some call the second position hanaita, others make the head chef hanaita. Clarify the local usage before using the word to address someone.",
+  "src": [
+   [
+    "Wikipedia JP: itamae",
+    "https://ja.wikipedia.org/wiki/%E6%9D%BF%E5%89%8D"
+   ],
+   [
+    "Temae Itamae: ranks",
+    "https://note.com/temaeitamae/n/n29ce395215e2"
+   ],
+   [
+    "Washoku no Umami: becoming an itamae",
+    "https://www.kobayashi-foods.co.jp/washoku-no-umami/before-the-board"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Nikata and yakikata (simmering and grilling stations)",
+  "ja": "煮方・焼き方",
+  "prefs": [],
+  "text": "Kitchen positions. Nikata handles simmered dishes and nabe, and makes the dashi and sauces, so he is involved in the finishing of dishes. Yakikata handles grilled items; one source says moving up from yakikata is often seen as the test of a cook.",
+  "flavor": "Brigade vocabulary.",
+  "use": "'Nikata o makasareru'.",
+  "craft": "Sources link nikata to dashi and sauce production, which is why it is regarded as a senior post. The 'test' statement is a general saying, not a rule.",
+  "src": [
+   [
+    "Temae Itamae: ranks",
+    "https://note.com/temaeitamae/n/n29ce395215e2"
+   ],
+   [
+    "Washoku no Umami: becoming an itamae",
+    "https://www.kobayashi-foods.co.jp/washoku-no-umami/before-the-board"
+   ],
+   [
+    "Wikipedia JP: itamae",
+    "https://ja.wikipedia.org/wiki/%E6%9D%BF%E5%89%8D"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Oimawashi (lowest apprentice)",
+  "ja": "追い回し",
+  "prefs": [],
+  "text": "The lowest rank of the Japanese kitchen, responsible for general chores; also called bozu or kozo in some places.",
+  "flavor": "First stage of apprenticeship.",
+  "use": "'Oimawashi kara hajimeru'.",
+  "craft": "The rank carries the work of cleaning and errands. Ranking lists put it below washing (arai-kata); orders differ by shop.",
+  "src": [
+   [
+    "Wikipedia JP: itamae",
+    "https://ja.wikipedia.org/wiki/%E6%9D%BF%E5%89%8D"
+   ],
+   [
+    "Oimawashi to itaba: years of training",
+    "https://tenshoku-restaurants.com/blog/349"
+   ],
+   [
+    "Temae Itamae: ranks",
+    "https://note.com/temaeitamae/n/n29ce395215e2"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Ichiban-dashi (first dashi)",
+  "ja": "一番だし",
+  "prefs": [],
+  "text": "The first extraction from kombu and katsuobushi, valued for clarity and refined aroma, used for clear soups. Quantities vary by source: Ninben gives 30 g katsuobushi per litre of water, heat off after boiling and steep one to two minutes; Amano Katsuobushi gives 10 g kombu and 20 g katsuobushi per litre, with kombu around 60 C (80 C and above risks sliminess and off flavours); Delish Kitchen gives 8 g kombu, 10 g katsuobushi and 600 cc.",
+  "flavor": "Heard for soup bowls (wanmono) and quality talk.",
+  "use": "'Ichiban-dashi de suimono'.",
+  "craft": "Rausu-kombu guidance: soak about 30 minutes, bring to the boil in about 10 minutes, and remove kombu just before boiling. The figures are not consistent among sources, so state which method you use.",
+  "src": [
+   [
+    "Ninben: ichiban vs niban dashi",
+    "https://shop.ninben.co.jp/blog/?p=830"
+   ],
+   [
+    "Amano Katsuobushi: ichiban-dashi temperature",
+    "https://www.odashiya.jp/blog/2026/07/27/ichiban-dashi-torikata-ondo/"
+   ],
+   [
+    "Rausu kombu: making dashi",
+    "https://www.rausu.com/dashi.html"
+   ],
+   [
+    "Delish Kitchen: ichiban vs niban",
+    "https://delishkitchen.tv/articles/2693"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Niban-dashi (second dashi)",
+  "ja": "二番だし",
+  "prefs": [],
+  "text": "Dashi simmered from the spent kombu and katsuobushi of the ichiban-dashi. Aroma is weaker but flavour stronger; suited to simmered dishes and miso soup. The difference from ichiban-dashi is in the method, not the ingredients.",
+  "flavor": "Home and kitchen usage for stronger-flavoured dishes.",
+  "use": "'Niban-dashi de nimono'.",
+  "craft": "Use for strong-tasting dishes; do not use where clarity of aroma is required (clear soups).",
+  "src": [
+   [
+    "Ninben: ichiban vs niban dashi",
+    "https://shop.ninben.co.jp/blog/?p=830"
+   ],
+   [
+    "Washoku no Umami: ichiban and niban",
+    "https://www.kobayashi-foods.co.jp/washoku-no-umami/itban-niban"
+   ],
+   [
+    "Delish Kitchen: ichiban vs niban",
+    "https://delishkitchen.tv/articles/2693"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Oshiki (legless tray)",
+  "ja": "折敷",
+  "prefs": [],
+  "text": "A legless tray on which tea kaiseki is served to each guest. The first tray carries rice, soup and mukozuke.",
+  "flavor": "Tea kaiseki tableware term.",
+  "use": "'Oshiki o mae ni'.",
+  "craft": "Mukozuke 'far side' is defined by its position on the oshiki. Without the oshiki layout, the term mukozuke loses its meaning.",
+  "src": [
+   [
+    "Omotesenke: tea cuisine",
+    "https://www.omotesenke.jp/list5/list5-3/list5-3-6/"
+   ],
+   [
+    "Temae Itamae: kaiseki manners",
+    "https://temaeitamae.jp/top/t8/manners.Japanesefood/04.html"
+   ],
+   [
+    "Kondate: chakaiseki order",
+    "https://kondate.oisiiryouri.com/tyakaiseki-no-imi-yurai/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Ichiju-sansai (one soup, three sides)",
+  "ja": "一汁三菜",
+  "prefs": [],
+  "text": "The basic pattern of tea kaiseki: one soup (miso soup) and three dishes, mukozuke, nimono and yakimono.",
+  "flavor": "Basic format of tea meals.",
+  "use": "'Ichiju-sansai o kihon ni'.",
+  "craft": "Tea kaiseki adds shiizakana, hassun and others beyond this core; the sources note that school and shop practices differ.",
+  "src": [
+   [
+    "Kurahiro TEPCO: kaiseki order",
+    "https://kurahiro.tepco.co.jp/media/food/15802/index.html"
+   ],
+   [
+    "Omotesenke: tea cuisine",
+    "https://www.omotesenke.jp/list5/list5-3/list5-3-6/"
+   ],
+   [
+    "310plus: chaji kaiseki",
+    "https://www.310plus.com/sadou-beginners-guide-post/basics-sadou-chaji-kaiseki"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Hashiarai (chopstick-rinsing soup)",
+  "ja": "箸洗い",
+  "prefs": [],
+  "text": "A small clear soup, generally served before the hassun in tea kaiseki.",
+  "flavor": "Tea kaiseki course.",
+  "use": "'Hashiarai o ippai'.",
+  "craft": "The cleanser between richer dishes and the hassun. Sources vary on exact positioning, so confirm with the school's order.",
+  "src": [
+   [
+    "Kondate: chakaiseki order",
+    "https://kondate.oisiiryouri.com/tyakaiseki-no-imi-yurai/"
+   ],
+   [
+    "Kurahiro TEPCO: kaiseki order",
+    "https://kurahiro.tepco.co.jp/media/food/15802/index.html"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Yuto and ko-no-mono (hot water and pickles)",
+  "ja": "湯桶・香の物",
+  "prefs": [],
+  "text": "At the end of tea kaiseki, yuto is hot water poured over scorched rice (or toasted rice) with a little salt, served with ko-no-mono, three to five kinds of pickles.",
+  "flavor": "Closing of tea kaiseki.",
+  "use": "'Yuto o ippai'.",
+  "craft": "Yuto is made from scorched rice (okoge) or toasted rice with hot water and a little salt, and comes at the end of the meal before the sweet and koicha.",
+  "src": [
+   [
+    "Kondate: chakaiseki order",
+    "https://kondate.oisiiryouri.com/tyakaiseki-no-imi-yurai/"
+   ],
+   [
+    "Kurahiro TEPCO: kaiseki order",
+    "https://kurahiro.tepco.co.jp/media/food/15802/index.html"
+   ],
+   [
+    "310plus: chaji kaiseki",
+    "https://www.310plus.com/sadou-beginners-guide-post/basics-sadou-chaji-kaiseki"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Omogashi (main sweet for koicha)",
+  "ja": "主菓子",
+  "prefs": [],
+  "text": "The wagashi served with koicha (thick tea), such as nerikiri and kuzu-manju. One source says a full chaji serves higashi (dry sweets) instead.",
+  "flavor": "Sweet at the end of the tea meal.",
+  "use": "'Omogashi to koicha'.",
+  "craft": "Sources disagree on whether the sweet in a formal chaji is omogashi or higashi. Check the host's tradition.",
+  "src": [
+   [
+    "Kurahiro TEPCO: kaiseki order",
+    "https://kurahiro.tepco.co.jp/media/food/15802/index.html"
+   ],
+   [
+    "Kondate: chakaiseki order",
+    "https://kondate.oisiiryouri.com/tyakaiseki-no-imi-yurai/"
+   ],
+   [
+    "310plus: chaji kaiseki",
+    "https://www.310plus.com/sadou-beginners-guide-post/basics-sadou-chaji-kaiseki"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Koicha (thick tea)",
+  "ja": "濃茶",
+  "prefs": [],
+  "text": "Thick tea of the tea gathering. Chakaiseki exists so guests are fed before koicha, so that the strong tea does not harm an empty stomach.",
+  "flavor": "Climax of the chaji.",
+  "use": "'Koicha o ippuku'.",
+  "craft": "The meal serves the tea: dishes are designed to prepare for koicha, not the other way round.",
+  "src": [
+   [
+    "Kurahiro TEPCO: kaiseki order",
+    "https://kurahiro.tepco.co.jp/media/food/15802/index.html"
+   ],
+   [
+    "Olive Hitomawashi: meaning of kaiseki",
+    "https://www.olive-hitomawashi.com/column/2022/01/post-16373.html"
+   ],
+   [
+    "310plus: chaji kaiseki",
+    "https://www.310plus.com/sadou-beginners-guide-post/basics-sadou-chaji-kaiseki"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Nakaoroshi (market intermediate wholesaler)",
+  "ja": "仲卸",
+  "prefs": [
+   13
+  ],
+  "text": "A trader with a stall inside the wholesale market who buys from the wholesaler by auction and resells to retailers and restaurants. Buyers who purchase from nakaoroshi (kaidashinin) include restaurants and sushi shops.",
+  "flavor": "Market vocabulary behind a chef's buying.",
+  "use": "'Nakaoroshi no mise'.",
+  "craft": "Distinguish the wholesaler (oroshi), who sells by auction (seri) or direct deal, from the nakaoroshi, who sell on to buyers. The Tsukiji inner market moved to Toyosu on 11 October 2018; the outer market did not move.",
+  "src": [
+   [
+    "Muroran City: wholesale market terms",
+    "https://www.city.muroran.lg.jp/business/?content=1312"
+   ],
+   [
+    "Wikipedia JP: Tsukiji market",
+    "https://ja.wikipedia.org/wiki/%E7%AF%89%E5%9C%B0%E5%B8%82%E5%A0%B4"
+   ],
+   [
+    "Quick Fish System: inner market",
+    "https://www.quickfishsystem.com/sp1/concept.html"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Kaidashinin (market buyer)",
+  "ja": "買出人",
+  "prefs": [
+   13
+  ],
+  "text": "A retailer or restaurant that lacks the volume to join the auction and buys from the nakaoroshi to resell to consumers. Sushi shops are included.",
+  "flavor": "Market vocabulary for chefs who buy there.",
+  "use": "'Kaidashinin toshite'.",
+  "craft": "The outer market (jogai) is a shopping area that also serves the public, while the inner market is trade-oriented. Ask which is meant.",
+  "src": [
+   [
+    "Muroran City: wholesale market terms",
+    "https://www.city.muroran.lg.jp/business/?content=1312"
+   ],
+   [
+    "Shiiresaki: Tsukiji outer market",
+    "https://shiiresaki.jp/blog/tsukiji/"
+   ],
+   [
+    "Wikipedia JP: Tsukiji market",
+    "https://ja.wikipedia.org/wiki/%E7%AF%89%E5%9C%B0%E5%B8%82%E5%A0%B4"
+   ]
+  ]
+ }
+]

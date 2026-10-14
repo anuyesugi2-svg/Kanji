@@ -1,0 +1,798 @@
+[
+ {
+  "cat": "producer",
+  "name": "Kansou (Kansou Honten, tsukudani and shio-kombu, Osaka)",
+  "ja": "神宗",
+  "prefs": [
+   27
+  ],
+  "text": "Osaka maker of tsukudani and salted kombu. Founded in Tenmei 1 (1781) as a marine-products wholesaler in Utsubo, Osaka, and now manufactures tsukudani and shio-kombu. Listed among Osaka's established kombu and tsukudani houses on the national kombu association's Osaka shop page.",
+  "flavor": "Salt-preserved, soy-simmered kombu and tsukudani; Osaka-style savoury-sweet.",
+  "use": "Served as an accompaniment to rice, in ochazuke and onigiri fillings, and as a gift item.",
+  "craft": "The company site gives only the 1781 founding and the move from wholesaler to tsukudani maker; check the maker's own pages for the kombu grade used in each product.",
+  "src": [
+   [
+    "Kansou official site - greeting",
+    "https://kansou.co.jp/about/greeting/"
+   ],
+   [
+    "Kansou official site",
+    "https://kansou.co.jp/"
+   ]
+  ]
+ },
+ {
+  "cat": "producer",
+  "name": "Ogura-ya Yamamoto (shio-fuki kombu 'Ebisume', Osaka)",
+  "ja": "小倉屋山本",
+  "prefs": [
+   27
+  ],
+  "text": "Osaka kombu house founded in 1848, described in Osaka guides as the originator of shio-fuki (salt-dusted) kombu, with the product 'Ebisume'. It uses ma-kombu from southern Hokkaido. Listed among Osaka's established kombu shops on the national kombu association's shop-news page.",
+  "flavor": "Dry-surface salt-bloomed kombu with concentrated umami (as described in guide sources).",
+  "use": "Eaten as a rice accompaniment, tea-time salty snack, or gift; also used in ochazuke.",
+  "craft": "The distinguishing point is the use of southern-Hokkaido ma-kombu and the salt-bloom (shio-fuki) finish; guide sites credit the house as originator, which is a claim to be checked with the maker.",
+  "src": [
+   [
+    "Osaka Machishiru - salt kombu and tsukudani shops",
+    "https://osaka.machishiru.jp/kiji-siokonbu-osaka/"
+   ],
+   [
+    "Konbu-net - Osaka shop news",
+    "https://kombu.or.jp/cat_shopnews/shopnews_osaka"
+   ]
+  ]
+ },
+ {
+  "cat": "producer",
+  "name": "Okina Konbu (Shinsaibashi, Osaka)",
+  "ja": "おきな昆布",
+  "prefs": [
+   27
+  ],
+  "text": "Kombu shop in Shinsaibashi, Osaka, said to have been founded in Keio 2 (1866). Its own site lists a Minister of Agriculture prize among its awards. One of the long-established Osaka kombu processors.",
+  "flavor": "Kombu-forward products in the Osaka tradition.",
+  "use": "Tsukudani and processed kombu sold as table accompaniments and gifts.",
+  "craft": "Only the founding year, location and the ministerial award appear in the sources seen; ask the shop about the kombu origin and cut for each product.",
+  "src": [
+   [
+    "Okina Konbu official site",
+    "http://www.okinakonbu.com/"
+   ],
+   [
+    "Osaka Machishiru - salt kombu and tsukudani shops",
+    "https://osaka.machishiru.jp/kiji-siokonbu-osaka/"
+   ]
+  ]
+ },
+ {
+  "cat": "producer",
+  "name": "Matsumaeya (kombu, Osaka)",
+  "ja": "松前屋",
+  "prefs": [
+   27
+  ],
+  "text": "Osaka kombu house whose own site gives its founding as Meiji 45 (1912). Known as one of Osaka's established kombu shops in the city's kombu-processing tradition.",
+  "flavor": "Processed kombu in the Osaka manner.",
+  "use": "Used as table kombu, tsukudani and gift items.",
+  "craft": "Little process detail appears in the search summary; the site is the place to confirm kombu varieties and processing.",
+  "src": [
+   [
+    "Matsumaeya official site",
+    "https://www.matumaeya.jp/"
+   ],
+   [
+    "Konbu-net - Osaka shop news",
+    "https://kombu.or.jp/cat_shopnews/shopnews_osaka"
+   ]
+  ]
+ },
+ {
+  "cat": "producer",
+  "name": "Konishi Shuzo (Shirayuki, Itami)",
+  "ja": "小西酒造",
+  "prefs": [
+   28
+  ],
+  "text": "Sake brewery of Itami, Hyogo, which gives its founding as 1550 and presents Itami as the birthplace of seishu (clear sake). Brand: Shirayuki. Itami sake of the 'Itami morohaku' type is recognised under the Japan Heritage story that pairs Itami with Nada's 'kiippon'. Sources note that brewing later shifted from Itami to Nishinomiya and Nada during the Kan'ei era (1624-1644).",
+  "flavor": "Itami lineage; classic Settsu sake house.",
+  "use": "Brewery for daily and premium sake; also relevant for sake history studies.",
+  "craft": "The Itami to Nishinomiya shift in the Kan'ei era explains how Nada became the dominant region; Itami houses are the older stock.",
+  "src": [
+   [
+    "Itami Sake Brewers Association",
+    "https://hyogo-sake.or.jp/introduction/itami.html"
+   ],
+   [
+    "Japan Heritage - Itami Morohaku and Nada no Kiippon",
+    "https://itami-nadagogo.com/ja/shops/15"
+   ]
+  ]
+ },
+ {
+  "cat": "producer",
+  "name": "Itami Oimatsu Shuzo (Itami, Gomen-shu)",
+  "ja": "伊丹老松酒造",
+  "prefs": [
+   28
+  ],
+  "text": "Itami brewery founded in Genroku 1 (1688). Its representative brand is associated with 'Gomen-shu', the sake given official status by the Edo shogunate. A rare surviving Itami house from the Edo period of Itami's dominance in sake.",
+  "flavor": "Traditional Itami house style; sources do not give tasting notes.",
+  "use": "Sake brewery; used as a historical reference for Itami morohaku.",
+  "craft": "The Edo-period 'official sake' connection and the 1688 date are the distinguishing facts given by the company's profile.",
+  "src": [
+   [
+    "Itami Oimatsu Shuzo - company profile",
+    "https://oimatsu.biz/05_gaiyou.htm"
+   ],
+   [
+    "Wikipedia - Itami Oimatsu Shuzo",
+    "https://ja.wikipedia.org/wiki/%E4%BC%8A%E4%B8%B9%E8%80%81%E6%9D%BE%E9%85%92%E9%80%A0"
+   ]
+  ]
+ },
+ {
+  "cat": "producer",
+  "name": "Tatsuuma Honke Shuzo (Kuromatsu Hakushika, Nada)",
+  "ja": "辰馬本家酒造",
+  "prefs": [
+   28
+  ],
+  "text": "Nada-gogo brewery founded in 1662, makers of Kuromatsu Hakushika. Nada-gogo is the Hyogo sake district whose brewing grew when Itami brewers moved to Nishinomiya for sea-transport advantages in Kan'ei (1624-1644).",
+  "flavor": "Nada-style sake (sources give no tasting notes).",
+  "use": "Brewery for table and premium sake.",
+  "craft": "Its 1662 date makes it one of the older Nada houses; the Tatsuuma family also founded Hakutaka in 1862.",
+  "src": [
+   [
+    "Nadagogo Brewers Association",
+    "https://hyogo-sake.or.jp/introduction/nadagogo.html"
+   ],
+   [
+    "nippon.com - Nada sake history",
+    "https://www.nippon.com/ja/guide-to-japan/gu900138/"
+   ]
+  ]
+ },
+ {
+  "cat": "producer",
+  "name": "Hakutsuru Shuzo (Nada)",
+  "ja": "白鶴酒造",
+  "prefs": [
+   28
+  ],
+  "text": "Nada brewery founded in 1743 by Kano (Hakukano) family, now cited as Japan's leading seller of clear sake by volume. One of the large-scale Nada houses within the Nadagogo cluster that made Hyogo the top sake-producing prefecture.",
+  "flavor": "Large-batch Nada style; no tasting notes in sources.",
+  "use": "Mass-market and premium sake.",
+  "craft": "Nada's wide-scale production is tied to its water, rice and shipping access; the company is the best-known volume leader.",
+  "src": [
+   [
+    "nippon.com - Nada sake history and climate",
+    "https://www.nippon.com/ja/guide-to-japan/gu900138/"
+   ],
+   [
+    "Nadagogo Brewers Association",
+    "https://hyogo-sake.or.jp/introduction/nadagogo.html"
+   ]
+  ]
+ },
+ {
+  "cat": "producer",
+  "name": "Hakutaka (Tatsuuma family, Nishinomiya)",
+  "ja": "白鷹",
+  "prefs": [
+   28
+  ],
+  "text": "Sake brewery founded in Bunkyu 2 (1862) at its present Nishinomiya site by Tatsuuma Etsuzo, first of the name. Part of the Nada-gogo sake district of Hyogo.",
+  "flavor": "Nishinomiya (Nada-gogo) style; sources give no tasting notes.",
+  "use": "Brewery for daily and premium sake.",
+  "craft": "Founding year, founder and Nishinomiya site are the facts the sources give.",
+  "src": [
+   [
+    "nippon.com - Nada sake history",
+    "https://www.nippon.com/ja/guide-to-japan/gu900138/"
+   ],
+   [
+    "Nadagogo Brewers Association",
+    "https://hyogo-sake.or.jp/introduction/nadagogo.html"
+   ]
+  ]
+ },
+ {
+  "cat": "producer",
+  "name": "Nihonsakari (Nishinomiya)",
+  "ja": "日本盛",
+  "prefs": [
+   28
+  ],
+  "text": "Nishinomiya sake brewery founded in 1889 with the aim of supporting Nishinomiya's development. One of the large Nada-gogo houses.",
+  "flavor": "Nada style; sources give no tasting notes.",
+  "use": "Brewery for daily sake.",
+  "craft": "Founding in Meiji 22 puts it among the later Nada breweries compared with 17th-century houses.",
+  "src": [
+   [
+    "Nadagogo Brewers Association",
+    "https://hyogo-sake.or.jp/introduction/nadagogo.html"
+   ],
+   [
+    "nippon.com - Nada sake history",
+    "https://www.nippon.com/ja/guide-to-japan/gu900138/"
+   ]
+  ]
+ },
+ {
+  "cat": "producer",
+  "name": "Higashimaru Shoyu (Tatsuno usukuchi shoyu)",
+  "ja": "ヒガシマル醤油",
+  "prefs": [
+   28
+  ],
+  "text": "Shoyu maker of Tatsuno, Hyogo, the home of usukuchi (light-coloured) shoyu, traditionally credited to Enomo Magoemon in 1666. Founding dates differ: one source gives c.1580 (Tensho era), another traces the corporate line to Asai Shoyu of 1869 (Meiji 2) at the Tatsuno domain's product warehouse, renamed Higashimaru brand in 1949. A limited 'Tatsuno no Toki' shoyu adds amazake in a two-stage moromi process.",
+  "flavor": "Light colour, soft salinity (usukuchi style); locally helped by Ibo River soft water, Banshu wheat, Mikazuki soybeans and Ako salt.",
+  "use": "Dashi dishes and Kansai simmering where the colour of ingredients should be kept.",
+  "craft": "Local inputs named: Banshu wheat, Mikazuki soybeans, Ako salt, Ibo River water. Treat the founding date with caution given source disagreement.",
+  "src": [
+   [
+    "Shinise TV - Higashimaru Tatsuno",
+    "https://shinise.tv/higashimaru-tatsuno/"
+   ],
+   [
+    "Hyogo Prefecture - shoyu",
+    "https://web.pref.hyogo.lg.jp/sr09/jibasan/05.html"
+   ],
+   [
+    "Tatsuno tourism - shoyu feature",
+    "https://tatsuno-tourism.jp/special_contents/%E9%86%A4%E6%B2%B9-%E7%89%B9%E9%9B%86/"
+   ]
+  ]
+ },
+ {
+  "cat": "producer",
+  "name": "Yagi Shoyu (Tatsuno-area shoyu with Ako salt)",
+  "ja": "矢木醤油",
+  "prefs": [
+   28
+  ],
+  "text": "Hyogo shoyu maker, listed as established in August 1907 in a company database, using Ako salt and Ibo River water. It belongs to the Tatsuno shoyu district.",
+  "flavor": "Local-input shoyu; sources give no tasting notes.",
+  "use": "Table and cooking shoyu.",
+  "craft": "Data are limited; the source ties its products to Ako salt and Ibo River soft water.",
+  "src": [
+   [
+    "Tatsuno tourism - shoyu feature",
+    "https://tatsuno-tourism.jp/special_contents/%E9%86%A4%E6%B2%B9-%E7%89%B9%E9%9B%86/"
+   ],
+   [
+    "Hyogo Prefecture - shoyu",
+    "https://web.pref.hyogo.lg.jp/sr09/jibasan/05.html"
+   ]
+  ]
+ },
+ {
+  "cat": "producer",
+  "name": "Miwayama Katsu Seimen (Miwa somen, Sakurai)",
+  "ja": "三輪山勝製麺",
+  "prefs": [
+   29
+  ],
+  "text": "Miwa somen maker in Miwa, Sakurai, Nara, whose site gives founding as 1804 and describes hand-pulled (tenobe) methods handed down over some 400 years. Its 'Hitosujinawa' line uses Yoshino kuzu and no oil, with sun-dried salt, to produce gloss and throat-feel.",
+  "flavor": "Firm, glossy thin noodle; no oil used in the Hitosujinawa line.",
+  "use": "Served as chilled or hot somen.",
+  "craft": "Notable choice: kuzu instead of oil in the stretching stage, plus sun-dried salt.",
+  "src": [
+   [
+    "Miwayama Katsu Seimen official site",
+    "https://miwayamakatsu.co.jp/"
+   ],
+   [
+    "Nara prefecture - Miwa somen",
+    "http://yamatoji.nara-kankou.or.jp/page/page_32.html"
+   ]
+  ]
+ },
+ {
+  "cat": "producer",
+  "name": "Masuya (Yoshino kuzu tamen, Higashi-Yoshino)",
+  "ja": "升屋",
+  "prefs": [
+   29
+  ],
+  "text": "Higashi-Yoshino village maker that applies Miwa somen hand-pulling technique to noodles made with spring water, wheat and Yoshino kuzu: the 'Yoshino kuzu tamen'. Also sells soba and kuzu.",
+  "flavor": "Kuzu noodles with a firm, smooth texture (description not detailed in sources).",
+  "use": "Boiled noodle, served hot or cold.",
+  "craft": "The distinguishing technique is blending Yoshino kuzu into a tenobe somen process.",
+  "src": [
+   [
+    "Masuya official site",
+    "https://www.yoshino-masuya.com/"
+   ]
+  ]
+ },
+ {
+  "cat": "producer",
+  "name": "Kakinoha-zushi Heiso (Nara)",
+  "ja": "柿の葉すし 平宗",
+  "prefs": [
+   29
+  ],
+  "text": "Kakinoha-zushi shop reported to have been founded in Bunkyu 1 (1861). Kakinoha-zushi is pressed sushi of salted mackerel or salmon over vinegared rice wrapped in persimmon leaf, a Yoshino-region food. Other makers noted in the same results include Yakko (recipes from the Taisho-era founding) and Tatsumi (made entirely by hand).",
+  "flavor": "Salt-cured fish over vinegared rice with leaf aroma.",
+  "use": "Pressed sushi eaten as travel and festival food.",
+  "craft": "Pressed sushi of salt-cured fish on vinegared rice in persimmon leaf; handmade shops stress no preservatives.",
+  "src": [
+   [
+    "Nara tourism - kakinoha-zushi",
+    "https://yamatoji.nara-kankou.or.jp/page/page_19.html"
+   ],
+   [
+    "Navitime - kakinoha-zushi shops",
+    "https://travel.navitime.com/ja/area/jp/guide/NTJmat0576/"
+   ]
+  ]
+ },
+ {
+  "cat": "producer",
+  "name": "Kadocho (Yuasa shoyu, Yuasa-tamari)",
+  "ja": "角長",
+  "prefs": [
+   30
+  ],
+  "text": "Yuasa, Arida district, Wakayama. Founded in Tenpo 12 (1841). It is the oldest surviving shoyu house in Yuasa and the only one continuing the Edo-period 'Yuasa-tamari' method and hand production. Yuasa is considered a candidate birthplace of shoyu, linked to the kinzanji miso brought by the priest Kakushin from Song China.",
+  "flavor": "Dense tamari-type character (as described by Yuasa tourism sources).",
+  "use": "Table shoyu and cooking shoyu; the shop sells gift sets.",
+  "craft": "Sources describe winter-only (kan-jikomi) brewing and hand methods; the Yuasa-tamari method is the key distinction.",
+  "src": [
+   [
+    "Kadocho official site",
+    "https://www.kadocho.co.jp/"
+   ],
+   [
+    "Wikipedia - Kadocho",
+    "https://ja.wikipedia.org/wiki/%E8%A7%92%E9%95%B7"
+   ],
+   [
+    "Wakayama Tourism - roots of shoyu",
+    "https://www.wakayama-kanko.or.jp/features/detail_492.html"
+   ]
+  ]
+ },
+ {
+  "cat": "producer",
+  "name": "Marushin Honke (Yuasa shoyu and kinzanji miso)",
+  "ja": "丸新本家",
+  "prefs": [
+   30
+  ],
+  "text": "Yuasa shoyu house founded in 1881 (Meiji 14). Known for kinzanji miso, which tradition traces to Kakushin who brought the Jingshan-temple (Kinzanji) method from China. Kinzanji miso ferments grains with koji and vegetables (eggplant, melon, ginger, shiso). Kishu Kinzanji miso was the first Wakayama product to receive GI status in 2017.",
+  "flavor": "Vegetable-laden fermented miso, sweet-savoury.",
+  "use": "Eaten as a topping on rice or tofu, as a dip and with cucumbers.",
+  "craft": "Grains (rice, barley, soy) are koji-inoculated and naturally fermented with vegetables; this is the point to verify in a GI product.",
+  "src": [
+   [
+    "Marushin Honke - kinzanji miso",
+    "https://www.marushinhonke.com/c/3557"
+   ],
+   [
+    "Marushin Honke official site",
+    "https://www.marushinhonke.com/"
+   ],
+   [
+    "Wakayama Tourism - Marushin Honke",
+    "https://wakayama-kanko.com/kankospot/6478/"
+   ]
+  ]
+ },
+ {
+  "cat": "producer",
+  "name": "Kimise Shoyu (Okayama)",
+  "ja": "キミセ醤油",
+  "prefs": [
+   33
+  ],
+  "text": "Okayama shoyu maker that began as a lumber merchant in Keio 2 (1866) and moved to shoyu manufacture in Meiji 17 (1884). Brews honjozo shoyu with koji fermentation and ages it in large Bizen-ware jars. The jar introduction date is given as 1995 by the official tourism site and as 1994 elsewhere.",
+  "flavor": "Aged in Bizen-ware vessels; flavour notes not specified in sources.",
+  "use": "Table and cooking shoyu.",
+  "craft": "Bizen-yaki large urns for maturation are the unusual element; source dates disagree on installation (1994 or 1995).",
+  "src": [
+   [
+    "Okayama Kanko - Kimise Shoyu",
+    "https://okayama-kanko.net/sightseeing/special/4312/"
+   ],
+   [
+    "Okayama Kanko Web - shoyu",
+    "https://www.okayama-kanko.jp/feature/made_in_okayama/29"
+   ]
+  ]
+ },
+ {
+  "cat": "producer",
+  "name": "Morita Shoyu Jozoin (Yamamo Shoyu, northern Okayama)",
+  "ja": "森田醤油醸造元",
+  "prefs": [
+   33
+  ],
+  "text": "Shoyu maker in northern Okayama founded in Showa 9 (1934), brand Yamamo. Uses wooden barrels and natural maturation of about three years.",
+  "flavor": "Long-aged, barrel-matured shoyu.",
+  "use": "Table and cooking shoyu.",
+  "craft": "Wooden-barrel brewing and about three years of natural ageing are the stated hallmarks.",
+  "src": [
+   [
+    "Morita Shoyu official site",
+    "https://www.moritasyouyu.com/"
+   ]
+  ]
+ },
+ {
+  "cat": "producer",
+  "name": "Okamoto Shoyu Jozojo (Osakikamijima)",
+  "ja": "岡本醤油醸造場",
+  "prefs": [
+   34
+  ],
+  "text": "Shoyu brewer on Osakikamijima island in Hiroshima. Uses domestic soybeans and wheat and sun-dried salt, and brews naturally in large cedar barrels. Listed on a traditional-barrel brewer directory.",
+  "flavor": "Natural-brewed, barrel-aged character.",
+  "use": "Table and cooking shoyu.",
+  "craft": "Large cedar barrels, domestic soy and wheat and sun-dried salt are the stated inputs.",
+  "src": [
+   [
+    "Okamoto Shoyu Jozojo - shoyu kura",
+    "https://s-shoyu.com/kura/okamoto/"
+   ],
+   [
+    "Cuisine Kingdom - barrel-brewing shoyu",
+    "https://cuisine-kingdom.com/soysauce-40"
+   ]
+  ]
+ },
+ {
+  "cat": "producer",
+  "name": "Akama Jozo (Yamaguchi shoyu)",
+  "ja": "赤間醸造",
+  "prefs": [
+   35
+  ],
+  "text": "Yamaguchi shoyu house founded in Meiji 1 (1868). It uses groundwater from its own well and matures shoyu in large cedar barrels for two years. Listed by the Yamaguchi Products Association along with Ichiba Honten (Meiji 32).",
+  "flavor": "Barrel-aged shoyu with two years of maturation.",
+  "use": "Table and cooking shoyu.",
+  "craft": "Own-well groundwater and two years in large cedar barrels are the stated points.",
+  "src": [
+   [
+    "Yamaguchi Bussan - shoyu and dashi",
+    "https://yamaguchi-bussan.jp/nourin/syouyu/"
+   ]
+  ]
+ },
+ {
+  "cat": "producer",
+  "name": "Saiundo (Wakakusa, Matsue)",
+  "ja": "彩雲堂",
+  "prefs": [
+   32
+  ],
+  "text": "Matsue confectioner linked to Fumai-ko (Matsudaira Harusato, 1751-1818). Its 'Wakakusa' is gyuhi dusted with kanbai-ko, one of the three Fumai-favoured sweets, reconstructed by the first-generation owner from texts and elders. The gyuhi is made with Nita rice stone-ground in the shop. Founding is given as Meiji 7 (1874) in some accounts, 1950 as company establishment in another.",
+  "flavor": "Soft gyuhi with fine dusted surface.",
+  "use": "Tea-ceremony sweet.",
+  "craft": "Stone-grinding Nita-mai glutinous rice in the shop is the stated method.",
+  "src": [
+   [
+    "Saiundo 150th anniversary",
+    "https://saiundo.co.jp/150th/index.php"
+   ],
+   [
+    "PR Times - Saiundo story",
+    "https://prtimes.jp/story/detail/bDz517TLJjx"
+   ],
+   [
+    "KKH-BRIDGE - Wakakusa",
+    "https://www.kkh-bridge.com/news/taste/59357256231540"
+   ]
+  ]
+ },
+ {
+  "cat": "producer",
+  "name": "Furyudo (Yamakawa, Matsue)",
+  "ja": "風流堂",
+  "prefs": [
+   32
+  ],
+  "text": "Matsue confectionery founded in 1890 (Meiji 23). Its rakugan 'Yamakawa', moist and made with wasanbon, is one of the three Fumai-ko sweets, revived in the Taisho era.",
+  "flavor": "Moist wasanbon rakugan.",
+  "use": "Tea-ceremony sweet.",
+  "craft": "Wasanbon sugar is the core ingredient.",
+  "src": [
+   [
+    "JR West - Matsue wagashi",
+    "https://www.westjr.co.jp/company/info/issue/bsignal/22_vol_195/issue/02.html"
+   ],
+   [
+    "Good Old Tabicamp - Fumai-ko sweets",
+    "https://goodold.tabicamp.com/humaiko-shimane/"
+   ]
+  ]
+ },
+ {
+  "cat": "producer",
+  "name": "Ichirikido (Matsue wagashi)",
+  "ja": "一力堂",
+  "prefs": [
+   32
+  ],
+  "text": "Matsue confectionery founded in the Horeki era (1751-1764), first-generation owner served as purveyor to the Matsue domain.",
+  "flavor": "Tea-ceremony sweets in Matsue style.",
+  "use": "Tea sweets.",
+  "craft": "The era and domain purveyor status are the facts given.",
+  "src": [
+   [
+    "Ichirikido official site",
+    "https://ichirikido.jp/"
+   ],
+   [
+    "Good Old Tabicamp - Fumai-ko sweets",
+    "https://goodold.tabicamp.com/humaiko-shimane/"
+   ]
+  ]
+ },
+ {
+  "cat": "producer",
+  "name": "Keigetsudo (Ogura Matsukusa, Matsue)",
+  "ja": "桂月堂",
+  "prefs": [
+   32
+  ],
+  "text": "Matsue confectionery founded in Bunka 6 (1809). Revived 'Ogura Matsukusa' for the 250th anniversary of Fumai-ko's birth.",
+  "flavor": "Bean-sweet tea confection.",
+  "use": "Tea-ceremony sweet.",
+  "craft": "Revival tied to Fumai-ko's 250th birth anniversary.",
+  "src": [
+   [
+    "Good Old Tabicamp - Fumai-ko sweets",
+    "https://goodold.tabicamp.com/humaiko-shimane/"
+   ],
+   [
+    "TravelBook - Matsue Fumai-ko sweets",
+    "https://www.travelbook.co.jp/topic/2201"
+   ]
+  ]
+ },
+ {
+  "cat": "producer",
+  "name": "Sanei-do (Natane no Sato, Matsue)",
+  "ja": "三英堂",
+  "prefs": [
+   32
+  ],
+  "text": "Matsue confectionery founded in Showa 4 (1929). Sole seller of 'Natane no Sato', one of the three Fumai-ko sweets.",
+  "flavor": "Fumai-ko sweet.",
+  "use": "Tea sweet.",
+  "craft": "Exclusive production of Natane no Sato.",
+  "src": [
+   [
+    "Good Old Tabicamp - Fumai-ko sweets",
+    "https://goodold.tabicamp.com/humaiko-shimane/"
+   ],
+   [
+    "TravelBook - Matsue Fumai-ko sweets",
+    "https://www.travelbook.co.jp/topic/2201"
+   ]
+  ]
+ },
+ {
+  "cat": "producer",
+  "name": "Chiyomusubi Shuzo (Sakaiminato)",
+  "ja": "千代むすび酒造",
+  "prefs": [
+   31
+  ],
+  "text": "Tottori sake brewery in Sakaiminato (Mizuki Shigeru's hometown), founded in Keio 1 (1865). The brewery survived relocations and a collapse of its premises.",
+  "flavor": "Tottori sake; sources give no tasting notes.",
+  "use": "Sake brewery.",
+  "craft": "Founding year and history of rebuilding are the facts given.",
+  "src": [
+   [
+    "Tottori Prefecture - Chiyomusubi",
+    "https://www.pref.tottori.lg.jp/292052.htm"
+   ],
+   [
+    "Sakenomy - Chiyomusubi",
+    "https://www.sakenomy.jp/brewery/K01N031016/"
+   ]
+  ]
+ },
+ {
+  "cat": "producer",
+  "name": "Yamane Shuzojo (Hiokizakura, Aoya)",
+  "ja": "山根酒造場",
+  "prefs": [
+   31
+  ],
+  "text": "Brewery in Aoya, Tottori city, founded in Meiji 20 (1887). Brand Hiokizakura. Motto 'brewing is farming' (jo wa no nari) with emphasis on rice growing.",
+  "flavor": "Rice-focused junmai style.",
+  "use": "Sake brewery.",
+  "craft": "Rice cultivation is central to the brewery.",
+  "src": [
+   [
+    "Yamane Shuzojo official site",
+    "http://www.hiokizakura.sakura.ne.jp/"
+   ],
+   [
+    "Saketime - Hiokizakura",
+    "https://www.saketime.jp/brands/1750/"
+   ]
+  ]
+ },
+ {
+  "cat": "producer",
+  "name": "Suwa Shuzo (Suwaizumi, Chizu)",
+  "ja": "諏訪酒造",
+  "prefs": [
+   31
+  ],
+  "text": "Chizu, Tottori, sake brewery founded in Ansei 6 (1859). Brand Suwaizumi.",
+  "flavor": "Sources give no tasting notes.",
+  "use": "Sake brewery.",
+  "craft": "Only founding year and brand are given.",
+  "src": [
+   [
+    "Saketime - Tottori ranking",
+    "https://www.saketime.jp/ranking/tottori/"
+   ],
+   [
+    "Mynavi - Tottori sake",
+    "https://osusume.mynavi.jp/5243/"
+   ]
+  ]
+ },
+ {
+  "cat": "producer",
+  "name": "Kamotsuru Shuzo (Saijo, Higashihiroshima)",
+  "ja": "賀茂鶴酒造",
+  "prefs": [
+   34
+  ],
+  "text": "Saijo brewery founded in Meiji 6 (1873). Named for Kamo and the noble crane. Introduced Japan's first powered rice-polishing machine in 1898. Saijo brewing relates to the soft-water method developed by Miura Senzaburo of Mitsu in 1897.",
+  "flavor": "Soft-water Hiroshima style.",
+  "use": "Sake brewery.",
+  "craft": "Soft-water brewing and powered polishing since 1898.",
+  "src": [
+   [
+    "Kamotsuru - company outline",
+    "https://www.kamotsuru.jp/company/outline/"
+   ],
+   [
+    "Higashihiroshima Kanko - Kamotsuru",
+    "https://higashihiroshima-kanko.jp/spot/kamotsuru/"
+   ],
+   [
+    "Kuramotokai - Kamotsuru history",
+    "https://www.kuramotokai.com/kikou/68/history"
+   ]
+  ]
+ },
+ {
+  "cat": "producer",
+  "name": "Saijotsuru Jozo (Saijo)",
+  "ja": "西條鶴醸造",
+  "prefs": [
+   34
+  ],
+  "text": "Saijo brewery founded in Meiji 37 (1904). Uses well water said to have been dug in the Tenpo era and local rice.",
+  "flavor": "Saijo soft-water style.",
+  "use": "Sake brewery.",
+  "craft": "Tenpo-era well and local rice.",
+  "src": [
+   [
+    "Higashihiroshima Kanko - Saijotsuru",
+    "https://higashihiroshima-kanko.jp/spot/saijotsuru/"
+   ],
+   [
+    "Saijo Sakagura-dori",
+    "https://higashihiroshima-kanko.jp/saijo-sakaguradori/"
+   ]
+  ]
+ },
+ {
+  "cat": "producer",
+  "name": "Taketsuru Shuzo and Nakao Jozo (Takehara)",
+  "ja": "竹鶴酒造・中尾醸造",
+  "prefs": [
+   34
+  ],
+  "text": "Two sake breweries of Takehara, Hiroshima. Taketsuru Shuzo gives its founding as 1733; Nakao Jozo as Meiji 4 (1871). Both are listed as Takehara houses within the Hiroshima sake culture that developed after the soft-water brewing method of 1897.",
+  "flavor": "Sources give no tasting notes.",
+  "use": "Sake brewery.",
+  "craft": "Only the founding years are given in the sources seen; confirm methods with each brewery.",
+  "src": [
+   [
+    "Saketime - Hiroshima ranking",
+    "https://www.saketime.jp/ranking/hiroshima/"
+   ]
+  ]
+ },
+ {
+  "cat": "producer",
+  "name": "Asahi Shuzo (Dassai, Iwakuni)",
+  "ja": "旭酒造",
+  "prefs": [
+   35
+  ],
+  "text": "Yamaguchi brewery in the mountains about 30 minutes west of Iwakuni, maker of junmai daiginjo Dassai. Its earlier regular sake 'Asahifuji' is said to have more than 200 years of tradition. By 1984 it was near bankruptcy; the Migaki Niwari Sanbu (23%) product sparked its rise.",
+  "flavor": "Junmai daiginjo polished to 23%.",
+  "use": "Premium sake.",
+  "craft": "Highly polished junmai daiginjo as business pivot.",
+  "src": [
+   [
+    "nippon.com - Asahi Shuzo",
+    "https://www.nippon.com/ja/features/c00618/"
+   ],
+   [
+    "JSS - Asahi Shuzo",
+    "https://japansake.or.jp/sakagura/jp/yamaguchi/asahi-shuzou-2/"
+   ]
+  ]
+ },
+ {
+  "cat": "producer",
+  "name": "Rihaku Shuzo (Matsue)",
+  "ja": "李白酒造",
+  "prefs": [
+   32
+  ],
+  "text": "Matsue brewery founded in Meiji 15 (1882) as Tanaka Honten, named after the Tang poet Li Bai. Uses sake rice from the Okuizumo region and Yamadanishiki, self-polished, with Izumo toji skill.",
+  "flavor": "Izumo toji style.",
+  "use": "Sake brewery.",
+  "craft": "Self-polished rice, Izumo toji.",
+  "src": [
+   [
+    "Rihaku official site",
+    "https://rihaku.co.jp/"
+   ],
+   [
+    "Tanoshii Osake - Rihaku",
+    "https://tanoshiiosake.jp/6444"
+   ],
+   [
+    "JSS - Rihaku",
+    "https://japansake.or.jp/sakagura/jp/shimane/rihaku-shuzou/"
+   ]
+  ]
+ },
+ {
+  "cat": "producer",
+  "name": "Asahinichi Shuzo (Izumo)",
+  "ja": "旭日酒造",
+  "prefs": [
+   32
+  ],
+  "text": "Izumo brewery founded in Meiji 2 (1869). Not to be confused with Asahi Shuzo (Dassai) in Yamaguchi.",
+  "flavor": "Izumo sake.",
+  "use": "Sake brewery.",
+  "craft": "Name confusion is the pitfall.",
+  "src": [
+   [
+    "Asahinichi Shuzo official site",
+    "http://jujiasahi.co.jp/"
+   ]
+  ]
+ },
+ {
+  "cat": "producer",
+  "name": "Muromachi Shuzo (Okayama)",
+  "ja": "室町酒造",
+  "prefs": [
+   33
+  ],
+  "text": "Okayama sake brewery founded in 1688. Other old Okayama houses named alongside it: Tsuji Honten (1804, said to have supplied sake to the feudal lord), Tago Honke Shuzojo (Kanbun era, 1660s-70s per a 1680s note) and Miyashita Shuzo (1915), which brews with the local Omachi rice.",
+  "flavor": "Okayama sake.",
+  "use": "Sake brewery.",
+  "craft": "Omachi is the local rice highlighted for Okayama sake.",
+  "src": [
+   [
+    "Okayama sake labo",
+    "https://sake-labo.com/a02-10-004.html"
+   ],
+   [
+    "Okayama brewery guide",
+    "https://occ-sake.shop/kuramoto/"
+   ]
+  ]
+ }
+]
