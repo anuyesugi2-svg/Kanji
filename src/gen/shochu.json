@@ -1,0 +1,1258 @@
+[
+ {
+  "cat": "shochu",
+  "name": "Kogane Sengan (the standard imo shochu sweet potato)",
+  "ja": "黄金千貫（コガネセンガン）",
+  "prefs": [
+   46
+  ],
+  "text": "The reference cultivar of imo shochu. Skin and flesh are yellowish-white, the tuber turns sweet when steamed, and it is rich in the starch that alcoholic fermentation needs, so the same charge yields more spirit than with lower-starch potatoes. Makers describe the resulting shochu as full, round and sweet rather than sharply aromatic. Most koji styles (white, black, yellow) are run on it.",
+  "flavor": "Plump, round sweetness with a balanced, restrained potato aroma; less perfumed than Joy White.",
+  "use": "Base cultivar for everyday and premium imo shochu alike; the first cultivar to learn when comparing potato-driven styles.",
+  "craft": "Judge the spirit against the koji and still, not the potato alone; a white-koji, atmospheric-distilled bottle is where makers say the koji character shows most plainly, black koji is described as heavier and yellow koji as lighter and more fragrant. Trimming damaged parts before steaming matters because the potato spoils quickly after harvest. Starch yield per kilo is the commercial reason it dominates.",
+  "src": [
+   [
+    "Tanoshii Osake: Kogane Sengan",
+    "https://tanoshiiosake.jp/8350"
+   ],
+   [
+    "Honkaku Shochu & Awamori guide: potatoes used for imo shochu",
+    "https://guide.honkakushochu-awamori.jp/types-of-potatoes-used-for-imo-shochu/"
+   ],
+   [
+    "Sanwa Shuzo: imo shochu production process",
+    "https://sanwashuzo.com/recipe/"
+   ]
+  ]
+ },
+ {
+  "cat": "shochu",
+  "name": "Joy White (shochu-only sweet potato cultivar)",
+  "ja": "ジョイホワイト",
+  "prefs": [
+   46
+  ],
+  "text": "A white-fleshed sweet potato bred for distilling, released in 1994. One source calls it a Kogane Sengan derivative that is not sweet when cooked and unsuited for eating. It has more starch than Kogane Sengan, and a research paper on the Brewing Society of Japan journal reports that products from this beta-amylase-deficient white-fleshed potato have a fresh citrus note attributed to linalool.",
+  "flavor": "Bright citrus and floral lift, lighter and more perfumed than Kogane Sengan.",
+  "use": "Used where a maker wants a fruity, citrus-leaning imo shochu.",
+  "craft": "The citrus character comes from monoterpene alcohols freed from potato glycosides by koji and altered in distillation, so a fruity result depends on koji and still handling as well as the cultivar. Treat claims such as 'five times the linalool of Kogane Sengan' with caution: one source shows Kogane Sengan products also contain linalool, only less.",
+  "src": [
+   [
+    "Tanoshii Osake: Joy White imo shochu",
+    "https://tanoshiiosake.jp/6667"
+   ],
+   [
+    "NARO/affrc: sweet potato traits and characteristic aroma of imo shochu (J. Brew. Soc. Japan)",
+    "https://agriknowledge.affrc.go.jp/RN/2010770033.pdf"
+   ],
+   [
+    "Shochu Kikou: imo shochu cultivars",
+    "https://www.shochu-kikou.com/chishiki/genryo07.html"
+   ]
+  ]
+ },
+ {
+  "cat": "shochu",
+  "name": "Murasaki Masari (purple-fleshed sweet potato shochu)",
+  "ja": "ムラサキマサリ（紫芋焼酎）",
+  "prefs": [
+   45,
+   46
+  ],
+  "text": "A purple sweet potato rich in anthocyanin. In shochu making the pigment reacts with the citric acid the koji produces, which is why the mash turns deep red; Kirishima Shuzo explains the name of its Aka-Kirishima this way. Purple-potato shochu is described as having a red-wine-like, yogurt-tinged fruity aroma. Sources disagree on whether Aka-Kirishima uses black koji or leaves the koji unstated.",
+  "flavor": "Fruity, wine-like aroma, mellow sweetness, often pitched at drinkers who find ordinary imo shochu heavy.",
+  "use": "Sold as a distinct, fruity-leaning imo shochu line; Aka-Kirishima is the best-known example.",
+  "craft": "The red colour comes from anthocyanin reacting with the citric acid the koji produces. Harvest quantities of the cultivar are limited, so such bottlings are often limited or seasonal.",
+  "src": [
+   [
+    "Tanoshii Osake: Kirishima",
+    "https://tanoshiiosake.jp/3992"
+   ],
+   [
+    "Nishinippon: Kuro-Kirishima overview",
+    "https://www.nishinippon.co.jp/yakusake/2022/04/29/kurokirishima/"
+   ],
+   [
+    "Tanoshii Osake: Joy White (cultivar comparison)",
+    "https://tanoshiiosake.jp/6667"
+   ]
+  ]
+ },
+ {
+  "cat": "shochu",
+  "name": "Coloured-flesh potato shochu (Beni Haruka, Annō, Tamaakane)",
+  "ja": "紅はるか・安納芋・玉茜などの芋焼酎",
+  "prefs": [
+   46,
+   45
+  ],
+  "text": "Besides white and purple potatoes, makers use orange-fleshed or sweet table cultivars. A shochu named Satsuma Wakashio uses Beni Haruka and is described as mellowly sweet and fresh. Annō potato, an orange-fleshed cultivar generally known for beta-carotene, is used by some makers. Kirishima's Akane-Kirishima uses an orange-fleshed potato, Tamaakane. Search results gave no detailed flavour comparison between these cultivars.",
+  "flavor": "Softer, sweeter, rounder profiles than white-fleshed Kogane Sengan; character varies by maker.",
+  "use": "Positioned as approachable imo shochu; try straight or on the rocks to read the cultivar.",
+  "craft": "Table-type potatoes are high in sugar and low in starch relative to Kogane Sengan, so they are usually showcased rather than used for volume. When tasting cultivar-labelled bottles, hold koji and still constant between samples or the comparison is meaningless.",
+  "src": [
+   [
+    "Honkaku Shochu & Awamori guide: potatoes used for imo shochu",
+    "https://guide.honkakushochu-awamori.jp/types-of-potatoes-used-for-imo-shochu/"
+   ],
+   [
+    "Ienomi Style: choosing imo shochu by cultivar",
+    "https://www.ienomistyle.com/sakeguide/20190414-2571"
+   ],
+   [
+    "Tanoshii Osake: Kirishima",
+    "https://tanoshiiosake.jp/3992"
+   ]
+  ]
+ },
+ {
+  "cat": "shochu",
+  "name": "Terpene aroma of imo shochu (linalool, geraniol, citronellol)",
+  "ja": "芋焼酎の香気成分（モノテルペンアルコール）",
+  "prefs": [
+   46
+  ],
+  "text": "The floral and citrus notes of imo shochu come largely from monoterpene alcohols. Research summarised in the Brewing Society of Japan journal describes monoterpene glycosides in the sweet potato (geraniol, nerol) being liberated by koji enzymes and converted during distillation into citronellol, linalool and alpha-terpineol. Linalool is credited for the citrus note of Joy White products.",
+  "flavor": "Rose, citrus and muscat-like lift, as opposed to the earthy, roasted-potato 'kuse'.",
+  "use": "Explains why cultivar, koji and distillation together decide whether a bottle reads fruity or earthy.",
+  "craft": "Aroma is not set by cultivar alone: raw material handling, koji and distillation conditions all move it, and the study notes Kogane Sengan products also contain linalool, only in smaller amounts than Joy White products.",
+  "src": [
+   [
+    "NARO/affrc: sweet potato traits and characteristic aroma of imo shochu",
+    "https://agriknowledge.affrc.go.jp/RN/2010770033.pdf"
+   ],
+   [
+    "NARO/affrc: effect of cultivation period on potato quality and shochu",
+    "https://agriknowledge.affrc.go.jp/RN/2010912373.pdf"
+   ],
+   [
+    "Sweet Potatoes: what the 'kuse' of imo shochu is",
+    "https://sweetpotatoes.jp/imo_shotyu_kuse/"
+   ]
+  ]
+ },
+ {
+  "cat": "shochu",
+  "name": "Imo shochu mash sequence (trim, steam, crush, second mash)",
+  "ja": "芋焼酎の仕込み工程（選別・蒸し・破砕・二次仕込み）",
+  "prefs": [
+   46
+  ],
+  "text": "Makers describe a common sequence: wash the harvested potatoes and cut off tips and damaged parts, steam them, cool to charging temperature, crush, then add the crushed potato and water to a first mash (koji, yeast and water) to make the main mash in the second stage. Yamato Shuzo adjusts cooling time to the season to hit the target charging temperature; Yoshinaga trims both ends and bad parts on a belt conveyor.",
+  "flavor": "Process entry: the quality of the trimming and steaming shows up as clean sweetness versus off, rotten notes.",
+  "use": "Reference for judging a kura's discipline during a visit or when reading its production notes.",
+  "craft": "Sweet potatoes spoil quickly after harvest, so early, piece-by-piece sorting and removal of bruised parts is the key control. Crushing evenly supports an even ferment. The first mash gets koji and yeast; the steamed, crushed potato goes into the second stage.",
+  "src": [
+   [
+    "Ogatama (Yamato Shuzo): manufacturing process",
+    "https://www.ogatama.co.jp/manufacturing/"
+   ],
+   [
+    "Yoshinaga Shuzo: production process",
+    "https://yoshinagashuzo.wixsite.com/index/manufacture"
+   ],
+   [
+    "Takara Shuzo: how imo shochu is made",
+    "https://sakabanashi.takarashuzo.co.jp/cat2/sweetpotato_shochu_220311"
+   ],
+   [
+    "Sanwa Shuzo: production process",
+    "https://sanwashuzo.com/recipe/"
+   ]
+  ]
+ },
+ {
+  "cat": "shochu",
+  "name": "Shiro-koji (white koji) shochu",
+  "ja": "白麹仕込み",
+  "prefs": [
+   46,
+   45
+  ],
+  "text": "White koji arose as a mutation inside black koji; Kawachi Genichiro isolated and pure-cultured it and named it, said to be around Taisho 7 (1918). Like black koji it makes citric acid, which protects the mash in hot weather, but it gives a soft, rounded, fluffy-potato character and is easier to handle because it does not blacken workspaces with spores. Sources say black and white koji together are used in about 80 percent of honkaku shochu.",
+  "flavor": "Soft, mellow, gently sweet potato aroma; easy to drink.",
+  "use": "Typical of approachable imo shochu such as Shiro-Kirishima, which uses white koji.",
+  "craft": "Because white koji lowers the pH like black koji, it brought safe mashing without the staining of black koji. The 'about 80 percent' figure is a promotional claim from a koji supplier and should be read as approximate.",
+  "src": [
+   [
+    "Akarui Nouson: koji used in imo shochu",
+    "https://akarui-nouson.jp/koji_used_in_shochu/"
+   ],
+   [
+    "Kawachi Kin Honpo: Kawachi Genichiro",
+    "https://www.kawauchi.co.jp/shop/pages/kawachi_genichiro"
+   ],
+   [
+    "Kawachi Kin Honpo: yellow, white and black koji",
+    "https://www.kawauchi.co.jp/shop/pages/kawachikin"
+   ]
+  ]
+ },
+ {
+  "cat": "shochu",
+  "name": "Kuro-koji (black koji) shochu",
+  "ja": "黒麹仕込み",
+  "prefs": [
+   46,
+   45
+  ],
+  "text": "Black koji was the koji of Okinawan awamori. Kawachi Genichiro, noting its citric acid production, brought it to Kagoshima in Meiji 43 (1910). The acid suppresses contaminating bacteria, making mashing safe in the hot climate. It gives strong potato aroma, body and a cutting finish. Kirishima's founding shochu was black-koji made, and Kuro-Kirishima is presented as carrying on that line.",
+  "flavor": "Heavy, rich, with 'koku' and a sharp, clean finish.",
+  "use": "Used where a pronounced potato character is wanted; Kuro-Kirishima is presented as the heir of Kirishima's original black-koji shochu.",
+  "craft": "The point of black koji is acidification: citric acid lowers the mash pH and holds back bacteria, which is what yellow koji could not do in the heat. Spore blackening of the workplace is a nuisance that white koji later avoided.",
+  "src": [
+   [
+    "Akarui Nouson: koji used in imo shochu",
+    "https://akarui-nouson.jp/koji_used_in_shochu/"
+   ],
+   [
+    "Kuroisa (Oguchi Shuzo): the secrets of koji",
+    "https://kuroisa.jp/entry/trivia-02/"
+   ],
+   [
+    "Kawachi Kin Honpo: Kawachi Genichiro",
+    "https://www.kawauchi.co.jp/shop/pages/kawachi_genichiro"
+   ]
+  ]
+ },
+ {
+  "cat": "shochu",
+  "name": "Ki-koji (yellow koji) shochu",
+  "ja": "黄麹仕込み",
+  "prefs": [
+   46
+  ],
+  "text": "Yellow koji is the sake, miso and shoyu koji. Until about the end of Meiji most shochu was made with it, but it makes almost no citric acid, so in Kyushu's heat mashes often fell to bacteria and spoiled. After black and white koji took over it nearly disappeared, and it has been revived recently for a fruity, ginjo-like aroma. Nishi Shuzo's Tominohozan, made with Kogane Sengan and yellow koji at low fermentation temperature, is the best-known example.",
+  "flavor": "Fruity, floral, sake-like aroma; light and clean.",
+  "use": "Used for fruity, modern imo shochu such as Tominohozan.",
+  "craft": "With little citric acid the mash is at risk, so makers have to manage the ferment carefully; Tominohozan is described as fermented at low temperature with a ginjo yeast.",
+  "src": [
+   [
+    "Tanoshii Osake: yellow koji shochu",
+    "https://tanoshiiosake.jp/6571"
+   ],
+   [
+    "Akarui Nouson: koji used in imo shochu",
+    "https://akarui-nouson.jp/koji_used_in_shochu/"
+   ],
+   [
+    "Hasegawa Saketen: Tominohozan",
+    "https://www.hasegawasaketen.com/eshop/products/detail/3944"
+   ]
+  ]
+ },
+ {
+  "cat": "producer",
+  "name": "Kawachi Genichiro and Kawachi Kin Honpo (koji suppliers)",
+  "ja": "河内源一郎・河内菌本舗",
+  "prefs": [
+   46
+  ],
+  "text": "Called the father of modern shochu. He brought the citric-acid-producing black koji of awamori to Kagoshima in Meiji 43 (1910) and later selected a white mutant from it, pure-cultured and named white koji around Taisho 7. His company still sells koji spores (moyashi) to brewers. A claim on the supplier's own page says his white and black koji are designated as the national fungus and used in about 80 percent of honkaku shochu.",
+  "flavor": "Not applicable: a koji (moyashi) supplier rather than a spirit.",
+  "use": "Reference when reading why a mash is black, white or yellow koji, and when asking a kura where its koji comes from.",
+  "craft": "The business model is moyashi: pure-cultured spores that makers inoculate onto steamed rice. Ask which strain a kura uses; the choice of strain is as much a style decision as the potato.",
+  "src": [
+   [
+    "Kawachi Kin Honpo: Kawachi Genichiro",
+    "https://www.kawauchi.co.jp/shop/pages/kawachi_genichiro"
+   ],
+   [
+    "Kawachi Kin Honpo: yellow, white and black koji",
+    "https://www.kawauchi.co.jp/shop/pages/kawachikin"
+   ],
+   [
+    "Shochu Next: 10 questions on koji at Kawachi Genichiro Shoten",
+    "https://shochu-next.com/article/13887"
+   ]
+  ]
+ },
+ {
+  "cat": "shochu",
+  "name": "Genatsu (reduced-pressure) distillation",
+  "ja": "減圧蒸留",
+  "prefs": [
+   45,
+   46,
+   44
+  ],
+  "text": "Distillation in a vacuum-pumped still where pressure is cut to roughly one tenth of atmospheric, so the mash boils at about 40 to 50 degrees C instead of 85 to 95. Fewer heat-generated compounds reach the spirit, giving a light, clean, easy-drinking profile. Examples of reduced-pressure shochu named in sources include sesame Beni Otome and soba Unkai.",
+  "flavor": "Light, clean, fresh; fruit aromatics preserved, little heavy or roasted note.",
+  "use": "Chosen for lighter, cleaner spirit; e.g. Beni Otome and Unkai are reduced-pressure.",
+  "craft": "Nishi Yoichiro of Nishi Shuzo cautions against the simple rule 'atmospheric means heavy, reduced means light', and Iichiko-style makers state the right method depends on target spirit. Some distillers start atmospheric and switch to reduced pressure during the run to capture aroma, as Tominohozan is described.",
+  "src": [
+   [
+    "Shochu Press: reduced vs atmospheric distillation",
+    "https://shochupress.com/2022/02/15/shochu_genatsu/"
+   ],
+   [
+    "Iichiko: atmospheric vs reduced pressure",
+    "https://style.iichiko.co.jp/attraction/20220805/0154/"
+   ],
+   [
+    "Denen Shuzo: distillation methods",
+    "https://shop.denen-shuzo.co.jp/blog/distillation-denen/"
+   ],
+   [
+    "Shochu Next: Nishi Yoichiro on distillation",
+    "https://shochu-next.com/article/5237"
+   ]
+  ]
+ },
+ {
+  "cat": "shochu",
+  "name": "Joatsu (atmospheric-pressure) distillation",
+  "ja": "常圧蒸留",
+  "prefs": [
+   46,
+   45,
+   43
+  ],
+  "text": "Distillation at normal air pressure, the mash boiling at about 85 to 95 degrees C. The heat carries over raw-material aroma plus compounds formed by heating, so the spirit tends to be full and rich, with plenty of body. Sources are not unanimous: some say atmospheric distillation can bring more off-notes, while Nishi Shuzo rejects the simple rule that atmospheric is heavy and reduced is light.",
+  "flavor": "Full-bodied, rich, roasted and sweet, with grain and potato character.",
+  "use": "Chosen for full-bodied, richly flavoured spirit.",
+  "craft": "Heating-derived components go into the spirit, so a maker's choice of cuts and still shapes the result. Wooden stills used by some kura are said to soften and thicken the spirit. Be sceptical of absolute statements: sources disagree on which method gives fewer off-flavours.",
+  "src": [
+   [
+    "Kuge Honten: distillation methods",
+    "https://kugehonten.jp/category16/entry66.html"
+   ],
+   [
+    "Iichiko: atmospheric vs reduced pressure",
+    "https://style.iichiko.co.jp/attraction/20220805/0154/"
+   ],
+   [
+    "Shochu Next: Nishi Yoichiro on distillation",
+    "https://shochu-next.com/article/5237"
+   ]
+  ]
+ },
+ {
+  "cat": "shochu",
+  "name": "Kame-tsubo jikomi (ceramic-jar mashing)",
+  "ja": "甕壺仕込み",
+  "prefs": [
+   46
+  ],
+  "text": "Mashing in buried ceramic jars rather than stainless tanks. Makers describe the first mash and second mash both being run in jars, many of them set in the ground so temperature stays stable. Satsuma Musou ferments in 500 to 600 litre jars, then distils in a wooden still; Tamura's Kametsubo Junkuro uses jars in use since its founding in Meiji 30. The round jar is said to promote convection in the mash.",
+  "flavor": "Rounded, earthy, gently thick, often described as soft.",
+  "use": "Signals a traditional, hands-on kura; read the label for which stage uses jars.",
+  "craft": "Kumamoto Regional Taxation Bureau is cited as saying there is no explicit rule for the label term 'kame-tsubo jikomi', so some makers print it only when jars are used for both mashes. Specifics such as stirring frequency were not found in the search results.",
+  "src": [
+   [
+    "Hamada Shuzo: kame and shochu",
+    "https://www.hamadasyuzou.co.jp/denbee/column/post_8.html"
+   ],
+   [
+    "Kame-tsubo jikomi explained",
+    "http://44471.jp.net/know/kametsubo/"
+   ],
+   [
+    "Satsuma Musou: Kametsubo Jikomi",
+    "https://satsumamusou.co.jp/products/kametsubojikomi_1800ml"
+   ],
+   [
+    "Akugare: charm of ceramic-jar shochu",
+    "https://www.akugare.jp/6498/"
+   ]
+  ]
+ },
+ {
+  "cat": "shochu",
+  "name": "Wooden-vat still (kidaru jouryuuki)",
+  "ja": "木樽蒸留器",
+  "prefs": [
+   46
+  ],
+  "text": "A still made of staves of cedar over 80 years old held by bamboo hoops, with no nails or glue. One maker says only one craftsman, Tsuru Yasuro of Osumi in Soo, Kagoshima, builds them; other sources say just a few. Wood retains heat and lets some gas and alcohol seep through the joints, giving a softer, thicker, more refined spirit with a lower proof than stainless distillation. Shirakane says it lasts only 5 to 6 years, others say 4 to 5; Denbee replaces its still every 5 years.",
+  "flavor": "Soft, thick and refined, slightly woody; milder than stainless-still spirit.",
+  "use": "Seen as a marker of traditional craft; only a minority of kura use one.",
+  "craft": "Staves shrink and hoops loosen, causing leaks and rot, so replacement on a roughly 4 to 6 year cycle is the cost of the method. Of Kagoshima's 112 kura, only a few use wooden stills.",
+  "src": [
+   [
+    "Hamada Shuzo Denbee: wooden-vat still",
+    "https://www.hamadasyuzou.co.jp/denbee/column/post_129.html"
+   ],
+   [
+    "Shirakane Shuzo: wooden still",
+    "https://www.shirakane.jp/obsession/cask/"
+   ],
+   [
+    "Shochu Press: wooden-vat still",
+    "https://shochupress.com/2022/01/26/shochu_kidaru/"
+   ],
+   [
+    "Fukoku Life: wooden still craftsman Tsuru Yasuro",
+    "https://web-ic.fukoku-life.co.jp/japan-vision/127.html"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Honkaku shochu vs 'kou' shochu (legal classes)",
+  "ja": "本格焼酎・甲類・乙類",
+  "prefs": [],
+  "text": "Under the liquor tax law, continuous-still shochu (kou-rui) must be under 36 percent ABV; single-still shochu (otsu-rui, honkaku) is at 45 percent or less. Since the 2006 tax reform the legal terms are renzokushiki jouryu and tanshiki jouryu shochu. Honkaku shochu requires single distillation, grain/potato/sake-lees/brown-sugar or designated ingredients plus koji, and no additives other than water.",
+  "flavor": "Terminology: honkaku is the flavourful, ingredient-driven class; kou-rui is neutral.",
+  "use": "Read on labels; honkaku and awamori are the classes covered by the trade association.",
+  "craft": "Koji raw materials must be grain or potato. Designated ingredients may not exceed the main ingredient in quantity. 'Honkaku' is the common name for single-still spirit, but the formal tax categories decide what a label can claim.",
+  "src": [
+   [
+    "Honkaku Shochu & Awamori Association: classification",
+    "https://www.honkakushochu-awamori.jp/about-shochu-and-awamori/classification-of-shochu-and-awamori/"
+   ],
+   [
+    "Tanoshii Osake: kou vs otsu",
+    "https://tanoshiiosake.jp/8970"
+   ],
+   [
+    "Tanoshii Osake: honkaku shochu definition",
+    "https://tanoshiiosake.jp/9585"
+   ],
+   [
+    "Tokyo Regional Taxation Bureau: shochu",
+    "https://www.nta.go.jp/about/organization/tokyo/sake/abc/abc-shochu.htm"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Designated ingredients (shitei butsuhin) for honkaku shochu",
+  "ja": "指定物品（本格焼酎の特殊原料）",
+  "prefs": [],
+  "text": "Beyond grains, potatoes, sake lees and brown sugar, the NTA Commissioner designates other ingredients allowed in honkaku shochu. One source gives 49 items. Examples quoted from the NTA list include ashitaba, adzuki, aloe, pumpkin, chestnut, green peas, Asian ginseng, ginkgo nut and milk. They may not exceed the base ingredient in amount.",
+  "flavor": "Glossary: explains why shochu from chestnut, carrot or pumpkin can still be labelled honkaku.",
+  "use": "Look here when a bottle lists an unusual ingredient and ask whether it is a base or a designated additive.",
+  "craft": "Koji must still come from grain or potato. Whether soba or potato qualify under this list was not confirmed by the search results; soba is a main grain-class ingredient, so check the NTA text directly for exact status.",
+  "src": [
+   [
+    "Shochu Next: unusual ingredient shochu",
+    "https://shochu-next.com/article/15192"
+   ],
+   [
+    "Tanoshii Osake: honkaku shochu definition",
+    "https://tanoshiiosake.jp/9585"
+   ],
+   [
+    "Honkaku Shochu & Awamori Association: classification",
+    "https://www.honkakushochu-awamori.jp/about-shochu-and-awamori/classification-of-shochu-and-awamori/"
+   ]
+  ]
+ },
+ {
+  "cat": "glossary",
+  "name": "Shochu and awamori Geographical Indications (GI)",
+  "ja": "地理的表示（焼酎・泡盛のGI）",
+  "prefs": [],
+  "text": "Iki (barley, Nagasaki), Kuma (rice, Kumamoto) and Ryukyu (awamori, Okinawa) were designated on 30 June 1995; Satsuma (imo shochu, Kagoshima excluding Amami city and Oshima district) on 22 December 2005; and Tokyo Shimazake on 13 March 2024, the first shochu GI in 18 years and the fifth overall. NTA records show the first three were revised on 27 February 2018. One column says Iki's trademark-law designation dates 3 October 1995.",
+  "flavor": "Glossary: origin protection, not a flavour grade.",
+  "use": "A GI on the label guarantees origin and process, such as local water and local fermentation.",
+  "craft": "Each GI fixes raw material, koji and place: Iki specifies barley only, single distillation, and rice koji; Tokyo Shimazake fixes barley koji and island water. Check the NTA standard for the exact wording.",
+  "src": [
+   [
+    "NTA: Geographical indications of liquor (2018)",
+    "https://www.nta.go.jp/about/council/chiri-bunkakai/190331/pdf/005.pdf"
+   ],
+   [
+    "Kokubu: geographical indication origins",
+    "http://shochu.kokubu.co.jp/article/chiritekihyouji.html"
+   ],
+   [
+    "Shochu Kikou: GI shochu",
+    "https://www.shochu-kikou.com/chishiki/nyumon13.html"
+   ],
+   [
+    "Shimazake: Tokyo Shimazake designated",
+    "https://shimazake.com/853/"
+   ]
+  ]
+ },
+ {
+  "cat": "shochu",
+  "name": "Satsuma GI (Satsuma imo shochu)",
+  "ja": "薩摩（地理的表示・芋焼酎）",
+  "prefs": [
+   46
+  ],
+  "text": "Designated 22 December 2005 as a GI for imo shochu of Kagoshima prefecture, excluding Amami city and Oshima district, where kokuto shochu is the local spirit. Per NTA material the area is Kagoshima apart from the Amami islands. It sits alongside the earlier Iki, Kuma and Ryukyu designations, from 1995.",
+  "flavor": "Origin label; the style is broad, from full black-koji to fruity yellow-koji potato spirits.",
+  "use": "Look for it to confirm the shochu is Kagoshima-grown, mashed and distilled imo shochu.",
+  "craft": "The excluded Amami area is the reason kokuto shochu is not 'Satsuma': two separate legal territories sit inside Kagoshima prefecture.",
+  "src": [
+   [
+    "NTA: Geographical indications of liquor (2018)",
+    "https://www.nta.go.jp/about/council/chiri-bunkakai/190331/pdf/005.pdf"
+   ],
+   [
+    "Kokubu: geographical indications",
+    "http://shochu.kokubu.co.jp/article/chiritekihyouji.html"
+   ],
+   [
+    "Shochu Kikou: GI shochu",
+    "https://www.shochu-kikou.com/chishiki/nyumon13.html"
+   ]
+  ]
+ },
+ {
+  "cat": "shochu",
+  "name": "Tokyo Shimazake (Izu Islands GI)",
+  "ja": "東京島酒",
+  "prefs": [
+   13
+  ],
+  "text": "Shochu of the Izu Islands, designated a GI on 13 March 2024. The NTA production standard recognises three types, all using barley koji: imo shochu, barley shochu, and an imo-barley blend. Sweet potatoes must be domestic, water must be drawn within the islands, and fermentation, distillation and storage are done on the islands. Island paddy was scarce, so barley and millet were grown and barley koji became the norm. Islands include Oshima, Toshima, Niijima, Kozushima, Miyakejima, Hachijojima and Aogashima.",
+  "flavor": "Toasty, roasted-barley fragrance from barley koji, with potato-cultivar-dependent aromatics; some taste like baked sweet potato.",
+  "use": "Island regional spirit; ask the kura for its recommended serving.",
+  "craft": "Barley koji is the distinguishing feature written into the GI standard. Tradition says Tanso Shoemon, a Satsuma merchant exiled to Hachijo in the late Edo period, taught distilling to islanders.",
+  "src": [
+   [
+    "NTA: Tokyo Shimazake production standard",
+    "https://www.nta.go.jp/taxes/sake/hyoji/chiri/240313_tokyo_besshi01.htm"
+   ],
+   [
+    "Ritokei: Tokyo Shimazake designated GI",
+    "https://ritokei.com/keizai/31226"
+   ],
+   [
+    "Shimazake: GI Tokyo Shimazake",
+    "https://shimazake.com/853/"
+   ]
+  ]
+ },
+ {
+  "cat": "shochu",
+  "name": "Hachijojima distilleries (Hachijo Shuzo, Sakashita Shuzo) and Aogashima 'Seichu'",
+  "ja": "八丈島の焼酎蔵と青ヶ島の青酎",
+  "prefs": [
+   13
+  ],
+  "text": "The Hachijojima tourism association lists four shochu makers on the island. Hachijo Shuzo, founded in 1915, is described as the oldest on the island; Sakashita Shuzo dates to Taisho 14 (1925). On Aogashima, Aogashima Shuzo makes the local 'Seichu'. Distilling is traced to Tanso Shoemon, a Satsuma merchant exiled to Hachijo late in the Edo period. Barley koji is the island norm.",
+  "flavor": "Roasted, toasty barley-koji aroma with potato sweetness.",
+  "use": "Small-volume island spirit; best bought on the island or from the kura.",
+  "craft": "Supply is small; visitors drink it locally. Check each kura's own page, since information in tourist and retailer sources may be out of date.",
+  "src": [
+   [
+    "Hachijojima Tourism Association: island shochu",
+    "https://www.hachijo.gr.jp/specials/shochu/"
+   ],
+   [
+    "Tanoshii Osake: shochu from Tokyo",
+    "https://tanoshiiosake.jp/2784"
+   ],
+   [
+    "Ritokei: Tokyo Shimazake",
+    "https://ritokei.com/keizai/31226"
+   ]
+  ]
+ },
+ {
+  "cat": "shochu",
+  "name": "Kasutori shochu (sake-lees shochu) of northern Kyushu",
+  "ja": "粕取り焼酎",
+  "prefs": [
+   40,
+   41
+  ],
+  "text": "Shochu distilled from sake lees. Fukuoka's shochu making began in the Edo period with kasutori: lees left over from rice sake were distilled to give shochu and the residue (shimokasu) was used as fertiliser in a recycling farm cycle. Per the Honkaku Shochu Association, traditional making mixes lees with a little water, ferments several months, then distils. Fukuoka's old form pelletises the lees, coats them with rice husk, and steams them in a seiro (solid-mash steam distillation). A 17th-century document is said to describe shochu then made from lees or spoiled sake.",
+  "flavor": "Varies by type: traditional husk-steamed versus fresh ginjo lees.",
+  "use": "See the seicho and ginjo kasutori entries for serving; the style is a farm-country by-product spirit of northern Kyushu.",
+  "craft": "Rice husk keeps the lump open so steam passes evenly; thorough mixing of lees with water matters. Origin of the seiro-type still is debated: Miyazaki Yasusada is said to have introduced the idea from China, but nothing is certain.",
+  "src": [
+   [
+    "Honkaku Shochu & Awamori Association: kasutori recycling",
+    "https://www.honkakushochu-awamori.jp/shochu-column/column/meguri/meg_32.html"
+   ],
+   [
+    "Tanoshii Osake: kasutori shochu",
+    "https://tanoshiiosake.jp/13545"
+   ],
+   [
+    "Fukuoka no Sake: Fukuoka shochu",
+    "https://fukuokanosake.com/fukuoka-shochu/"
+   ],
+   [
+    "NTA: history of shochu and awamori",
+    "https://www.nta.go.jp/taxes/sake/koujikin/pdf/0021012-102_04.pdf"
+   ]
+  ]
+ },
+ {
+  "cat": "shochu",
+  "name": "Seicho kasutori (traditional rice-husk lees shochu)",
+  "ja": "正調粕取焼酎",
+  "prefs": [
+   40,
+   41
+  ],
+  "text": "The older type of lees shochu: lees are mixed with rice husk and steamed in a seiro, as opposed to ginjo kasutori made from fresh ginjo lees. Mori no Kura of Kurume is presented as a kasutori specialist founded in Meiji 31 (1898), and Hikari Shuzo is a shochu-first kura that makes 'Ogame' as seicho kasutori. A Saga example: Tenzan Shuzo of Ogi, which brews sake 'Tenzan', also makes the lees shochu 'Shichida'.",
+  "flavor": "Traditional lees-spirit character; no tasting notes were found in the sources.",
+  "use": "Traditional spirit of the sake-lees cycle; ask the kura for its serving advice.",
+  "craft": "Husk keeps the lees lumps open to steam. The distinction between seicho (husk, old) and ginjo (fresh lees, modern) is how makers classify the styles.",
+  "src": [
+   [
+    "Seicho Kasutori: tracing its source",
+    "https://note.com/seicho_kasutori/n/n3c10e3a76b84"
+   ],
+   [
+    "Tanoshii Osake: kasutori shochu",
+    "https://tanoshiiosake.jp/13545"
+   ],
+   [
+    "Fukuoka no Sake: Fukuoka shochu",
+    "https://fukuokanosake.com/fukuoka-shochu/"
+   ],
+   [
+    "Vokka: kasutori shochu",
+    "https://vokka.jp/5560/"
+   ]
+  ]
+ },
+ {
+  "cat": "shochu",
+  "name": "Ginjo kasutori (fresh ginjo-lees shochu)",
+  "ja": "吟醸粕取焼酎",
+  "prefs": [
+   40
+  ],
+  "text": "Lees shochu made from fresh ginjo sake lees, as distinguished from seicho kasutori, which mixes the lees with rice husk. Examples named in search results: Muhomatsu Shuzo of Kitakyushu and Hana no Tsuyu of Kurume.",
+  "flavor": "Described as a gentler counterpart of traditional kasutori; no tasting notes found in the sources.",
+  "use": "Made by kura that also brew ginjo-class sake; ask the maker for serving advice.",
+  "craft": "Uses fresh lees without husk, in contrast to the husk-steamed seicho type.",
+  "src": [
+   [
+    "Tanoshii Osake: kasutori shochu",
+    "https://tanoshiiosake.jp/13545"
+   ],
+   [
+    "Seicho Kasutori: tracing its source",
+    "https://note.com/seicho_kasutori/n/n3c10e3a76b84"
+   ],
+   [
+    "Vokka: kasutori shochu",
+    "https://vokka.jp/5560/"
+   ]
+  ]
+ },
+ {
+  "cat": "shochu",
+  "name": "Chichibu Kiko (Buko Shuzo sake-lees shochu)",
+  "ja": "秩父紀行（武甲酒造）",
+  "prefs": [
+   11
+  ],
+  "text": "A honkaku sake-lees shochu from Buko Shuzo, an old kura in Chichibu, Saitama, distilled in a single-still. Saitama's Chichibu area also produces shochu from sake lees, a by-product of sake brewing.",
+  "flavor": "Sake-lees character; no tasting notes were found in the sources.",
+  "use": "Neat or with water; a regional curiosity for Saitama.",
+  "craft": "A sake kura distilling its own lees follows the same cycle as northern Kyushu, a reminder that kasutori is a by-product spirit wherever sake is brewed.",
+  "src": [
+   [
+    "Tanoshii Osake: Chichibu Kiko (Buko Shuzo)",
+    "https://tanoshiiosake.jp/8482"
+   ]
+  ]
+ },
+ {
+  "cat": "shochu",
+  "name": "Ryuudon cask-aged imo shochu (Chichibu, Saitama)",
+  "ja": "龍呑樽貯蔵（秩父）",
+  "prefs": [
+   11
+  ],
+  "text": "A honkaku imo shochu from Chichibu Kikusui, listed by the Saitama sake association: made from Chichibu-grown sweet potato, aged in whisky casks and bottled unfiltered. Saitama's other shochu includes a rice shochu 'Danbee' from the Chichibu area.",
+  "flavor": "Cask-influenced, with potato sweetness and woody depth.",
+  "use": "Straight or on the rocks, as one would a lightly aged spirit.",
+  "craft": "Unfiltered bottling keeps oils and body; check the colour against the legal limit for shochu (see the cask-aging entry).",
+  "src": [
+   [
+    "Saisake: Ryuudon cask-aged honkaku shochu",
+    "https://saisake.com/products/%E6%9C%AC%E6%A0%BC%E7%84%BC%E9%85%8E-%E9%BE%8D%E5%91%91%E6%A8%BD%E8%B2%AF%E8%94%B5/"
+   ],
+   [
+    "Tanoshii Osake: Saitama shochu",
+    "https://tanoshiiosake.jp/8482"
+   ]
+  ]
+ },
+ {
+  "cat": "shochu",
+  "name": "Nijo barley (two-row barley) for shochu",
+  "ja": "二条大麦",
+  "prefs": [
+   44,
+   42
+  ],
+  "text": "The standard barley for shochu since the late twentieth century. Two-row barley has large grains that polish well and a high starch content, which also suits barley koji. In Iki, a trial of Miyazaki two-row barley in 1947 is cited as a step towards its spread, after which domestic and imported barley were used.",
+  "flavor": "Barley-grain character; no separate sensory notes in the sources.",
+  "use": "Underlies both Iki-style rice-koji and Oita-style barley-koji shochu.",
+  "craft": "Polish ratio and grain starch affect yield and cleanliness; two-row barley is chosen for its large kernel and starch rather than for flavour alone.",
+  "src": [
+   [
+    "Takara Shuzo: history and making of barley shochu",
+    "https://sakabanashi.takarashuzo.co.jp/cat2/barley_shochu_220323"
+   ],
+   [
+    "Ikikankou: Iki, birthplace of barley shochu",
+    "https://www.ikikankou.com/feature/shochu"
+   ],
+   [
+    "Shochu Press: Iki shochu",
+    "https://shochupress.com/2022/01/09/iki_shochu/"
+   ]
+  ]
+ },
+ {
+  "cat": "shochu",
+  "name": "Rice-koji barley shochu (Iki) vs barley-koji barley shochu (Oita)",
+  "ja": "壱岐の米麹麦焼酎と大分の麦麹麦焼酎",
+  "prefs": [
+   42,
+   44
+  ],
+  "text": "Iki's tradition uses rice koji with barley; the GI fixes barley as the only grain and rice koji only, at roughly 1 koji to 2 grain by weight, commonly described as two-thirds barley to one-third rice koji. Origin is placed in the 16th century, and under Edo-period heavy taxation by Hirado domain barley became the islanders' staple. Barley koji became mainstream from the 1970s, and many Oita brands use it, in contrast to Iki. Sources differ on exact dates.",
+  "flavor": "Style contrast: rice-koji Iki versus barley-koji Oita; no sensory notes in the sources.",
+  "use": "Compare the two styles side by side.",
+  "craft": "Koji grain is the label to read: rice koji (kome-koji) or barley koji (mugi-koji). Broken Thai rice or domestic rice is used for Iki koji.",
+  "src": [
+   [
+    "Takara Shuzo: barley shochu",
+    "https://sakabanashi.takarashuzo.co.jp/cat2/barley_shochu_220323"
+   ],
+   [
+    "Ikikankou: Iki shochu",
+    "https://www.ikikankou.com/feature/shochu"
+   ],
+   [
+    "Shochu Next: Iki shochu, the origin of barley shochu",
+    "https://shochu-next.com/article/8186"
+   ],
+   [
+    "Shochu Press: Iki shochu",
+    "https://shochupress.com/2022/01/09/iki_shochu/"
+   ]
+  ]
+ },
+ {
+  "cat": "shochu",
+  "name": "Hadaka-mugi shochu (Ehime naked barley)",
+  "ja": "はだか麦焼酎（愛媛）",
+  "prefs": [
+   38
+  ],
+  "text": "Ehime is the largest naked-barley producing prefecture, said to grow about 40 percent of the national crop. Makers distil shochu from it: Sakura Uzumaki Shuzo of Matsuyama, mainly a sake kura, took a shochu licence in 1959 and makes a hadaka-mugi barley shochu; Matsada Shuzo of Seiyo makes 'Houzenbou' from hadaka-mugi. The aroma is compared with 'mugi choco' and 'kaki no tane' snacks.",
+  "flavor": "Roasted, sweet and nutty, in the manner of roasted barley.",
+  "use": "On the rocks, mizuwari or soda; pairs with Ehime fish dishes.",
+  "craft": "Ehime's share of national naked-barley output (about 40 percent) is the selling point; judge by comparing against other barley shochu.",
+  "src": [
+   [
+    "Tanoshii Osake: Sakura Uzumaki (Ehime)",
+    "https://tanoshiiosake.jp/10599"
+   ],
+   [
+    "Sakekaitori: Ehime shochu",
+    "https://www.sakekaitori.com/knowledge/20211006-syotyu-ehimw/"
+   ]
+  ]
+ },
+ {
+  "cat": "shochu",
+  "name": "Ehime specialty-ingredient shochu (chestnut, shiitake, rice-barley)",
+  "ja": "愛媛の変わり種焼酎（栗・椎茸）",
+  "prefs": [
+   38
+  ],
+  "text": "Hime-bayashi, described as the only shochu-specialist maker in Shikoku, uses rice, chestnut and barley and makes chestnut shochu 'Okuri Okura'. Ogata Shuzo of Nomura makes a shiitake shochu, 'Ren', from rice and barley. A retailer lists an Ehime imo shochu 'Setomusubi' made with local potato.",
+  "flavor": "Not described in the sources.",
+  "use": "Gift and conversation spirits; neat or on the rocks.",
+  "craft": "These rely on the designated-ingredient rules: the base grain still carries the fermentation. Source quality here is retailer-level, so verify before quoting.",
+  "src": [
+   [
+    "Sakekaitori: Ehime shochu picks",
+    "https://www.sakekaitori.com/knowledge/20211006-syotyu-ehimw/"
+   ],
+   [
+    "Tanoshii Osake: Sakura Uzumaki (Ehime)",
+    "https://tanoshiiosake.jp/10599"
+   ]
+  ]
+ },
+ {
+  "cat": "shochu",
+  "name": "Dabada Hiburi (chestnut shochu, Kochi)",
+  "ja": "ダバダ火振（栗焼酎）",
+  "prefs": [
+   39
+  ],
+  "text": "Chestnut shochu from Muteki Muka (Shimanto town, Kochi), a sake kura founded in Meiji 26 (1893). Around 1985 the town asked the kura to use chestnuts, because boars attracted by fallen chestnuts raided fields. It obtained a chestnut-limited distilling licence and worked out the product. The maker states chestnut makes up 50 percent of the raw material, with barley and rice, and distils slowly at low temperature; 25 percent ABV. Hiburi refers to the torch fishing of ayu on the Shimanto river.",
+  "flavor": "Gentle chestnut sweetness and toasty aroma with restrained alcohol.",
+  "use": "On the rocks or mizuwari; popular as a gift.",
+  "craft": "Uses many non-standard chestnuts. Early sales were poor; wider fame came after an airline in-flight catalogue. Sources vary on the origin of 'Dabada'.",
+  "src": [
+   [
+    "Kochike: the secret of Dabada Hiburi",
+    "https://kochike.jp/column/299/"
+   ],
+   [
+    "Marugoto Kochi magazine: Dabada Hiburi",
+    "https://magazine.kochi-gaisho.com/magazine/115/"
+   ],
+   [
+    "Muteki Muka: Dabada Hiburi",
+    "https://mutemuka.com/shochu/dabadahiburi.html"
+   ]
+  ]
+ },
+ {
+  "cat": "shochu",
+  "name": "Beni Otome (sesame shochu, Kurume)",
+  "ja": "紅乙女（胡麻焼酎）",
+  "prefs": [
+   40
+  ],
+  "text": "The first sesame shochu, born in 1978 at Beni Otome Shuzo in Kurume, Fukuoka, by founder Hayashida Haruno. Roasted sesame, stated as at least 10 percent and Fukuoka-grown, is added to a mash of barley and rice koji in the first stage; sesame has little starch, so grain is needed. It is distilled under reduced pressure and the process is patented. Gold is a 38 percent long-aged version, said to have won a three-star taste award in 2006.",
+  "flavor": "Faint sesame aroma with soft, mellow flavour; Gold is richer.",
+  "use": "Standard 25 percent and long-aged 38 percent Gold are the main lines.",
+  "craft": "Sesame is added at the first mash, not later. Product ratios vary: some sources say 10 percent, others 20.",
+  "src": [
+   [
+    "Tanoshii Osake: sesame shochu",
+    "https://tanoshiiosake.jp/11595"
+   ],
+   [
+    "Fukuoka Sake Brewers Assoc: Beni Otome",
+    "http://www.fukuoka-sake.org/map/detail.php?ID=73"
+   ],
+   [
+    "Beni Otome complete guide",
+    "https://kaka-1834.com/beniotome-shochu-complete-guide/"
+   ]
+  ]
+ },
+ {
+  "cat": "shochu",
+  "name": "Soba shochu and Unkai (Gokase, Miyazaki)",
+  "ja": "そば焼酎・雲海",
+  "prefs": [
+   45
+  ],
+  "text": "Unkai Shuzo of Gokase, Miyazaki, founded in 1967 as Gokase Shuzo, launched Unkai in October 1973, Japan's first soba shochu. Soba hulls are removed after heat treatment; soba ferments weakly, so rice or barley koji is combined with it. Unkai is listed as soba, barley koji and rice, white koji, reduced-pressure distillation, using Gokase river water. Variants include black-koji Unkai and one with a yeast from the 'Unkai' soba flower.",
+  "flavor": "Faint soba aroma, clean and easy-drinking.",
+  "use": "Ask the kura for its recommended serving.",
+  "craft": "Cold climate allows slow fermentation for finer umami. Miyazaki and Nagano are the centres of soba shochu.",
+  "src": [
+   [
+    "Tanoshii Osake: Unkai",
+    "https://tanoshiiosake.jp/3995"
+   ],
+   [
+    "Tanoshii Osake: soba shochu",
+    "https://tanoshiiosake.jp/9059"
+   ],
+   [
+    "Unkai Shuzo: facilities",
+    "https://www.unkai.co.jp/learn/facility"
+   ]
+  ]
+ },
+ {
+  "cat": "shochu",
+  "name": "Kokuto shochu: the 1953 reversion exemption",
+  "ja": "黒糖焼酎の特例（1953年）",
+  "prefs": [
+   46
+  ],
+  "text": "When Amami returned to Japan in 1953, kokuto liquor risked being taxed like rum; islanders asked that it be treated as shochu. The compromise: adding rice koji to the process let it be classed as shochu, a concession limited to the Oshima tax office district (Amami). Brown sugar alone would make it a spirit. Production is on five islands: Amami Oshima, Kikaijima, Tokunoshima, Okinoerabu, Yoron. Sources disagree on whether the basis was a notice or a law revision.",
+  "flavor": "Brown-sugar-derived character; see the kura entry for atmospheric versus reduced-pressure styles.",
+  "use": "Production covers five islands; ask the individual kura for serving advice.",
+  "craft": "The rice-koji requirement is the legal basis of the category. Make sure labels say kokuto shochu and not a rum-style spirit.",
+  "src": [
+   [
+    "Amami Bussan: history of kokuto shochu",
+    "https://www.amamibussan.jp/info/kokuto/distilled-spirits-history/"
+   ],
+   [
+    "Sakelog: Amami kokuto shochu history",
+    "https://sakelog.jp/history/"
+   ],
+   [
+    "Tensei Shuzo: kokuto shochu",
+    "https://tensei-shuzo.com/tenpedia/%E9%BB%92%E7%B3%96%E7%84%BC%E9%85%8E/"
+   ],
+   [
+    "Amami Horizon: kokuto shochu history",
+    "https://amami-horizon.com/culture/food/history-of-kokuto-shochu"
+   ]
+  ]
+ },
+ {
+  "cat": "shochu",
+  "name": "Amami kokuto shochu kura and their styles",
+  "ja": "奄美黒糖焼酎の蔵と銘柄",
+  "prefs": [
+   46
+  ],
+  "text": "Amami Oshima Shuzo (founded 1957) makes Hamachidori no Uta, Takakura and Jougo; Tomita Shuzojo makes Ryugu, atmospheric-distilled in large jars; Amami Oshima Kaiun makes Lento, aged to classical music; Machida Shuzo's Sato no Akebono is described as Japan's first reduced-pressure kokuto shochu; Asahi Shuzo of Kikaijima makes Asahi, atmospheric-distilled from local cane. Niiro Shuzo of Okinoerabu makes Tenkaichi from island brown sugar.",
+  "flavor": "Varies by kura and still type.",
+  "use": "A way to compare atmospheric and reduced-pressure kokuto styles.",
+  "craft": "Claims from retailer and ranking sites conflict (e.g. one source says Sato no Akebono is also three-year stored). Verify with the kura.",
+  "src": [
+   [
+    "Ritokei: Amami kokuto shochu kura guide",
+    "https://ritokei.com/voice/2463"
+   ],
+   [
+    "Sakelog: Amami kura list",
+    "https://sakelog.jp/brewery-list/"
+   ]
+  ]
+ },
+ {
+  "cat": "shochu",
+  "name": "Why awamori uses Thai long-grain rice",
+  "ja": "泡盛とタイ米",
+  "prefs": [
+   47
+  ],
+  "text": "Awamori is made of broken Thai indica rice. Rice prices in Okinawa rose in the early 1920s and makers looked for a quality overseas rice. Sources list reasons: crushed grain presents a large surface for black koji, it is firmer than sticky japonica and easier to handle, it steams non-sticky so mycelium can reach the interior and mash temperature is easier to control. One personal answer says price was the main reason.",
+  "flavor": "Aroma and body of awamori; rich fragrance reported.",
+  "use": "Explains why awamori is 'kome-koji' only, no other grain.",
+  "craft": "Non-sticky rice is easier to spread on a koji tray and keep from clumping. Check source: some reasons come from blogs and Q&A.",
+  "src": [
+   [
+    "MLIT multilingual tourism DB: why Thai rice",
+    "https://www.mlit.go.jp/tagengo-db/R1-01302.html"
+   ],
+   [
+    "Tanoshii Osake: awamori raw material",
+    "https://tanoshiiosake.jp/11321"
+   ],
+   [
+    "Shochu Data: awamori ingredients",
+    "https://shochu-data.com/awamori-ingredients/"
+   ]
+  ]
+ },
+ {
+  "cat": "shochu",
+  "name": "Zen-koji jikomi (all-koji, single-stage mash) of awamori",
+  "ja": "全麹仕込み",
+  "prefs": [
+   47
+  ],
+  "text": "Awamori is mashed with all the rice converted to black koji, in one stage, instead of the two-stage koji-then-steamed-grain mash used for shochu. The black koji produces abundant citric acid, suppressing contaminating bacteria in Okinawa's hot, humid climate; with two stages the acid would be diluted, which is the stated reason all-koji mashing took root.",
+  "flavor": "Rich, citric-acid-protected ferment of a full-koji mash.",
+  "use": "Foundation of awamori; read on the label as 'raw material: rice koji'.",
+  "craft": "Labels of awamori list only rice koji. The ferment is a single stage with full koji; citric acid is the safety net.",
+  "src": [
+   [
+    "MLIT multilingual tourism DB: Thai rice and black koji",
+    "https://www.mlit.go.jp/tagengo-db/R1-01302.html"
+   ],
+   [
+    "Sakesen: how awamori is made",
+    "https://sakesen-media.com/how-to-make-awamori/"
+   ],
+   [
+    "Tanoshii Osake: awamori raw material",
+    "https://tanoshiiosake.jp/11321"
+   ]
+  ]
+ },
+ {
+  "cat": "shochu",
+  "name": "Awamori kusu (koshu) labelling rule",
+  "ja": "泡盛の古酒（クース）表示基準",
+  "prefs": [
+   47
+  ],
+  "text": "Only awamori stored at least three years may be labelled koshu. The Okinawa awamori association tightened labelling: earlier a blend with at least 50 percent of 3-year-or-older awamori could be called koshu; the tightened rule requires all of the content to be 3 years or older. Some current articles still repeat the old 50 percent figure.",
+  "flavor": "Mellow, sweet, with vanilla-like aroma after years of storage.",
+  "use": "Look for 'koshu' and years on the label; sip neat or with water.",
+  "craft": "Verify with the Fair Competition Code for awamori labels. Mixed-age bottles must show ages truthfully.",
+  "src": [
+   [
+    "Okinawa Awamori association FAQ",
+    "https://www.awamori.or.jp/user_data/awamorifaq"
+   ],
+   [
+    "Nikkei: koshu labelling tightened",
+    "https://www.nikkei.com/article/DGXNASJC1001T_Q3A011C1ACY000/"
+   ],
+   [
+    "Tanoshii Osake: kusu glossary",
+    "https://tanoshiiosake.jp/7379"
+   ]
+  ]
+ },
+ {
+  "cat": "shochu",
+  "name": "Shitsugi (awamori solera-style topping up)",
+  "ja": "仕次ぎ",
+  "prefs": [
+   47
+  ],
+  "text": "A method of ageing awamori by topping up old jars with younger spirit. Okinawa research modelling it found vanillin concentration after 8 shitsugi rounds about 1.5 times that without shitsugi. The same studies found 4-vinylguaiacol dropped greatly in storage but only a few to a dozen percent converted to vanillin. A distiller says koshu forms fastest at 5 to 7 years, with shitsugi from year 7.",
+  "flavor": "Vanilla and sweet roundness; rough edges soften.",
+  "use": "Used by kura and home growers for long-aged koshu.",
+  "craft": "Use a good parent spirit; the process lets old spirit lend character to young. Do not assume vanillin rises by storage alone.",
+  "src": [
+   [
+    "Okinawa Times: effect of shitsugi analysed",
+    "https://www.okinawatimes.co.jp/articles/-/810589"
+   ],
+   [
+    "Okinawa Prefecture Industrial Technology Center: study of shitsugi and ageing (2017)",
+    "https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/019/805/h29houkoku002.pdf"
+   ],
+   [
+    "Ryukyu Shimpo: growing koshu at home",
+    "https://ryukyushimpo.jp/living-style/entry-793733.html"
+   ]
+  ]
+ },
+ {
+  "cat": "shochu",
+  "name": "Origins of awamori (Siam, Shuri Sanka)",
+  "ja": "泡盛の起源と歴史",
+  "prefs": [
+   47
+  ],
+  "text": "Most accounts say distilling reached Ryukyu from Siam (Thailand) in the 15th century, some say late 14th. Higashionna Kanjun's 1941 'Awamori Zakko' proposed Thai 'lao long' as the origin. In 1460 King Sho Taikyu sent a 'Tenjiku liquor' to Korea, thought to be palm-based. Under the Ryukyu Kingdom production was restricted to the three Shuri villages (Shuri Sanka). Black koji and a local climate-adapted process made it distinct.",
+  "flavor": "Historical entry.",
+  "use": "Cultural context for a bottle from Okinawa's southern history.",
+  "craft": "Dates and routes vary by source; this is a hypothesis rather than a settled record.",
+  "src": [
+   [
+    "Wikipedia: Awamori",
+    "https://ja.wikipedia.org/wiki/%E6%B3%A1%E7%9B%9B"
+   ],
+   [
+    "Ryukyu Shimpo: what is awamori",
+    "https://ryukyushimpo.jp/news/economics/entry-3620941.html"
+   ],
+   [
+    "Okinawa Navi: awamori history",
+    "https://okinawa-navi.jp/magazine/awamori-history/"
+   ]
+  ]
+ },
+ {
+  "cat": "shochu",
+  "name": "Hanazake of Yonaguni (60 percent awamori)",
+  "ja": "与那国の花酒",
+  "prefs": [
+   47
+  ],
+  "text": "Hanazake is awamori of about 60 percent ABV made only on Yonaguni. It is the first distillate, from the same raw materials and process as awamori. Because tax law caps awamori at 45 degrees, it is treated for tax as raw alcohol. The name hanazake is used only for 60-degree-class spirit on the island. Some bottles are made with no dilution, just filtered; ordinary Yonaguni awamori is diluted to 43 or below. Donan is the best-known brand (Kokusen Awamori, Thai rice, black koji).",
+  "flavor": "Strong aroma and distinctive taste, per the maker's description of Donan.",
+  "use": "Used in rites (shinji) on Yonaguni; sip in small amounts.",
+  "craft": "Sources vary: '60 degrees', 'above 60', 'around 60'. 'Japan's strongest' is a sales line.",
+  "src": [
+   [
+    "Tanoshii Osake: Yonaguni hanazake",
+    "https://tanoshiiosake.jp/3512"
+   ],
+   [
+    "Tanoshii Osake: Donan",
+    "https://tanoshiiosake.jp/5132"
+   ],
+   [
+    "Ritokei: 60 degree hanazake",
+    "https://ritokei.com/ritokeiblog/9158"
+   ]
+  ]
+ },
+ {
+  "cat": "shochu",
+  "name": "Awamori kura by region (Zuisen, Kumesen, Kikunotsuyu, Tarakawa, Yaeizumi)",
+  "ja": "泡盛の蔵元（瑞泉・久米仙・菊之露・多良川・八重泉）",
+  "prefs": [
+   47
+  ],
+  "text": "Zuisen (Shuri, Naha) was founded 1887 near Shuri castle and is known for pot-aged koshu, rice and black koji, atmospheric distillation. Kikunotsuyu (Miyako, 1928) is described as moving to a modern taste and sells a reduced-pressure 25 percent pack. Tarakawa (Miyako, 1948). Yaeizumi (Ishigaki, 1955) is known for direct-fire distillation, \"Kuroshinju\", and early long storage in Western casks. Kumesen's founding is cited as both 1949 and 1952 in one guide, so check with the maker. A guide counts 47 awamori kura in Okinawa.",
+  "flavor": "Varies by kura.",
+  "use": "A map for regional comparison tastings.",
+  "craft": "Years and methods in retail and ranking sources conflict; use the kura's own site for firm dates.",
+  "src": [
+   [
+    "Okinawa Navi: 47 awamori kura guide",
+    "https://okinawa-navi.jp/magazine/awamori-factory-visit/"
+   ],
+   [
+    "Kumesen: cask-aged awamori of Yaeizumi",
+    "https://kumesen.co.jp/magazine/241009/"
+   ],
+   [
+    "Taragawa: about awamori",
+    "https://taragawa.shop/?tid=8&mode=f9"
+   ]
+  ]
+ },
+ {
+  "cat": "shochu",
+  "name": "Oyuwari and 'rokuyon' (6:4 hot water dilution)",
+  "ja": "お湯割り・ロクヨン",
+  "prefs": [
+   46
+  ],
+  "text": "Oyuwari is Kagoshima's most familiar way to drink shochu. Denen Shuzo's basic rule is hot water first, then shochu, and the classic ratio is 6 shochu to 4 water ('rokuyon'), giving about 15 percent ABV. The finished drink at human body temperature or slightly hotter (40 to 45 degrees C) opens the aroma; another source says about 70 degree water. Temperature advice differs by source.",
+  "flavor": "Warm; aroma opens with heat per makers.",
+  "use": "Common in Kagoshima; hot water first, then shochu.",
+  "craft": "Hot water goes in first and shochu after (Denen Shuzo). Final drink temperature advice varies from about 40 to 45 degrees C to hotter.",
+  "src": [
+   [
+    "Denen Shuzo: how to make oyuwari",
+    "https://www.denen-shuzo.co.jp/learn/03.htm"
+   ],
+   [
+    "Tanoshii Osake: oyuwari and maewari",
+    "https://tanoshiiosake.jp/2567"
+   ],
+   [
+    "Sake Oyaji: oyuwari",
+    "https://sakeoyaji.com/shochu-oyuwari/"
+   ]
+  ]
+ },
+ {
+  "cat": "shochu",
+  "name": "Maewari (pre-mixed shochu, rested overnight)",
+  "ja": "前割り",
+  "prefs": [
+   46
+  ],
+  "text": "Mix shochu and water ahead of time and let them rest, at least overnight per Takara Shuzo, so the two blend. The most common ratio in Kyushu is 6 shochu to 4 water, with 7:3 or 5:5 by preference. Denen Shuzo presents it as a traditional Kagoshima practice. It is served cold, at room temperature or warmed.",
+  "flavor": "Blended and softened by resting, per Takara Shuzo.",
+  "use": "Serve as is or warmed; also the base for kuro-joka.",
+  "craft": "Rest at least overnight; ratio commonly 6:4, adjustable to 7:3 or 5:5.",
+  "src": [
+   [
+    "Takara Shuzo: how to drink",
+    "https://www.takarashuzo.co.jp/products/shochu/nomikata/index.htm"
+   ],
+   [
+    "Tanoshii Osake: oyuwari and maewari",
+    "https://tanoshiiosake.jp/2567"
+   ],
+   [
+    "Denen Shuzo: oyuwari",
+    "https://www.denen-shuzo.co.jp/learn/03.htm"
+   ]
+  ]
+ },
+ {
+  "cat": "shochu",
+  "name": "Kuro-joka (flat clay kettle for warming shochu)",
+  "ja": "黒千代香（くろぢょか）",
+  "prefs": [
+   46
+  ],
+  "text": "A flat black earthenware pot with a spout. According to Denen Shuzo, the old way is to put pre-mixed shochu in the kuro-joka, warm it, and drink from small cups (choko). Written 黒千代香 and read 'kurojoka', it belongs with maewari as a Kagoshima tradition.",
+  "flavor": "Gentle warmth.",
+  "use": "Warming maewari shochu at table.",
+  "craft": "Pre-mixed shochu goes in the pot and is warmed (Denen Shuzo); no further technique was found in the sources.",
+  "src": [
+   [
+    "Denen Shuzo: oyuwari",
+    "https://www.denen-shuzo.co.jp/learn/03.htm"
+   ],
+   [
+    "Tanoshii Osake: oyuwari and maewari",
+    "https://tanoshiiosake.jp/2567"
+   ]
+  ]
+ },
+ {
+  "cat": "shochu",
+  "name": "Cask-aged shochu and the colour limit",
+  "ja": "樽貯蔵焼酎と着色度規制",
+  "prefs": [
+   44,
+   45,
+   40
+  ],
+  "text": "Oak casks turn clear shochu amber with caramel and vanilla notes. Denen Shuzo says only shochu with over 50 percent of 3-year-plus stored spirit may be called 'long-term stored' (choki chozo). Honkaku shochu has a colour (absorbance) limit; a spirit past it cannot be sold as shochu and falls under liqueur. Oishi Shuzo keeps cask and tank stocks apart and measures absorbance before shipping. The exact limit was not found in search.",
+  "flavor": "Amber, vanilla and caramel, sometimes whisky-like.",
+  "use": "Neat or on the rocks.",
+  "craft": "Blend cask-aged with tank-aged spirit to hold colour below the limit. Check absorbance.",
+  "src": [
+   [
+    "Denen Shuzo: long-term storage",
+    "https://www.denen-shuzo.co.jp/denen/01.htm"
+   ],
+   [
+    "Shochu Press: why age shochu",
+    "https://shochupress.com/2021/12/15/shochu_jyukusei/"
+   ],
+   [
+    "Shochu Next: 20 cask-aged shochu and awamori",
+    "https://shochu-next.com/article/2557"
+   ]
+  ]
+ },
+ {
+  "cat": "shochu",
+  "name": "Hyakunen no Kodoku (Kuroki Honten, Takanabe)",
+  "ja": "百年の孤独（黒木本店）",
+  "prefs": [
+   45
+  ],
+  "text": "A long-aged barley shochu from Kuroki Honten in Takanabe, Koyu district, Miyazaki. Barley only (barley and barley koji), 40 percent, aged in white oak casks for 3, 4 and 5 years and blended. Amber and whisky-like. Founding is given as Meiji 18 (1885) in one article and Meiji 37 in a retailer page. No release year found.",
+  "flavor": "Amber, mellow, complex, rich.",
+  "use": "Neat or on the rocks.",
+  "craft": "Blending several cask years is the craft.",
+  "src": [
+   [
+    "Tanoshii Osake: Hyakunen no Kodoku",
+    "https://tanoshiiosake.jp/10372"
+   ],
+   [
+    "Nishinippon: Hyakunen no Kodoku",
+    "https://www.nishinippon.co.jp/yakusake/2022/07/18/hyakunennokodoku-miyazakishochu/"
+   ]
+  ]
+ },
+ {
+  "cat": "shochu",
+  "name": "Kirishima Shuzo (Kuro, Shiro, Aka Kirishima)",
+  "ja": "霧島酒造（黒・白・赤霧島）",
+  "prefs": [
+   45
+  ],
+  "text": "Kirishima Shuzo of Miyakonojo, Miyazaki, founded 1916. Its first shochu was black-koji. Kuro-Kirishima is described as sweet and sharp-finishing; Shiro-Kirishima is white-koji with Heisei Miyazaki yeast for a sweet aroma; Aka-Kirishima uses Murasaki Masari purple potato. Akane-Kirishima uses Tamaakane. Release years were not found in the results.",
+  "flavor": "Kuro: thick sweetness, sharp end; Shiro: soft; Aka: fruity.",
+  "use": "Three-bottle sets of Aka, Kuro and Shiro Kirishima are sold for comparison.",
+  "craft": "Compare koji and potato effects across the line.",
+  "src": [
+   [
+    "Tanoshii Osake: Kirishima",
+    "https://tanoshiiosake.jp/3992"
+   ],
+   [
+    "Nishinippon: Kuro-Kirishima",
+    "https://www.nishinippon.co.jp/yakusake/2022/04/29/kurokirishima/"
+   ]
+  ]
+ },
+ {
+  "cat": "shochu",
+  "name": "Nishi Shuzo and Tominohozan",
+  "ja": "西酒造・富乃宝山",
+  "prefs": [
+   46
+  ],
+  "text": "Nishi Shuzo, founded 1845 in Fukiage, Hioki, Kagoshima. Tominohozan uses Kogane Sengan with yellow koji, ferments at low temperature, and switches from atmospheric to reduced pressure during distillation. Citrus fragrance, smooth, with a sharp finish. Retailers call it a trigger of the third shochu boom, but no primary source confirmed this.",
+  "flavor": "Citrus fragrance and smoothness, per sellers.",
+  "use": "On the rocks, soda, mizuwari.",
+  "craft": "Low-temperature fermentation and the mid-run switch of distillation are the two process choices.",
+  "src": [
+   [
+    "Imadeya: Nishi Shuzo",
+    "https://imadeya.co.jp/blogs/brewery/nishi"
+   ],
+   [
+    "Hasegawa Saketen: Tominohozan",
+    "https://www.hasegawasaketen.com/eshop/products/detail/3944"
+   ]
+  ]
+ }
+]
